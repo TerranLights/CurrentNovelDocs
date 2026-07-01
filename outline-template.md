@@ -1,6 +1,7 @@
 ## Chapter a
 
 | stz | [YOU] [NEED], [GO]. | After [SEARCH] [FIND], but [TAKE]. | Upon [RETURN], [CHANGE]. |
+|---|---|---|---|
 | 1 | x | y | z |
 | 2 | x | y | z |
 | 3 | x | y | z |
