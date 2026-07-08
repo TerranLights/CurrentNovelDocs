@@ -1,0 +1,274 @@
+				// -- // SEPARATION // -- //
+
+		OPENING IMAGE [this is where we see her problem]:
+
+The three of them are playing music on the street. Occasionally, some people stop and are amazed that she's a robot. Her playing is a bit all-over-the-place, and so it's up to Craig and Martin to keep the music grounded.
+
+		SETUP [this is where we see weakness + goal]:
+	// this is where we get a peek at her moral need :: she fills other people's schedules because, to her, that's the caring thing to do. However, it's hurting other people
+	// Subvariant: Social :: Missing out : Tends to scatter her energy and resources; to half-commit. Makes sure her calendar is full, but also "pencils-in" backup plans.
+	// Broken Compass: Never allow yourself to be bored.
+	// Character Flaw/Weakness: Tends to cram too much content into too little space
+	// Passions: Novelty; exploration
+	// Problem [INITIAL]: Is bursting with so much energy that she can't sit still
+	// this is where we meet her allies, including the HyperHedral mechanic
+	// the HH mechanic is missing a finger (a pinkie)
+	// show that Valerie is capable of flight mode
+		// while Ricardo is repairing her, during a certain portion, he needs her to be in flight mode because of some sort of risk of electrocution or something (similar to powering off a circuit while reparing a box or something), maybe install/replace some sort of a part
+		// upon waking, she comments on something they said. It's Martin who comments on the fact that she can do that, because Craig would be more familiar with this concept, and Ricardo is a roboticist, so he's more familiar than all of them put together
+		// Ricardo first explains the technical side (power conservation), and then explains the ethical side, that robots may not be human, but they're still people and still have rights (even if not legally having rights). So, robots deserve to know what's going on around them
+	// 
+
+			Unique quirk and/or style: 
+			> one wall in her & Craig's bedroom is covered in lava lamps as a random number-generator
+			> exotic 2nd-hand clothing
+			> she keeps money in multiple currencies (Cascadian/Midwest/Colorado dollars, Sonoran pesos) as a way to stay hopeful about travelling, even knowing that she can't
+			> 
+			> 
+			> 
+			> 
+
+Valerie is a bright, happy, jolly, cheerful soul (to the extent that a robot can have a "soul"). Being a random person with scattered interests, she finds the beauty in everything, but never actually focuses on any one thing, and thus, is only "good enough" at everything, but lacks expertise and mastery in anything.
+
+She starts off at the HH mechanic's garage with Craig and Martin getting her arm repaired (describe the mechanic missing a pinkie). He has her try some finger motions. She plays an arpeggio. Thanks him for the work and pays. They then go to find a place to do busking to make more money. Valerie wants to continue exploring. Craig and Martin want to get groceries and go home. Valerie says she'll meet them there. They part ways for now. She then exchanges some of it for Coloradan dollars and Sonoran pesos. She sees a record shop and goes inside.
+
+		CARE PACKAGE:
+	// this is where valerie gets that vintage vinyl copy of Garmarna's "Vittrad" for Craig
+	// possibly as a token of appreciation for helping some Jazz cats, who are later important to her character arc because she must depend on them
+	// using playing cards to determine what she's going to do
+		// ("You do some divination shit?" --> "Don't be silly!")
+	// the Jazz cats tell her they're going on one last tour before settling into old age and invite her, Craig, and Martin. She politely holds off, as she might find / found better ("grass is greener")
+	// Rooting Resume: she's a loving person
+
+Valerie helps the Jazz cats at the record store with something [[T.B.D. :: by shuffling cards, because it's random enough]]. As a token of thanks, he gives her a copy of "Vittrad", saying it was something he found while cleaning out his friend's grandfather's house. Says that judging from the look of things (her playing violin, etc), it sounded like it was something she would be into. She squeals a metallic squeal and said Craig would love it. At first, the Jazz cat asks, "Craig?" She says, "My boyfriend!" The Jazz cat responds, "...you....? ....you have yourself a boyfriend?" She proceeds to relate a (very short) anecdote about him.
+
+		THEME STATED:
+	// Core Fear: That she will be trapped in pain and deprivation of some sort
+	// her lost childhood message: "You will be taken care of"
+
+The eldest Jazz cat tells Valerie that it sounds as though Craig is always there for her.
+
+		CALL TO ADVENTURE / CATALYST / DISTURBANCE:
+	// Inciting Event: Anticipating what she's going to do next // Feeling that something better is available somewhere else
+	// This leads to a problem, maybe a lost opportunity for Craig
+	// Psychological Need: Find joy in the ordinary; focus on one thing
+	// Moral Need: Respect other people's time (i.e., not cramming too much into other people's schedules); learn to be sensitive to the needs of others while still enjoying the pleasures of life
+	// Wounding Message: It's not okay to depend on anyone for anything
+	// this is where she sees the flyer
+
+Specifically hearing about Vegas while at the record shop; wanting to go to Vegas. Craig does contemplate the idea. Martin says he really ought to think this through. // Later, they discover that robots get charged tariffs, because they're not considered people, etc etc
+
+Now knowing about who the trio are and what they do, the Jazz cats tell her about their upcoming tour of the coast (N.Cal. and Oregon) and invite her and the guys. She initially gets excited, though says she'll need to think about it. They say they're leaving in a few days, so don't leave too long. Also while at the record shop, Valerie picks up a business card for a record company. She takes it and makes sure to remember to go find out about it.
+
+		REFUSAL OF CALL / DEBATE / ARG. AGST. TRANSFORMATION:
+	// this is where she really tries to make a case for filling other people's schedules, justifying it as a good thing because, to her, that's the caring thing to do. However, it's hurting other people
+	// she can always find a way to do something new.
+	// Goal [INITIAL]: To travel widely and learn everything so she's never bored
+	// Hobbies: (T.B.D.) // something where, every time you do the same thing, you get different results
+	// playing Captcha
+	// uses the lava lamps on her wall to decide things, what to explore, etc
+	// likes to go shopping at 2nd-hand stores for exotic clothing
+	// this is where she talks to the exec
+
+	(( She checks the record label office. The lying-ass exec isn't there, but the receptionist gives Valerie a quick, super-fast rundown ))
+
+While they may own their own home (courtesy of Alan Benson), they're still poor and must scrimp and save when they're able, so they can't afford to go on wild adventures. Craig spent his entire inheritance buying Valerie and Martin spent his inheritance renovating the house after last year's earthquake. They struggle with just providing for themselves.
+
+		OPPOSITION:
+	// a lack of funds makes it impossible to travel, so they must stay put
+	// somehow, she sees and/or learns about something that can help them travel, but they can't afford it (or don't have passports)
+	// perhaps even because robots don't have rights and can't get passports; Valerie herself can't leave Cascadia
+	// somehow, this is related to neighboring countries: Colorado, Sonora, and maybe possibly Midwestland
+	// this is something that she already knows about
+	// this could be her exchanging some of the busking money she's made at a schimba. Even though she can't spend it, it gives her hope
+
+Martin's girlfriend, Rebecca Whitley, is preparing lunch for when he arrives. Her father is listening to internet radio over coffee as the radio cuts to an interview/lecture/speech by a politician saying that robots aren't people and can't have rights. The corporations are creating imitations of humans. Rebecca hurriedly finishes up because she really doesn't want to hear the anti-robot rhetoric and they take their food elsewhere. Martin and Rebecca proceed to have lunch. Here, Martin mentions they'll be gone for a while to visit Alan's grave to pay their respects.
+
+		FAKE ALLY:
+	// this is the record exec
+	// offers something that they make sound like "sponsorship", even though they're lying
+
+She arrives at the record company office, business card in hand, and goes inside to talk to them. The record exec initially seems okay, but something is just off.
+
+		SUPERNATURAL AID:
+	// Harmonic Trait: Avoids seeing her own pain and emptiness, or her role in creating suffering for herself and for others
+	// Broken Compass: Never allow yourself to be bored.
+	// 
+
+
+
+		CROSSING THE FIRST THRESHOLD / DOORWAY TO ACT #2:
+	// she's anticipating what she's going to do next and feeling that something better is available somewhere else
+	// in doing so, she causes a lost opportunity which ends up making her bored, and causing her pain and deprivation
+	// she learns for the first time that she's not allowed to travel internationally because she's a robot (no passport, no rights)
+	// she tries going back to the Jazz cats. There's a sign on the door that reads, "On the Road; back whenever"
+
+
+
+				// -- // INITIATION // -- //
+
+		PLAN:
+	// she believes that the band should experiment more. Forge new territory into musical unorthodoxy
+	// this way, they can play anything anywhere (or at least, that's her plan; within Cascadia)
+	// that's why she brings the record deal offer home to Craig and Martin: so that they can go on tour (for her, really)
+
+
+
+		B-STORY:
+	// this is where we see her development of "It's not okay to depend on anyone for anything"
+	// involves the mechanic
+
+
+
+		BATTLE / KICK IN THE SHINS:
+	// High-proficiency skillset: being a very fast learner of music (scales, arpeggios, harmony, melody, time signatures, etc)
+	// this is where she tells Martin that he used to be better (i.e., more experimental, and not so "radio-friendly")
+	// 
+
+
+
+		BELLY OF THE WHALE:
+	// during this time, she becomes evermore perfectionistic and critical, as is her Enn. stressor type -1
+	// she may try to come up with song ideas involving more complex melodies and arpeggios
+	// she runs low on siligel nand has to ration
+
+During the hitchhike, Imam, the driver, talks about his friend/brother having just achieved success in Vegas doing a "Tesla Coil Orchestra". Valerie gets excited and wants to experiment with new things.
+
+		ROAD OF TRIALS:
+	// she can always find a way to do something new.
+	// here, we see her being a very fast learner of music (scales, arpeggios, harmony, melody, time signatures, etc)
+	// she imitates the sounds of various things on her violin
+
+
+
+		OPPOSITION'S MAIN COUNTER-ATTACK:
+	// robots are recognized as cargo, and are charged tariffs
+
+
+
+		FAKE-ALLY ATTACK (and Craig tells him they're through):
+	// while at the record label office, the exec tries to bamboozle them. Craig catches the lie and says they're through
+	// while there, Valerie makes a sly remark (Enn. -1, critical) at the exec (as she's anti-authority and anti-convention). The exec gets angry and reacts. Martin finds the interaction funny and has to suppress a laugh
+	// 
+
+
+
+		MEETING WITH THE GOD{DESS}:
+
+At one point, she breaks rather badly. Craig takes her to a mechanic (who is later revealed to be a pro-Robot Rights defector from HyperHedral Ind.) to get her repaired.
+
+		PET THE DOG:
+
+At one point one particularly cold night while they're all squatting in the abandoned building, she eats a large amount of siligel and then burns it at high-speed to overheat herself to provide warmth to Craig. This is great, except that now, she's precious-low on siligel
+
+		TEMPTATION [but/therefore]:
+
+While at the county fair with Craig and Martin, she sees some folks playing Tesla Coils. In her excitement, she runs to join them, and gets electrocuted in the process. Craig and Martin both jump in to rescue her and take her to the mechanic.
+
+		ATONEMENT WITH THE FATHER [midpoint]:
+
+After much trouble, the mechanic revives her.
+
+		APOSTASIS:
+	// this is where she develops a fear of novelty, fear of excitement and exploration
+	// Problem [LATER]: After electrocuting herself, she's afraid to be adventurous
+
+
+
+		BAD GUYS CLOSE IN:
+	// her "grass is always greener" outlook goes into full force
+	// this results in an internal conflict between her drive to seek out the new and exciting, and her post-electrocution fear of the new and exciting
+	// her fear of the onset and incoming of pain, deprivation, and boredom are now stronger than ever
+	// at the same time, she won't allow herself to depend on anyone for anything
+	// Chance to change: [T.B.D.]
+	// Goal [LATER]: To find a way to bring the fun and excitement to her
+
+
+
+		ALL IS LOST:
+	// as a result of her "grass is always greener" outlook, she causes a major problem for herself and for the band
+	// this is somehow related to her causing the breaking of Martin's H-G ; she leaves it in the abandoned building in a spot that gets rain damage, but she doesn't know this because it hasn't rained yet;; soaks the H-G and ruins it
+
+She has to go into flight mode to conserve on siligel. Craig rests her down on the bed in one room in the abandoned building while they go figure out what to do.
+
+		DARK NIGHT OF THE SOUL:
+	// due to her own actions, she's now forced to revel in the state of pain and deprivation that results from being bored and cut off from the new and exciting
+	// becomes perfectionistic, critical, as is her Enn. stressor type -1
+
+While in flight mode, she's still capable of perception and observation, so lying on that bed with absolutely nothing happening nearly drives her insane
+
+		THE ULTIMATE BOON / Q-FACTOR:
+	// this is connected to the "Vittrad" vinyl by Garmarna that she'd given Craig near the beginning of the story
+	// she must reconnect with the old Jazz cats, but this requires her to depend on others
+
+While Craig and Martin are out, at one point, it strikes them that Valerie is still observational, that she can still perceive her surroundings. Craig is a bit jarred by this, and says, "Holy shit, you're right" ... "Fuck, I hope she doesn't find it boring there"
+
+Rain begins to leak through the roof (away from her). She has no choice but to focus on it, because it's something, instead of nothing. She begins coming up with melody lines based on the sound of the rain drip. This ends up holding her attention and showing her that there's value in focusing on one thing
+
+After Craig and Martin have figured things out and secured a supply of siligel for her, they return and restore her from flight mode to active mode. The first thing she does is play that melody.
+
+		REFUSAL OF RETURN:
+	// she wants to travel internationally to find music from everywhere
+	// during this period, she becomes even more critical and perfectionistic than DNotS
+	// seeing a price quote and counting her busking earnings, she realizes she has enough to pay her own tariff
+
+She passes by a huge store, full of various artistic things (painting supplies, woodworking tools, etc). She takes note of it, but proceeds to go home to give the good news to Craig and Martin first
+
+		MORAL DECISION:
+	// Upon getting home, she goes to see Martin and give him the good news. She then sees that his H-G is broken and must decide
+	// she must decide whether "the grass is green enough"
+	// additionally, she must allow herself to depend upon others for things, but will she do so
+	// this is somehow related to the Jazz cats. Something reminds her of either them directly, or of the "Vittrad" album
+
+She's saved up enough to pay her own tariff. She could also use the money to buy something else, something for Martin.
+
+				// -- // RETURN // -- //
+
+		MAGIC FLIGHT:
+	// somehow, she "escapes" the realm of the unknown with the vinyl record
+	// Martin's H-G broke (probably because a cat pushed it off a platform at height). This turns out to be a blessing in disguise.
+	// she then goes to solve the problem herself, first to one art store, and then to another
+
+Valerie rips into manager girl in such a way that, all at once, she makes reference to:
+
+1.) why manager girl had to leave her old store,
+2.) why she's single, and
+3.) her, shall we say, "lack of sexual ethics and morals", to put it politely 
+
+		RESCUE FROM WITHOUT:
+	// Craig teaches her the value and importance of focusing on one thing
+	// somehow related to the bonsai tree
+
+
+
+		CROSSING THE RETURN THRESHOLD / DOORWAY TO ACT #3:
+	// she sacrifices something valuable to her in order to get Martin to realize the importance and the value of random unpredictability
+	// she hopes that he'll be onboard with her in terms of being spontaneous, in the hopes that he'll want to travel as a band
+	// her sacrifice is something she can't get back, so it is in fact a one-way act
+	// she does this entirely for herself. However, in doing so, she learns the value of focusing on one thing (from Craig)
+	// somehow connected to her hobbies and/or passions
+
+She goes back to the art supply store and spends all her (converted) money on in-store credit as a gift to Martin. The tools are then delivered to the squatting building.
+
+		FINAL BATTLE:
+	// she decides to play a show with Craig and Martin and try to get famous so that excitement and other people come to her
+
+
+
+		MASTER OF TWO WORLDS / NEW EQUILIBRIUM:
+	// she demonstrates a new equilibrium by showing that she's calmed her mind, and she can be free exploring all the possibilities within some particular at-the-time set of parameters
+	// becomes focused, fascinated by life, as is her Enn. integration type +5 
+	// End-of-Arc Redemption: Find the joy of the ordinary. She likes things to be extraordinary, fabulous, exciting, and stimulating. Cleaning your room or eating an orange can be a totally fulfilling experience if you are in it one-hundred percent.
+
+
+
+		SIGN OF TRANSFORMATION:
+	// Sign of transformation: Learns to focus on one thing by caring for a bonsai tree, which she learns from Craig
+
+
+
+		FREEDOM TO LIVE / CLOSING IMAGE:
+	// at one point, she goes outside while it's raining, she stays under cover, and composes a new song based on the rain itself, forcing herself to be present in the moment and at-one with one thing. Craig and Martin hear her doing so. They come out to join her.
+	// the story ends with them playing music together as the light flickers through the rain
+
+
