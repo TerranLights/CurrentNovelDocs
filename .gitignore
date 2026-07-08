@@ -1,6 +1,12 @@
-Benson\ Trio\ street\ musicians/videos/
-Benson\ Trio\ street\ musicians/reference/Tesla\ Coil\ reference\ audio/
-Benson\ Trio\ street\ musicians/reference/reference\ images/outline-page-photos/
+Streetside\ Harmonies/videos/
+Streetside\ Harmonies/reference/Tesla\ Coil\ reference\ audio/
+Streetside\ Harmonies/reference/reference\ images/outline-page-photos/
+
+# Same large-media exclusions, mirrored for the pre-migration backup snapshot
+# (kept locally for safekeeping; the large media doesn't need a second git-tracked copy)
+z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/videos/
+z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/reference/Tesla\ Coil\ reference\ audio/
+z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/reference/reference\ images/outline-page-photos/
 
 # InnerTepeniaGDD reference content (flattened directly into reference/, no
 # longer a git submodule) -- kept untracked since it's actively evolving in

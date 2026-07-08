@@ -1,0 +1,15 @@
+## Chapter 9 — "Valerie hears the tape"
+
+*Source: `photos/Chp-09 Pg-1 IMG_20260701_125703.jpg`, `photos/Chp-09 Pg-2 IMG_20260701_125750.jpg`. **Flagging for your review:** stanzas 5–8 on page 1 are relabeled in the source with arrows ("5→a", "5→b", "5→c/2nd", "6→d") and circled/bracketed together, with a note at the bottom of page 1 reading "{6 [six] stanzas} conf'd →" — this looks like you were consolidating what had been more stanzas down to 6 total, but I couldn't confidently reconstruct your intended final numbering from the marks alone. I've transcribed all the content in original reading order below; you may want to renumber/merge rows 5–8 yourself.*
+
+| stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
+|---|---|---|---|---|
+| 1 | V cleaning herself; C in the kitchen | V is naked, using special cloths to clean & wipe-dry herself | After finishing, she starts to go do her [routine]; resumes to put clothes on | Entering the kitchen, she finds C sitting at the table w/ a coffee |
+| 2 | C asks V shopping; "boring"; C goes on his own | V hugs and kisses C; good morning; sits down with a glass of coolant | C asks V if she'd like to come grocery shopping; V says "boring!" | When C leaves (shopping), V begins looking around for s[ome]th[in]g to do |
+| 3 | V gets bored, searches thr[ough] C's vinyl collection | She initially uses the lava lamps and playing cards to decide what to do | She looks for s[ome]th[in]g. but stops; can't do [the King (whatever it is)] | Starts looking through C's vinyls to put music on |
+| 4 | She's [rifling through], finds the old tape/player | She's flipping through vinyls, one after another; [keeps looking] | Looks around; looks on shelves and in drawers, begins searching that [holoplayer] | Finds the old [tape/player] C'd mentioned; recognizes it as [?] |
+| 5→a | Becomes entranced w/ the music; body sways | She plays the audio files and presses play; the music begins | As the music plays, she becomes entranced and her body sways | The music plays, beats, rhythms, melody, & harmony |
+| 5→b | This time playing along herself | The tape stops[?]; she gets her violin, tunes, prepares to play | As the music plays, she enjoys playing along with it while sitting | *(unclear/shared with adjoining row in source)* |
+| 5→c (2nd) | She's twirling around, puts the tape back | She's twirling around the room, enjoying the music | The tape stops; she stops, stands for a bit, contemplating | She closes the [holoplayer] |
+| 6→d | C returns w/ groceries; V says wonderful | C enters w/ groceries; V is confused, but pleased. V slips into the kitchen and kisses C | V says the tape is great; C: "...you heard it?" | V says: "this is wonderful!" |
+| 6→b (pg. 2) | V asks why they don't play like that anymore | V asks [about] C&M; don't play like that anymore | C is about to begin, "just kidding"... "whenever" [pauses], notices V's eyes; thinks of her [circuits?] | Reminded that V is a robot, C briefs [her] that she likely wouldn't understand |
