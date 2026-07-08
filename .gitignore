@@ -1,3 +1,7 @@
 Benson\ Trio\ street\ musicians/videos/
-Benson\ Trio\ street\ musicians/Tesla\ Coil\ reference\ audio/
-photos/
+Benson\ Trio\ street\ musicians/reference/Tesla\ Coil\ reference\ audio/
+Benson\ Trio\ street\ musicians/reference/reference\ images/outline-page-photos/
+
+*.swp
+.DS_Store
+Thumbs.db
