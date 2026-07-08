@@ -2,6 +2,19 @@ Benson\ Trio\ street\ musicians/videos/
 Benson\ Trio\ street\ musicians/reference/Tesla\ Coil\ reference\ audio/
 Benson\ Trio\ street\ musicians/reference/reference\ images/outline-page-photos/
 
+# InnerTepeniaGDD reference content (flattened directly into reference/, no
+# longer a git submodule) -- kept untracked since it's actively evolving in
+# its own separate repo; only reference/story-structure-definitions.md
+# (the distilled, stable beat-structure extract) is meant to be tracked here.
+reference/Dev-Road-Map/
+reference/General-Overview-Notes/
+reference/README.md
+reference/Reference/
+reference/Storyline/
+reference/TODO.md
+reference/Worldspace/
+reference/to-be-integrated/
+
 *.swp
 .DS_Store
 Thumbs.db
