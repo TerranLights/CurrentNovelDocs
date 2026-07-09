@@ -10,12 +10,21 @@ Decisions that must be resolved before substantive work can proceed in the areas
 
 ## Decision 1: Book Count and Division
 
-**Status: OPEN**
+**Status: PARTIALLY RESOLVED — 2026-07-08, structure clarified but not yet final**
 
-Currently assumed to be (at least) two books, one per human-companion era — Book 1 (the shy-to-confident boyfriend) and Book 2 (the proud-to-humble boyfriend/husband). This is an inference from "the two never meet," not a confirmed structural decision. It's possible the saga needs more than two books, or that the two eras should be told differently (e.g. interleaved, or with additional books before/after these two).
+Corrected by the author: this series is actually **4 books** — not the 2-book structure originally assumed (one per human-companion era). Each book is expected to run well over 2,000 pages, so each will ship as **2 physical volumes of 1,000+ pages** purely for printing/binding practicality (the author's own words: "just due to the actual physical limitations of gluing paper to cardboard"). **This "2 parts" split is a production/binding decision only — it carries no narrative or structural meaning.** The actual story-structure question is about the 4 books, not 8 units. The `Book 1/` / `Book 2/` folders currently in this project reflect the old, incorrect 2-book assumption and are provisional pending the restructure below.
+
+**The 4 books are organized primarily around Maggie's own archetypal progression**, drawing predominantly (though not exclusively) on K.M. Weiland's *Writing Archetypal Character Arcs*, which structures character development across six sequential life-stage archetypes — **Maiden, Hero, Queen, King, Crone, Mage** — each of which can run as a Positive Change Arc, a Flat Arc, or a Negative/Shadow Arc. The world around Maggie provides a parallel or contrasting arc at each stage (the author's own framing: the two "either mirror, reflect, counter-reflect, or contradict each other"), but **Maggie's own progression is the primary, centering axis** — she is "the center and the star of the story."
+
+**RESOLVED — 2026-07-08 — the archetype-to-book mapping:** the 4 books follow Maggie's progression through **Maiden → Hero → Queen → King**, in that order, step-by-step across the series. Her remaining two archetypal stages, **Crone and Mage, fall outside this series entirely** — they take place during her post-war life in Tepenia (after the Falkland Treaty/exile), i.e. after this series' own ending point. This confirms the series' natural scope boundary: it covers Maggie's life up through becoming a coerced signatory of the Falkland Treaty (fitting the King stage — forced into ultimate, unwanted authority), not beyond.
+
+The author's expectation ("very likely"): each of the 4 stages will run as a **shadow variant (active and/or passive)** rather than a clean Positive Change Arc — consistent with Maggie being pushed through each stage against her will rather than growing into it by choice. Not fully locked in, but the working assumption going forward.
+
+**Still not yet determined:**
+- How the two originally-described human companions (the shy-to-confident boyfriend, the proud-to-humble boyfriend/husband) map onto the now-confirmed Maiden/Hero/Queen/King structure — they may span more than one book each, or may not correspond to specific books at all
 
 **Downstream effects:**
-- The entire `Book 1/` / `Book 2/` folder structure built for this series depends on this assumption — if it changes, folders will need renaming/restructuring
+- The `Book 1/` / `Book 2/` folders need a full restructure into `Book - Maiden/`, `Book - Hero/`, `Book - Queen/`, `Book - King/` (matching the naming convention already used for The Four-Realm Musician's realm-named book folders) — not yet executed, pending confirmation of how/whether to carry the two existing companion-character sketches into the new structure
 
 ---
 

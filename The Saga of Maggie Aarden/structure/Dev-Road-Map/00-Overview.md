@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A structured development roadmap for *The Saga of Maggie Aarden* as a whole series. This tracks series-wide decisions and status — Maggie's own throughline, the shared setting, and how the books relate to each other. **Each book also has its own Dev-Road-Map** (`Book 1/structure/Dev-Road-Map/`, `Book 2/structure/Dev-Road-Map/`) tracking that book's own plot/character/chapter completion, per `06-Phase-4-Story-and-Chapters.md`'s guidance on standalone-vs-series scale.
+A structured development roadmap for *The Saga of Maggie Aarden* as a whole series. This tracks series-wide decisions and status — Maggie's own throughline, the shared setting, and how the books relate to each other. **Series structure corrected 2026-07-08: this is a 4-book series** — organized primarily around Maggie's own archetypal progression (drawing on K.M. Weiland's six-stage *Writing Archetypal Character Arcs* framework), not the 2-book/one-per-boyfriend structure originally assumed. Each book will likely ship as 2 physical print volumes (1,000+ pages each) purely for binding practicality — that split has no narrative meaning. See `02-Blocking-Decisions.md`, Decision 1, for full detail — the exact archetype-to-book mapping is still undetermined, so the `Book 1/` / `Book 2/` folders currently in this project are provisional and will need restructuring. **Each book will have its own Dev-Road-Map** once the real structure is settled, per `06-Phase-4-Story-and-Chapters.md`'s guidance on standalone-vs-series scale.
 
 This roadmap covers **planning and outline work only** — not prose, not a drafting schedule.
 
@@ -22,16 +22,17 @@ Same seven-phase structure as every other novel in this line (see `03` through `
 
 What is solid:
 - Maggie Aarden's identity and overall arc shape: humble industrial worker → unwilling robot leader → War of Upper Earth → coerced into signing the Falkland Treaty → robot exile to Antarctica
-- Two human-companion eras identified (Book 1's shy-to-confident boyfriend; Book 2's proud-to-humble boyfriend/husband), never overlapping, never meeting
+- **Series structure and archetype mapping confirmed (2026-07-08): 4 books, tracking Maggie's progression Maiden → Hero → Queen → King, in that order.** Her Crone and Mage stages fall outside this series — they belong to her post-Falkland-Treaty life in Tepenia, confirming this series' natural ending point at (or just past) the treaty signing. Each stage is expected ("very likely") to run as a shadow variant (active and/or passive) rather than a clean Positive Change Arc, reflecting that Maggie is pushed through each stage against her will. Each book will likely print as 2 physical volumes for binding practicality only, no narrative meaning.
+- Two human-companion eras identified (originally described as the shy-to-confident boyfriend; the proud-to-humble boyfriend/husband) — how these map onto the confirmed Maiden/Hero/Queen/King structure is still open
 - Setting progression: Midwestland → Greater New North America → South America → Falkland Islands
 - **Major shared-universe discovery:** Maggie is apparently the actual figure behind the Falkland Treaty's real signing, currently an open TBD in the InnerTepeniaGDD's own `World_History_Reference.md`
 
 What is incomplete, in priority order:
-1. **Book count and division** — currently assumed to be (at least) two books, one per human-companion era, but this hasn't been confirmed as the actual intended structure — could be more books, could be structured differently
-2. Both human companions' proper names
-3. Both human companions' full character arcs
-4. Maggie's own full character arc, both at the series level and mapped per-book
-5. Full beat-by-beat plot structure, at both the series level and per book
+1. How the two human-companion eras relate to the confirmed Maiden/Hero/Queen/King structure — do they each span one book, multiple books, or something else?
+2. Both human companions' proper names and full character arcs
+3. Maggie's own full character arc, mapped stage-by-stage against Maiden/Hero/Queen/King (each likely as a shadow variant)
+4. Full beat-by-beat plot structure, at both the series level and per book
+5. Restructuring `Book 1/`/`Book 2/` into the real `Book - Maiden/`, `Book - Hero/`, `Book - Queen/`, `Book - King/` folders
 6. Feeding this back into the InnerTepeniaGDD's `World_History_Reference.md` and Falkland Treaty documentation, once ready
 
 ---
