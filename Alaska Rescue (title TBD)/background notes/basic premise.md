@@ -1,0 +1,3 @@
+Four friends — two humans, two robots — unite to brave the wilds of northern Cascadia (British Columbia), eventually secure themselves a boat (mechanism TBD), and finish the novel living at sea.
+
+Lucy Grayson, an overworked engine mechanic at a Whitehorse, Alaska railyard, leaves with [[Human #1]] when he passes through on a deal/agreement of some kind. He ends up lost on the way home, with Lucy at his side, and eventually goes radio-silent. His childhood friend [[Human #2]] departs to rescue him, and Jennifer Lin — a dreamer built in Vancouver, BC for a currently-undetermined purpose — leaves with him.
