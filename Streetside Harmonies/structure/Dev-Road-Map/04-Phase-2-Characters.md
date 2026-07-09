@@ -24,7 +24,7 @@ This requires: a personality description (not traits, but how they think and wha
 
 ## 2.1 — Core Cast: Full Arc Completion
 
-For the protagonist (`structure/character arcs/doll.txt`) and each companion (`huMan-1.txt`, `huMan-2.txt`):
+For the protagonist (`structure/character arcs/doll.md`) and each companion (`huMan-1.md`, `huMan-2.md`):
 - Background bio complete (`background notes/characters/`)
 - Full arc complete against the fused beat structure in `story-structure-definitions.md` — every beat filled in, not left as a blank header
 - Enneagram type (or equivalent psychological framework) and its stress/integration directions identified, if this novel uses one (see the Benson Trio novel's character files for a worked example)

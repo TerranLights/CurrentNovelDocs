@@ -20,7 +20,7 @@ Note the choice made here at the top of `01-Completion-Matrix.md`'s Story & Chap
 
 ## 4.1 — Main Beat Structure
 
-Map this novel's (or this book's) plot against the fused beat structure in `structure/main story/Save the Cat.txt` and `reference/story-structure-definitions.md`:
+Map this novel's (or this book's) plot against the fused beat structure in `structure/main story/Save the Cat.md` and `reference/story-structure-definitions.md`:
 - Every beat identified with an actual story event (not left as a blank placeholder)
 - Placement-flexible beats (Self-Revelation, Moral Decision, Q-Factor, the three Campbell additions) assigned a specific location, not left floating
 - Each core-cast character's own arc (`structure/character arcs/`) checked against the main beat structure for consistency — a character's Midpoint should land near the story's own Midpoint, etc.
