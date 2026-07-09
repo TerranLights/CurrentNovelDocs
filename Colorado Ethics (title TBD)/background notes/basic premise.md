@@ -1,0 +1,3 @@
+EB-19 "Mila Bell" works for a mild-mannered, low-notoriety company in the Republic of Colorado, which she later discovers is involved in practices she finds extremely unethical. Her human husband understands her concerns, but is also worried that acting on the discovery may cost them their home and force them into living on the streets. EB-19 must decide what to do, and go about doing it.
+
+Author's own note: "this is still very, very much in progress and in need of help" — the central dilemma, the company's specific unethical practice(s), and how the story resolves are all open and meant to be actively developed, not just filled in administratively.
