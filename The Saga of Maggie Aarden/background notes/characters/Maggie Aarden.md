@@ -36,13 +36,13 @@ Chance to change:
 Problem:
 // INITIAL: A simple, humble robot working industrial yards with machinery, scrap, hardware, and vehicles — wants a quiet homelife and to otherwise generally be left alone.
 
-// LATER: Compelled into a position of full leadership she never wanted, over the entire robot population, as anti-robot sentiment escalates into the War of Upper Earth.
+// LATER: First compelled into quiet, pre-war leadership of a "third option" resettlement effort as anti-robot sentiment rises; when the War of Upper Earth then breaks out (for its own separate reasons, not because of her), it escalates her into a position of full leadership over the entire robot population that she never wanted.
 
 
 Goal:
 // INITIAL: A quiet homelife with her boyfriend/husband; to make Steampunk art; to be left alone.
 
-// LATER: (across the series) Navigate her forced leadership role through the War of Upper Earth, and eventually is "escorted" via South America to the Falkland Islands and "invited" to sign the Falkland Treaty — forcing all robots into "willing" self-exile to Antarctica.
+// LATER: (across the series) Navigate her forced leadership role through the War of Upper Earth, and eventually is "escorted" by Upper Earth's own governments via South America to the Falkland Islands and "invited" to sign the Falkland Treaty — forcing all robots into "willing" self-exile to Antarctica.
 
 
 Unique quirk and/or style:

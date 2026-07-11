@@ -38,12 +38,12 @@ Both companions currently TBN with a one-line personality arc each (shy→confid
 
 ## Decision 3: Coordinating with the InnerTepeniaGDD's Falkland Treaty History
 
-**Status: OPEN — not urgent, but real**
+**Status: RESOLVED — 2026-07-11**
 
-Maggie Aarden appears to be the answer to an open question in the InnerTepeniaGDD's own `World_History_Reference.md` (who signed the Falkland Treaty, and on whose authority). This isn't blocking work *within* this series, but it is a cross-project consistency question worth resolving deliberately rather than by accident — the GDD is actively evolving separately, and this series' own account of events needs to actually match whatever gets written there.
+Maggie Aarden is the confirmed robot signatory of the Falkland Treaty across the entire shared universe — this novel series, InnerTepeniaGDD, the official `TepenianUniverseTimeline` canon repo, and the SouthernLights TV series all agree. **Also resolved the same day: it is Upper Earth's own governments who pressured her into signing** (not, as an earlier draft of the shared canon briefly had it, her own robot community) — corrected across all three other repos to match this series' original premise. Sequence confirmed: pre-war, she reluctantly leads a "third option" resettlement effort; the War of Upper Earth then breaks out for its own separate reasons (she does not cause it); the war escalates her into a position of full leadership; Upper Earth's governments then pressure/"invite" her to sign, trading on her established credibility to make the exile look consented-to.
 
 **Downstream effects:**
-- Low priority for now; revisit once this series' own Falkland Treaty chapter(s) are drafted enough to commit to specifics
+- None remaining — safe to build on directly when drafting this series' own Falkland Treaty chapter(s).
 
 ---
 
