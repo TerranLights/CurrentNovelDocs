@@ -1,4 +1,5 @@
 ## Chapter 3 — "Martin visits Rebecca"
+## Confirmed Proofread
 
 *Source: `photos/Chp-03 Pg-1 IMG_20260701_123851.jpg`, `photos/Chp-03 Pg-2 IMG_20260701_123914.jpg`. Stanza 11 is crossed out (cut). Stanza 3's After/Upon cells contain only an illegible doodle in the source, not text. No scene-break marks observed.*
 
