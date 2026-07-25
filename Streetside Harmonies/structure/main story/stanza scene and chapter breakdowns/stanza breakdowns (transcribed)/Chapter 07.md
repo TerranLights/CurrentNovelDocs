@@ -1,10 +1,11 @@
 ## Chapter 7 — "A morning together; R comments on M[artin]'s [stall?]"
+### FLAGGED FOR STRUCTURAL/CONCEPTUAL EDITING
 
 *Source: `photos/Chp-07 Pg-1 IMG_20260701_125107.jpg`, `photos/Chp-07 Pg-2 IMG_20260701_125215.jpg`. Two scene-break marks (hash lines): between stz. 3/4 and stz. 7/8. Stanzas 9–13 on page 2 have small circled numbers (10–14) next to them — looks like an alternate/renumbering scheme, not transcribed as content. Chapter ends cleanly at stz. 13; stz. 14 row is empty (started, not filled or crossed out).*
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
-| 1 | C&V in the morning | Sunlight, love, & music fill the house; Garmarna "Klev..." playing as music | Coffee is cooking; C is doing a DIY project... | C calls to V if she wants some coolant; V says maybe later, she's fine now |
+| 1 | C&V in the morning | Sunlight, love, & music fill the house; Garmarna "Klev..." playing as music {{DIY}} | Coffee is cooking; C is doing a DIY project... | C calls to V if she wants some coolant; V says maybe later, she's fine now |
 | 2 | V is throwing dice; C is worried | V is sitting on the floor in the room throwing dice around, eyes flickering as they land | V goes to the kitchen and picks up coolant; sees C worried over his DIY project | V puts the coolant down into a drinking [glass]; asks if something is wrong |
 | 3 | V is painfully honest w/ C | C stresses that his DIY project won't do [what it's meant to]; some objective that is itself useless | About something that seems nice but ultimately leads nowhere → V: "wouldn't that just be a waste of time?" | C kisses her and they disappear into the bedroom together |
 | — | *** scene break *** | | | |
