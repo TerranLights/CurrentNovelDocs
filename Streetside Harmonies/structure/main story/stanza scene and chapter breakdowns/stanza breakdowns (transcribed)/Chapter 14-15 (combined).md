@@ -12,7 +12,7 @@
 | 2 | Pass a crowd → "secluded"; later chased out by police | They pass by a crowd; don't think anyone saw them | After some [searching] they find a spot that appears deep[?] and secluded | Some security/police come by and say they got a complaint; they leave |
 | 3 | They head somewhere unassuming, rest and wait while scouting locations | They head someplace unassuming | They buy something to fit in and not draw attention to themselves | They scout out prospective locations in the area |
 | 4 | Find spot near a building; wait for late-evening | V spots a building near a dumpster. [Martin?] says it has electricity, too | They all agree it's about as good a spot as any | They make their way in that direction and wait nearby for evening (find an outlet) |
-| 5 | Dusk → pitch camp; C plays V via extension cable | Dusk approaches; they pitch camp; get their instruments | As night darkens, C plugs V in via an extension cable | They all sleep and wait for morning |
+| 5 | Dusk → pitch camp; C plays V via extension cable | Dusk approaches; they pitch camp; get their instruments | As night darkens, C plugs V in via an extension cable {{DIY}} | They all sleep and wait for morning |
 | — | *** scene break (hash line) *** | | | |
 | 6 | M wakes first; finds C hugging V | As day breaks, M wakes first | C is hugging V; M gently wakes C | C unplugs V and; they kiss good morning |
 | 7 | C carefully goes to unplug V's extension cable | C gets out of his tent and checks that no one's watching | He goes to the building & unplugs V's extension cable | C returns to M&V; they begin collapsing the tent |
@@ -37,7 +37,7 @@
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
-| 17 | C pays his respects | C rubs V's shoulder and tells her it's okay | C takes his candle-lamp and lighter from his bag | He lights the candle-lamp and sits it down; sits with V a bit |
+| 17 | C pays his respects | C rubs V's shoulder and tells her it's okay | C takes his candle-lamp and lighter from his bag {{DIY}} | He lights the candle-lamp and sits it down; sits with V a bit |
 | 18 | V asks about A[lan]; hears on ask, they hold hands | V asks if somebody shut him down; C says he shut himself down | V asks, "did his battery burn out?" C says, "it did" | They hold hands |
 | 9→19 | M is sitting at the bar talking to bartender; look over at C&V | M is sitting at the bar talking to Paul the bartender; Paul asks if he had an insurance code | M spent his share on a motorcycle and keeping the house up to [govt.] code | Paul asks, "isn't your little brother spending it wisely? They look over at C&V |
 | 6→? | The scene itself | Holding hands, V lays her hand on C's shoulder | Clouds shimmer in the sky, and C lays his hand on hers | They sit among the trees and sky |

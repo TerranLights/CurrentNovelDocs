@@ -15,9 +15,9 @@
 | 9 | It grows dark outside; time to leave | C tries to read s[ome]th[in]g printed; asks V['s] help | Seeing it's dark, they leave. C resolves to tell M | Takes V home |
 | — | *** scene break *** | | | |
 | 10 | C&V sharing together [innovative house parts] | C&V are in the [garage]; stages of a DIY project. It's currently unrecognizable (C is [tinkering] w/ the old tech) | M arrives home, puts his things down; C calls M and says he found s[ome]th[in]g interesting | C slows → spots the piece of pre-war tech in M's hand[s]; V is excited and asks what it is. They have no idea |
-| 11 | C resolves to check when they can | V takes a guess [at] what it is. V offers to help | V tries connecting wires, dials, etc. to it, but can't get any results | C resolves to take a better, closer look after they return from Monterey |
+| 11 | C resolves to check when they can | V takes a guess [at] what it is. V offers to help | V tries connecting wires, dials, etc. to it, but can't get any results {{DIY}} | C resolves to take a better, closer look after they return from Monterey |
 | 12 | Bedtime; tomorrow's a big day | M turns in for the night; leaves C&V to their DIY activity | After "wrapping up" DIY, C tells V they have a big day tomorrow | C kisses V, plugs her in; C continues on the DIY project & figuring out what it is |
 
 **Blank:** stanzas 13–14 (rows exist, no content). **Cut:** stanza 15 (crossed out).
 
-**Additional note found in red ink below the table (not part of the stanza grid):** "V gets extra siligel & 'unlocks' [her optics?] to [help] find things in the dark. They find some [pouches] for magnets later used for M's 'floating bridge' H-G. On the way home, C&V are literally 'attached at the hip.'"
+**Additional note found in red ink below the table (not part of the stanza grid):** "V gets extra siligel & overclocks to produce a faint glow from her optics in the dark. They find some powerful magnets later used for M's 'floating bridge' H-G. On the way home, C&V are literally 'attached at the hip.'"

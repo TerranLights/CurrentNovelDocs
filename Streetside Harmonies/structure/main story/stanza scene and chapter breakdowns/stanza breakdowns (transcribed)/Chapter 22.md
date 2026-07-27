@@ -1,6 +1,6 @@
 ## Chapter 22 — "Putting Valerie in flight mode and finding siligel"
 
-*Source: `photos/Chp-22 Pg-1 IMG_20260701_131818.jpg`. Single page. One scene-break mark (hash line) between stz. 2/3. Stanzas 6–8 are blank (rows exist, no content, not crossed out).*
+*Source: `photos/Chp-22 Pg-1 IMG_20260701_131818.jpg`, `photos/Chp-22 Pg-2 IMG_20260701_131846.jpg`. One scene-break mark (hash line) between stz. 2/3. Stanzas 6–16 are blank (rows exist, no content, not crossed out) — page 2 holds rows 9–16, all unfilled. A note at the bottom of page 2 reads "(stz.#17 → on text page, appears)" — stanza 17's content lives directly in the manuscript's prose text pages rather than in this outline table.*
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
@@ -11,4 +11,6 @@
 | 4 | C finds & asks a clerk about siligel; never heard; try HH office | C looks around to ask s[ome]th[in]g; finds a clerk, a young tech dude around C's age; asks about siligel | Clerk: never heard of it; C: "HyperHedral substitute robot food?" → clerk: "robot?" → as in, HyperHedral? | C perks up; exactly! Clerk: could try their office; C: "they have an office here?" → it's [location] |
 | 5 | The clerk tells them where to find the HH bldg | C gets excited → "you sure?!"; clerk: pass by to & from park; shares he likes to go → {location of park} | Clerk: bit more detail → the [products]; takes pride & drink in nature; never seen anyone in or out or inside HH bldg but it's [there] | C hugs the clerk & thanks him → pats his shoulder → "truly" → "I'll have to bike over, but [we'll be] back sh[ortly]" |
 
-**Blank:** stanzas 6–8 (rows exist, no content).
+**Blank:** stanzas 6–16 (rows exist, no content; stanzas 9–16 are on page 2).
+
+**Note (bottom of page 2):** "(stz.#17 → on text page, appears)" — stanza 17's content lives directly in the manuscript's prose text pages rather than in this outline table.

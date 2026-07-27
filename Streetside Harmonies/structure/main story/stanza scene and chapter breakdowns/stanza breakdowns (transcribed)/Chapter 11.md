@@ -8,8 +8,8 @@
 | 2 | Leave; head to hitch spot, & begin | They have breakfast; C confirms w/ V being okay w/ flight mode | They leave, take the bus to their spot [and play while waiting] | They get picked up. C asks V "ready?" |
 | 3 | C sleeps; V in flight mode | C kisses V, speaks his words, and turns her head to look out the window | C konks out and gets some extra sleep | M chats w/ the driver until they reach Petaluma |
 | 4 | All play; rides in Petaluma can only go to Novato | Upon getting off in Petaluma, they set up and play while waiting | Get picked up to [go] only [as far as] Novato. They accept. | C speaks the words, but all are asleep. C&M strike up conversation w/ the driver |
-| 5 | Driver tells of Vegas; V [unresponsive] | The driver apologizes as he's going to Stockton airport for his brother (in Vegas) | V's eyes flicker but she's unresponsive. C&M ask about driver's brother | Driver tells of brother's skills; Tesla Coils |
+| 5 | Driver tells of Vegas; V [unresponsive] | The driver apologizes as he's going to Stockton airport for his brother (in [New] Vegas) | V's eyes flicker but she's unresponsive. C&M ask about driver's brother | Driver tells of brother's skills; Tesla Coils |
 | 6 | C asks further about Vegas; drop in Novato | C asks about Vegas itself; living conditions, probability of success | Driver explains how it's tough to succeed, harder than before the war | They wrap up upon passing thr[ough] Novato; driver lets them [off] at the north side |
-| 7 | Traffic; retrace rides to north S[an] Fran[cisco] | The scene is quiet as they get their bearings | A ride comes but can only take them to the north edge of S. Fran | They accept, as [it's a] boost to cross (since G.G. Bridge is in ruins) |
+| 7 | [Nominal] traffic; retrace rides to north S[an] Fran[cisco] | The scene is quiet as they get their bearings | A ride comes but can only take them to the north edge of S. Fran | They accept, as [it's a] boost to cross (since G.G. Bridge is in ruins) |
 
 **Note (red ink, crossed out, below the table):** "Valerie sees s[ome]th[in]g out the window that becomes relevant later."
