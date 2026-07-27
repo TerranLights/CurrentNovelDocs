@@ -11,6 +11,23 @@ Streetside\ Harmonies/text/
 z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/videos/
 z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/reference/Tesla\ Coil\ reference\ audio/
 z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/reference/reference\ images/outline-page-photos/
+# Same reasoning as Streetside Harmonies/text/ above -- this backup snapshot
+# carries its own copy of the same copyrightable manuscript prose.
+z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/text/
+
+# Final draft text for the other novels in this repo -- same principle as
+# Streetside Harmonies/text/ above, applied proactively before any of these
+# have real content, so it's never an issue as they get written.
+Alaska\ Rescue\ \(title\ TBD\)/text/
+Colorado\ Ethics\ \(title\ TBD\)/text/
+The\ Four-Realm\ Musician\ \(title\ TBD\)/text/
+The\ Four-Realm\ Musician\ \(title\ TBD\)/Book\ -\ Warrior/text/
+The\ Four-Realm\ Musician\ \(title\ TBD\)/Book\ -\ King/text/
+The\ Four-Realm\ Musician\ \(title\ TBD\)/Book\ -\ Magician/text/
+The\ Four-Realm\ Musician\ \(title\ TBD\)/Book\ -\ Lover/text/
+The\ Saga\ of\ Maggie\ Aarden/text/
+The\ Saga\ of\ Maggie\ Aarden/Book\ 1/text/
+The\ Saga\ of\ Maggie\ Aarden/Book\ 2/text/
 
 # InnerTepeniaGDD reference content (flattened directly into reference/, no
 # longer a git submodule) -- kept untracked since it's actively evolving in
