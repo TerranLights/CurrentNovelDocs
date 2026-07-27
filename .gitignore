@@ -1,3 +1,16 @@
+# ============================================================================
+# STANDING RULE: every novel's `text/` folder (or per-book `text/` folders,
+# for a series) holds the actual conclusive, copyrightable manuscript prose --
+# as opposed to the outline/planning tables under `structure/`, which are
+# fine to keep tracked. It must be gitignored (and, if it's ever accidentally
+# committed with real content, untracked *and* purged from git history, not
+# just removed going forward) before any real prose is written into it. This
+# is a standing instruction for every future novel stamped out from
+# y-template -- see y-template/structure/Dev-Road-Map/03-Phase-1-Foundations.md
+# section 1.5. Do not skip this for a new novel just because it feels
+# premature; add the line the same day the novel folder is created.
+# ============================================================================
+
 Streetside\ Harmonies/videos/
 Streetside\ Harmonies/reference/Tesla\ Coil\ reference\ audio/
 Streetside\ Harmonies/reference/reference\ images/outline-page-photos/

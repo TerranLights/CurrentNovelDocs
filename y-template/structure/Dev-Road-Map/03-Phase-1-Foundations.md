@@ -30,6 +30,16 @@ Confirm where this novel sits in the shared universe:
 
 - Working title vs. final title, if different
 
+## 1.5 — Untrack the Final-Text Folder
+
+**Before any real prose gets written into this novel's `text/` folder, add it to the repo's root `.gitignore`.** `text/` is where the actual conclusive, copyrightable manuscript prose lives — as opposed to the outline/planning tables elsewhere in `structure/`, which are fine to keep tracked. Once a novel is far enough along to file for copyright, its draft text shouldn't be sitting exposed in a public repo (or in that repo's git *history* — untracking alone doesn't remove anything already committed). Follow the existing pattern already in `.gitignore` for the other novels in this repo, e.g.:
+
+```
+[This Novel's Folder Name]/text/
+```
+
+If this novel is a series with per-book subfolders (`Book - X/`, `Book N/`, etc.), each book's own `text/` folder needs its own line, the same way The Four-Realm Musician and The Saga of Maggie Aarden are handled.
+
 ---
 
 ## Phase 1 Output Checklist
@@ -38,5 +48,6 @@ Confirm where this novel sits in the shared universe:
 - [ ] Naming *conventions* settled (proper names for specific characters can still be pending — that's tracked per-character in Phase 2, not here)
 - [ ] Structural conventions (verse/prose, POV, tense, scene-break notation) settled
 - [ ] Title settled (or explicitly deferred, with reasoning)
+- [ ] This novel's `text/` folder(s) added to root `.gitignore` before any real prose is written into them
 
 **When all items are checked: Phase 2 and Phase 6 can begin.**
