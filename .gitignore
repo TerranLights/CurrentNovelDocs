@@ -2,6 +2,10 @@ Streetside\ Harmonies/videos/
 Streetside\ Harmonies/reference/Tesla\ Coil\ reference\ audio/
 Streetside\ Harmonies/reference/reference\ images/outline-page-photos/
 
+# Final draft text -- this is the actual copyrightable manuscript prose.
+# Kept untracked/local-only until copyright has been filed; not for a public repo.
+Streetside\ Harmonies/text/
+
 # Same large-media exclusions, mirrored for the pre-migration backup snapshot
 # (kept locally for safekeeping; the large media doesn't need a second git-tracked copy)
 z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/videos/
