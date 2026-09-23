@@ -1,30 +1,144 @@
-		YOU (introduce the character):
+				// -- // SEPARATION // -- //
+
+		OPENING IMAGE [this is where we see her problem]:
 
 
 
-		NEED (something isn't right):
+		SETUP [this is where we see weakness + goal]:
 
 
 
-		GO (Doorway to Act #2):
+		CARE PACKAGE [this is where we meet her allies]:
 
 
 
-		SEARCH (Road of Trials):
+		THEME STATED:
 
 
 
-		FIND (but it doesn't work out // Midpoint):
+		CALL TO ADVENTURE / CATALYST / DISTURBANCE:
 
 
 
-		TAKE (and pay a heavy price (BGCI/AiL/DNotS):
+		REFUSAL OF CALL / DEBATE / ARG. AGST. TRANSFORMATION:
 
 
 
-		RETURN (bring it home // Doorway to Act #3):
+		OPPOSITION:
 
 
 
-		CHANGE (Final Battle // Personal Transformation):
+		FAKE ALLY:
+
+
+
+		SUPERNATURAL AID:
+
+
+
+		CROSSING THE FIRST THRESHOLD / DOORWAY TO ACT #2:
+
+
+
+				// -- // INITIATION // -- //
+
+		PLAN:
+
+
+
+		B-STORY:
+
+
+
+		BATTLE / KICK IN THE SHINS:
+
+
+
+		BELLY OF THE WHALE:
+
+
+
+		ROAD OF TRIALS:
+
+
+
+		OPPOSITION'S MAIN COUNTER-ATTACK:
+
+
+
+		FAKE-ALLY ATTACK:
+
+
+
+		MEETING WITH THE GOD{DESS}:
+
+
+
+		PET THE DOG:
+
+
+
+		TEMPTATION [but/therefore]:
+
+
+
+		ATONEMENT WITH THE FATHER [midpoint]:
+
+
+
+		APOSTASIS:
+
+
+
+		BAD GUYS CLOSE IN:
+
+
+
+		ALL IS LOST:
+
+
+
+		DARK NIGHT OF THE SOUL:
+
+
+
+		THE ULTIMATE BOON / Q-FACTOR:
+
+
+
+		REFUSAL OF RETURN:
+
+
+
+		MORAL DECISION:
+
+
+
+				// -- // RETURN // -- //
+
+		MAGIC FLIGHT:
+
+
+
+		RESCUE FROM WITHOUT:
+
+
+
+		CROSSING THE RETURN THRESHOLD / DOORWAY TO ACT #3:
+
+
+
+		FINAL BATTLE:
+
+
+
+		MASTER OF TWO WORLDS / NEW EQUILIBRIUM:
+
+
+
+		SIGN OF TRANSFORMATION:
+
+
+
+		FREEDOM TO LIVE / CLOSING IMAGE:
 

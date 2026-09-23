@@ -1,0 +1,35 @@
+# Writers' Room — Strongest Dramatic Material
+
+Pulled from across the entire InnerTepeniaGDD Worldspace survey (compiled 2026-07-10) — named tragedies, unresolved mysteries, and compelling structural dynamics that surfaced repeatedly enough to flag as load-bearing. Cross-references point to [`../Worldspace/Characters.md`](../Worldspace/Characters.md), [`../Worldspace/Locations.md`](../Worldspace/Locations.md), and [`The-Falkland-Treaty.md`](The-Falkland-Treaty.md)/[`The-Amundsen-Tower.md`](The-Amundsen-Tower.md).
+
+**The coerced signature — the show's founding wound.** Maggie Aarden did not step forward to sign the Falkland Treaty — **Upper Earth's own Assembly Powers** identified her as a war-credible robot leader and decided on her first, then "invited her to volunteer" in a way her SP 5w6 psychology made nearly impossible to refuse, so the exile would look consented-to rather than simply imposed on the defeated. **Corrected 2026-07-11: the pressure came from Upper Earth's governments, not from her own robot community, as an earlier draft of this doc had it.** This single coercion, left unconnected in existing source canon, quietly structures at least three living Concordia institutions two and a half centuries later (Libra's Suspended Compact, Gemini's Twin Channels, Pisces's Tolerance Pact — this last one tentative/unconfirmed as of 2026-07-11). A show that opens on this signing has a built-in slow-fuse mystery running its entire length.
+
+**The Great Corruption.** A targeted wipe of Janbogo's pre-Treaty archives — precisely the window that would have recorded how coerced the negotiations were. Under active, dangerous investigation in the game's present by two Dolls who lived through the show's whole era (Michelle Stanton, Vosora Lashár Tanslock). The show could dramatize the actual destruction of these records as an act of villainy or panic at the time.
+
+**The Long Night War's actual spark.** c. 2762: an Upper Earth diplomat denies a Palmer City gynoid's personhood and tries to assault her; she kills him in self-defense. She becomes a household name in Tepenian memory. **Her identity is confirmed (2026-07-12): Akina (SE-031)** — see [`../Worldspace/Characters.md`](../Worldspace/Characters.md). The diplomat remains unnamed, and the 50 years between the killing and the war's actual 2812 outbreak are still completely unwritten — arguably the single most valuable, currently-unclaimed piece of material in the entire source for a show ending at 2812.
+
+**Zukelli — destroyed as a message.** Zukelli sheltered fully-defected AWOL Upper Earth soldiers, hidden by its human and robot population alike. When the defectors' home military found them, it ordered total, calibrated obliteration — both to guarantee the defectors' deaths and to send a deterrent message. Neighbor city Janbogo, 8km away, was left standing specifically to witness and carry the message forward; its waterfront residents can see Zukelli's ruins daily, an ongoing informal vigil.
+
+**Byrd — a city built downward, by robots who volunteered to die.** Byrd Station had been buried and untraceable since 2005. Belgrano, Palmer City, and Rothera triangulated its location from salvaged records; an all-robot expedition crew — chosen specifically because the crossing was too dangerous to risk human lives — drove a purpose-built hauler across unmapped interior terrain, found only snowfield, discovered buried tunnels, and built the city downward first, then outward, then up. The strongest standalone founding-era episode in the whole dataset.
+
+**Turar Serikbolat's unknown fate.** Zhuldyz Serikbolatkyzy and the human heir who loved her fled Upper Earth together as a bonded pair. What happened to him — during the interwar decades, in the war itself, or whether he escaped off-world with her — is explicitly flagged in-source as "the most significant open question" in her story. A ready-made doomed-or-not romance spanning the entire show.
+
+**Amundsen Tower's fall, witnessed three ways.** Three independent character threads converge on the same event: Vosora organized its construction logistics decades earlier; Kendra held the line at its base as it came down, then vanished under the wreckage; Villena watched it collapse from a distance after missing the last evacuation. A single event triangulated from builder, defender, and bystander — practically a ready-made structure for a bottle episode.
+
+**The last living link.** Pisces's unnamed "Dying Robot" carries direct sensory memory of pre-war Federation city life and encountered Calethina "when she was newly singular" — and is dying, in the game's present, trying to pass those memories on before they're gone forever. A powerful framing device: whoever she is, Southern Lights could simply *be* those memories.
+
+**Who stayed, and who left.** A recurring fault line across multiple unconnected character files: Majyao closing her teahouse rather than fleeing; Salagéa staying to keep archiving instead of evacuating; Naizelle losing her home city outright; Villena missing the last ride by minutes; Nieza forcing herself onto one of the very last. The evacuation could organize an entire ensemble's worth of character arcs around the same single hinge night.
+
+**The Overcrowding Decision, 2813.** One year after the show's endpoint: an unrecorded, life-or-death refugee-triage crisis in Cancer, whose own archivists destroyed the records rather than let them stand. A clean epilogue beat — or a finale, if the show chooses to run one year past its stated bookend.
+
+**Doris Morikawa's Hall of Archives.** A neutral, pre-war repository of the entirety of human knowledge, whose fate during the wars is completely undetermined. Did it survive? Could its records still exist somewhere, a third source of truth beside the shattered, contradictory subnet archives left behind by the Planetary Split Brain?
+
+**Leo's "Star War."** A fifteen-year internal civil war between two performance houses in the mid-2740s, ostensibly about aesthetics, actually about power — the losing house's descendants are still performing in Leo generations later, still resentful. A clean multi-generational political drama entirely independent of either war.
+
+**The Suspended Compact.** A 230-year-old, still-buried founding-era constitutional document promising democratic district representation — suspended under wartime emergency powers that, by design, never actually end. The show could dramatize its original drafting and the moment it was quietly shelved.
+
+**The frozen-bodies image (explicitly flagged unbuilt in the source's own Tower engineering doc).** "Frozen bodies (human and robot) found along the routes various subnets' populations took while trying to reach Amundsen Tower during the Long Night War, many not making it in time." A strong candidate for a Southern Lights season-finale image — see [`The-Amundsen-Tower.md`](The-Amundsen-Tower.md).
+
+---
+
+*Compiled from the InnerTepeniaGDD Worldspace survey, 2026-07-10. Several items are explicitly flagged "not yet locked" in the source material itself — treat them as open choices for the show, not settled canon.*

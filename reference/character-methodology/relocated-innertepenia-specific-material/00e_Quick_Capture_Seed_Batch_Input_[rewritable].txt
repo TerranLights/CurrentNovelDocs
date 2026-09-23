@@ -1,0 +1,62 @@
+UNPROCESSED SEEDS — INBOX
+Paste filled-in copies of 00c_Quick_Capture_Seed_Template.txt below, one per character,
+separated by "---". Newest entries go at the bottom. Once a seed has been run through the
+Derivation Protocol (00a) and turned into an actual Doll folder / Stage 1 sheet, delete it
+from this file — this is a staging area, not permanent storage.
+
+---
+
+(Imelda Sánchez and Jasmine Blakeley, both processed 2026-08-15, have been cleared from this file. Imelda's
+folder is at Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Imelda Sánchez/ [DLC 3/Palmer
+companion]. Jasmine has no folder in this repo — per developer decision 2026-08-15, she isn't significant
+enough within Tepenia's setting to be "known to" its citizens, so her file lives only in the
+TepenianUniverseTimeline repo, at Worldspace/Characters/Dolls/Jasmine Blakeley/.
+
+TBN [STP-06 thicc Chinese Hao], processed 2026-08-24, has also been cleared from this file. Her folder is at
+Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [STP-06 thicc Chinese Hao]/ — main-game
+recruitable roster, no DLC reassignment. **"Hao" remains an unofficial working name only** — the developer has
+not yet chosen her official name; see her README.md's Naming note and Design Notes TODO.)
+
+---
+
+(TBN [TCY-45 heavenly summertime Momo], processed 2026-08-29, has also been cleared from this file. Her
+folder already existed and was substantially expanded rather than created:
+Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [TCY-45 heavenly summertime Momo]/ —
+main-game recruitable roster, district within Concordia still undecided. **"Momo" remains an unofficial working
+name only.** Two fields were left genuinely open per the developer: her official name, and her broad-scale Goal.
+Her Enneagram main-type subvariant was resolved by this seed (4w5 Self-Pres); the Undercurrent's subvariant
+(9w1, Self-Pres vs. Sexual) is still open. Note the seed's 55/45 Type/Undercurrent split, which supersedes the
+~80/20 working baseline her README previously carried.)
+
+---
+
+(8E51CFAC-B2F0-4E16 [Besifa] and Shuchar Vaszyong, both processed 2026-09-07, have been cleared from this
+file.
+
+Besifa's folder is in the TEPENIAN UNIVERSE TIMELINE REPO, not this one, per developer ruling 2026-09-07 —
+Worldspace/Characters/Dolls/8E51CFAC-B2F0-4E16 [Besifa]/. She is a Post-Solar Colonization Era character in
+Saturnian space (Outer Tepenia 2 territory), and OuterTepenia2_DEV holds no character tree; the developer's
+stated reasoning is that the Universe Timeline repo is where all character and location-history files will
+eventually live, "because that repo tracks all places, all people who are in those places, and all times that
+those people do things in those places." **"Besifa" remains a working name only** — her designation is the hex
+string. Stage 1 complete; Stage 3 core cluster filled except the Ghost, which is BLOCKED by developer statement
+({very much TBD}) and deliberately not invented. One clarification question is queued in her README (what was
+actually done to her — 6 options incl. "you decide"), plus a set of proposed replacements for the word
+"conditional" the seed flagged as not-quite-right (recommended: "on sufferance" in prose, "paroled" on
+anything a customs officer would file).
+
+Shuchar Vaszyong stays in the INNER TEPENIA GDD repo for now, per developer ruling 2026-09-07 ("later on,
+someday in the future, we'll move everybody over to the Universe Timeline repo, but that's a concern for the
+future"). Her folder already existed and was substantially expanded rather than created:
+Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Shuchar Vaszyong/ — main-game recruitable
+roster. Stages 1-3 complete at MAJOR tier (full core cluster, all standalone fields, Speech-Pattern
+Correlation Table). **Stages 4-5 deliberately NOT started** — no questline, story role, meeting scene or
+endings — per the developer: her background isn't yet known, and A9/A10's full web/A11 are deferred by design
+at this stage anyway. Developer ruling recorded in her A3: she is among the most logistically complicated and
+toughest dolls in the game to recruit as an active companion. Two fields left genuinely open: her occupation
+(shape fixed by the seed, content TBD) and her Gen/Mark. One canon gap SURFACED and left as a REQUEST rather
+than invented: the seed states she "personally remembers when the subnets were divided," and no dated subnet-
+division event exists in canon — this blocks her Timeline file specifically.)
+
+---
+

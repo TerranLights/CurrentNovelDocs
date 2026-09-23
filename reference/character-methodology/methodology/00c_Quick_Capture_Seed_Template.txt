@@ -1,0 +1,23 @@
+NEW CHARACTER — QUICK CAPTURE SEED
+(blank fields, TBD always valid — merges the 00a Minimal Seed Fields
+with the Timeline repo's seed-to-README fields. See 00a_Initial_Input.md and
+TepenianUniverseTimeline/Worldspace/Characters/seed-to-README-process.md for the
+full logic this compresses.)
+
+Name (or working ID):
+Type: Robot
+
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+
+Enneagram: XwY (Self-Pres / Social / Sexual)
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Place of Origin: TBD
+Location (if different from origin): TBD
+Timeframe (era/date): TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+

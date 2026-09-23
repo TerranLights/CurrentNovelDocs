@@ -10,21 +10,45 @@ Decisions that must be resolved before substantive work can proceed in the areas
 
 ## Decision 1: Book Count and Division
 
-**Status: PARTIALLY RESOLVED — 2026-07-08, structure clarified but not yet final**
+**Status: UNRESOLVED — 2026-09-17, reopened**
+
+Originally corrected 2026-07-08 from a 2-book assumption to 4 books (see history below), then reopened
+2026-09-17: this series is really a **historical account of the ~200 years leading up to the War of Upper
+Earth and the Falkland Treaty**, not just Maggie's own life story — 100+ characters from 30+ countries, whose
+storylines converge at the Council Meeting in the Falkland Islands, where **Maggie is forced by Upper Earth
+government representatives to sign the Falkland Treaty**. The author's current working estimate is **8 books,
+each split into 2 Parts**, but this is explicitly **not locked** — it depends on how much material actually
+ends up in the series once the world/character/plot planning is further along. Treat "8 books / 2 Parts each"
+as the current best guess, not a settled decision; revisit once there's enough drafted/planned material to
+estimate real length.
+
+**Consolidated source material for this planning pass** now lives at
+`reference/world-and-character-source-material/` (series level) — the parent Timeline repo's full Maggie
+Aarden character file, the drafted Falkland Treaty text, world-history excerpts, four pre-identified
+convergence threads (Maggie, Ji-Eun Kim, Trisha Miller, the Sinian Federation), and cross-project findings from
+SouthernLights (including the unsolved "Great Corruption" mystery). See that folder's own README for the full
+map and open-gaps list.
+
+**History — the 2026-07-08 4-book pass, superseded but kept for reference:**
 
 Corrected by the author: this series is actually **4 books** — not the 2-book structure originally assumed (one per human-companion era). Each book is expected to run well over 2,000 pages, so each will ship as **2 physical volumes of 1,000+ pages** purely for printing/binding practicality (the author's own words: "just due to the actual physical limitations of gluing paper to cardboard"). **This "2 parts" split is a production/binding decision only — it carries no narrative or structural meaning.** The actual story-structure question is about the 4 books, not 8 units. The `Book 1/` / `Book 2/` folders currently in this project reflect the old, incorrect 2-book assumption and are provisional pending the restructure below.
 
 **The 4 books are organized primarily around Maggie's own archetypal progression**, drawing predominantly (though not exclusively) on K.M. Weiland's *Writing Archetypal Character Arcs*, which structures character development across six sequential life-stage archetypes — **Maiden, Hero, Queen, King, Crone, Mage** — each of which can run as a Positive Change Arc, a Flat Arc, or a Negative/Shadow Arc. The world around Maggie provides a parallel or contrasting arc at each stage (the author's own framing: the two "either mirror, reflect, counter-reflect, or contradict each other"), but **Maggie's own progression is the primary, centering axis** — she is "the center and the star of the story."
 
-**RESOLVED — 2026-07-08 — the archetype-to-book mapping:** the 4 books follow Maggie's progression through **Maiden → Hero → Queen → King**, in that order, step-by-step across the series. Her remaining two archetypal stages, **Crone and Mage, fall outside this series entirely** — they take place during her post-war life in Tepenia (after the Falkland Treaty/exile), i.e. after this series' own ending point. This confirms the series' natural scope boundary: it covers Maggie's life up through becoming a coerced signatory of the Falkland Treaty (fitting the King stage — forced into ultimate, unwanted authority), not beyond.
+The archetype-to-book mapping worked out at the time: the 4 books follow Maggie's progression through **Maiden → Hero → Queen → King**, in that order, step-by-step across the series. Her remaining two archetypal stages, **Crone and Mage, fall outside this series entirely** — they take place during her post-war life in Tepenia (after the Falkland Treaty/exile), i.e. after this series' own ending point. This confirmed the series' natural scope boundary: it covers Maggie's life up through **being forced by Upper Earth government representatives to sign the Falkland Treaty** (fitting the King stage — forced into ultimate, unwanted authority), not beyond. **Whether this archetypal spine still organizes the series at all, now that the "historical account with 100+ characters" framing has taken over, is itself part of what's unresolved** — it may still apply as Maggie's own throughline within a larger structure, or may need rethinking entirely.
 
-The author's expectation ("very likely"): each of the 4 stages will run as a **shadow variant (active and/or passive)** rather than a clean Positive Change Arc — consistent with Maggie being pushed through each stage against her will rather than growing into it by choice. Not fully locked in, but the working assumption going forward.
+The author's expectation at the time ("very likely"): each of the 4 stages would run as a **shadow variant (active and/or passive)** rather than a clean Positive Change Arc — consistent with Maggie being pushed through each stage against her will rather than growing into it by choice. Not fully locked in even then.
 
 **Still not yet determined:**
-- How the two originally-described human companions (the shy-to-confident boyfriend, the proud-to-humble boyfriend/husband) map onto the now-confirmed Maiden/Hero/Queen/King structure — they may span more than one book each, or may not correspond to specific books at all
+- Whether/how the archetypal Maiden/Hero/Queen/King spine maps onto the new 8-book/historical-account scope
+- How the two human companions (now: two husbands, shy-to-confident / proud-to-humble, plus a separate robot
+  friend — see `reference/world-and-character-source-material/Maggie-Aarden-Character/Relationships.md`) map
+  onto the eventual book structure
+- How the four convergence threads (Maggie, Ji-Eun Kim, Trisha Miller, the Sinian Federation) and the wider
+  100+-character, 30+-country cast actually organize across 8 books/16 Parts
 
 **Downstream effects:**
-- The `Book 1/` / `Book 2/` folders need a full restructure into `Book - Maiden/`, `Book - Hero/`, `Book - Queen/`, `Book - King/` (matching the naming convention already used for The Four-Realm Musician's realm-named book folders) — not yet executed, pending confirmation of how/whether to carry the two existing companion-character sketches into the new structure
+- The `Book 1/` / `Book 2/` folders remain provisional under the old 2-book assumption — don't restructure them (into archetype-named folders or otherwise) until the real book count and division are actually settled.
 
 ---
 

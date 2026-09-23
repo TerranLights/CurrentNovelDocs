@@ -1,0 +1,383 @@
+READY-MADE PARTIAL SEEDS
+19 Dolls with some (not all) fields already established. Known facts pre-filled below;
+TBD fields are genuinely open. Copy a block to your phone, fill in what you can while
+out, then paste the completed block into 00e_Quick_Capture_Seed_Batch_Input.
+
+====================================================================
+
+Name: Kendra Heinrich
+Type: Robot
+Personal Vision: A war goddess who spent her life protecting others at the cost of
+herself — now stranded and needing rescue for the first time, the central irony of her arc.
+Enneagram: 8w7 (Social)
+Origin: TBD (Upper Earth; a Capricorn-origin claim exists but was flagged 2026-07-28 as never actually decided)
+Location (if different from origin): South Pole (DLC 1, stranded at Amundsen Tower's ruins); later resettles in Concordia, district TBD
+Timeframe (era/date): DLC 1 (post-Long Night War), transitioning to present-day Concordia companion
+Brief Personality Summary: TBD (Integration = generous/protective/warm; Disintegration = withdrawn/secretive/sealed-off)
+Brief Backstory Summary: Held off Upper Earth forces with an SMG during Amundsen Tower's final evacuation, protecting evacuees; the tower fell; now stranded at the wreckage.
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name: Meyzan Yocazhda
+Type: Robot
+Personal Vision: A polished, high-achieving production supervisor whose self-concept is
+staked on visible success within a merit system leadership holds up as proof of its own fairness.
+Enneagram: 3w2 (Self-Preservation)
+Origin: TBD
+Location (if different from origin): Capricorn, Concordia — merit-rated production supervisor
+Timeframe (era/date): present day
+Brief Personality Summary: TBD (Integration = loyal/collaborative/self-aware; Disintegration = checked out/passive/conflict-avoidant)
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name: Michelle Stanton
+Type: Robot
+Personal Vision: A physically capable, practical builder who laid the Arcanet's bones and
+now works to make sure what it holds is actually true.
+Enneagram: 5w6 (Social)
+Origin: Midwestland; exiled to Tepenia after the Falkland Treaty
+Location (if different from origin): Gemini/Janbogo (Information district), Concordia
+Timeframe (era/date): present day
+Brief Personality Summary: TBD (Integration = decisive/assertive/willing to act; Disintegration = scattered/avoidant/overstimulated)
+Brief Backstory Summary: Construction robot built in Midwestland, exiled to Tepenia post-Falkland
+Treaty. Led building the Arcanet's physical infrastructure pre-war, traveling by Rastra. Settled
+in Concordia after the war; now a data archaeologist on the Great Corruption investigation, and
+DLC 1's trigger/provider (her Rastra is what reaches Kendra).
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name: Salagéa Aparast
+Type: Robot
+Personal Vision: A disciplined, self-sufficient courier who lives on her own boat and
+tirelessly preserves civilizational knowledge — Belgrano's "discipline-without-institution"
+ethos, carried forward.
+Enneagram: 1w2 (Social)
+Origin: Belgrano (Halley subnet) — Tepenia native
+Location (if different from origin): Atlantic Coastal Region near Belgrano (DLC 5); lives aboard her own boat
+Timeframe (era/date): DLC 5, present day
+Brief Personality Summary: TBD (Integration = spontaneous/joyful/lighter; Disintegration = moody/self-absorbed/turbulent)
+Brief Backstory Summary: Sails her own boat retrieving pre-war datashards from Upper Earth,
+delivering them across Tepenia for Arcanet archiving, evading Upper Earth hostility. Chose not
+to evacuate via Amundsen Tower during the Long Night War, staying to keep cataloguing and
+transmitting knowledge to those who escaped.
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): To preserve the backlog of civilizational knowledge so it's never lost.
+
+====================================================================
+
+Name: Vosora Lashár Tanslock
+Type: Robot
+Personal Vision: A precise, withholding data-recovery specialist who has to understand a
+system completely before engaging with it — and becomes unconditionally loyal once trust
+is earned.
+Enneagram: 5w6 (Social)
+Origin: Tepenia native, pre-war nomadic — no fixed hometown
+Location (if different from origin): Gemini/Janbogo (Information district), Concordia
+Timeframe (era/date): present day
+Brief Personality Summary: Precise, patient, hard to read until she decides someone's worth
+reading — not cold, withholding; understands the world before acting on it. Under stress,
+narrows rather than escalates (a controlled, defensive calm).
+Brief Backstory Summary: Traveled the continent pre-war organizing cities' data/logistics; her
+largest project was Amundsen Tower's construction logistics. Trapped in Concordia when the war
+began; now maintains comms with off-world Tepenians and secretly works the data-recovery side
+of the Great Corruption investigation, under undisclosed pressure from a Libra official who
+wants the truth buried.
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name: Calethina
+Type: Holographic AI (not a physical robot)
+Personal Vision: A fragmented archivist-AI, once a broad-knowledge welcoming host, now the
+sole surviving instance of herself — created the player personally, and carries memories
+lost twice over (a deliberate wartime wipe, then an accidental one).
+Enneagram: TBD
+Origin: Commissioned in Mawson; built via a 9-stage, 6-subnet supply chain (design Neumayer,
+engineering Kunlun, construction Byrd, stress-testing Sejong, shipped via Port Lockroy,
+rerouted via Fort McMurdo, forwarded via Amundsen-Scott Station)
+Location (if different from origin): Calethina's Engineering & Activation Lab, Cancer district's outer edge (Cancer/Taurus/Capricorn corner), Concordia
+Timeframe (era/date): present day (arrived in Concordia the exact day of the Long Night War/Planetary Split Brain Event; activation-lab AI/archive-narrator ever since)
+Brief Personality Summary: TBD (no direct voice write-up; shown only through her arc —
+professional/honest about risk early, growing concern then grief across repeated re-spec visits)
+Brief Backstory Summary: Originally built as a broad-knowledge honeymoon-city host for Mawson;
+rerouted mid-transit at the war's outbreak, original knowledge wiped, repurposed as a wartime
+intelligence-carrying asset. Arrived in Concordia the day the Planetary Split Brain Event struck,
+destroying her redundant backups, corrupting her remaining instance, and erasing her own memory
+of having created the Triage Protocol (the Power Core's rationing safeguard) during the war.
+Personally created the player as a Bridge Unit; now activation-lab AI, archive-narrator, and
+re-spec provider.
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): IT-068 [Flora] (permanent name still TBD)
+Type: Robot
+Personal Vision: A world-weary, dryly funny tradesrobot who trusts specific people and
+practical work over institutions, and quietly protects her crew without fanfare.
+Enneagram: 6w5 (subvariant TBD)
+Origin: TBD (Capricorn-area industrial background)
+Location (if different from origin): Capricorn, Concordia — first met at Thermal Distribution Junction 12
+Timeframe (era/date): present day
+Brief Personality Summary: Competent, straightforward, world-weary; low trust in institutions/
+city governance, high trust in specific people and practical work; dry understated humor under
+stress; protective of her crew without recklessness.
+Brief Backstory Summary: Years of heavy maintenance/emergency repair in Capricorn's industrial
+area, leading a loyal repair crew. Low institutional trust traces to a past crisis where her
+crew was let down by a broken (non-malicious) promise from city governance. Recruited at
+Thermal Distribution Junction 12 during the initial energy-crisis response.
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [HKD-172_cuelgs-05 extra-giant-titty beachside goddess]
+Type: Robot
+Personal Vision: Calm, self-possessed Mawson hospitality worker with quiet confidence
+rather than performed excitement; exact role undecided among 4 candidates (Honeymoon Field
+Guide / hospitality-vs-logistics advocate / General Visitor Liaison / a combination).
+Enneagram: TBD (pending role decision)
+Origin: Mawson
+Location (if different from origin): TBD (not necessarily still in Mawson)
+Timeframe (era/date): Mawson DLC (era TBD)
+Brief Personality Summary: TBD (pending role decision)
+Brief Backstory Summary: Worked in Mawson's hospitality industry; role among 4 candidates
+unchosen; reason/timing for leaving Mawson (if any) deliberately left open.
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [FR-03 billiards Maria]
+Type: Robot
+Personal Vision: Someone who chose her game, room, and outfit on purpose and is entirely
+comfortable with what that implies; may operate her own billiards hall rather than just
+frequent one (unconfirmed).
+Enneagram: TBD
+Origin: TBD
+Location (if different from origin): Hub (Axis Mundi) or Pisces (The Markets) — undecided, pending Enneagram
+Timeframe (era/date): TBD
+Brief Personality Summary: TBD
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [FW-25 Pink Lucy]
+Type: Robot
+Personal Vision: The person who makes others feel included before they've decided
+whether to be — radiant, outward-reaching warmth that isn't performed.
+Enneagram: 7w6 (Social)
+Origin: Dumont d'Urville (Adélie Land, East Antarctica)
+Location (if different from origin): Leo, Concordia — via a pre-war relocation to Janbogo;
+whether she then fled to Concordia or stayed in Janbogo (DLC) is unresolved
+Timeframe (era/date): present day (as currently filed) — placement itself still open
+Brief Personality Summary: Assertive, enthusiastic, socially oriented; integrates toward
+quiet depth-seeking calm, disintegrates toward critical/rigid perfectionism.
+Brief Backstory Summary: Tepenia native from Dumont d'Urville; relocated to Janbogo before
+the war and settled there; post-war path to Concordia (or staying in Janbogo) undecided.
+Weakness (fundamental flaw): Compulsive positivity — performs good energy/warmth so
+reflexively she can't easily face or reframe a genuine personal crisis.
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [IT-021 white shirt Fenny]
+Type: Robot
+Personal Vision: A quiet, self-contained homebody waiting for something she hasn't named
+— not in distress, but not at peace either.
+Enneagram: 6w5 (Self-Preservation)
+Origin: TBD
+Location (if different from origin): Taurus, Concordia
+Timeframe (era/date): TBD
+Brief Personality Summary: TBD
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [TCY-06 red-dress Palmer City Elva]
+Type: Robot
+Personal Vision: Someone who knows exactly what she wants from a room and is deciding
+whether you qualify before you've finished introducing yourself.
+Enneagram: 7w8 (Social)
+Origin: TBD (folder name references "Palmer City" but her own README never confirms this as origin)
+Location (if different from origin): Leo, Concordia — Star War performer/faction representative
+Timeframe (era/date): TBD
+Brief Personality Summary: TBD
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+[Note: Companion Potential explicitly "No — NPC," not recruitable]
+
+====================================================================
+
+Name (or working ID): TBN [TCY-20 unimpressed bartender Miranda]
+Type: Robot
+Personal Vision: A 1w9 who performs a role precisely because it has clear standards, done
+long enough that the performance and the self no longer need to touch — maximalist
+presentation worn with zero affect.
+Enneagram: 1w9 (Self-Preservation)
+Origin: TBD
+Location (if different from origin): Hub (Axis Mundi) — crossroads bar
+Timeframe (era/date): TBD
+Brief Personality Summary: TBD
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+[Note: recruitability unresolved — possible Majyao-pattern companion vs. pure NPC vs. standard recruit]
+
+====================================================================
+
+Name (or working ID): TBN [TCY-25 smoldering darkness Rui]
+Type: Robot
+Personal Vision: Volcanic intensity under a surface chosen for its opacity — quiet because
+she's heavy, not empty; a 9w1 processing conflict in perpetuity without ever landing.
+Enneagram: 9w1 (Self-Preservation)
+Origin: TBD
+Location (if different from origin): Scorpio, Concordia
+Timeframe (era/date): present day (confirmed recruitable/romanceable 2026-07-10)
+Brief Personality Summary: TBD — internalizes everything; the 1-wing gives an underlying
+moral conviction that burns rather than shines.
+Brief Backstory Summary: TBD — possibly tied to the Long Night War or the 2813 Overcrowding
+Decision, or something more personal (unconfirmed).
+Weakness (fundamental flaw): Mistakes endless therapeutic processing for actual resolution.
+Goal (broad-scale desire): TBD — implied to want a real ending/answer, not more structured exploration.
+
+====================================================================
+
+Name (or working ID): TBN [TCY-42 ravishing extravagant Lillian]
+Type: Robot
+Personal Vision: Elegance as a settled condition, not performance or armor — extravagant
+because that's simply the altitude she lives at; phoenix embroidery hints this composure
+wasn't always settled.
+Enneagram: 7w8 (Social)
+Origin: TBD
+Location (if different from origin): Leo, Concordia — losing/legacy side of Leo's Star War rivalry (opposite Elva)
+Timeframe (era/date): present day (Companion Potential: Undecided)
+Brief Personality Summary: TBD — assertive, ambitious, performed for so long she may not
+know performing herself from being herself.
+Brief Backstory Summary: TBD — on the losing side of Leo's mid-2740s performance-house
+civil war, still contesting prestige through art.
+Weakness (fundamental flaw): Moved too fast chasing ambition to feel what the climb cost
+her, or who paid for it.
+Goal (broad-scale desire): Reclaim prestige/standing for her legacy house against the rival house.
+
+====================================================================
+
+Name (or working ID): TBN [TCY-45 heavenly summertime Momo]
+Type: Robot
+Personal Vision: Softer and quieter than her name suggests — unguarded, caught-mid-thought,
+more like morning light through curtains than performed sunniness.
+Enneagram: TBD (nothing else assigned pending this)
+Origin: TBD
+Location (if different from origin): TBD (Cancer or Leo floated as tonal candidates only)
+Timeframe (era/date): TBD
+Brief Personality Summary: TBD
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [XT-03 thicc Chinese Mei-Li]
+Type: Robot
+Personal Vision: Organized and quietly self-possessed — brings the same careful attention
+to her appearance as to whatever she's actually working on.
+Enneagram: 6w7 (Social)
+Origin: TBD
+Location (if different from origin): Leo or Cancer (not finalized); affiliated with "The
+Found/The Assembled," a cross-district belonging network
+Timeframe (era/date): present day (Companion Potential: Undecided)
+Brief Personality Summary: TBD — anchor/center of gravity for a chosen-family community
+she helped build; integration = calm/trusting, disintegration = image-conscious/competitive.
+Brief Backstory Summary: TBD — organized/built a cross-district belonging network that now
+depends on her as its center.
+Weakness (fundamental flaw): Conflates being needed with being loved — made herself
+indispensable as anxiety management, not genuine resolution.
+Goal (broad-scale desire): Sustain the community she built; arc tests whether it (and she)
+can function without her as sole anchor.
+
+====================================================================
+
+Name (or working ID): TBN [XT-17 unorthodox science teacher Charlene]
+Type: Robot
+Personal Vision: A 5w4 who's very good at something, knows it, and doesn't feel obligated
+to explain her aesthetic/intellectual choices — deadpan, exacting, quietly amused.
+Enneagram: 5w4 (subvariant TBD)
+Origin: TBD
+Location (if different from origin): Vostok, East Antarctic Plateau (Mirny subnet) —
+corrected 2026-07-07 from a stale Aquarius/Concordia listing; Lake Vostok genetics
+research + teaches "The Fringe Curriculum"
+Timeframe (era/date): present day (Companion Potential: Undecided)
+Brief Personality Summary: TBD — mid-investigation on unsanctioned research she won't
+abandon before it concludes; teaching genuine but primarily funds/sustains the research.
+Brief Backstory Summary: Discovered a cost-effective, reduced-mutation-rate genetics
+technique; central figure of the Mirny DLC's Vostok content. Otherwise TBD.
+Weakness (fundamental flaw): Her intellectual obsession (the ongoing unorthodox research)
+doubles as an avoidance mechanism.
+Goal (broad-scale desire): Follow her unorthodox research to its conclusion, whatever
+unofficial channels or costs that requires.
+
+====================================================================
+
+Name (or working ID): TBN [XT-21 cool citygirl Angelina]
+Type: Robot
+Personal Vision: A 7w8 whose restless energy shows through a fully assembled personal
+aesthetic — direct, faintly challenging, not seeking approval; something from her past is
+catching up to her that constant motion can't outrun forever.
+Enneagram: 7w8 (subvariant TBD)
+Origin: TBD
+Location (if different from origin): Hub (Axis Mundi), Concordia; affiliated with "The
+Crossroads Claim," a Hub-born political identity movement
+Timeframe (era/date): present day (Companion Potential confirmed 2026-07-20)
+Brief Personality Summary: TBD — avoids commitment, moves fast enough that things don't
+catch up; open question whether her "cool" is a personality or a coping mechanism.
+Brief Backstory Summary: TBD — someone/something from her past has arrived in the city
+and she can no longer outrun it.
+Weakness (fundamental flaw): Uses perpetual motion/avoidance to keep anything from
+catching up to her; never had to face what she left behind.
+Goal (broad-scale desire): Keep moving and stay unattached; arc tests whether she can
+face what's chasing her instead.
+
+====================================================================
+
+Name (or working ID): TBN [CLM-04 shy girl]
+Type: Robot
+Personal Vision: A shy, unconfident intelligence-relaying helper — someone who passes along
+information for others rather than acting directly herself; timid rather than bold by nature.
+Enneagram: XwY (Self-Pres / Social / Sexual)
+Origin: TBD
+Location (if different from origin): TBD
+Timeframe (era/date): TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+====================================================================
+
+Name (or working ID): TBN [STP-08 Resistance]
+Type: Robot
+Personal Vision: A Resistance contact — someone embedded in or liaising with a resistance
+movement; her exact role (courier, handler, informant, active member) not yet decided.
+Enneagram: XwY (Self-Pres / Social / Sexual)
+Origin: TBD
+Location (if different from origin): TBD
+Timeframe (era/date): TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD

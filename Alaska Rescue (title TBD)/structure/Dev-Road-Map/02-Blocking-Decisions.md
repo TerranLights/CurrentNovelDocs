@@ -31,12 +31,14 @@ Both human companions are currently TBN with only a one-line personality sketch 
 
 ## Decision 3: Jennifer Lin's Built Purpose
 
-**Status: OPEN**
+**Status: RESOLVED — 2026-09-19**
 
-The author's own framing: Jennifer was "created for currently-undetermined purposes." This is a real open question about her backstory, not just an unfilled field — what she was built *for* likely shapes her personality, her relationship to [[Human #2]], and possibly the plot itself.
+**Meteorology and radio engineering**, for Cascadia's coastal maritime economy. Full skill breakdown and the
+reasoning that produced it: `../../background notes/characters/Jennifer Lin - Built Purpose (Meteorology and
+Radio Engineering).md`. Candidate comparison and the eliminated options: `... - Original Purpose Candidates.md`.
 
-**Downstream effects:**
-- Jennifer's full character arc (Phase 2) can't be completed until this is settled
+Note the quiet worldbuilding this carries: HF radio propagation improves at night, so her work placed her
+outdoors and awake in darkness on a professional schedule — which is where her stargazing habit grew.
 
 ---
 
@@ -51,6 +53,46 @@ The author's own framing: the group "eventually secure[s] themselves a boat (som
 
 ---
 
+## Decision 5: What Human #1's Deal Actually Was
+
+**Status: OPEN — and it is the keystone**
+
+His inciting event has always read: *"Travels from Vancouver, BC, Cascadia to Whitehorse... to work out some
+sort of deal or agreement (specifics TBD) — meets Lucy Grayson at the railyard there."* The specifics were
+never filled in, and the worldbuilding done in September 2026 suggests why they matter more than they looked.
+
+**Three of the other decisions on this list converge on it:**
+
+- **Decision 2 (human companions' design).** The deal largely *is* his character design — what he does, who
+  sent him, what he is trusted with, and whether he can be disowned. Answering it answers most of him, and
+  Human #2's design follows from whether he shares the business.
+- **Decision 4 (the boat mechanism).** If the deal concerns transit, freight, rail or maritime trade, then he
+  has exactly the connections that make a vessel obtainable at Prince Rupert. The boat stops being a
+  contrivance and becomes a consequence of who he is.
+- **Decision 1 (title).** A title tends to follow from what the book is *about*, and this is the thread the
+  book's events hang from.
+
+**What the worldbuilding established that bears on it:**
+
+- Whitehorse is the **capital of the Alaska Republic** (settled 2026-09-22), so he traveled to a seat of
+  government, not a provincial town.
+- The rail line out of Whitehorse — the **White Pass and Yukon Route to Skagway** — is now an **international
+  line**, which is why a railyard is a plausible place for a Cascadian negotiator to be standing.
+- **Transit is the defining problem between the two nations.** See
+  `worldbuilding/nations/Alaska Republic and Cascadia - The Transit Problem (three resolutions).md`.
+
+**Candidate answers, with reasoning:**
+`../../background notes/characters/Human 1 - Why He Went to Whitehorse (proposals).md`
+
+**Downstream effects:**
+- Decisions 2 and 4 are both substantially easier once this is settled
+- Phase 4 (Story & Chapters) depends on it, since it determines what the journey home actually *is*
+
+---
+
 ## After These Are Resolved
 
-*No decisions resolved yet. Once all four above are settled, Phase 1 (and the character/plot work gated behind it) can be considered unblocked.*
+**Resolved so far: Decision 3** (Jennifer's built purpose, 2026-09-19).
+
+Still open: **1 (title), 2 (human companions), 4 (boat mechanism), 5 (Human #1's deal)** — with 5 as the
+recommended next target, since 2 and 4 largely fall out of it.

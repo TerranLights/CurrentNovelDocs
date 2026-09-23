@@ -1,0 +1,86 @@
+Arc: books 1 & 2 == "Maiden"
+Arc: books 3 & 4 == "Hero"
+Arc: books 5 & 6 == "Queen"
+Arc: books 7 & 8 == "King"
+
+- - -
+
+Book 1:
+- Part 1:
+Opening Image: Setup during "Child"
+Book-Volume Midpont: Entry into "Maiden" in-arc Road of Trials
+Closing Image: 
+- Part 2:
+Opening Image: 
+Book-Volume Midpont: 
+Closing Image: The leading-up-to and crisis of the "Maiden" in-arc Midpoint
+
+Book 2:
+- Part 1:
+Opening Image: The fallout from and after-effects of the "Maiden" in-arc Midpoint
+Book-Volume Midpont: 
+Closing Image: "Maiden" in-arc All-is-Lost
+- Part 2:
+Opening Image: Beginning of "Maiden" in-arc Dark Night of the Soul
+Book-Volume Midpont: 
+Closing Image: Entry into "Lover"
+
+Book 3:
+- Part 1:
+Opening Image: Departing from "Lover"
+Book-Volume Midpont: Entry into "Hero" in-arc Road of Trials
+Closing Image: 
+- Part 2:
+Opening Image: 
+Book-Volume Midpont: 
+Closing Image: The leading-up-to and crisis of the "Hero" in-arc Midpoint
+
+Book 4:
+- Part 1:
+Opening Image: The fallout from and after-effects of the "Hero" in-arc Midpoint
+Book-Volume Midpont: 
+Closing Image: "Hero" in-arc All-is-Lost
+- Part 2:
+Opening Image: Beginning of "Hero" in-arc Dark Night of the Soul
+Book-Volume Midpont: 
+Closing Image: Entry into "Parent"
+
+Book 5:
+- Part 1:
+Opening Image: Departing from "Parent"
+Book-Volume Midpont: Entry into "Queen" in-arc Road of Trials
+Closing Image: 
+- Part 2:
+Opening Image: 
+Book-Volume Midpont: 
+Closing Image: The leading-up-to and crisis of the "Queen" in-arc Midpoint
+
+Book 6:
+- Part 1:
+Opening Image: The fallout from and after-effects of the "Queen" in-arc Midpoint
+Book-Volume Midpont: 
+Closing Image: "Queen" in-arc All-is-Lost
+- Part 2:
+Opening Image: Beginning of "Queen" in-arc Dark Night of the Soul
+Book-Volume Midpont: 
+Closing Image: Entry into "Ruler"
+
+Book 7:
+- Part 1:
+Opening Image: Departing from "Ruler"
+Book-Volume Midpont: Entry into "King" in-arc Road of Trials
+Closing Image: 
+- Part 2:
+Opening Image: 
+Book-Volume Midpont: 
+Closing Image: The leading-up-to and crisis of the "King" in-arc Midpoint
+
+Book 8:
+- Part 1:
+Opening Image: The fallout from and after-effects of the "King" in-arc Midpoint
+Book-Volume Midpont: 
+Closing Image: "King" in-arc All-is-Lost
+- Part 2:
+Opening Image: Beginning of "King" in-arc Dark Night of the Soul
+Book-Volume Midpont: 
+Closing Image: Entry into "Elder"

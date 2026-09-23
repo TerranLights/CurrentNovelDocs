@@ -8,6 +8,31 @@ This is a composite story-beat structure fusing four sources, each brought in fo
 - **James Scott Bell, *Plot and Structure*** — the "Doorway of No Return" framing for the two act breaks, the "Mirror Moment" for the midpoint, and supplementary beats (Kick in the Shins, Care Package, Q-Factor, Pet the Dog). Drawn from as fully as possible.
 - **John Truby, *The Anatomy of Story*** — character-web concepts (Ally/Allies, Opposition, Fake Ally, Moral Decision, Self-Revelation, etc.). Drawn from as fully as possible.
 - **Joseph Campbell, *The Hero's Journey*** — used selectively, not comprehensively: a Campbell beat is kept only if it can be reinterpreted into non-fantasy (e.g. sci-fi) form, or if it cross-references cleanly onto a Save the Cat beat (Road of Trials = Fun and Games; Refusal of the Call = Debate). Beats that are irreducibly fantasy-coded and don't reinterpret cleanly — e.g. **Magic Flight** — are deliberately left out.
+- **K.M. Weiland** — the archetypal character-arc layer. A 12-node life-cycle sequence alternating resting states and transforming arcs (Child → **Maiden Arc** → Lover → **Hero Arc** → Parent → **Queen Arc** → Ruler → **King Arc** → Elder → **Crone Arc** → Mentor → **Mage Arc**), giving **six arcs**, each with a pre-built thematic Lie/Truth pair, a world-transition, a Story Type, and a symbolic setting scope. Each also has a passive and an aggressive shadow counterpart. Full beat-by-beat templates for all six, plus the shadow taxonomy, live in `character-methodology/book-extractions/Character_Development_Methodology_-_DRAFT_Ideas.md` — sourced there rather than duplicated here.
+
+  **Two rules govern how this layer attaches to the beats below:**
+
+  1. **An assigned archetype is a *lens over the same beats*, not a second beat sheet.** Weiland's own skeleton (Normal World → Inciting Event → First Plot Point → First Pinch Point → Midpoint → Second Pinch Point → Later False Peak → Third Plot Point → Climax → Climactic Moment → Resolution) maps onto the composite beats — the First Plot Point *is* Doorway #1, the Third Plot Point *is* All Is Lost, and so on. The same events get read a second way; they do not get duplicated.
+  2. **Weiland's False Victory is renamed "Later False Peak"** here, to resolve a collision with Snyder's Midpoint-positioned False Victory. The two are different beats at different percentages: Snyder's is a Midpoint option at 50%; Weiland's sits between the Second Pinch Point and the Third Plot Point, roughly 62–75%.
+
+  **How many arcs a character gets is a function of length**, and should be decided explicitly per book: a long multi-volume work can carry a character through several, while a single novel of roughly 300 pages realistically supports **one arc per foreground character and no more** — no arc-to-arc transition, no shadow-arc detour, and the character starts at her arc's Beginning state on page one.
+
+---
+
+## Which Structure Applies to Which Character — Standing Rule
+
+**The robots are always the main characters of every story in this line.** Humans are supporting cast by default, however much page time they occupy. Everything below follows from that.
+
+**Any robot with at-the-forefront presence in a story gets the full composite structure — Save the Cat / Truby / Weiland / Campbell / Bell — always, without exception.** This is not a per-book judgment call or a matter of how much page time a given robot happens to get; a robot who is meaningfully present in the story's foreground receives the complete composite treatment every time.
+
+**Human characters get a Weiland archetype too, but at a fraction of the depth** — enough to define their structural function and their relation to the dolls' arcs, not a full interior mapping. In practice the economical form is a **resting Flat archetype** (Child, Lover, Parent, Ruler, Elder, Mentor) rather than a transforming arc, since a Flat archetype needs no beat sheet at all — it's a standing identity plus a set of relational functions. Reserve transforming arcs for humans who genuinely have to change across the book.
+
+The Harmon 8-point structure (YOU / NEED / GO / SEARCH / FIND / TAKE / RETURN / CHANGE) is reserved for:
+
+- **human characters**, and
+- **very minor or background robots.**
+
+Practically: a foreground robot's character-arc file is a copy of `y-template/structure/character arcs/doll.md` (the canonical composite template). A human's is a copy of `y-template/structure/character arcs/huMan-1.md`. Getting this backwards for a foreground robot is a structural error to be corrected, not a stylistic variation to be preserved.
 
 ---
 
@@ -105,6 +130,89 @@ Campbell additions (Apotheosis, Atonement with the Father, Meeting with the Godd
 
 ### Closing Image
 *Snyder.* Structurally the mirror/bookend of the Opening Image: the "after" snapshot of the hero/world, showing how much has changed since the opening. Should visually or thematically echo the Opening Image, ideally in contrast — same setup, transformed outcome.
+
+---
+
+## Writing the Middle — Eight Practical Strategies (Fox)
+
+**John Matthew "Bookfox" Fox**, from a craft video analyzing a single chapter of Frank Herbert's *Dune* — added
+2026-09-17, with the source video's own Dune examples kept in full since they illustrate each strategy
+concretely (synced to `TepenianUniverseTimeline/definitions/README.md`, where the same section is also used for
+developing the centerpoint of any Grand Timeline era). Distinct from the beat-by-beat definitions above: those
+name *where* things go and *what kind* of beat each slot is; this is about *how to actually write* the long,
+difficult middle span (roughly Road of Trials through Bad Guys Close In, ~20–75%) once you're in it. Eight
+practical strategies, meant to be applied together, not picked one at a time:
+
+1. **Raise a question in the reader's mind — a different question than the beginning's.** The middle question
+   has to be genuinely distinct from the beginning question, not a restatement of it — a lot of writers flounder
+   because they haven't recognized what the middle question actually is. In *Dune*, the beginning question is
+   "can House Atreides get control of Arrakis and keep the spice flowing?" The middle question is completely
+   different: "can they *regain* control of Arrakis?", because the planet has been invaded and they've been
+   attacked. There's also often a tighter, chapter-scale question layered on top — not merely hinted at, but
+   something the point-of-view character actually thinks in so many words. In this Dune chapter, that's Paul
+   asking himself, verbatim, "what if we don't make it? What if we can't survive this?"
+2. **Change your storytelling logic — from establishing to furthering.** The beginning of a story is mostly
+   about establishing: who are these characters, what's going on. The middle has to shift to a completely
+   different mode: furthering, escalation, advancement. This is difficult precisely because most writers spend
+   so much of their planning time on the beginning's questions (the basic concept, the premise) and comparatively
+   little on what the actual mechanism of the middle is. In *Dune*, the beginning is world-building — who is
+   House Atreides, what is spice, what are the sandworms, who are the Fremen, what are the politics between the
+   Emperor and the Great Houses. The middle takes all of those established elements and stacks new stories on top
+   of them: the politics advance (we learn the Emperor colluded with the Harkonnens to attack the Atreides), the
+   quasi-religious elements deepen (how sandworm teeth are used for crysknives), and what was abstract/economic
+   in the beginning (spice as a commodity) becomes experiential (we see Paul actually take spice and feel its
+   hallucinogenic effects). The middle's move is: "I've established the baseline — now let me surprise you by
+   adding onto that baseline."
+3. **Advancement in character.** Described as the single most important point in the whole strategy. The middle
+   is the *only* place available to get a character from who they were at the start of the story to who they'll
+   become by the end — its job is to make that transition convincing, shown in real time rather than stated. In
+   *Dune*, Paul is a boy at the beginning and unmistakably a man by the end; the middle chapter shows this
+   through small, concrete signs rather than exposition: Jessica looks at Paul and is struck that he resembles
+   his father; Paul takes charge of the camp, plants the thumper to distract the sandworm, and teaches Jessica
+   the irregular "sand-walk" needed to cross the desert without being eaten. The middle is where a character's
+   change into a different person actually gets shown happening, not summarized after the fact.
+4. **Advancement in knowledge.** For each middle chapter/section, ask: what do the readers learn here that they
+   didn't know in the previous one? There should be at least one small revelation per chapter, or the story
+   starts to feel like it's treading water. These don't need to be huge — in this Dune chapter, the reader
+   already knew spice smells like cinnamon, but here they get a close encounter with a sandworm and smell its
+   breath, realizing for the first time that sandworms eat spice. Not world-changing, but real forward motion.
+   Likewise, a very small beat where the party gets snuck up on by the Fremen teaches both characters and reader
+   that the Fremen are sneakier than anyone had given them credit for. The point isn't to force a giant reveal
+   into every chapter — it's to make sure each one leaves the reader knowing something they didn't know before,
+   about the characters, the world, or the plot.
+5. **Advancement through rhyming plots.** Described as probably the single most important point in the whole
+   video, alongside #3. Don't feel pressure to invent entirely new plotlines in the middle — instead, mirror or
+   rhyme with plots that came earlier in the story, dramatizing the same underlying principle at a different,
+   often more intimate, scale. In *Dune*, an earlier scene establishes the abstract principle "sandworms are
+   dangerous" via a spice harvester being swallowed whole, with all its machinery. The middle chapter dramatizes
+   the *same* principle again, except now it's just two people on foot in the open sand with no machinery around
+   them at all — same truth, much more intimate stakes. The clue to building a story's middle is often to look
+   back at what was established in the beginning and find a fresh way to dramatize those same elements, rather
+   than reinventing the wheel.
+6. **Add tentpole moments.** One way to think about middle chapters is to give each one a single, memorable
+   "tentpole" event that the rest of that chapter organizes around, like a sun the whole chapter revolves around.
+   In this Dune chapter, the tentpole is Jessica and Paul sprinting across the sand to avoid being eaten by a
+   sandworm; elsewhere in the middle it's Paul's ritualistic knife combat with a Fremen, or the escape from the
+   Sardaukar attack. Not every middle chapter needs a big tentpole moment — some are legitimately more
+   dialogue-based, information-sharing chapters, and those serve a real function as pacing breaks between the
+   more action-oriented ones.
+7. **Keep the balls aloft.** Much of the middle isn't about building or advancing at all — it's about
+   *delivering on the promise* of the early chapters. If the beginning established humor, hijinks, or romance,
+   those threads have to keep showing up through the middle, or readers who kept reading past the opening
+   because they liked those elements will feel cheated, and the book won't feel unified as a whole. In this Dune
+   chapter, Jessica reminds herself of a Bene Gesserit axiom ("the mind can go in either direction under
+   stress"), the established theme of water's scarcity/importance in the desert continues, a small detail ("the
+   first moon will be up soon") quietly reinforces that this is an alien world rather than Earth, and Paul's
+   prescience is referenced twice. Much of writing the middle is simply maintaining the same pleasures, themes,
+   and texture already delivered in the beginning.
+8. **Point to the next stage of the story.** The middle is the easiest place for a reader to abandon a book,
+   which makes it the natural place to lean into cliffhanger-style chapter endings. This Dune chapter ends on
+   exactly that note — the Fremen sneak up on and surprise the protagonists. But the strongest version does more
+   than just end on a surprise: it resolves the chapter's own immediate question ("will the desert kill them? No
+   — they made it out of the sandworm's territory") while immediately substituting a new one in its place ("will
+   the Fremen kill them?", since the Fremen explicitly say they'll kill for water). It's that freshly-raised new
+   question, arriving in the same beat that closes the old one, that actually pulls the reader into the next
+   chapter — not the surprise alone.
 
 ---
 

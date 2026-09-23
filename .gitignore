@@ -55,6 +55,54 @@ reference/TODO.md
 reference/Worldspace/
 reference/to-be-integrated/
 
+# Character methodology source books -- full copyrighted texts (several are
+# unauthorized z-library scans), kept locally for reference but never
+# committed to this public repo. The methodology files themselves
+# (reference/character-methodology/methodology/) are plain tracked text and
+# stay in git; only the book files under source-books/ are excluded.
+reference/character-methodology/source-books/
+
+# ----------------------------------------------------------------------------
+# worldbuilding/ -- universe-wide worldbuilding, deliberately NOT bound to any
+# single novel, since every book in this line shares one universe. Two of its
+# subfolders are excluded and the rest is tracked:
+#
+#   worldbuilding/extractions/  tracked -- our own distilled analysis
+#   worldbuilding/nations/      tracked -- nation profiles, rosters, territories
+#   worldbuilding/history/      tracked -- treaties, timelines, world history
+#   worldbuilding/data/         IGNORED -- bulk third-party datasets
+#   worldbuilding/source-books/ IGNORED -- copyrighted source texts
+#
+# Same principle as the character-methodology split above: what we write is
+# tracked, what we merely downloaded is not.
+# ----------------------------------------------------------------------------
+
+# Copyrighted source texts used as reference for nation/region design
+# (e.g. regional-culture geography works). Distilled extractions written from
+# them are tracked; the book files are not.
+worldbuilding/source-books/
+
+# Bulk third-party datasets -- mineral/agricultural/energy/trade data pulled
+# from USGS, FAOSTAT, EIA, Statistics Canada, INEGI, OEC and similar. These are
+# large, freely re-downloadable, and not ours to redistribute. Any analysis
+# written FROM them belongs in extractions/ or nations/ and stays tracked.
+worldbuilding/data/
+
+# Same reasoning, for downloaded source videos + subtitles (copyrighted media,
+# not ours to redistribute) used as general story-structure craft reference --
+# broader than character arcs specifically, so kept alongside
+# story-structure-definitions.md rather than nested under character-methodology/.
+reference/story-structure-source-videos/
+
+# Map screenshots and hand-marked map composites kept as visual reference.
+# These sit on third-party copyrighted base imagery (Google Maps and similar),
+# so the images stay local. The written extraction of each one IS tracked
+# (see worldbuilding/nations/*.md); the image itself is not.
+**/web Screenshot*
+reference/*.png
+reference/*.jpg
+reference/*.jpeg
+
 *.swp
 .DS_Store
 Thumbs.db
