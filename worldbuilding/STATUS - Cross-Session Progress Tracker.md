@@ -91,7 +91,7 @@ Every region moves through the same five stages.
 
 ### 4.1 East Asia — closest to finished, three items left
 
-**Both are in the handoff package at**
+**All three are settled in the handoff package at**
 `y-files/Map Files/Asia (East)/05 follow-up - sem-finalized [not all permanently named]/`
 which contains `ea_series.py`, an enriched `data/polities.csv`, `naming_worksheet.csv`, `series_graph.csv`
 and `open_questions.csv`. **That package supersedes every earlier East Asia output.**
