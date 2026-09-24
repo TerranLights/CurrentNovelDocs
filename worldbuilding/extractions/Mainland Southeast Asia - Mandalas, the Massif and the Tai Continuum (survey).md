@@ -11,7 +11,7 @@ Theravada, and archipelagic rather than riverine. Where it abuts, it is named an
 **Companion file:** the material-base survey, still to be written.
 
 ⚠️ **This is a first pass built from a limited source set.** The web-search budget for the session was
-exhausted before it began, so it rests on ten directly-fetched references. Every figure below is
+exhausted before it began, so it rests on thirteen directly-fetched references. Every figure below is
 sourced, but the survey is **thinner than the Latin America and East Asia passes** and should be treated as a
 frame to argue with rather than a finished analysis. Gaps are flagged rather than filled.
 
@@ -238,10 +238,24 @@ its edges; Laos is highlands with a river down one side.
 in 1707** and fell to French rule in 1893. ⚠️ The three-way split is worth following up: it suggests Laos has
 a precedent for fragmenting along internal lines, which no other mainland state in this survey does.
 
-⚠️ **The official Lao Loum / Lao Theung / Lao Soung classification** — lowland, midland, highland — is named
-from general knowledge and **was not found in the source consulted.** If it holds, it is remarkable for this
-project: a state that classifies its own peoples **by elevation**, which is Zomia's own organizing axis
-adopted as administrative policy.
+**✅ CONFIRMED — Laos classifies its own peoples by elevation.** The traditional geographical scheme is
+**Lao Loum (lowland), Lao Theung (midland), Lao Sung (highland)**, and it is in use.
+
+**This is remarkable for the project: Zomia's own organizing axis, adopted as administrative policy by the
+state sitting inside it.** Every other country in this atlas classifies its peoples by ethnicity, language or
+religion. Laos classifies them by **altitude** — which is Scott's entire argument, rendered as a government
+filing category.
+
+**The underlying diversity is enormous for 7.5 million people: 49 main ethnicities, over 160 ethnic groups,
+73 languages**, across five language families — **Tai-Kadai** (Lao ~3 million, Tai Lue ~300,000),
+**Austro-Asiatic** (Khmu 389,694), **Hmong-Mien** (Hmong Njua 245,600, Hmong Daw 200,000), **Tibeto-Burman**
+(Akha ~58,000) and a handful of **Austronesian** Cham.
+
+⚠️ **No population share was retrieved for the three elevation tiers**, and that is the figure worth having —
+it would say directly how much of Laos is massif.
+
+⚠️ **Lao authorities do not use the term "indigenous peoples."** Noted because it is a deliberate choice with
+consequences, and because it differs from how Latin America's frameworks treat the same question.
 
 ### 3.5 Cambodia — the homogeneous one
 
@@ -263,11 +277,68 @@ city in the world — an urban sprawl of 2,980 km², possibly a million inhabita
 
 **And here is the finding this project should care about most:**
 
-> **Angkor was abandoned in 1432 due to ecological failure and infrastructure collapse.**
+> **Angkor was abandoned around 1431 due to ecological failure and infrastructure collapse.**
 
 **The greatest civilization in Southeast Asian history died of exactly what this setting is about**, and it
 died that way six hundred years before the war of 2083. **Mainland Southeast Asia has a collapse in its own
 past, at its own center, and remembers it.** No other region in this atlas has that.
+
+### 3.6 How Angkor actually died — the anatomy, because it is the useful part
+
+**Angkor was a "hydraulic city."** An infrastructure system of barays (reservoirs) and canals for storing and
+dispersing water, connecting an urban sprawl of **at least 1,000 km²** and supporting **750,000 to 1,000,000
+people.** Everything about it depended on that network being maintained.
+
+**The sequence, as the evidence has it:**
+
+1. **Climate shock, and it is measured.** **Dendrochronology is decisive here** — tree-ring chronologies
+   establish **severe drought across mainland Southeast Asia in the early 15th century**, and **Angkor's
+   canals and reservoirs ran dry.** Earlier work shows that across the 14th–15th centuries the monsoon first
+   **weakened and was then followed by extreme flooding.** Not one shock but whiplash, which is worse.
+2. **The institutions that justified maintenance lost their legitimacy.** **The rise of Theravada Buddhism may
+   have eroded the royal personality cult** that sustained monument construction — and with it, the
+   maintenance of the waterways that irrigation depended on.
+3. **Maintenance stopped**, and weakened royal authority could not restart it.
+4. **An outside blow finished it.** Ayutthaya sacked the city, but **the conquest exploited existing
+   vulnerabilities rather than causing the collapse.**
+
+**The scholarly consensus, stated plainly: environmental stress revealed structural vulnerabilities that
+military conquest then exploited.**
+
+**Why this is worth more to the project than a date.** Step 2 is the part that does not appear in any other
+collapse in this atlas. **The waterworks did not fail technically. They failed because the belief system that
+made maintaining them worth doing was replaced.** A civilization can hold all the engineering knowledge it
+needs and still stop using it, because the reason went away first.
+
+⚠️ *"May have eroded"* is the source's own hedge and should be kept. The religious mechanism is a proposal,
+not a settled finding; the drought evidence is much harder.
+
+### 3.7 The Khmer Krom — the pattern completes
+
+**~1.32 million ethnic Khmer live in Vietnam** (2019 census), concentrated in **Sóc Trăng (362,029), Trà Vinh
+(318,231) and Kiên Giang (211,282)** — the Mekong Delta. A further ~1.2 million are counted in Cambodia,
+with diaspora in the US, France and Australia. They are one of Vietnam's 54 recognized minorities and have
+been UNPO members since 2001.
+
+**The delta was Khmer for over 800 years, and changed hands by settlement rather than conquest.** A weakened
+Khmer state left it poorly administered; Vietnamese refugees migrated in; **in 1623 King Chey Chettha II
+approved Vietnamese settlement**; by **1698** Vietnamese administrators had reorganized the territory on
+Vietnamese lines; and **by 1757 the major centers — Sa Đéc, Châu Đốc — were absorbed.**
+
+**So every major people on the mainland is cut by a border:**
+
+| People | Cut by | Scale |
+|---|---|---|
+| **Lao** | the Thai border | ~22M in Isan against 7.5M in Laos |
+| **Tai** | five borders at once | ~93M from Guangxi to Assam |
+| **Khmer** | the Vietnamese border | ~1.32M in the Mekong Delta |
+| **Zhuang / Nùng** | the Sino-Vietnamese border | 15M+ under two names |
+
+**This is not incidental — it is what the region is.** The mandala system had no borders; the European
+successor states drew them across peoples who had never been divided by anything.
+
+**And it produces a symmetry worth noticing:** **Vietnam's rice bowl sits on land that was Khmer for eight
+centuries, and depends for half its dry-season water on a Cambodian lake.**
 
 ---
 
@@ -299,6 +370,9 @@ All retrieved 2026-09-23. **A small set, and that is this file's main limitation
 - [Greater India](https://en.wikipedia.org/wiki/Greater_India)
 - [Laos](https://en.wikipedia.org/wiki/Laos)
 - [Cambodia](https://en.wikipedia.org/wiki/Cambodia)
+- [Angkor](https://en.wikipedia.org/wiki/Angkor)
+- [Khmer Krom](https://en.wikipedia.org/wiki/Khmer_Krom)
+- [Ethnic groups in Laos](https://en.wikipedia.org/wiki/Ethnic_groups_in_Laos)
 
 **Named but not read:** Wolters on the mandala; Scott, *The Art of Not Being Governed* (2009); van Schendel
 (2002); Lieberman and Brass on the Zomia critique; Tambiah on galactic polities; Anthony Reid on the age of

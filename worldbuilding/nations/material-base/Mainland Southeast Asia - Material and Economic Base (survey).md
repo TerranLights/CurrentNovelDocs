@@ -6,7 +6,7 @@ survives a collapse.
 **Companion:** `../../extractions/Mainland Southeast Asia - Mandalas, the Massif and the Tai Continuum (survey).md`
 
 ⚠️ **Thinner than the East Asia and Latin America material passes**, and deliberately marked as such. The
-session's web-search budget was exhausted before this began, so it rests on eight directly-fetched sources.
+session's web-search budget was exhausted before this began, so it rests on thirteen directly-fetched sources.
 **Treat every figure as sourced but the coverage as partial.** §6 collects what is missing.
 
 ---
@@ -216,6 +216,39 @@ the last war's ordnance is still a live constraint on the next century.**
 
 ---
 
+## 2.7 Cambodia — feeds itself, cannot earn
+
+**GDP $33.8 billion (2024)**, growing 6.6%. **Exports $26.16 billion (2024)** — clothing, precious-metal
+scraps, trunks and cases, gold, leather footwear. Agriculture 25.3% of GDP, industry 32.8%, services 41.9%.
+**Gross external debt $11.92 billion (Dec 2024)**, roughly 35% of GDP. Offshore oil and gas exist.
+
+**Its first-order subdivisions: 25 provinces plus Phnom Penh**, which is an *autonomous municipality* rather
+than a province but is governmentally equivalent — **26 units, all drawable.** The largest are Kandal
+(1,352,198), Prey Veng (1,277,867), Battambang (1,132,017), Siem Reap (1,099,825), Takéo (1,097,243) and
+Kampong Cham (1,062,914); Phnom Penh holds 2,352,851.
+
+### The contrast with Laos is the finding
+
+**Cambodia's export partners are the United States at 35.7% and Germany at 6.12%.** Laos's are China at 39.1%
+and Thailand at 34.3%.
+
+**So the two smallest mainland economies fail in opposite directions:**
+
+| | Sells to | What collapse takes |
+|---|---|---|
+| **Laos** | **neighbors** (73.4% to two) | the customers, not the means — the dams still stand |
+| **Cambodia** | **the West** (35.7% to the US alone) | **the entire market**, at a stroke |
+
+**Cambodia's economy is garments for transoceanic buyers — the most collapse-fragile structure available.**
+A country that earns by sewing clothes for people on the other side of the world stops earning the moment
+the shipping does.
+
+**And yet it is among the best-fed places in the atlas**, because the Tonlé Sap supplies 60% of its protein
+without infrastructure of any kind. **Cambodia can feed itself and cannot earn; Laos can generate power and
+cannot sell it.** Neither is poor in the way the other is.
+
+---
+
 ## 3. Post-collapse assessment
 
 Using the project's three-tier framework: **survives regardless / repairable with effort / gone for good.**
@@ -318,5 +351,7 @@ All retrieved 2026-09-23.
 - [Cambodia](https://en.wikipedia.org/wiki/Cambodia)
 - [Energy in Laos](https://en.wikipedia.org/wiki/Energy_in_Laos)
 - [Economy of Laos](https://en.wikipedia.org/wiki/Economy_of_Laos)
+- [Economy of Cambodia](https://en.wikipedia.org/wiki/Economy_of_Cambodia)
+- [Provinces of Cambodia](https://en.wikipedia.org/wiki/Provinces_of_Cambodia)
 
 *(`Mining in Myanmar` returned HTTP 404 and was replaced by `Economy of Myanmar`, which covers less.)*
