@@ -89,16 +89,24 @@ Every region moves through the same five stages.
 
 ## 4. Open work, in priority order
 
-### 4.1 East Asia — closest to finished, two items left
+### 4.1 East Asia — closest to finished, three items left
 
 **Both are in the handoff package at**
 `y-files/Map Files/Asia (East)/05 follow-up - sem-finalized [not all permanently named]/`
 which contains `ea_series.py`, an enriched `data/polities.csv`, `naming_worksheet.csv`, `series_graph.csv`
 and `open_questions.csv`. **That package supersedes every earlier East Asia output.**
 
-1. **⚠️ NAME THE FOUR PLACEHOLDERS.** `NCP` (The North China Plain), `NW` (The Northwest), `NKO` (Northern
-   Korea), `SKO` (Southern Korea). Fill `final_name` / `final_map_label` in `naming_worksheet.csv`, copy into
-   `polities.csv`, re-run the renderer. **The Koreas must not use present-day state names.**
+1. **⚠️ NAMING — two parts, both author-led.**
+
+   **(a) The four placeholders must be named:** `NCP` (The North China Plain), `NW` (The Northwest), `NKO`
+   (Northern Korea), `SKO` (Southern Korea). **The Koreas must not use present-day state names.**
+
+   **(b) ⚠️ Slight adjustments to the naming more broadly** — author-stated 2026-09-24, specifics not yet
+   given. **This is not limited to the four placeholders**; names already marked `WORKING` or `ESTABLISHED`
+   may also be tweaked. **Ask which ones before changing anything.**
+
+   **Mechanically, both are the same edit:** fill `final_name` / `final_map_label` in `naming_worksheet.csv`,
+   copy into `polities.csv`, re-run the renderer. Every map updates because every map reads the same row.
    *The package carries `precedent_names_from_notes` — Qin, Shu, Wuyue, Chu and others already cited in our
    own notes — so this is a choosing problem, not a research problem.*
 2. **⚠️ DECIDE THE TWO BRANCH ORDERS**, or confirm they stay parallel: **B1 or B2 first** (Qinghai, or the
