@@ -11,7 +11,7 @@ Theravada, and archipelagic rather than riverine. Where it abuts, it is named an
 **Companion file:** the material-base survey, still to be written.
 
 ⚠️ **This is a first pass built from a limited source set.** The web-search budget for the session was
-exhausted before it began, so it rests on a small number of directly-fetched references. Every figure below is
+exhausted before it began, so it rests on ten directly-fetched references. Every figure below is
 sourced, but the survey is **thinner than the Latin America and East Asia passes** and should be treated as a
 frame to argue with rather than a finished analysis. Gaps are flagged rather than filled.
 
@@ -216,12 +216,58 @@ See headline 6. The cultural placement is the load-bearing fact: **Vietnam belon
 world, not this one**, and any map treating mainland Southeast Asia as a unit is making a claim that the
 sources do not support.
 
-### 3.4 Laos and Cambodia — ⚠️ not researched
+### 3.4 Laos — the massif with a flag on it
 
-**Neither was covered in this pass.** Laos is the one country **entirely inside the massif**, which makes it
-structurally unlike its neighbors. Cambodia carries the Khmer Empire's successor identity and the Angkor
-mandala's memory. **Both need their own treatment before any division is proposed**, and their absence is the
-second-largest gap here after Myanmar's conflict map.
+**7.5+ million people. 17 provinces plus Vientiane Prefecture. The only landlocked country in Southeast Asia**,
+bordered by all five of its neighbors: Myanmar, China, Vietnam, Cambodia and Thailand.
+
+**The ethnic composition is the finding: Lao 53.2%.** Then **Khmu 11%**, **Hmong 9.2%**, Phu Thai 3.4%,
+Tai 3.1%, and a long tail (2015 census).
+
+**So Laos is barely a Lao-majority state, and nearly half of it is highland peoples.** Set beside the Isan
+figure, this produces something genuinely strange and worth building on:
+
+> **The Lao nation's demographic center sits in Thailand, and the Lao state is itself only half Lao.**
+> There are roughly three times more ethnic Lao in Isan than in Laos, and inside Laos the Lao are 53.2%.
+
+**Laos is therefore the one country in this survey that *is* Zomia rather than merely containing it.** Its
+ethnic composition is the massif's composition. Every other mainland state is a lowland core with highlands at
+its edges; Laos is highlands with a river down one side.
+
+**Lan Xang**, 13th–18th centuries, was the mandala — a hub for overland trade. It **split into three kingdoms
+in 1707** and fell to French rule in 1893. ⚠️ The three-way split is worth following up: it suggests Laos has
+a precedent for fragmenting along internal lines, which no other mainland state in this survey does.
+
+⚠️ **The official Lao Loum / Lao Theung / Lao Soung classification** — lowland, midland, highland — is named
+from general knowledge and **was not found in the source consulted.** If it holds, it is remarkable for this
+project: a state that classifies its own peoples **by elevation**, which is Zomia's own organizing axis
+adopted as administrative policy.
+
+### 3.5 Cambodia — the homogeneous one
+
+**~17 million people, and 95.4% Khmer.** Cham 2.4%, Chinese 1.5%, other 0.8%.
+
+**That makes Cambodia the most ethnically homogeneous state on the mainland by a wide margin** — against
+Myanmar's 68.78% Bamar, Vietnam's 85.32% Kinh, Thailand's large Isan minority and Laos's 53.2%. **In a survey
+whose whole subject is peoples cut across borders, Cambodia is the one country that is simply itself.**
+
+**⚠️ And that homogeneity is partly an atrocity's residue**, which should not be stated without the cause.
+The **Khmer Rouge killed an estimated 1–3 million people between 1975 and 1979 — commonly cited as 2 million,
+roughly a quarter of the population — and targeted minorities disproportionately.** About **half the Cham
+Muslim population** was exterminated; the Vietnamese population fell from 250,000–300,000 in 1969 to roughly
+**56,000 by 1984.** Cambodia is homogeneous in part because its minorities were killed.
+
+**The Khmer Empire** was founded in **802 AD** when Jayavarman II unified the Khmer princes as *Kambuja*. It
+became the largest Southeast Asian empire of the 12th century, and **Angkor was the largest pre-industrial
+city in the world — an urban sprawl of 2,980 km², possibly a million inhabitants.**
+
+**And here is the finding this project should care about most:**
+
+> **Angkor was abandoned in 1432 due to ecological failure and infrastructure collapse.**
+
+**The greatest civilization in Southeast Asian history died of exactly what this setting is about**, and it
+died that way six hundred years before the war of 2083. **Mainland Southeast Asia has a collapse in its own
+past, at its own center, and remembers it.** No other region in this atlas has that.
 
 ---
 
@@ -251,6 +297,8 @@ All retrieved 2026-09-23. **A small set, and that is this file's main limitation
 - [Administrative divisions of Myanmar](https://en.wikipedia.org/wiki/Administrative_divisions_of_Myanmar)
 - [Vietnam](https://en.wikipedia.org/wiki/Vietnam)
 - [Greater India](https://en.wikipedia.org/wiki/Greater_India)
+- [Laos](https://en.wikipedia.org/wiki/Laos)
+- [Cambodia](https://en.wikipedia.org/wiki/Cambodia)
 
 **Named but not read:** Wolters on the mandala; Scott, *The Art of Not Being Governed* (2009); van Schendel
 (2002); Lieberman and Brass on the Zomia critique; Tambiah on galactic polities; Anthony Reid on the age of

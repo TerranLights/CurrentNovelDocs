@@ -6,7 +6,7 @@ survives a collapse.
 **Companion:** `../../extractions/Mainland Southeast Asia - Mandalas, the Massif and the Tai Continuum (survey).md`
 
 ⚠️ **Thinner than the East Asia and Latin America material passes**, and deliberately marked as such. The
-session's web-search budget was exhausted before this began, so it rests on five directly-fetched sources.
+session's web-search budget was exhausted before this began, so it rests on six directly-fetched sources.
 **Treat every figure as sourced but the coverage as partial.** §6 collects what is missing.
 
 ---
@@ -113,6 +113,64 @@ best positioned to survive it.
 
 ---
 
+## 2.5 The Tonlé Sap — the most consequential object in the region
+
+**A lake that reverses a river twice a year, and feeds a country.**
+
+During the rainy season the swollen Mekong **pushes backwards into the lake.** By November, as the Mekong
+drops below the lake's level, the flow reverses again and drains it for six months. **Mean annual reverse
+flow: 30 km³ — about half the lake's maximum volume.**
+
+**The scale of the pulse:**
+
+| | Dry season | Flood |
+|---|---|---|
+| **Area** | 2,500–3,000 km² | **16,000 km²** |
+| **Depth** | ~1 m | **9–14 m** |
+
+**What it does:**
+
+- **60% of Cambodia's annual freshwater catch**, and **60% of the country's protein intake.**
+- Cambodia produces ~400,000 tonnes of freshwater fish a year, the majority from this lake.
+- **Fisheries are 16% of national GDP.** **1.2 million people** depend on the lake directly.
+- It acts as a **flood safety valve** for everything downstream — and it supplies **roughly 50% of the Mekong
+  Delta's dry-season flow to Vietnam.**
+
+**So the dependency chain runs: upstream dams → the flood pulse → the Tonlé Sap → 60% of Cambodia's protein
+AND half of Vietnam's dry-season delta flow.**
+
+**That single sentence is the region's material structure.** The lake is not a Cambodian asset; it is the
+mechanism by which the Mekong's seasonality is converted into food and fresh water for two countries. **Flatten
+the pulse and both ends fail at once** — Cambodia loses its protein, and the Vietnamese delta loses the
+freshwater that holds back salt.
+
+**⚠️ It is already failing.** High dams in southern China and Laos are projected to cut fish numbers by
+disrupting the countercurrent and removing floodplain spawning habitat. **July 2020 saw the lowest water for
+that month in sixty years**, from El Niño combined with tributary impoundment.
+
+---
+
+## 2.6 Laos — selling the one thing it has
+
+**7.5+ million people, 17 provinces plus Vientiane Prefecture, and the only landlocked country in Southeast
+Asia.** It borders all five of its neighbors, which in a collapse is either a trade position or a problem
+depending on who is functioning.
+
+**It holds 2 of the 15 mainstream Mekong dams** — the only non-Chinese ones — and has built its economy on
+selling hydropower, overwhelmingly to Thailand. ⚠️ **The export figures were not retrieved** and this is the
+largest remaining hole in the file.
+
+**And it is the most heavily bombed country per capita in history.** Between 1964 and 1973 the US dropped
+**more than 2 million tons of bombs** on Laos. **Some 80 million failed to explode and remain scattered
+across the country**, still killing or injuring about **50 people a year.**
+
+**For a post-collapse setting that is a permanent terrain feature, not a historical note.** Clearance is slow,
+expensive and externally funded; when the funding stops, the clearance stops, and large areas of a country
+that is already mostly mountains become permanently denied ground. **Laos is the one place in this atlas where
+the last war's ordnance is still a live constraint on the next century.**
+
+---
+
 ## 3. Post-collapse assessment
 
 Using the project's three-tier framework: **survives regardless / repairable with effort / gone for good.**
@@ -123,6 +181,9 @@ Using the project's three-tier framework: **survives regardless / repairable wit
   are the deltas. **This region feeds itself after a collapse, which almost nothing else in the atlas can say.**
 - **The Mekong fishery — conditionally.** It is wild capture, requiring no infrastructure. It depends entirely
   on what the upstream dams do. See below.
+- **The Tonlé Sap — on the same condition, and it is the sharper case.** The lake needs no infrastructure
+  whatever; it needs a flood pulse. **Restore the pulse and it feeds Cambodia indefinitely; flatten it and
+  60% of a nation's protein goes with it.**
 - **Gems.** Rubies and sapphires need eyes and hands, not a supply chain. Myanmar's gem economy is among the
   most collapse-proof assets anywhere in this atlas.
 - **The massif.** Zomia's ~100 million highlanders live above the reach of lowland states by definition. A
@@ -141,6 +202,8 @@ Using the project's three-tier framework: **survives regardless / repairable wit
   shipping do not.
 - **Hydropower at scale**, and with it the modern Thai and Lao grids. **Laos in particular has built its
   economy on selling electricity** and would lose the market and the means together.
+- **UXO clearance in Laos.** Externally funded and slow; when the funding stops it stops, leaving **80 million
+  unexploded bombs** in place as permanent denied ground. This is not a loss the region recovers from.
 
 ### ⚠️ The dam question, which decides the region
 
@@ -178,9 +241,9 @@ Offered, not asserted.
 
 1. ⚠️ **Thailand, Vietnam, Laos and Cambodia's minerals were not researched at all.** The **Southeast Asian
    tin belt** is the specific omission — historically world-significant and entirely absent here.
-2. ⚠️ **Laos and Cambodia were not researched in either survey.** Laos is the only country entirely inside the
-   massif and has built its economy on hydropower exports; Cambodia carries the Khmer successor identity.
-   **Both need their own pass.**
+2. ⚠️ **Laos's hydropower export figures** — volume, value and contract terms with Thailand — were not
+   retrieved. Laos built its economy on selling electricity and this is the one number that says how much it
+   loses in a collapse. **The single largest remaining gap in this file.**
 3. ⚠️ **Myanmar's conflict map** — which armed groups hold which ground — was not established. It is the
    single most important gap across both files.
 4. ⚠️ **Myanmar's gas and teak figures are old** (2012 and the colonial period respectively).
@@ -203,5 +266,8 @@ All retrieved 2026-09-23.
 - [Mekong](https://en.wikipedia.org/wiki/Mekong)
 - [Economy of Myanmar](https://en.wikipedia.org/wiki/Economy_of_Myanmar)
 - [Rice production in Thailand](https://en.wikipedia.org/wiki/Rice_production_in_Thailand)
+- [Tonlé Sap](https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap)
+- [Laos](https://en.wikipedia.org/wiki/Laos)
+- [Cambodia](https://en.wikipedia.org/wiki/Cambodia)
 
 *(`Mining in Myanmar` returned HTTP 404 and was replaced by `Economy of Myanmar`, which covers less.)*
