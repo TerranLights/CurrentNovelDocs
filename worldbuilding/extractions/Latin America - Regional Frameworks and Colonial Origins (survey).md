@@ -47,8 +47,10 @@ flagged ⚠️.
 Recorded so the next phase does not have to rediscover them. None of these are research findings; they are
 existing canon supplied by the author.
 
-- **The Republic of Sonora already holds** Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas, plus
-  Arizona and New Mexico. This survey's scope begins south of that line.
+- **La República de Sonora holds Arizona, New Mexico, Sonora and Chihuahua** — those four only.
+  ⚠️ **Corrected by the author 2026-09-23.** An earlier version of this line wrongly added **Coahuila, Nuevo
+  León and Tamaulipas**. Those three belong to **no nation at all** — they are unpartitioned on the map and
+  are therefore **in scope for this survey** as unclaimed ground a Latin American region could claim.
 - **Cascadia holds both Bajas** — Baja California and Baja California Sur. The practical consequence is
   easy to miss and worth stating: **the Gulf of California is an international frontier, not an internal
   sea.** Mainland Mexico's Pacific coast faces a foreign shore across it.

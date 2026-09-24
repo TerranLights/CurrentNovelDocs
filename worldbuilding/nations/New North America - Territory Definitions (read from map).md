@@ -18,7 +18,7 @@ noted, because several of them are substantial and deliberate-looking.
 | **Alaska** (Republic of Alaska) | Alaska **minus the Panhandle**, plus **Yukon, Northwest Territories, Nunavut**, and the Arctic Archipelago |
 | **The People's Democratic Republic of Cascadia** | **Alaska Panhandle**, **British Columbia**, **Washington**, **Oregon**, **California**, **Baja California**, **Baja California Sur** |
 | **Colorado** (Colorado Republic) | **Montana, Idaho, Wyoming, Nevada, Utah, Colorado** |
-| **Sonora** (La República de Sonora) | **Arizona, New Mexico**; and in Mexico **Sonora, Chihuahua, Coahuila, Nuevo León, Tamaulipas** |
+| **Sonora** (La República de Sonora) | **Arizona, New Mexico**; and in Mexico **Sonora** and **Chihuahua** only |
 | **The Prairie Federation** | **Alberta, Saskatchewan, Manitoba**, and western **Ontario** |
 | **The Midwest Republic** (colloq. "Midwestland") | **North Dakota, South Dakota, Minnesota, Nebraska, Iowa, Kansas, Missouri** |
 | **New England** | **Pennsylvania, New Jersey, New York, Connecticut, Rhode Island, Massachusetts, Vermont, New Hampshire, Maine** |
@@ -29,6 +29,48 @@ noted, because several of them are substantial and deliberate-looking.
 | **DMZ** | A narrow band through southern/central **Ontario**, between the Great Lakes and Quebec |
 
 Mexico south of the northern tier, and all of Central America, are left **unclaimed** on the map.
+
+---
+
+## Correction 2026-09-23 — Sonora is four states, not seven
+
+**Author correction.** La República de Sonora comprises **Arizona, New Mexico, Sonora and Chihuahua** — and
+nothing else. An earlier reading of this map wrongly extended it east to include **Coahuila, Nuevo León and
+Tamaulipas**. Those three are **white on the map: unpartitioned**, belonging to no nation.
+
+**Consequences:**
+
+- The CSA reaches the Rio Grande and stops. **Tamaulipas is not CSA territory**, so the Rio Grande is the CSA's
+  southern limit rather than a CSA/Sonora border along its whole length.
+- **Coahuila, Nuevo León and Tamaulipas are in scope for the Latin America work**, as unclaimed ground that a
+  Latin American region may eventually claim.
+- `material-base/Sonora - Real-World Material Base.md` researched all seven. That research is **retained and
+  still accurate** — it simply describes three territories that turn out not to be Sonoran. See the scope note
+  at the top of that file.
+
+---
+
+## Settled 2026-09-23 — Washington and Oregon are wholly Cascadian
+
+The map as originally drawn **split Washington and Oregon** along roughly the Cascade crest, giving the
+coastal halves to Cascadia and the interior halves to the Colorado Republic. **The author is redrawing to make
+both states wholly Cascadian**, adopting whole-states-only as an absolute rule. The table above already
+reflects the settled outcome.
+
+Two reasons, one cultural and one material:
+
+1. **Legibility.** Every other border on the map follows a state or provincial line. A reader can hold
+   "Oregon is Cascadia"; they cannot hold "Oregon west of the Cascade crest."
+2. **The Columbia Gorge.** It is the only sea-level route through the Cascades, carrying I-84, US-30, SR-14,
+   both the UP and BNSF mainlines, and the barge channel in a single 80-mile canyon — and the Columbia is the
+   Washington/Oregon boundary for much of its length. A crest-line border would have put an international
+   frontier straight through the country's most important transport chokepoint.
+
+**What this does not change:** Cascadia still merges two of Woodard's culturally opposed nations, the Left
+Coast and the Far West, and the east-west seam between them is still the country's real structural weakness.
+That seam is now an internal fault rather than an international border — see
+`../extractions/American_Nations_to_New_North_America_Cross-Reference.md` and the "ladder, not a chain"
+finding in `material-base/Cascadia - Industry, Ports and Transport (supplement).md`.
 
 ---
 
@@ -64,11 +106,15 @@ the Appalachian core. That means **Appalachia, not Midwestland, holds most of th
 manufacturing capacity**: Detroit, Chicago, Cleveland, Pittsburgh-adjacent industry, and the Great Lakes
 shipping system.
 
-### 5. Texas is entirely CSA
+### 5. Texas is entirely CSA — and most of its southern border faces nobody
 
 Despite Woodard's El Norte reaching well into south and west Texas, the map gives the whole state to the CSA.
-Sonora stops at the New Mexico line. A consequence: the **Rio Grande becomes an international border between
-Sonora and the CSA**, which turns real-world US–Mexico water allocation into an in-world Sonora/CSA dispute.
+
+The Rio Grande is therefore an international border for its whole length, but **only its upper stretch is a
+Sonora/CSA border** — the El Paso–Ciudad Juárez section and east to roughly Presidio, where Texas faces
+**Chihuahua**. Below that, Texas faces **Coahuila, Nuevo León and Tamaulipas, which belong to no nation at
+all.** So the CSA's long southern frontier is mostly against unclaimed ground rather than against a state, and
+real-world US–Mexico water allocation becomes a Sonora/CSA dispute only on the upper river.
 
 ### 6. The Alaska Republic is the largest region by area and among the smallest by population
 

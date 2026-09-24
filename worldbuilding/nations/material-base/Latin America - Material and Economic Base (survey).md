@@ -24,9 +24,14 @@ position legible. Where a country or a deposit is named, it is named because it 
 
 **Explicitly out of scope:**
 
-- **Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas**, plus **Arizona and New Mexico** — all held by the
-  Republic of Sonora and covered in `Sonora - Real-World Material Base.md`. That material is not repeated here; where
-  the two files touch, this one says so.
+- **Sonora and Chihuahua**, plus **Arizona and New Mexico** — the four territories of La República de Sonora,
+  covered in `Sonora - Real-World Material Base.md`. That material is not repeated here; where the two files
+  touch, this one says so.
+  ⚠️ **Corrected by the author 2026-09-23.** An earlier version of this line also excluded **Coahuila, Nuevo
+  León and Tamaulipas**. Those three are **unpartitioned — in scope, claimed by nobody.** They are already
+  researched in detail in the Sonora file (Monclova and AHMSA, the Sabinas coal basin, the Burgos gas basin,
+  Monterrey, the Comarca Lagunera, Saltillo/Ramos Arizpe, Met-Mex Peñoles at Torreón); read that material as a
+  dossier on unclaimed ground rather than as another nation's assets.
 - **Both Bajas — Baja California and Baja California Sur**, which are Cascadia's. **The Gulf of California is
   therefore an international frontier, not an internal sea**, and its western shore is outside this survey entirely.
   This matches the Sonora file's treatment; see its §0.

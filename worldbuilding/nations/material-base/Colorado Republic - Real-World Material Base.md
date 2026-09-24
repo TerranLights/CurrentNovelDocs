@@ -18,9 +18,11 @@ Wyoming, Idaho, and Montana**.
   territory the project's own map assigns to the **Prairie Federation**. This is exactly where the Ogallala
   aquifer lives, so the eastern border decision directly determines whether the Colorado Republic controls a
   fossil-water breadbasket or not.
-- The Far West also extends **west** into interior Washington and interior Oregon — territory the project's
-  map assigns to **Cascadia**. That border decision determines who controls the lower Snake and the Columbia
-  Plateau.
+- The Far West also extends **west** into interior Washington and interior Oregon. **Settled 2026-09-23: both
+  states are wholly Cascadian**, so the Columbia Plateau and the lower Snake are **not** Colorado Republic
+  territory. The map originally split them at the Cascade crest; the author adopted whole-states-only as an
+  absolute rule and redrew. Woodard's cultural boundary still runs through there — it is simply an internal
+  Cascadian fault line now rather than an international border.
 - Woodard also puts the **Texas panhandle** in the Far West. Almost certainly not Colorado Republic territory,
   but noted for completeness.
 

@@ -57,8 +57,9 @@ That fourth tier is the survey's own addition, not Ribeiro's, and is the weakest
 > Draw a map of Central and South America showing 13 cultural regions. Use `core_territory` as solid fill in
 > `color_hex`, `domain_territory` as the same color at reduced opacity, and `sphere_territory` as a dotted
 > outline. Spheres are expected to overlap between regions — do not resolve the overlaps. Label each region
-> with `region_name`. Include a legend. Leave northern Mexico (Sonora, Chihuahua, Coahuila, Nuevo León,
-> Tamaulipas) and both Baja California peninsulas **unshaded and labeled as belonging to other nations.**
+> with `region_name`. Leave **Sonora and Chihuahua** and both Baja California peninsulas **unshaded and
+> labeled as belonging to other nations.** Note that **Coahuila, Nuevo León and Tamaulipas ARE in scope** —
+> they belong to no nation and are available to be claimed.
 
 **For the simplified map:** same, but color by `ribeiro_tier` instead — four colors, not thirteen.
 
@@ -69,8 +70,9 @@ regions as thin gray lines underneath, since **the mismatch between the two is t
 
 These are settled canon in the wider setting and must not be redrawn:
 
-1. **Northern Mexico is taken.** Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas belong to an existing
-   nation (the Republic of Sonora) and are **out of scope** — leave them unshaded.
+1. **Two Mexican states are taken.** **Sonora and Chihuahua** belong to La República de Sonora (along with
+   Arizona and New Mexico) and are **out of scope** — leave them unshaded.
+   ⚠️ **Coahuila, Nuevo León and Tamaulipas are NOT taken.** They are unpartitioned and **in scope**.
 2. **Both Bajas are taken.** Baja California and Baja California Sur belong to Cascadia. Leave them unshaded.
    This makes the Gulf of California an international frontier rather than an internal sea.
 

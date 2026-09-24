@@ -100,6 +100,61 @@ separately by three different passes that were not in contact with each other.
   mita boundary). The full paper is the single best demonstration of colonial-institutional persistence across
   a sharp border and is worth obtaining properly.
 
+### ⚠️ East Asia — added 2026-09-23
+
+**✅ RESOLVED 2026-09-23 — Qinghai's ethnic composition.** Retrieved: **Han 50.5–54%, Tibetan 20.7–21%, Hui
+16%, Tu 4%, Mongol 1.8%, Salar 1.8%**, total population 5,923,957 (2020). This was the one item blocking a
+border. **It is no longer a research question; it is an author decision**, and the four candidate homes with
+their evidence are set out in `nations/east-asia-map-data/regions-optional.csv`, row O4.
+
+The finding in one line: **Qinghai is Han by population and Tibetan by territory**, and the
+whole-subdivision rule forces a single answer for both.
+
+**Material-base items.** ⚠️ **The full list is 22 items and lives in that survey's own §7, "Explicit
+Uncertainties and Unverified Items," which is kept current there rather than copied here.** Only the ones that
+would change a conclusion are repeated:
+
+- **⚠️ Chinese chromium was not verified, and this may be the sharpest material finding in the pass.**
+  **Without chromium there is no stainless steel regardless of nickel.** That interacts directly with the
+  southern-border decision above — acquiring Gansu's nickel does not by itself buy a stainless industry, so
+  the strongest material argument for the southern provinces may be weaker than it looks. **Settle this before
+  the nickel argument is weighed.**
+- **Japan's calorie self-sufficiency ratio** (~38% commonly cited). MAFF primary source unreachable.
+  Load-bearing for whether Japan feeds itself after a collapse. The 1990 figures *are* verified.
+- **Province-by-province Chinese iron ore reserves** were not obtained, so **the inside/outside-the-line split
+  for iron is unresolved** — and iron is already the sharp vulnerability (reserves average ~34.5% Fe against a
+  world average of 44%).
+- **Chinese potash** — both Lop Nur and the larger Qarhan are outside the line, and neither is verified.
+- **The Shanxi and Xinjiang coal figures use different reserve concepts and do not sum.** Both are the standard
+  cited numbers; they are not comparable. **Do not add them or derive a ratio.**
+- **"FAO Area 61 is the world's most productive fishing region"**; the **232× shipbuilding multiple** (a single
+  leaked Navy slide — contested, not a measurement); and the **container-port table**, which mixes Lloyd's List
+  ranking with World Shipping Council volumes and is internally inconsistent.
+- **Oyu Tolgoi and Tavan Tolgoi** current operating status and ownership — the figures given are design and
+  resource figures, and both projects have contested political histories.
+
+**Frameworks items.** *(That survey carries ~30 flags in place, and its "Named from general knowledge, NOT
+verified this session" section collects the weakest. These are the ones that would change a conclusion.)*
+
+- **Speaker numbers for Huizhou and Pinghua were not retrieved.** Both are among the ten Sinitic groups, so
+  both are candidate members of the Federation, and their size decides whether they are members or footnotes.
+- **The ~1–2 million 1949 arrivals in Taiwan** — the standard figure, not confirmed this session.
+- **Ping-ti Ho's "In Defense of Sinicization"** and the Qing-studies dispute it belongs to: named, not read.
+  Relevant because the whole Manchuria treatment rests on which side of that argument is right.
+- **The Chinese *tusi* chieftaincy system**, the **1997 Ainu Cultural Promotion Act and the 2019 law**, and
+  the **Silla/Goryeo/Joseon succession** are all stated from general knowledge and were **not verified**.
+- **A transliteration error to fix:** "Yongzhong" in the Qing-provinces material should read otherwise —
+  flagged in place in the survey.
+
+**Two assets named but not opened**, either of which could sharpen the next pass:
+
+- **`Doll-Fi/media/Reference/slang-synthesis/`** — a separate repo organized by language family with
+  `LANGUAGE_INDEX.md` as its roster, keyed to the GDD's 43-nation census. **The closest thing in the corpus to
+  an existing ethnolinguistic classification**, and it should be checked against the tier-1 groupings.
+- **The Hu Line's "Present statistics" figures.** The Wikipedia section is empty; the most recent independent
+  measurement was not retrieved. The 2002 and 2015 figures the surveys use are solid, so this is a refinement
+  rather than a gap.
+
 ### ⚠️ Other conclusion-changing items
 
 - **TAPS full of crude.** What actually happens to a pipeline left holding **9,059,057 barrels** of waxy crude

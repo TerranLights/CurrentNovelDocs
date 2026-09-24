@@ -36,8 +36,8 @@ whatever specific event constitutes the War's own Break into Three (~June 2468) 
 
 Maggie's coerced signature on the Falkland Treaty (2564) is repeatedly called **"Tepenia's single deepest
 historical wound"** in the parent repo, explicitly tied to the *same* underlying theme as the Long Night War's
-own inciting incident 248 years later (an Upper Earth diplomat denying a Palmer City gynoid — Akina —
-personhood and trying to assault her; she kills him in self-defense) — both framed as **"a robot denied full
+own inciting incident 248 years later (an Upper Earth diplomat denying a Palmer City gynoid — `TBN [SE-031]`,
+working title "Akina," not developer-confirmed — personhood and trying to assault her; she kills him in self-defense) — both framed as **"a robot denied full
 agency or personhood, with lasting consequences for everyone around her."** Two instances of the same wound,
 two and a half centuries apart, bookending the entire Tepenian era. Worth keeping in mind as a structural
 rhyme across the saga's own eventual ending and the wider universe's later history, even though the Long Night

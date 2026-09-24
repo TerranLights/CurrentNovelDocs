@@ -30,9 +30,22 @@ tracked; what we merely downloaded is not.** Anything worth keeping from a datas
   running tally against the 30+ target.
 - **`nations/z-template - Nation Character Profile.md`** — copy per nation and fill in.
 - **`extractions/American_Nations_Extraction.md`** — the analytical method underneath all of the above.
+- **`METHOD - How Nations Get Drawn.md`** — how the New North America map was actually produced, reverse-
+  engineered from its inputs, and the rules that carry to every other region. Read this before drawing
+  anything. Its core refinement: **a "settling population" is an ethnic identity, tiered** — a major grouping
+  that sets the borders, subdivided into individual identities that set what is inside them.
 - **`extractions/Latin America - Regional Frameworks and Colonial Origins (survey).md`** and
   **`nations/material-base/Latin America - Material and Economic Base (survey).md`** — the same two layers for
   everything south of Sonora. **No nations named yet**; these are the groundwork for deriving them.
+- **`extractions/East Asia - Frontiers, Civilizational Spheres and the Han Core (survey).md`** and
+  **`nations/material-base/East Asia - Material and Economic Base (survey).md`** — the same two layers again,
+  for China, Japan, Korea, Mongolia and Taiwan. **No nations named yet.** Russia is deliberately excluded.
+- **`nations/China - Ethnolinguistic Map (read from reference).md`** — the tier-2 evidence layer for East Asia,
+  read from a third-party language map held outside the repo. The East Asian counterpart of the US county
+  ancestry map.
+- **`nations/latin-america-map-data/`** and **`nations/east-asia-map-data/`** — the surveys converted into
+  machine-readable CSVs plus a README of prompts and constraints, for handing to an image-generating model to
+  draw rough regional maps. **Each folder's README is the instruction sheet**; read it before using the CSVs.
 - **`OPEN RESEARCH ITEMS - recheck list.md`** — everything that failed, could not be verified, or rests on
   something weaker than a source, consolidated from all nine nation files. **This is the list that has to
   reach zero before any of this can be promoted to the Timeline repo.** It also records which domains refuse
@@ -96,4 +109,9 @@ in the original location. The same pattern applies here when the time comes.
 - `reference/character-methodology/` — the character-development pipeline.
 - `reference/Reference/Images/Maps/` — the map images themselves, including
   `North America with tentative labels.jpg`, which `nations/` reads from.
+- **`Doll-Fi/New World/maps/`** — outside this repo entirely, and **easy to forget it exists.** It holds the
+  originals of the third-party reference maps: the US county ancestry map, and the China language map that
+  `nations/China - Ethnolinguistic Map (read from reference).md` reads from. The China map sat there
+  unreferenced by any text file in any repo until 2026-09-23. **Worth checking before assuming a map has to be
+  found — one may already be in hand.**
 - The Tepenian Universe Timeline repo — canonical cross-project chronology.

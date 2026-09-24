@@ -19,7 +19,22 @@ stated neutrally.
 
 **In scope (per the author's map, as corrected 2026-09-22):**
 
-- **Mexico:** Sonora, Chihuahua, Coahuila, Nuevo León, Tamaulipas
+- **Mexico:** **Sonora and Chihuahua only.**
+
+⚠️ **SCOPE CORRECTION, 2026-09-23.** This file was researched on the understanding that La República de Sonora
+also held **Coahuila, Nuevo León and Tamaulipas**. It does not. The author has confirmed the nation is
+**Arizona, New Mexico, Sonora and Chihuahua** — four territories, not seven.
+
+**The material on the three eastern states is deliberately retained**, because it is accurate research that is
+now more useful, not less: those states are **unpartitioned** on the map and are in scope for the Latin America
+work. Anything below concerning **Coahuila, Nuevo León or Tamaulipas** — Monclova and AHMSA, the Sabinas coal
+basin, the Burgos gas basin, Monterrey, the Comarca Lagunera, Saltillo/Ramos Arizpe, Met-Mex Peñoles at
+Torreón — describes **territory belonging to no nation yet**, and should be read as a dossier on unclaimed
+ground rather than as Sonoran assets.
+
+**This materially changes the nation's position.** Sonora loses Monterrey, Mexico's industrial second city; it
+loses AHMSA and the Sabinas coal, which were the basis of any domestic steel claim; and it loses its Gulf of
+Mexico coastline entirely, becoming a Pacific-facing state on the Gulf of California alone.
 - **United States:** Arizona and New Mexico, both entire
 
 **Explicitly out of scope:** all of Texas (assigned to the neighboring CSA) and the Baja California peninsula (assigned
