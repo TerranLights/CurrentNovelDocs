@@ -286,14 +286,16 @@ Offered, not asserted.
 
 1. ⚠️ **Thailand, Vietnam, Laos and Cambodia's minerals were not researched at all.** The **Southeast Asian
    tin belt** is the specific omission — historically world-significant and entirely absent here.
-2. ⚠️ **Laos's hydropower export figures** — volume, value and contract terms with Thailand — were not
-   retrieved. Laos built its economy on selling electricity and this is the one number that says how much it
-   loses in a collapse. **The single largest remaining gap in this file.**
+2. ⚠️ **Laos's electricity exports are largely closed — see §2.6 — with three residuals.** Volume (34 TWh,
+   2022), share of exports (15.35%) and share of GDP (12.8%) are sourced. Still missing: **the dollar
+   revenue**, **the contract terms** with China and Thailand, and a reconciliation of the **2023 energy mix
+   (38% coal against 34% hydropower) with the claim that 80% of generation is hydro.** Do not quote both
+   figures until that is resolved.
 3. ⚠️ **Myanmar's conflict map** — which armed groups hold which ground — was not established. It is the
    single most important gap across both files.
 4. ⚠️ **Myanmar's gas and teak figures are old** (2012 and the colonial period respectively).
-5. ⚠️ **Laos's population** was not retrieved from the same source as the Isan figure, so the
-   "three times more Lao in Thailand than in Laos" comparison is **directionally sound but not verified.**
+5. ✅ **Laos's population is now sourced** — 7.5+ million, against Isan's ~22 million ethnic Lao. The
+   "roughly three times more Lao in Thailand than in Laos" comparison **holds.**
 6. ⚠️ **Vietnam reorganized its provinces in 2025**; the current first-order count is uncertain.
 7. ⚠️ **No economic-complexity data** was gathered for any of the five. The East Asia and Latin America
    surveys both used ECI as their quantified backbone; this one has no equivalent.

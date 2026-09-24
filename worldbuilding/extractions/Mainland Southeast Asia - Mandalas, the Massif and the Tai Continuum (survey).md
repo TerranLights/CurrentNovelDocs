@@ -47,8 +47,8 @@ the Sinian Federation's southern border — are the **origin population of the T
 
 **4. Isan is the sharpest single finding, and it is a nation cut by a border.** Northeastern Thailand holds
 **~22 million people who are ethnically Lao**, on the Khorat Plateau across 20 provinces. **Laos itself holds
-roughly 7.6 million.** ⚠️ *(That comparison is the point and the Laos figure was not retrieved from the same
-source — verify before quoting.)* Isan speakers number **15–23 million**, the large majority inside Thailand.
+just over 7.5 million** — so **roughly three times more Lao live in Thailand than in Laos**, and both figures
+are now sourced. Isan speakers number **15–23 million**, the large majority inside Thailand.
 So **the Lao nation's demographic center of gravity sits inside the Thai state**, and has been subject to a
 century of *Thaification*.
 
