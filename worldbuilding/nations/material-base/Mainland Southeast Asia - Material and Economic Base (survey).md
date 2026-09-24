@@ -6,7 +6,7 @@ survives a collapse.
 **Companion:** `../../extractions/Mainland Southeast Asia - Mandalas, the Massif and the Tai Continuum (survey).md`
 
 ⚠️ **Thinner than the East Asia and Latin America material passes**, and deliberately marked as such. The
-session's web-search budget was exhausted before this began, so it rests on six directly-fetched sources.
+session's web-search budget was exhausted before this began, so it rests on eight directly-fetched sources.
 **Treat every figure as sourced but the coverage as partial.** §6 collects what is missing.
 
 ---
@@ -156,9 +156,54 @@ that month in sixty years**, from El Niño combined with tributary impoundment.
 Asia.** It borders all five of its neighbors, which in a collapse is either a trade position or a problem
 depending on who is functioning.
 
-**It holds 2 of the 15 mainstream Mekong dams** — the only non-Chinese ones — and has built its economy on
-selling hydropower, overwhelmingly to Thailand. ⚠️ **The export figures were not retrieved** and this is the
-largest remaining hole in the file.
+**It holds 2 of the 15 mainstream Mekong dams** — the only non-Chinese ones — and is the self-described
+**"battery of Southeast Asia."**
+
+### The figures
+
+| | |
+|---|---|
+| **Electricity exported, 2022** | **34 TWh** |
+| **Share of all generation exported** | **75%** |
+| **Share of total exports, 2024** | **15.35%** |
+| **Energy sector as share of GDP, 2022** | **12.8%** |
+| **Total exports, 2023** | **$9.698 billion** |
+| **Nominal GDP (2026 est.)** | **$17.78 billion** — $2,254 per head |
+| **Gross external debt, 2023** | **$9.619 billion** |
+
+**Buyers:** mostly **China, Vietnam and Thailand.** Export partners overall run **China 39.1%, Thailand
+34.3%** — so roughly **three-quarters of everything Laos sells goes to two neighbors.** Imports are even more
+concentrated: Thailand 56.3%, China 26.1%, Vietnam 8.1%.
+
+**50+ further hydropower plants are planned.**
+
+### ⚠️ Two corrections to the assumption this file started with
+
+**1. Electricity is the *second* export, not the first.** It ranks behind **mining** — copper, gold, zinc and
+lead, **7.0% of GDP (2012)**, with over **540 identified mineral deposits** — and ahead of tourism. The
+"economy built on selling electricity" framing is half right; it is the economy's second pillar.
+
+**2. Laos burns coal.** The 2023 energy mix is given as **38% coal against 34% hydropower**, even though
+**80% of electricity generated is hydro.** ⚠️ **Those two statements are hard to reconcile** — most likely
+"energy mix" counts all primary energy while the 80% is electricity alone, but that was not confirmed.
+**Do not quote both without resolving it.**
+
+### The structure that actually matters for a collapse
+
+**External debt $9.619 billion. Total annual exports $9.698 billion.** Laos owes almost exactly **one full
+year of everything it sells**, and the debt is substantially Chinese dam financing.
+
+**So the arrangement is: borrow from China to build dams, sell the electricity to China and Thailand, and
+carry a liability equal to a year's total exports.**
+
+**In a collapse that inverts, and Laos is one of the very few places in this atlas that comes out ahead in one
+specific respect: the debt is unenforceable and the dams are still standing.** The creditor vanishes; the
+concrete does not.
+
+**But the asset is only worth what someone will pay for it**, and **73.4% of Lao exports go to two
+customers.** If Thailand and the Sinian Federation cannot buy, a country with 34 TWh of generation and 7.5
+million people has an enormous surplus of electricity and nobody to sell it to — **which is a genuinely
+unusual post-collapse position, and a more interesting one than poverty.**
 
 **And it is the most heavily bombed country per capita in history.** Between 1964 and 1973 the US dropped
 **more than 2 million tons of bombs** on Laos. **Some 80 million failed to explode and remain scattered
@@ -200,8 +245,8 @@ Using the project's three-tier framework: **survives regardless / repairable wit
 - **Gas exports and the pipelines.** The Yadana and Sino-Burma lines need compressors, metering and a customer.
 - **The rice export trade at 11 million tonnes.** Production survives; the logistics, milling at scale and
   shipping do not.
-- **Hydropower at scale**, and with it the modern Thai and Lao grids. **Laos in particular has built its
-  economy on selling electricity** and would lose the market and the means together.
+- **Hydropower at scale**, and with it the modern Thai and Lao grids. **Laos loses the market rather than the
+  means** — see §2.6; the dams survive, the customers do not.
 - **UXO clearance in Laos.** Externally funded and slow; when the funding stops it stops, leaving **80 million
   unexploded bombs** in place as permanent denied ground. This is not a loss the region recovers from.
 
@@ -269,5 +314,7 @@ All retrieved 2026-09-23.
 - [Tonlé Sap](https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap)
 - [Laos](https://en.wikipedia.org/wiki/Laos)
 - [Cambodia](https://en.wikipedia.org/wiki/Cambodia)
+- [Energy in Laos](https://en.wikipedia.org/wiki/Energy_in_Laos)
+- [Economy of Laos](https://en.wikipedia.org/wiki/Economy_of_Laos)
 
 *(`Mining in Myanmar` returned HTTP 404 and was replaced by `Economy of Myanmar`, which covers less.)*
