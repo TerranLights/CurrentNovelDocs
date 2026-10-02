@@ -5,9 +5,12 @@ survives a collapse.
 
 **Companion:** `../../extractions/Mainland Southeast Asia - Mandalas, the Massif and the Tai Continuum (survey).md`
 
-⚠️ **Thinner than the East Asia and Latin America material passes**, and deliberately marked as such. The
-session's web-search budget was exhausted before this began, so it rests on thirteen directly-fetched sources.
-**Treat every figure as sourced but the coverage as partial.** §6 collects what is missing.
+⚠️ **This began thinner than the East Asia and Latin America material passes**, written under an exhausted
+web-search budget on thirteen directly-fetched sources. **Updated 2026-09-24** with a targeted gap-filling
+pass — minerals (the tin belt, Vietnam, Cambodia), the five regional ports, ECI, Laos's contract terms and
+coal/hydro reconciliation, and Myanmar's gas/teak/rare-earth figures are now closed or substantially closed
+(see the ✅ markers throughout and §5's summary). **Treat every figure as sourced**; the two genuinely open
+items after this pass are the dam-failure scenario question (§3) and a handful of named residuals (§5).
 
 ---
 
@@ -85,31 +88,92 @@ forms easily — these five have tried to cooperate on their single common asset
 
 ---
 
-## 2. Minerals — Myanmar carries the region
+## 2. Minerals — the tin belt, and what carries the region
 
-**⚠️ Only Myanmar was researched. Thailand, Vietnam, Laos and Cambodia are unexamined** and this is the
-largest gap in the file. The Southeast Asian tin belt in particular is historically world-significant and
-appears nowhere below.
+**Updated 2026-09-24.** Myanmar was the only country researched in the original pass; this update adds the
+Southeast Asian tin belt (Thailand and Myanmar) and Vietnam's bauxite/rare-earth reserves, and folds Cambodia's
+minerals into §2.7. **Laos's minerals are already covered in §2.6** and are not repeated here.
 
-**Myanmar holds:**
+### 2.1 The Southeast Asian tin belt
+
+**✅ CLOSED — a 2,800 km, ~400 km-wide belt running from Myanmar through Thailand and peninsular Malaysia to
+Indonesia's Bangka–Belitung "Tin Islands."** Formed by granite intrusions over 200+ million years (late
+Permian to early Miocene). **As of a 1995 assessment the belt produced 54% of the world's tin**, and it is
+also rich in tungsten. Named in full only where it touches this survey's five countries — Malaysia and
+Indonesia are Maritime Southeast Asia's territory and not researched here. Its historical pull was global:
+**tin became a major world commodity after 1810**, when the patented tin can created mass demand for
+preservable metal packaging, and the British East India Company built its Southeast Asian tin trade on this
+belt — the same belt Thailand's own peninsular tin industry sits on (see Thailand below).
+
+### Myanmar
 
 - **90% of the world's rubies**, exports exceeding **$1 billion**, the majority bought by **Thailand**. The
   **Mogok** region, 120 km north of Mandalay, produces pigeon's-blood rubies and sapphires.
-- **Natural gas** — **$3.5 billion exported, mostly to Thailand**, in the fiscal year to March 2012. The
-  Yadana Project and the Sino-Burma pipelines to China. ⚠️ Figures are over a decade old.
+- **✅ Natural gas, updated.** Myanmar still exports **roughly two-thirds of its gas to Thailand and a third to
+  southern China**, chiefly via the Yadana field's 409 km trunkline to the Thai border (~75% of Yadana's own
+  output goes to Thailand) and the Sino-Burma pipeline. ⚠️ A current dollar figure to replace the 2012 $3.5
+  billion was not found — sources cover volume and routing but not a recent total value. **What is new and
+  load-bearing:** US Treasury sanctions (31 October 2024) now block financing, insurance and related services
+  tied to state gas revenue via MOGE, and **production at Yadana, Zawtika and Shwe is projected to decline
+  rapidly between 2025 and 2030** — the gas trade this survey describes is a wasting asset even before any
+  collapse.
 - **Oil**, with ~1,900 km of onshore pipeline under Myanma Oil and Gas Enterprise.
-- **Teak** — **75% of world production under British rule.** ⚠️ Historical, not current.
+- **✅ Teak, updated — the ban is real but leaky.** The March 2014 export ban covers **raw logs only**, not
+  milled lumber; by the government's own minister's account, over a million cubic tons of raw timber were
+  illegally exported to Yunnan in 2014 alone (95% of that year's timber exports). **As of February 2023, raw
+  teak/timber from state or private *plantations* may legally export; raw teak from natural forests remains
+  banned.** So "75% of world production under British rule" stays historical, and current production sits
+  behind an enforcement gap rather than a clean stop.
+- **✅ Rare earths — the gap named in §5 is now filled, and it is a major finding.** Myanmar is the **world's
+  third-largest rare-earth producer**, behind only China and the US: **~27,000–31,000 tonnes in 2024** (up
+  from ~12,000 t in 2022), with USGS 2026 data recording 22,000 t for 2025. Export value to China is reported
+  inconsistently across sources — figures cited range from **~$620–724 million for partial-year 2024/2025** up
+  to **$3.6 billion for full-year 2024** — ⚠️ **the discrepancy was not resolved; treat the true figure as
+  somewhere in a wide band, not a settled number.** What is settled: **China has drawn over half its total
+  rare-earth imports from Myanmar for six consecutive years**, and the mining is concentrated in **northern
+  Kachin State**, extracting dysprosium and terbium. **Active mining sites rose from ~130 in 2020 to over 370
+  by the end of 2024.** This is the direct material counterpart to the conflict map in the companion frameworks
+  survey's §3.1: **in October 2024 the Kachin Independence Army seized Chipwi and Pangwa, two towns sitting on
+  one of the world's most valuable heavy-rare-earth concentrations** — the mineral gap and the conflict-map gap
+  close on the same ground, and the **KIA, not the junta, is the operative authority over a supply China
+  depends on more than any other single source.**
 
 **Who controls it is the important part, and it is not the state.** Energy and heavy industry are
 government-held; **Chinese interests are "the chief driving force behind Burma's gem mining industry"**; and
-**ethnic armed organizations hold ground and run their own economies** — the **United Wa State Army** is named
-directly. Military units are implicated in drug trafficking.
+**ethnic armed organizations hold ground and run their own economies** — the **United Wa State Army** and, now
+specifically, **the KIA in the rare-earth belt**, are named directly. Military units are implicated in drug
+trafficking. See the companion frameworks survey §3.1 for the dated territorial-control picture this maps onto.
 
 **The structural consequence:** **Myanmar does not lose central control in a collapse, because it does not
 have central control now.** One of the world's longest-running civil wars, a 2021 coup, **1.3 million refugees
 and 3.5 million internally displaced.** For every other country in this atlas, collapse is a transition. **For
-Myanmar it is a continuation** — and the ethnic States that already hold their own ground are the entities
-best positioned to survive it.
+Myanmar it is a continuation** — and the ethnic States and organizations that already hold their own ground —
+Wa, Kachin, Rakhine's Arakan Army among them — are the entities best positioned to survive it.
+
+### Vietnam — bauxite and rare earths, both real, neither built out
+
+**✅ CLOSED — Vietnam's minerals were the largest unresearched item after the tin belt, and the reserves turn
+out to be substantial.**
+
+- **Bauxite: the world's third-largest reserve**, after Guinea and Australia — **5.4–5.8 billion tonnes**,
+  73% of it in Đắk Nông province in the Central Highlands.
+- **Rare earths: the world's second-largest reserve**, after China — an estimated **22 million tonnes, ~19% of
+  known global reserves.** But production is minuscule against that reserve base: **just 600 tonnes in 2023,
+  down about 50% from 2022** — a mine-to-reserve exploitation rate nowhere near Myanmar's next door.
+  ⚠️ Vietnam's bauxite deposits also contain gallium at higher concentrations than China's, but the country
+  currently lacks the extraction technology to recover it — a real asset with no near-term path to market,
+  worth remembering if a post-collapse setting rewards whoever can rebuild refining capacity over whoever
+  merely holds the ore.
+
+### Thailand — covered by the tin belt
+
+Thailand's own historical tin industry (Phuket and the peninsula) is part of the belt described in §2.1.
+⚠️ No additional Thailand-specific minerals beyond tin/tungsten were separately researched.
+
+### Cambodia — see §2.7
+
+Cambodia's mineral picture (bauxite, gold, gems, the Pailin ruby/zircon fields) is folded into §2.7 below,
+alongside the rest of Cambodia's economic profile.
 
 ---
 
@@ -177,16 +241,32 @@ concentrated: Thailand 56.3%, China 26.1%, Vietnam 8.1%.
 
 **50+ further hydropower plants are planned.**
 
-### ⚠️ Two corrections to the assumption this file started with
+**✅ CLOSED — contract terms and dollar mechanics, updated 2026-09-24.** Power purchase agreements between Lao
+hydropower projects and buyers typically run **30-year terms**, most visibly with Thailand's state utility,
+the Electricity Generating Authority of Thailand (EGAT) — a 2016 MOU alone covers up to **9,000 MW**. The
+pricing asymmetry is the load-bearing fact: **Laos sells to Thailand at roughly $0.05/kWh, but buys back from
+Thailand in the dry season at nearly double — about $0.11/kWh.** Contracts are structured as **"take-and-pay"**:
+buyers owe a fixed *availability cost* regardless of how much power they actually draw, plus the cost of power
+actually purchased — so Laos is guaranteed baseline revenue even against demand shortfalls, but is also on the
+hook to keep the plants available whether or not the buyer needs the electricity. A newer regional mechanism,
+the **Laos–Thailand–Malaysia–Singapore Power Integration Project (LTMS-PIP)**, signed January 2026, lets Laos
+wheel up to 200 MW through Thailand and Malaysia's grids toward Singapore — a small volume next to the 34 TWh
+headline figure, but the first sign of Laos selling past its two dominant neighbors rather than only to them.
+
+### Two corrections to the assumption this file started with
 
 **1. Electricity is the *second* export, not the first.** It ranks behind **mining** — copper, gold, zinc and
 lead, **7.0% of GDP (2012)**, with over **540 identified mineral deposits** — and ahead of tourism. The
 "economy built on selling electricity" framing is half right; it is the economy's second pillar.
 
-**2. Laos burns coal.** The 2023 energy mix is given as **38% coal against 34% hydropower**, even though
-**80% of electricity generated is hydro.** ⚠️ **Those two statements are hard to reconcile** — most likely
-"energy mix" counts all primary energy while the 80% is electricity alone, but that was not confirmed.
-**Do not quote both without resolving it.**
+**2. ✅ Laos burns coal — and the contradiction is resolved, not just re-flagged.** The 2023 figures are both
+correct and were never in conflict: **38% coal vs. 34% hydropower is Laos's *primary energy* mix** (all energy
+consumed, including biomass for household heating and cooking — itself over half of primary supply as
+recently as 2013), while **the 80% figure is *electricity generation* specifically**, where hydro dominates
+and coal supplies roughly a quarter of what's left. **The file's own hypothesis was correct: these are two
+different denominators, not two contradictory claims about the same thing.** Use 80%-hydro when discussing the
+grid and the export trade; use 38%-coal/34%-hydro only when discussing total national energy consumption,
+which is dominated by household biomass use that has nothing to do with the dams or the export economy.
 
 ### The structure that actually matters for a collapse
 
@@ -227,6 +307,19 @@ than a province but is governmentally equivalent — **26 units, all drawable.**
 (1,352,198), Prey Veng (1,277,867), Battambang (1,132,017), Siem Reap (1,099,825), Takéo (1,097,243) and
 Kampong Cham (1,062,914); Phnom Penh holds 2,352,851.
 
+**✅ CLOSED — minerals, updated 2026-09-24.** Cambodia holds **gemstones, gold, bauxite, manganese, iron ore,
+phosphate rock, natural gas, oil, carbonate rocks, salt, silica and zircon**, but the sector is **almost
+entirely undeveloped**: active mining is mostly small-scale quarrying for construction material (laterite,
+marble, granite, limestone, gravel, sand), with **no industrial-scale extraction of any mineral** despite many
+exploration licenses granted and some promising gold finds. Gold deposits sit in five provinces — **Kampong
+Cham, Kampong Thom, Preah Vihear, Ratanakiri and Mondulkiri** — but ⚠️ **no production data exists for
+gemstones, gold or limestone.** The gem history is the one exception with real numbers behind it: **large
+quantities of rubies and sapphires were extracted around Pailin in the 1970s**, though few large stones surface
+today; a separate gem field, **Bokeo district in neighboring Ratanakiri province** (corrected 2026-09-26 — not
+the same district as Pailin), is known for large, high-quality zircon crystals. **So Cambodia's minerals are
+real but latent** — a resource base named on paper and barely worked, which fits the country's broader pattern
+of feeding itself but struggling to earn (see below).
+
 ### The contrast with Laos is the finding
 
 **Cambodia's export partners are the United States at 35.7% and Germany at 6.12%.** Laos's are China at 39.1%
@@ -246,6 +339,53 @@ the shipping does.
 **And yet it is among the best-fed places in the atlas**, because the Tonlé Sap supplies 60% of its protein
 without infrastructure of any kind. **Cambodia can feed itself and cannot earn; Laos can generate power and
 cannot sell it.** Neither is poor in the way the other is.
+
+---
+
+## 2.8 The five ports
+
+**✅ CLOSED, added 2026-09-24.** One per country, each the primary sea-link a landlocked or river-bound economy
+depends on.
+
+| Country | Port | Annual throughput | What it moves | Vulnerability |
+|---|---|---|---|---|
+| **Vietnam** | **Haiphong** | **~7.1M TEU** (world's ~29th busiest container port); ~30M tonnes/year general cargo | Northern Vietnam's principal seaport — the Red River Delta's trade gateway, with a rail/road link toward southwest China | A single chokepoint for the entire northern half of the country's seaborne trade |
+| **Thailand** | **Laem Chabang** | **~7.7M TEU, ~80M tonnes/year** (world's ~20th busiest container port) | Thailand's premier maritime gateway — seven container terminals, a Belt and Road node linking the Chinese coast via Singapore/Malacca to Europe; anchors the Eastern Seaboard Development Project (200+ industrial firms) | Handles the majority of Thailand's international shipping — a near-monopoly chokepoint |
+| **Myanmar** | **Yangon** | **~1M TEU/year**, handling **~90% of Myanmar's international trade** | General and container cargo for the country as a whole; the deep-water Thilawa terminal (MITT) is the only facility able to take 200 m/9 m-draft/20,000-tonnage vessels | Nearly all of Myanmar's seaborne trade runs through one city; an $8.6B Chinese-backed deep-sea port at Dawei is planned but not yet operational |
+| **Cambodia** | **Sihanoukville** | **~642,000 TEU, ~6.6M tonnes** (2020) | Containerized cargo (65%+ of throughput), general cargo, fuel — Cambodia's **sole deep-water port** | Before this port (built 1960), Cambodia's sea access ran through Vietnamese territory via the Mekong; losing Sihanoukville reopens that historical dependency |
+| **Vietnam** | **Da Nang** | **~762,000 TEU (2024), ~12M tonnes/year** | Central Vietnam's logistics hub (Tiên Sa terminal); the new Lien Chiểu terminal under construction targets 5.7M TEU/year as a future transshipment hub | Currently a fraction of Haiphong's scale — central Vietnam has no comparable alternative yet |
+
+**The pattern across all five:** each country's seaborne trade runs through one or two named points, not a
+distributed network. **Landlocked Laos has none of its own** — everything it exports by sea must transit a
+neighbor's port, which sharpens the dependency already noted in §2.6 (three-quarters of its trade going to two
+buyers) into a physical as well as a commercial chokepoint.
+
+---
+
+## 2.9 Economic complexity — the missing backbone, now added
+
+**⚠️ CLOSED WITH A CAVEAT, added 2026-09-24.** The East Asia and Latin America surveys both used the Economic
+Complexity Index (ECI) as their quantified backbone; this region had none. Two independent rankings were
+retrieved and **they disagree on exact scores and global rank — almost certainly because they draw on
+different vintages/methodologies of the underlying Atlas data — but they agree completely on relative
+ordering.** Both are given rather than picked between, so a reader can see the disagreement rather than
+inherit a false precision:
+
+| Country | Source A — score (rank change, 2018–2023) | Source B — score / global rank | Leading exports |
+|---|---|---|---|
+| **Thailand** | 0.89 (↓2) | 1.12 / #23 | Electrical/electronic equipment, machinery, vehicles — US$300.76B total exports (2024) |
+| **Vietnam** | 0.35 (↑9) | 0.04 / #73 | Electronics ($126B, 2024), apparel/textiles, footwear, plus agricultural exports ($62B) — #1 world in Robusta coffee and cashews, #3 in rice |
+| **Cambodia** | −0.33 (↑11) | −0.39 / #107 | Garments, footwear, travel goods, bicycles, tires; agricultural (rice, rubber, cassava) |
+| **Laos** | −0.58 (↑1) | −0.41 / #108 | Electricity ($2.35B), potassic fertilizers, gold, iron ore, copper ore |
+| **Myanmar** | −0.98 (↑6) | −0.84 / #120 | Natural gas, pulses, teak, minerals and gems |
+
+**Both sources agree on the ranking: Thailand is by far the most complex economy in the group, Vietnam a clear
+second and rising fastest (a 9–10-point score gain over both the 5- and 10-year windows in Source A), and
+Myanmar sits last by a wide margin — consistent with everything else in this file about who controls their own
+economy and who does not.** Cambodia and Laos sit close together in the middle-low band, but for structurally
+different reasons already established in §2.7: Cambodia's low complexity is a garment-export monoculture,
+Laos's is a resource-export (electricity, mining) monoculture — low complexity by a different mechanism in
+each case, not the same failure twice.
 
 ---
 
@@ -315,27 +455,46 @@ Offered, not asserted.
 
 ## 5. Explicit uncertainties and unverified items
 
-**Collected so nothing is lost when a section is read alone.**
+**Collected so nothing is lost when a section is read alone. Updated 2026-09-24 after a targeted gap-filling
+pass — eight of these ten items closed or substantially closed; two remain genuinely open.**
 
-1. ⚠️ **Thailand, Vietnam, Laos and Cambodia's minerals were not researched at all.** The **Southeast Asian
-   tin belt** is the specific omission — historically world-significant and entirely absent here.
-2. ⚠️ **Laos's electricity exports are largely closed — see §2.6 — with three residuals.** Volume (34 TWh,
-   2022), share of exports (15.35%) and share of GDP (12.8%) are sourced. Still missing: **the dollar
-   revenue**, **the contract terms** with China and Thailand, and a reconciliation of the **2023 energy mix
-   (38% coal against 34% hydropower) with the claim that 80% of generation is hydro.** Do not quote both
-   figures until that is resolved.
-3. ⚠️ **Myanmar's conflict map** — which armed groups hold which ground — was not established. It is the
-   single most important gap across both files.
-4. ⚠️ **Myanmar's gas and teak figures are old** (2012 and the colonial period respectively).
+1. **✅ Minerals — largely closed.** The Southeast Asian tin belt (§2.1), Vietnam's bauxite/rare-earth reserves,
+   and Cambodia's mineral picture (§2.7) are now sourced. **Residual:** Thailand's non-tin minerals were not
+   separately researched (only its share of the tin belt is covered), and Laos's minerals were already covered
+   pre-existingly in §2.6.
+2. **✅ Laos's electricity exports — fully closed.** Volume (34 TWh, 2022), share of exports (15.35%) and share
+   of GDP (12.8%) were already sourced; this pass added **contract mechanics** (30-year take-and-pay PPAs,
+   $0.05/kWh sale vs. $0.11/kWh dry-season buyback, the 2026 LTMS-PIP regional wheeling deal) and **resolved
+   the coal/hydro figures** — see §2.6. **Residual:** no single "total dollar revenue from electricity exports"
+   figure was found as a standalone number; it can be estimated from the TWh volume and per-kWh price but that
+   would be this survey's own calculation, not a sourced figure, and is not presented as one.
+3. **✅ Myanmar's conflict map — closed.** See the companion frameworks survey §3.1 for the dated, state-by-state
+   control picture (junta ~21–33%, resistance/ethnic forces ~42%, contested remainder, as of mid-2026) and the
+   Wa de facto-state question (resolved: self-governing and China-protected, but not separatist).
+4. **✅ Myanmar's gas and teak figures — updated, not fully current.** See §2 Myanmar. Gas volume/routing and
+   the 2024 US sanctions are sourced; **no current dollar value for gas exports was found** to replace the 2012
+   $3.5B figure. Teak's ban status (raw-log export banned from natural forests, permitted from plantations
+   since Feb 2023) is now current.
 5. ✅ **Laos's population is now sourced** — 7.5+ million, against Isan's ~22 million ethnic Lao. The
    "roughly three times more Lao in Thailand than in Laos" comparison **holds.**
-6. ⚠️ **Vietnam reorganized its provinces in 2025**; the current first-order count is uncertain.
-7. ⚠️ **No economic-complexity data** was gathered for any of the five. The East Asia and Latin America
-   surveys both used ECI as their quantified backbone; this one has no equivalent.
-8. ⚠️ **Ports were not covered.** Haiphong, Laem Chabang, Yangon, Sihanoukville and Da Nang are all unexamined.
-9. ⚠️ **The dam-failure mode** — open or closed — see §3.
-10. ⚠️ **Rare earths.** Myanmar is a significant heavy-rare-earth supplier in the present day; the source
-    consulted did not cover it, and it was not confirmed.
+6. **✅ Vietnam's 2025 province reorganization — closed.** 34 provincial-level units (28 provinces + 6
+   centrally-run cities), effective 1 July 2025 under National Assembly Resolution 202/2025/QH15. See the
+   companion frameworks survey §3.3.
+7. **⚠️ Economic-complexity data — added, but with an unresolved cross-source discrepancy.** See §2.9. Two
+   rankings were retrieved and disagree on exact scores/global rank (likely different Atlas data vintages);
+   **relative ordering is consistent across both** (Thailand > Vietnam > Cambodia ≈ Laos > Myanmar) and is safe
+   to use, but neither source's absolute number should be quoted as if it were the only one.
+8. **✅ Ports — closed.** Haiphong, Laem Chabang, Yangon, Sihanoukville and Da Nang are now covered in §2.8.
+9. **⚠️ The dam-failure mode — still open, out of scope for this pass.** Open or closed — see §3. This is a
+   forward-looking structural/scenario question (what happens to the dams during and after a collapse), not a
+   fact gap a source can close; it needs an author decision, not more research.
+10. **✅ Rare earths — closed, and connects directly to item 3.** Myanmar is the world's third-largest producer
+    (~27,000–31,000 t, 2024); the mining is concentrated in Kachin State ground the KIA seized in October 2024.
+    See §2 Myanmar. Export-value figures to China vary widely across sources ($620M–$3.6B depending on source
+    and period) and that spread was not resolved — treat as a wide band, not a settled number.
+
+**What is genuinely still open after this pass:** item 9 (the dam-failure mode, an author decision) and the
+residuals named in items 1, 2, 4 and 7 above. Everything else in this list is closed.
 
 ---
 
@@ -355,3 +514,31 @@ All retrieved 2026-09-23.
 - [Provinces of Cambodia](https://en.wikipedia.org/wiki/Provinces_of_Cambodia)
 
 *(`Mining in Myanmar` returned HTTP 404 and was replaced by `Economy of Myanmar`, which covers less.)*
+
+**Added 2026-09-24, gap-filling pass (minerals, ports, ECI, Laos contract terms, Myanmar gas/teak/rare earths):**
+
+- [Southeast Asian tin belt](https://en.wikipedia.org/wiki/Southeast_Asian_tin_belt)
+- [Bauxite mining in Vietnam](https://en.wikipedia.org/wiki/Bauxite_mining_in_Vietnam)
+- [Vietnam's great untapped rare earth bounty — Asia Times](https://asiatimes.com/2024/05/vietnams-great-untapped-rare-earth-bounty/)
+- [Mineral industry of Cambodia](https://en.wikipedia.org/wiki/Mineral_industry_of_Cambodia)
+- [Natural resources of Cambodia](https://en.wikipedia.org/wiki/Natural_resources_of_Cambodia)
+- [Myanmar and fossil gas — Global Energy Monitor](https://www.gem.wiki/Myanmar_and_fossil_gas)
+- [US sanctions on Myanmar gas exports — S&P Global](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/lng/110723-us-sanctions-on-myanmar-pose-hurdles-for-gas-exports-to-thailand-china)
+- [Myanmar log export ban — Mongabay](https://news.mongabay.com/2014/04/better-late-than-never-myanmar-bans-timber-exports-to-save-remaining-forests/)
+- [Gov't Lifts Ban on Plantation Teak Exports — The Irrawaddy](https://www.irrawaddy.com/news/burma/govt-lifts-ban-plantation-teak-exports.html)
+- [Myanmar Exported USD 620M Worth of Rare Earths to China in 2025 — ISP-Myanmar](https://ispmyanmar.com/pet-03/)
+- [Northern Myanmar's Rare Earths — New Security Beat](https://www.newsecuritybeat.org/2025/08/northern-myanmars-rare-earths-are-shaping-local-power-and-global-competition/)
+- [How war-torn Myanmar plays a critical role in China's rare earth dominance — CNBC](https://www.cnbc.com/2025/06/24/chinas-rare-earth-dominance-myanmar-plays-a-critical-role-.html)
+- [Laos PDR Power Purchase Agreement — World Bank PPP](https://ppp.worldbank.org/library/laos-pdr-power-purchase-agreement-ppa-xayaburi-dam-project)
+- [Locked In — Why Thailand Buys Electricity from Laos — Earth Journalism Network](https://earthjournalism.net/stories/locked-in-why-thailand-buys-electricity-from-laos)
+- [As China Builds the Grid, Laos's Power Ambitions Enter a New Phase — China-Global South Project](https://chinaglobalsouth.com/analysis/laos-battery-of-southeast-asia-china-power-grid-2026/)
+- [Energy in Laos](https://en.wikipedia.org/wiki/Energy_in_Laos) (re-consulted for the primary-energy/generation-mix distinction)
+- [Laos Electricity Generation Mix 2023 — lowcarbonpower.org](https://lowcarbonpower.org/region/Laos)
+- [Laem Chabang Port](https://en.wikipedia.org/wiki/Laem_Chabang_Port)
+- [Sihanoukville Autonomous Port](https://en.wikipedia.org/wiki/Sihanoukville_Autonomous_Port)
+- Port throughput figures for Haiphong, Da Nang and Yangon drawn from search aggregation (Wikipedia articles
+  for these three returned 404 at the specific URLs tried; figures instead sourced via CEIC Data, Beacon and
+  UNISCO port-directory summaries cited in the relevant search results — treat as slightly less authoritative
+  than a direct Wikipedia fetch, though internally consistent across sources)
+- [List of countries by economic complexity — Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity)
+- [Economic Complexity by Country — World Population Review](https://worldpopulationreview.com/country-rankings/economic-complexity-by-country)

@@ -1,0 +1,84 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Bashkortostan,Bashkortostan,Republic,,#A0763C,
+Chechnya,Chechnya,Republic,,#8E3A3A,"96.24% ethnic Chechen. Two fought wars of independence, 1994-2009 — see Stage 1 survey §4."
+Dagestan,Dagestan,Republic,,#6B8E4E,"No single ethnic majority — ~30+ recognized peoples (Avar largest at ~800,000). Internally incoherent as a single successor state on its own terms, but kept whole per this project's whole-first-order-subdivision rule, the same way Xinjiang was kept whole on the East Asia map despite an analogous problem. See Stage 1 survey §4."
+Eastern Siberia,Irkutsk,Region,,#3E7A5C,
+Eastern Siberia,Khakass,Republic,,#3E7A5C,"Khakas titular republic (Turkic-Siberian tier per the Stage 1 survey) — folded into Eastern Siberia rather than given its own polity, unlike Tuva; much weaker ethnic-majority case (~12% Khakas) and not separately researched this pass. Flagged as a simplification worth revisiting."
+Eastern Siberia,Krasnoyarsk,Territory,,#3E7A5C,
+Ingushetia,Ingush,Republic,,#A65858,93% ethnic Ingush; mono-ethnic — see Stage 1 survey §4.
+Kabardino-Balkaria,Kabardin-Balkar,Republic,,#9B6B4E,"⚠️ Not researched in the Stage 1 survey beyond being named as an open item (§4, §Open Questions). Dual-titular republic (Circassian Kabardins + Turkic Balkars). Kept as its own nation matching its real administrative border, not asserted as a researched decision."
+Kaliningrad,Kaliningrad,Region,,#9C5B8C,"A genuine exclave, physically separated from the rest of Russia by Lithuania and Poland — not a redraw problem the way Hawaii was for North America, since it sits close enough to be drawn in true position on the west close-up map rather than needing a corner-box inset. Its own Rosstat economic region already, confirming its distinct administrative/economic status."
+Kalmykia,Kalmyk,Republic,,#B08040,
+Karachay-Cherkessia,Karachay-Cherkess,Republic,,#8C6A8C,"⚠️ Not researched in the Stage 1 survey beyond being named as an open item (§4, §Open Questions). Dual-titular republic (Turkic Karachays + Circassian Cherkess). Kept as its own nation matching its real administrative border, not asserted as a researched decision."
+North Ossetia-Alania,North Ossetia,Republic,,#B0763F,"⚠️ Not researched in the Stage 1 survey beyond being named as an open item (§4, §Open Questions). Ossetians are Indo-European, not Turkic or North Caucasian by language family, but sit geographically/politically inside the North Caucasus bloc. Kept as its own nation matching its real administrative border, not asserted as a researched decision."
+Russia,Belgorod,Region,,#3B6EA5,
+Russia,Bryansk,Region,,#3B6EA5,
+Russia,City of St. Petersburg,Federal City,,#3B6EA5,
+Russia,Ivanovo,Region,,#3B6EA5,
+Russia,Kaluga,Region,,#3B6EA5,
+Russia,Kostroma,Region,,#3B6EA5,
+Russia,Kursk,Region,,#3B6EA5,
+Russia,Leningrad,Region,,#3B6EA5,
+Russia,Lipetsk,Region,,#3B6EA5,
+Russia,Moskovskaya,Region,,#3B6EA5,
+Russia,Moskva,Federal City,,#3B6EA5,
+Russia,Novgorod,Region,,#3B6EA5,
+Russia,Orel,Region,,#3B6EA5,
+Russia,Pskov,Region,,#3B6EA5,
+Russia,Ryazan',Region,,#3B6EA5,
+Russia,Smolensk,Region,,#3B6EA5,
+Russia,Tambov,Region,,#3B6EA5,
+Russia,Tula,Region,,#3B6EA5,
+Russia,Tver',Region,,#3B6EA5,
+Russia,Vladimir,Region,,#3B6EA5,
+Russia,Voronezh,Region,,#3B6EA5,
+Russia,Yaroslavl',Region,,#3B6EA5,
+Sakha,Sakha (Yakutia),Autonomous Province,,#2E7D6B,"Author judgment call, flagged: Rosstat's own framework groups Sakha into the Far Eastern economic region, but this survey gives it its own polity instead, given its huge area, Sakha ethnic majority, and extraordinary resource wealth (~98% of Russia's diamonds) discussed at length in the Stage 1 survey §6 — even though the same survey assesses actual secession likelihood as low. Diverges from the strict Rosstat grouping on purpose; reconsider at Stage 2."
+Southern Russia,Adygey,Republic,,#C77B3E,"Circassian titular republic, but only ~25% ethnic Adyghe — folded into Southern Russia rather than given its own polity, unlike the North Caucasus's other titular republics. Flagged as a simplification, not separately researched."
+Southern Russia,Krasnodar,Territory,,#C77B3E,"Kuban Cossack region — real distinct regional identity, not separately researched this pass."
+Southern Russia,Rostov,Region,,#C77B3E,"Don Cossack region — real distinct regional identity, not separately researched this pass."
+Southern Russia,Stavropol',Territory,,#C77B3E,
+Tatarstan,Tatarstan,Republic,,#C24B4B,
+The Northern Republic,Arkhangel'sk,Region,,#5F8FAF,
+The Northern Republic,Karelia,Republic,,#5F8FAF,"Finno-Ugric/Karelian titular republic — folded in, not separately researched, flagged"
+The Northern Republic,Komi,Republic,,#5F8FAF,"Komi titular republic — folded in, not separately researched, flagged"
+The Northern Republic,Murmansk,Region,,#5F8FAF,
+The Northern Republic,Nenets,Autonomous Province,,#5F8FAF,"Nenets indigenous Arctic population — folded in, not separately researched, flagged"
+The Northern Republic,Vologda,Region,,#5F8FAF,
+The Russian Far East,Amur,Region,,#2E6B8E,Outer Manchuria core — see Stage 1 survey §2.1. Far Eastern Republic (1920-22) precedent.
+The Russian Far East,Buryat,Republic,,#2E6B8E,"⚠️ AUTHOR DECISION NEEDED: the Stage 1 survey explicitly leaves Buryatia unresolved (§2.3), the structural mirror of East Asia's own unresolved Inner Mongolia case — Mongolic Tier 1 identity but only ~30% Buryat in its own republic. Defaulted here to folding into the Russian Far East (matches Rosstat's own economic-region grouping), but the survey's other live option is pulling it toward the Mongolic cultural sphere alongside Tuva/Mongolia instead. Not asserted as final."
+The Russian Far East,Chita,Region,,#2E6B8E,Zabaykalsky Krai (Transbaikal) — part of the historical Far Eastern Republic (1920-22) footprint.
+The Russian Far East,Chukchi Autonomous Okrug,Autonomous Province,,#2E6B8E,Crosses the antimeridian near the Bering Strait — see the east close-up map's antimeridian handling.
+The Russian Far East,Kamchatka,Region,,#2E6B8E,
+The Russian Far East,Khabarovsk,Territory,,#2E6B8E,Outer Manchuria core — see Stage 1 survey §2.1.
+The Russian Far East,Maga Buryatdan,Region,,#2E6B8E,Magadan Oblast.
+The Russian Far East,Primor'ye,Territory,,#2E6B8E,Outer Manchuria core — see Stage 1 survey §2.1. Primorsky Krai.
+The Russian Far East,Sakhalin,Region,,#2E6B8E,Includes the Kurils administratively (whole-subdivision rule) — see Stage 1 survey §2.2. Real live Japan-Russia dispute over the four southern Kurils not redrawn here; author's call whether East Asia's Japan entry gets a tension marker.
+The Russian Far East,Yevrey,Autonomous Region,,#2E6B8E,"Jewish Autonomous Oblast — a 1934 Soviet settlement project; Jewish population is now a small minority, functions as an ordinary Russian-majority oblast with a legacy name (Stage 1 survey §2.1)."
+The Urals Republic,Chelyabinsk,Region,,#6E8C6B,
+The Urals Republic,Kurgan,Region,,#6E8C6B,
+The Urals Republic,Orenburg,Region,,#6E8C6B,
+The Urals Republic,Perm',Territory,,#6E8C6B,
+The Urals Republic,Sverdlovsk,Region,,#6E8C6B,
+The Urals Republic,Udmurt,Republic,,#6E8C6B,"Udmurt titular republic — folded in, not separately researched, flagged"
+The Volga Republic,Astrakhan',Region,,#8A6FB0,
+The Volga Republic,Chuvash,Republic,,#8A6FB0,"Chuvash titular republic — folded in, not separately researched, flagged"
+The Volga Republic,Kirov,Region,,#8A6FB0,
+The Volga Republic,Mariy-El,Republic,,#8A6FB0,"Mari titular republic — folded in, not separately researched, flagged"
+The Volga Republic,Mordovia,Republic,,#8A6FB0,"Mordvin titular republic — folded in, not separately researched, flagged"
+The Volga Republic,Nizhegorod,Region,,#8A6FB0,
+The Volga Republic,Penza,Region,,#8A6FB0,
+The Volga Republic,Samara,Region,,#8A6FB0,
+The Volga Republic,Saratov,Region,,#8A6FB0,
+The Volga Republic,Ul'yanovsk,Region,,#8A6FB0,
+The Volga Republic,Volgograd,Region,,#8A6FB0,
+Tuva,Tuva,Republic,,#7A4FA0,88.7% ethnic Tuvan; real 1993 constitutional secession clause. Strongest non-Caucasus ethnic case in the country — see Stage 1 survey §2.3.
+Western Siberia,Altay,Territory,,#4E8B6E,
+Western Siberia,Gorno-Altay,Republic,,#4E8B6E,"Altaian titular republic (Turkic-Siberian tier per the Stage 1 survey) — folded into Western Siberia rather than given its own polity, unlike Tuva; much weaker ethnic-majority case (~33% Altaian) and not separately researched this pass. Flagged as a simplification worth revisiting."
+Western Siberia,Kemerovo,Region,,#4E8B6E,
+Western Siberia,Khanty-Mansiy,Autonomous Province,,#4E8B6E,
+Western Siberia,Novosibirsk,Region,,#4E8B6E,
+Western Siberia,Omsk,Region,,#4E8B6E,
+Western Siberia,Tomsk,Region,,#4E8B6E,
+Western Siberia,Tyumen',Region,,#4E8B6E,
+Western Siberia,Yamal-Nenets,Autonomous Province,,#4E8B6E,

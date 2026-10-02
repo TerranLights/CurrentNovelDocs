@@ -1,0 +1,190 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Turkey,Adana,Province,2263373,#2E5B8A,
+Turkey,Afyonkarahisar,Province,744179,#2E5B8A,
+Turkey,Adıyaman,Province,632148,#2E5B8A,"⚠️ Widely described as Kurdish-majority/plurality (Wikimedia Commons 'Turkish provinces with Kurdish majorities' map; countrystudies.us; Rudaw) — feeds a possible future cross-border Kurdistan sphere (frameworks survey §3, §7.3). Not independently verified to an exact percentage this pass."
+Turkey,Ağrı,Province,524069,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note."
+Turkey,Amasya,Province,335331,#2E5B8A,
+Turkey,Ankara,Province,5747325,#2E5B8A,National capital.
+Turkey,Antalya,Province,2619832,#2E5B8A,
+Turkey,Artvin,Province,169543,#2E5B8A,
+Turkey,Aydın,Province,1134031,#2E5B8A,
+Turkey,Balıkesir,Province,1250610,#2E5B8A,
+Turkey,Bilecik,Province,228334,#2E5B8A,
+Turkey,Bingöl,Province,283112,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note."
+Turkey,Bitlis,Province,352277,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note."
+Turkey,Bolu,Province,320014,#2E5B8A,
+Turkey,Burdur,Province,273716,#2E5B8A,
+Turkey,Bursa,Province,3147818,#2E5B8A,
+Turkey,Çanakkale,Province,557276,#2E5B8A,
+Turkey,Çankırı,Province,196515,#2E5B8A,
+Turkey,Çorum,Province,526282,#2E5B8A,
+Turkey,Denizli,Province,1051056,#2E5B8A,
+Turkey,Diyarbakır,Province,1791373,#2E5B8A,"⚠️ Widely described as the single largest/most central Kurdish-majority province — often treated as the de facto Kurdish cultural capital in Turkey. Same sourcing/caveat as the Adıyaman note; feeds a possible future cross-border Kurdistan sphere (frameworks survey §3, §7.3)."
+Turkey,Edirne,Province,412115,#2E5B8A,
+Turkey,Elazığ,Province,588088,#2E5B8A,"Mixed Kurdish/Zaza presence noted in some sourcing (grokipedia/general survey list) but not as consistently listed 'majority' as the core southeastern set — flagged as a softer case, not verified further this pass."
+Turkey,Erzincan,Province,237351,#2E5B8A,"Same soft-case flag as Elazığ — some sourcing lists it among broader Kurdish-inhabited provinces, not confirmed majority."
+Turkey,Erzurum,Province,756893,#2E5B8A,"Same soft-case flag as Elazığ."
+Turkey,Eskişehir,Province,898369,#2E5B8A,
+Turkey,Gaziantep,Province,2130432,#2E5B8A,"Same soft-case flag as Elazığ — named in one broader Kurdish-inhabited-provinces list, not confirmed majority; a large, ethnically mixed metropolitan province."
+Turkey,Giresun,Province,450154,#2E5B8A,
+Turkey,Gümüşhane,Province,150119,#2E5B8A,
+Turkey,Hakkâri,Province,278218,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note. Borders Iraq's Kurdistan Region."
+Turkey,Hatay,Province,1670712,#2E5B8A,"Also has a documented Arab-Alawite minority population, structurally connected to Syria's own Alawite community across the border (frameworks survey §4) — not further researched this pass."
+Turkey,Isparta,Province,445678,#2E5B8A,
+Turkey,Mersin,Province,1891145,#2E5B8A,
+Turkey,Istanbul,Province,15840900,#2E5B8A,Turkey's largest city and economic center; former Ottoman/imperial capital.
+Turkey,İzmir,Province,4425789,#2E5B8A,
+Turkey,Kars,Province,281077,#2E5B8A,"⚠️ Mixed Kurdish/Azeri population per general sourcing; listed among Kurdish-inhabited provinces but with real Azeri presence too — not disentangled further this pass."
+Turkey,Kastamonu,Province,375592,#2E5B8A,
+Turkey,Kayseri,Province,1434357,#2E5B8A,
+Turkey,Kırklareli,Province,366363,#2E5B8A,
+Turkey,Kırşehir,Province,242944,#2E5B8A,
+Turkey,Kocaeli,Province,2033441,#2E5B8A,
+Turkey,Konya,Province,2277017,#2E5B8A,
+Turkey,Kütahya,Province,578640,#2E5B8A,
+Turkey,Malatya,Province,808692,#2E5B8A,"Same soft-case flag as Elazığ — named in one broader Kurdish-inhabited-provinces list, not confirmed majority."
+Turkey,Manisa,Province,1456626,#2E5B8A,
+Turkey,Kahramanmaraş,Province,1171298,#2E5B8A,
+Turkey,Mardin,Province,862757,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note. Also has a historic Assyrian/Syriac Christian population (Tur Abdin), not further researched this pass."
+Turkey,Muğla,Province,1021141,#2E5B8A,
+Turkey,Muş,Province,405228,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note."
+Turkey,Nevşehir,Province,308003,#2E5B8A,
+Turkey,Niğde,Province,363725,#2E5B8A,
+Turkey,Ordu,Province,760872,#2E5B8A,
+Turkey,Rize,Province,345662,#2E5B8A,
+Turkey,Sakarya,Province,1060876,#2E5B8A,
+Turkey,Samsun,Province,1371274,#2E5B8A,
+Turkey,Siirt,Province,331980,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note."
+Turkey,Sinop,Province,218408,#2E5B8A,
+Turkey,Sivas,Province,636121,#2E5B8A,
+Turkey,Tekirdağ,Province,1113400,#2E5B8A,
+Turkey,Tokat,Province,602567,#2E5B8A,
+Turkey,Trabzon,Province,816684,#2E5B8A,
+Turkey,Tunceli,Province,83645,#2E5B8A,"⚠️ Kurdish-inhabited per general sourcing, but distinctively Zaza-speaking and Alevi (not Sunni) — a real internal complication distinct from the Sunni-Kurdish core of the southeastern provinces list. Not resolved further this pass."
+Turkey,Şanlıurfa,Province,2143020,#2E5B8A,"⚠️ Kurdish-majority/plurality (also has a substantial Arab population) — per Rudaw reporting, Turkey's single most populous Kurdish-linked province (2,213,964 as of 2023, a later figure than this row's 2021 census figure). Same general sourcing/caveat as the Adıyaman note."
+Turkey,Uşak,Province,373183,#2E5B8A,
+Turkey,Van,Province,1141015,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note. Borders Iran."
+Turkey,Yozgat,Province,418500,#2E5B8A,
+Turkey,Zonguldak,Province,589684,#2E5B8A,
+Turkey,Aksaray,Province,429069,#2E5B8A,
+Turkey,Bayburt,Province,85042,#2E5B8A,
+Turkey,Karaman,Province,258838,#2E5B8A,
+Turkey,Kırıkkale,Province,275968,#2E5B8A,
+Turkey,Batman,Province,626319,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note."
+Turkey,Şırnak,Province,546589,#2E5B8A,"⚠️ Kurdish-majority/plurality, same sourcing/caveat as Adıyaman's note. Borders both Iraq's Kurdistan Region and Syria."
+Turkey,Bartın,Province,201711,#2E5B8A,
+Turkey,Ardahan,Province,94932,#2E5B8A,"Named in one broader Kurdish-inhabited-provinces list; also has Azeri/Terekeme and other Caucasus-descended minority populations. Not disentangled further this pass."
+Turkey,Iğdır,Province,203159,#2E5B8A,"⚠️ Mixed Kurdish/Azeri population per general sourcing, same caveat as Kars's note. Borders both Iran and Armenia."
+Turkey,Yalova,Province,291001,#2E5B8A,
+Turkey,Karabük,Province,249287,#2E5B8A,
+Turkey,Kilis,Province,145826,#2E5B8A,Borders Syria's Aleppo Governorate directly.
+Turkey,Osmaniye,Province,553012,#2E5B8A,
+Turkey,Düzce,Province,400976,#2E5B8A,
+Syria,Aleppo,Governorate,4600166,#8A3E2E,"Population figure is 2018-vintage, pre-dating much of the civil war's later population movement and the December 2024 change of government (frameworks survey §3.5) — treat as dated."
+Syria,Damascus,Governorate,2211042,#8A3E2E,National capital; same 2018-vintage population caveat as Aleppo's note.
+Syria,Rif Dimashq,Governorate,2831738,#8A3E2E,"'Rif Dimashq' = 'Damascus Countryside,' the ring of territory surrounding but administratively separate from Damascus city itself. Same 2018-vintage population caveat."
+Syria,Homs,Governorate,1762500,#8A3E2E,Same 2018-vintage population caveat as Aleppo's note.
+Syria,Hama,Governorate,1593000,#8A3E2E,Same 2018-vintage population caveat as Aleppo's note.
+Syria,Latakia,Governorate,1278486,#8A3E2E,"Syria's principal Mediterranean port governorate; historic Alawite-population heartland (frameworks survey §4.2's 15-20% Alawite/Twelver Shia figure is national, not governorate-specific — not disentangled further this pass). Same 2018-vintage population caveat."
+Syria,Al-Hasakah,Governorate,1272702,#8A3E2E,"⚠️ Part of the Kurdish-majority northeast (formerly AANES/'Rojava' territory, dissolved and integrated into the Syrian state 20 August 2026 per frameworks survey §3.4) — flagged per the frameworks survey's own posture, not resolved here. Same 2018-vintage population caveat, which pre-dates the AANES dissolution entirely."
+Syria,Deir ez-Zor,Governorate,1200500,#8A3E2E,"⚠️ Also touched by the former AANES/SDF-controlled area in its eastern reaches per general reporting — not independently verified this pass. Same 2018-vintage population caveat."
+Syria,Idlib,Governorate,1464000,#8A3E2E,"The last major rebel-held stronghold prior to the 2024 offensive that toppled the Assad government (frameworks survey §3.5) — not further detailed here. Same 2018-vintage population caveat."
+Syria,Daraa,Governorate,998000,#8A3E2E,"Traditionally cited as the geographic starting point of the 2011 Syrian uprising — not further detailed here. Same 2018-vintage population caveat."
+Syria,Raqqa,Governorate,919000,#8A3E2E,"⚠️ Former ISIS 'capital' (2014-2017) and later part of the SDF/AANES-administered area before its 2026 dissolution (frameworks survey §3.4) — flagged per the frameworks survey's own posture, not resolved here. Same 2018-vintage population caveat."
+Syria,Suwayda,Governorate,500000,#8A3E2E,"Syria's Druze-majority heartland — a distinct minority-sect case parallel to, but not the same as, the Alawite/Latakia or Kurdish/northeast cases; the frameworks survey's own §3.5 flags 'delayed or non-participation of Druze and Kurdish areas' in the new parliament as a real legitimacy risk. Same 2018-vintage population caveat."
+Syria,Tartus,Governorate,785000,#8A3E2E,Syria's other Mediterranean port governorate; same 2018-vintage population caveat as Aleppo's note.
+Syria,Quneitra,Governorate,87000,#8A3E2E,"Syria's smallest governorate by population; borders the Israeli-held Golan Heights (frameworks survey §2.3 flags the Golan as a live, separate Israel-Syria border question outside the Israel/Palestine focus, not otherwise researched). Same 2018-vintage population caveat."
+Lebanon,Akkar,Governorate,432000,#4E8A3E,2022-vintage population figure.
+Lebanon,Baalbek-Hermel,Governorate,472000,#4E8A3E,"2022-vintage population figure. Part of Lebanon's Shia-population geography (frameworks survey §4.2's national 28% Shia figure, §4.3's confessional-power-sharing system) alongside the South governorate below — not disentangled to the governorate level by either survey."
+Lebanon,Beirut,Governorate,419000,#4E8A3E,"National capital; smallest governorate by area, a single city. 2022-vintage population figure."
+Lebanon,Beqaa,Governorate,540000,#4E8A3E,2022-vintage population figure.
+Lebanon,Keserwan-Jbeil,Governorate,300000,#4E8A3E,"Lebanon's newest governorate — created 2017, first governor not appointed until 2020. 2022-vintage population figure."
+Lebanon,Mount Lebanon,Governorate,1531000,#4E8A3E,"Lebanon's most populous governorate; historic Maronite Christian heartland, relevant to the frameworks survey §4.3 confessional presidency requirement. 2022-vintage population figure."
+Lebanon,Nabatieh,Governorate,391000,#4E8A3E,"Part of Lebanon's Shia-population geography, same flag as Baalbek-Hermel's note. 2022-vintage population figure."
+Lebanon,North,Governorate,803000,#4E8A3E,2022-vintage population figure.
+Lebanon,South,Governorate,602000,#4E8A3E,"Part of Lebanon's Shia-population geography, same flag as Baalbek-Hermel's note; also historically the area most directly affected by the Israel-Lebanon border conflict, referenced but not detailed in the frameworks survey §6. 2022-vintage population figure."
+Israel,Jerusalem District,District,1331595,#C9A227,"⚠️ Includes East Jerusalem, annexed by Israel after the 1967 war (frameworks survey §2.3) — a live, internationally contested status not resolved by this survey or this file. See also the West Bank's own 'Jerusalem (al-Quds)' governorate row under Palestinian Territories, which the Palestinian Authority's own administrative structure separately claims over much of the same area — an intentional overlap, not an error, mirroring how this project has handled other contested-territory cases (e.g. Kirkuk/Article 140 in Iraq) by presenting both administrative claims rather than resolving one."
+Israel,Northern District,District,1581700,#C9A227,
+Israel,Haifa District,District,1159594,#C9A227,
+Israel,Central District,District,2409464,#C9A227,Israel's most populous district.
+Israel,Tel Aviv District,District,1539096,#C9A227,
+Israel,Southern District,District,1444259,#C9A227,Israel's largest district by land area (includes the Negev).
+Israel,Judea and Samaria Area,Israeli Civil Administration Area,514496,#C9A227,"⚠️ NOT one of Israel's six formal districts — a separate Israeli civil/military administrative area over parts of the West Bank (Area C under the Oslo Accords framework), population figure given is Israeli-settler population specifically (frameworks survey §2.4: 750,000+ settlers across the West Bank as a whole, this row's 514,496 figure is this district-level administrative area only, not independently reconciled with that survey figure this pass). This is the same territory the Palestinian Authority administers as 11 separate governorates (see Palestinian Territories rows) — both administrative layers are recorded here, per this project's 'research proposes, author disposes' rule; neither is asserted as the map's eventual answer for this territory."
+Jordan,Irbid,Governorate,2050300,#2E8A7A,2022-vintage population figure.
+Jordan,Ajloun,Governorate,204000,#2E8A7A,2022-vintage population figure.
+Jordan,Jerash,Governorate,274500,#2E8A7A,"Created in the 1994 administrative reform, same as Ajloun and Madaba. 2022-vintage population figure."
+Jordan,Mafraq,Governorate,637000,#2E8A7A,"Jordan's largest governorate by land area; hosts major Syrian-refugee camp infrastructure (Zaatari), relevant to the frameworks survey §5.3 refugee-fiscal-burden finding. 2022-vintage population figure."
+Jordan,Amman,Governorate,4642000,#2E8A7A,"National capital and by far Jordan's most populous governorate. 2022-vintage population figure."
+Jordan,Balqa,Governorate,569500,#2E8A7A,2022-vintage population figure.
+Jordan,Zarqa,Governorate,1581000,#2E8A7A,2022-vintage population figure.
+Jordan,Madaba,Governorate,219100,#2E8A7A,"Created in the 1994 administrative reform, same as Ajloun and Jerash. 2022-vintage population figure."
+Jordan,Karak,Governorate,366700,#2E8A7A,2022-vintage population figure.
+Jordan,Tafilah,Governorate,111500,#2E8A7A,2022-vintage population figure.
+Jordan,Ma'an,Governorate,183500,#2E8A7A,2022-vintage population figure.
+Jordan,Aqaba,Governorate,217900,#2E8A7A,"Jordan's only seacoast governorate (Gulf of Aqaba/Red Sea) — the planned National Conveyance Project desalination scheme (frameworks survey §5.3) is anchored here. Created in the 1994 administrative reform, same as Ajloun/Jerash/Madaba. 2022-vintage population figure."
+Iraq,Al-Anbar,Governorate,1771656,#8A2E5E,"2018-vintage population figure. Iraq's largest governorate by land area."
+Iraq,Babil,Governorate,2065042,#8A2E5E,2018-vintage population figure.
+Iraq,Baghdad,Governorate,8126755,#8A2E5E,National capital and Iraq's most populous governorate. 2018-vintage population figure.
+Iraq,Basra,Governorate,2908491,#8A2E5E,Iraq's main port governorate on the Persian Gulf. 2018-vintage population figure.
+Iraq,Dhi Qar,Governorate,2095172,#8A2E5E,2018-vintage population figure.
+Iraq,Diyala,Governorate,1637226,#8A2E5E,2018-vintage population figure.
+Iraq,Duhok,Governorate,1292535,#8A2E5E,"Part of the autonomous Kurdistan Region of Iraq (KRI) — settled autonomy since 1991/2005 per frameworks survey §3.2. 2018-vintage population figure."
+Iraq,Erbil,Governorate,1854778,#8A2E5E,"Part of the autonomous Kurdistan Region of Iraq (KRI); seat of the KRI's own government. 2018-vintage population figure."
+Iraq,Halabja,Governorate,140000,#8A2E5E,"⚠️ Part of the autonomous Kurdistan Region of Iraq (KRI) — a fourth KRI governorate alongside Erbil/Duhok/Sulaymaniyah, carved from Sulaymaniyah; one source found this pass describes its inclusion as 'officially approved April 2025,' which this pass could not independently corroborate against a primary legal source or reconcile with Halabja Governorate's own longer administrative history (it has existed as a governorate since 2014) — flagged as a genuine uncertainty about exact current KRI-membership status/date, not resolved. 2018-vintage population figure, itself likely dated given the governorate's own recent administrative changes."
+Iraq,Karbala,Governorate,1218732,#8A2E5E,"A major Shia pilgrimage-city governorate (frameworks survey §4.1's Battle of Karbala origin of the Sunni-Shia split occurred here). 2018-vintage population figure."
+Iraq,Kirkuk,Governorate,1597876,#8A2E5E,"⚠️ One of Iraq's 'disputed territories' under Iraq's constitutional Article 140 process (a real, live, unresolved status question between the federal government and the Kurdistan Regional Government) — flagged per this project's 'research proposes, author disposes' rule, not resolved here; not independently re-researched to full depth this pass beyond this flag. 2018-vintage population figure."
+Iraq,Maysan,Governorate,1112673,#8A2E5E,2018-vintage population figure.
+Iraq,Muthanna,Governorate,814371,#8A2E5E,2018-vintage population figure.
+Iraq,Najaf,Governorate,1471592,#8A2E5E,"Home to one of Shia Islam's holiest sites (the Imam Ali Shrine) — a major Shia pilgrimage-city governorate alongside Karbala. 2018-vintage population figure."
+Iraq,Nineveh,Governorate,3729998,#8A2E5E,"Iraq's second-most-populous governorate; includes Mosul, held by ISIS 2014-2017. Contains some of Iraq's own disputed-territories questions (not independently detailed this pass, see Kirkuk's note for the general Article 140 context). 2018-vintage population figure."
+Iraq,Salah Al-Din,Governorate,1595235,#8A2E5E,2018-vintage population figure.
+Iraq,Sulaymaniyah,Governorate,2053305,#8A2E5E,"Part of the autonomous Kurdistan Region of Iraq (KRI); historically the PUK's political stronghold within the KDP/PUK split noted in frameworks survey §3.2. 2018-vintage population figure."
+Iraq,Wasit,Governorate,1378723,#8A2E5E,2018-vintage population figure.
+Iraq,Al-Qadisiyyah,Governorate,1291048,#8A2E5E,2018-vintage population figure.
+Iran,Alborz,Province,2730000,#4A4A8A,
+Iran,Ardabil,Province,1284000,#4A4A8A,"⚠️ Has a substantial ethnic Azeri population per general demographic sourcing — feeds a possible future cross-border Azeri/Turkic sphere consideration (frameworks survey §7.3's pan-Turkic sphere candidate touches Azerbaijani identity, though Azerbaijan itself is outside this project's West Asia scope). Not independently verified this pass."
+Iran,Bushehr,Province,1174000,#4A4A8A,Persian Gulf coast province.
+Iran,Chaharmahal and Bakhtiari,Province,973000,#4A4A8A,
+Iran,East Azerbaijan,Province,3925000,#4A4A8A,"⚠️ Ethnic-Azeri-majority province per general demographic sourcing, same flag as Ardabil's note. Not independently verified this pass."
+Iran,Fars,Province,4904000,#4A4A8A,"Historic Persian-core province (the name 'Fars' is the root of 'Persia/Persian' itself)."
+Iran,Gilan,Province,2546000,#4A4A8A,Caspian Sea coast province.
+Iran,Golestan,Province,1893000,#4A4A8A,Caspian Sea coast province.
+Iran,Hamadan,Province,1756000,#4A4A8A,
+Iran,Hormozgan,Province,1806000,#4A4A8A,"Persian Gulf/Strait of Hormuz coast province — directly relevant to the frameworks survey §9/§6 Strait of Hormuz chokepoint findings."
+Iran,Ilam,Province,591000,#4A4A8A,"⚠️ Has a substantial ethnic Kurdish population per general demographic sourcing — feeds a possible future cross-border Kurdistan sphere (frameworks survey §3, §3.6's own flagged gap on Iran's Kurdish population specifically). Not independently verified this pass."
+Iran,Isfahan,Province,5136000,#4A4A8A,"Historic Persian imperial capital province (Isfahan city, under the Safavids)."
+Iran,Kerman,Province,3184000,#4A4A8A,Iran's largest province by land area.
+Iran,Kermanshah,Province,2003000,#4A4A8A,"⚠️ Ethnic-Kurdish-majority province per general demographic sourcing, same flag as Ilam's note. Not independently verified this pass."
+Iran,Khuzestan,Province,4725000,#4A4A8A,"⚠️ Has a substantial ethnic Arab minority population per general demographic sourcing (sometimes called 'Arabistan' by that population) — a distinct minority case from the Kurdish/Azeri/Baloch provinces flagged elsewhere in this file. Also Iran's principal oil-producing province, home to much of its hydrocarbon infrastructure (material survey §1.4's Iranian reserves context) — not independently verified this pass."
+Iran,Kohgiluyeh and Boyer-Ahmad,Province,728000,#4A4A8A,
+Iran,Kurdistan,Province,1614000,#4A4A8A,"⚠️ Ethnic-Kurdish-majority province by name and general demographic sourcing — Iran's most explicitly named Kurdish province, alongside Kermanshah and Ilam. Feeds a possible future cross-border Kurdistan sphere (frameworks survey §3, §3.6's own flagged gap on Iran's Kurdish population specifically). Not independently verified this pass."
+Iran,Lorestan,Province,1784000,#4A4A8A,
+Iran,Markazi,Province,1436000,#4A4A8A,"Name means 'Central' in Persian."
+Iran,Mazandaran,Province,3302000,#4A4A8A,Caspian Sea coast province.
+Iran,North Khorasan,Province,868000,#4A4A8A,
+Iran,Qazvin,Province,1284000,#4A4A8A,
+Iran,Qom,Province,1300000,#4A4A8A,"Iran's major Shia theological/clerical center (Qom city) — relevant background to the frameworks survey §4 Sunni-Shia split findings, though not itself a demographic-split case."
+Iran,Razavi Khorasan,Province,6444000,#4A4A8A,"Iran's second-most-populous province; home to Mashhad, a major Shia pilgrimage city (the Imam Reza shrine)."
+Iran,Semnan,Province,715000,#4A4A8A,
+Iran,Sistan and Baluchestan,Province,2777000,#4A4A8A,"⚠️ Ethnic-Baloch-majority province in its eastern portion per general demographic sourcing — Iran's poorest province by most rankings, and the population is the same Baloch people split across the Iran/Pakistan/Afghanistan border region (Pakistan and Afghanistan's own Baloch populations are outside this survey's country scope, but the ethnic continuity is a real cross-border fact worth flagging). Not independently verified this pass."
+Iran,South Khorasan,Province,786000,#4A4A8A,
+Iran,Tehran,Province,13323000,#4A4A8A,National capital and Iran's most populous province by a wide margin.
+Iran,West Azerbaijan,Province,3278000,#4A4A8A,"⚠️ Ethnically mixed Azeri/Kurdish province per general demographic sourcing — both flags noted elsewhere in this file (Azeri per Ardabil/East Azerbaijan's note, Kurdish per Kurdistan/Kermanshah/Ilam's note) apply here simultaneously, a real overlap not disentangled further this pass. Borders both Turkey and Iraq's Kurdistan Region."
+Iran,Yazd,Province,1156000,#4A4A8A,
+Iran,Zanjan,Province,1103000,#4A4A8A,
+Palestinian Territories,Bethlehem,Governorate,217400,#6B2E8A,"West Bank governorate. 2017-vintage (PCBS census) population figure, pre-dating the 2023-2026 conflict entirely — the frameworks survey's own §2.4 West Bank population figures (3.2 million total, 2022 vintage) are a more recent country-wide baseline; this row's figure is not reconciled against that total."
+Palestinian Territories,Hebron,Governorate,711223,#6B2E8A,"West Bank governorate; the West Bank's most populous. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Jenin,Governorate,314866,#6B2E8A,"West Bank governorate. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Jericho,Governorate,50002,#6B2E8A,"West Bank governorate; smallest West Bank governorate by population. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Jerusalem (al-Quds),Governorate,435483,#6B2E8A,"⚠️ West Bank governorate as claimed by the Palestinian Authority's own administrative structure — overlaps territorially with Israel's Jerusalem District (see that row's note under Israel) and East Jerusalem specifically, a live, internationally contested status this survey does not resolve. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Nablus,Governorate,388321,#6B2E8A,"West Bank governorate. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Qalqilya,Governorate,112400,#6B2E8A,"West Bank governorate. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Ramallah and al-Bireh,Governorate,328861,#6B2E8A,"West Bank governorate; seat of the Palestinian Authority's own administration. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Salfit,Governorate,75444,#6B2E8A,"West Bank governorate. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Tubas,Governorate,60927,#6B2E8A,"West Bank governorate. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Tulkarm,Governorate,186760,#6B2E8A,"West Bank governorate. Same 2017-vintage population caveat as Bethlehem's note."
+Palestinian Territories,Deir al-Balah,Governorate,273200,#6B2E8A,"⚠️ Gaza Strip governorate. 2017-vintage (PCBS census) population figure, pre-dating the entire 2023-2026 Gaza war (frameworks survey §2.5) — a substantial fraction of Gaza's population has since been killed or displaced per that section; this row's figure should be treated as a pre-war baseline only, not a current count."
+Palestinian Territories,Gaza,Governorate,652597,#6B2E8A,"⚠️ Gaza Strip governorate, containing Gaza City itself — the Strip's most populous governorate. Same pre-war-baseline caveat as Deir al-Balah's note."
+Palestinian Territories,Khan Yunis,Governorate,370638,#6B2E8A,"⚠️ Gaza Strip governorate. Same pre-war-baseline caveat as Deir al-Balah's note."
+Palestinian Territories,North Gaza,Governorate,368978,#6B2E8A,"⚠️ Gaza Strip governorate. Same pre-war-baseline caveat as Deir al-Balah's note."
+Palestinian Territories,Rafah,Governorate,233878,#6B2E8A,"⚠️ Gaza Strip governorate, on the Egyptian border (Rafah crossing) — Egypt itself is outside this project's West Asia scope, but the crossing is a live logistical/humanitarian chokepoint referenced in general 2023-2026 Gaza war reporting, not independently detailed by either survey. Same pre-war-baseline caveat as Deir al-Balah's note."

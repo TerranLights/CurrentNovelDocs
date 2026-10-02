@@ -1,0 +1,127 @@
+unit_id,country,adm1,unit,area_km2
+PA-000,Pakistan,Baluchistan,Khuzdar,32719.0
+PA-001,Pakistan,Sind,Khairpur,16483.0
+PA-002,Pakistan,Northern Areas,Shigar,9292.0
+PA-003,Pakistan,Azad Kashmir,Azad Kashmir,12830.0
+PA-004,Pakistan,K.P.,Mansehra,4906.0
+PA-005,Pakistan,Punjab,Sheikhpura,6385.0
+PA-006,Pakistan,F.C.T.,Islamabad Capital Territory,931.0
+PA-007,Pakistan,Baluchistan,Chagai,54057.0
+PA-008,Pakistan,Baluchistan,Nushki,7204.0
+PA-009,Pakistan,Baluchistan,Qilla Abdullah,7733.0
+PA-010,Pakistan,Baluchistan,Quetta,3073.0
+PA-011,Pakistan,Baluchistan,Pishin,5493.0
+PA-012,Pakistan,Baluchistan,Kharan,53312.0
+PA-013,Pakistan,Baluchistan,Mastung,6246.0
+PA-014,Pakistan,Baluchistan,Ziarat,1537.0
+PA-015,Pakistan,Baluchistan,Qilla Saifullah,12792.0
+PA-016,Pakistan,Baluchistan,Gwadar,15182.0
+PA-017,Pakistan,Baluchistan,Kech,28632.0
+PA-018,Pakistan,Baluchistan,Panjgur,20845.0
+PA-019,Pakistan,Baluchistan,Zhob,17818.0
+PA-020,Pakistan,Baluchistan,Musakhel,5310.0
+PA-021,Pakistan,Baluchistan,Loralai,10661.0
+PA-022,Pakistan,Baluchistan,Sibi,6958.0
+PA-023,Pakistan,Baluchistan,Barkhan,3218.0
+PA-024,Pakistan,Baluchistan,Kohlu,9864.0
+PA-025,Pakistan,Baluchistan,Dera Bugti,10135.0
+PA-026,Pakistan,Baluchistan,Kalat,14888.0
+PA-027,Pakistan,Sind,Jafarabad,2880.0
+PA-028,Pakistan,Baluchistan,Nasirabad,3481.0
+PA-029,Pakistan,Baluchistan,Jhal Magsi,4194.0
+PA-030,Pakistan,Baluchistan,Kachhi,9473.0
+PA-031,Pakistan,Baluchistan,Awaran,27633.0
+PA-032,Pakistan,Baluchistan,Lasbela,17326.0
+PA-033,Pakistan,Sind,Karachi,3930.0
+PA-034,Pakistan,Sind,Thatta,17902.0
+PA-035,Pakistan,Sind,Tharparkar,20612.0
+PA-036,Pakistan,Sind,Umerkot,5836.0
+PA-037,Pakistan,Sind,Jamshoro,12271.0
+PA-038,Pakistan,Sind,Dadu,8483.0
+PA-039,Pakistan,Sind,Tando Muhammad Khan,1370.0
+PA-040,Pakistan,Sind,Hyderabad,2284.0
+PA-041,Pakistan,Sind,Tando Allahyar,1630.0
+PA-042,Pakistan,Sind,Badin,7170.0
+PA-043,Pakistan,Sind,Mirpurkhas,3204.0
+PA-044,Pakistan,Sind,Matiari,789.0
+PA-045,Pakistan,Sind,Nawabshah,4866.0
+PA-046,Pakistan,Sind,Sanghar,11331.0
+PA-047,Pakistan,Sind,Naushehro Feroze,3275.0
+PA-048,Pakistan,Sind,Qambar Shahdadkot,7975.0
+PA-049,Pakistan,Sind,Jacobabad,2944.0
+PA-050,Pakistan,Sind,Shikarpur,2737.0
+PA-051,Pakistan,Sind,Ghotki,6009.0
+PA-052,Pakistan,Sind,Sukkur,5135.0
+PA-053,Pakistan,Sind,Kashmore,3241.0
+PA-054,Pakistan,Punjab,Rajanpur,7900.0
+PA-055,Pakistan,Punjab,Dera Ghazi Khan,16787.0
+PA-056,Pakistan,Punjab,Rahim Yar Khan,12725.0
+PA-057,Pakistan,Punjab,Bahawalpur,25926.0
+PA-058,Pakistan,Punjab,Bahawalnagar,7841.0
+PA-059,Pakistan,Punjab,Muzaffargarh,8566.0
+PA-060,Pakistan,Punjab,Multan,3781.0
+PA-061,Pakistan,Punjab,Lodhran,3279.0
+PA-062,Pakistan,Punjab,Vihari,3843.0
+PA-063,Pakistan,Punjab,Pakpattan,2804.0
+PA-064,Pakistan,Punjab,Khanewal,5046.0
+PA-065,Pakistan,Punjab,Layyah,6376.0
+PA-066,Pakistan,Punjab,Bhakkar,8125.0
+PA-067,Pakistan,Punjab,Mianwali,5770.0
+PA-068,Pakistan,Punjab,Attock,7177.0
+PA-069,Pakistan,Punjab,Rawalpindi,6206.0
+PA-070,Pakistan,Punjab,Chakwal,6805.0
+PA-071,Pakistan,Punjab,Jhelum,3848.0
+PA-072,Pakistan,Punjab,Khushab,6880.0
+PA-073,Pakistan,Punjab,Jhang,9313.0
+PA-074,Pakistan,Punjab,Sargodha,6178.0
+PA-075,Pakistan,Punjab,Mandi Bahauddin,2983.0
+PA-076,Pakistan,Punjab,Gujrat,3505.0
+PA-077,Pakistan,Punjab,Sialkot,2976.0
+PA-078,Pakistan,Punjab,Toba Tek Singh,3202.0
+PA-079,Pakistan,Punjab,Sahiwal,3268.0
+PA-080,Pakistan,Punjab,Kasur,4076.0
+PA-081,Pakistan,Punjab,Faisalabad,5988.0
+PA-082,Pakistan,Punjab,Lahore,1732.0
+PA-083,Pakistan,Punjab,Hafizabad,2568.0
+PA-084,Pakistan,K.P.,Dera Ismail Khan,7855.0
+PA-085,Pakistan,F.A.T.A.,Mohmand,2554.0
+PA-086,Pakistan,Baluchistan,South Waziristan,9388.0
+PA-087,Pakistan,F.A.T.A.,North Waziristan,6543.0
+PA-088,Pakistan,F.A.T.A.,Kurram,3844.0
+PA-089,Pakistan,K.P.,Orakzai,2440.0
+PA-090,Pakistan,F.A.T.A.,Khyber,3095.0
+PA-091,Pakistan,F.A.T.A.,Bajaur,1710.0
+PA-092,Pakistan,K.P.,Tank,1793.0
+PA-093,Pakistan,K.P.,Bannu,1210.0
+PA-094,Pakistan,K.P.,Lakki Marwat,3238.0
+PA-095,Pakistan,K.P.,Hangu,1459.0
+PA-096,Pakistan,K.P.,Karak,2767.0
+PA-097,Pakistan,K.P.,Kohat,2906.0
+PA-098,Pakistan,K.P.,Peshawar,1331.0
+PA-099,Pakistan,K.P.,Charsadda,1058.0
+PA-100,Pakistan,K.P.,Nowshera,1917.0
+PA-101,Pakistan,K.P.,Chitral,16240.0
+PA-102,Pakistan,K.P.,Upper Dir,3725.0
+PA-103,Pakistan,K.P.,Lower Dir,1747.0
+PA-104,Pakistan,K.P.,Malakand,1051.0
+PA-105,Pakistan,K.P.,Swat,5243.0
+PA-106,Pakistan,K.P.,Kohistan,7449.0
+PA-107,Pakistan,K.P.,Mardan,1597.0
+PA-108,Pakistan,K.P.,Swabi,1461.0
+PA-109,Pakistan,K.P.,Buner,1657.0
+PA-110,Pakistan,K.P.,Haripur,2214.0
+PA-111,Pakistan,K.P.,Abbottabad,1638.0
+PA-112,Pakistan,K.P.,Battagram,1351.0
+PA-113,Pakistan,K.P.,Shangla,1274.0
+PA-114,Pakistan,Northern Areas,Diamer,7755.0
+PA-115,Pakistan,Northern Areas,Ghizer,11813.0
+PA-116,Pakistan,Northern Areas,Hunza,11310.0
+PA-117,Pakistan,Northern Areas,Gilgit,4116.0
+PA-118,Pakistan,Northern Areas,Nagar,3132.0
+PA-119,Pakistan,Northern Areas,Astore,5209.0
+PA-120,Pakistan,Northern Areas,Kharmang,2777.0
+PA-121,Pakistan,Northern Areas,Skardu,7059.0
+PA-122,Pakistan,Northern Areas,Ghanche,8620.0
+PA-123,Pakistan,Punjab,Okara,4157.0
+PA-124,Pakistan,Punjab,Narowal,2674.0
+PA-125,Pakistan,Punjab,Gujranwala,3573.0

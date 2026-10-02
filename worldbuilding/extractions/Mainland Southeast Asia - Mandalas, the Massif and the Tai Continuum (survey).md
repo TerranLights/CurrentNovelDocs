@@ -10,10 +10,12 @@ Theravada, and archipelagic rather than riverine. Where it abuts, it is named an
 
 **Companion file:** the material-base survey, still to be written.
 
-⚠️ **This is a first pass built from a limited source set.** The web-search budget for the session was
-exhausted before it began, so it rests on thirteen directly-fetched references. Every figure below is
-sourced, but the survey is **thinner than the Latin America and East Asia passes** and should be treated as a
-frame to argue with rather than a finished analysis. Gaps are flagged rather than filled.
+⚠️ **This began as a first pass built from a limited source set** (thirteen directly-fetched references, written
+under an exhausted web-search budget) and **remains thinner than the Latin America and East Asia passes.**
+**Updated 2026-09-24** with a targeted gap-filling pass — Vietnam's province count, Myanmar's conflict map and
+the Wa's status, Thailand's colonization claim, Lan Xang's 1707 split and Laos's elevation-tier population
+shares are now resolved (see the ✅ markers below) — but the survey should still be treated as a frame to argue
+with rather than a finished analysis. Remaining gaps are flagged rather than filled.
 
 ---
 
@@ -155,9 +157,60 @@ descriptively.
 
 **The Chinese wing of Zomia was already flagged in the East Asia survey** — Yunnan and Guizhou, the ~25-people
 shatter zone, and the decision that placed them inside the Sinian Federation anyway on demographic grounds.
-**The massif does not stop at that border**, and the same peoples continue south. ⚠️ **The two surveys should
-be read together at this seam**, and a later pass should check that nothing is said in one that the other
-contradicts.
+**The massif does not stop at that border**, and the same peoples continue south.
+
+**✅ CHECKED 2026-09-24 — the consistency read the two surveys called for is done.** No factual contradiction
+found between the files. Three specific points, checked directly against the East Asia frameworks and material
+surveys:
+
+1. **The settled southern border is Option A, and this file should say so plainly rather than leaving it
+   implicit.** The East Asia survey's §3.3 settled the Chinese wing of the massif — **Yunnan, Guizhou and
+   Guangxi are all Sinian Federation territory**, alongside Gansu, Hainan and Ningxia. So the massif's Chinese
+   half sits *inside* the Federation, and its southward continuation into Myanmar, Laos, Thailand and Vietnam
+   sits *outside* it — the border this survey treats as a scope line is the same line East Asia already drew
+   for other reasons.
+2. **The population figures do not conflict, but they are different aggregation categories and this file
+   should say so.** East Asia's 19.6 million (19,568,546, 2020 census) is the **modern PRC-recognized Zhuang
+   nationality**, concentrated in the Guangxi Zhuang Autonomous Region. This survey's ~93 million is a
+   **present-day cross-border linguistic aggregate** — Thai, Lao, Shan, Dai and others across six countries —
+   who descend from the same Tai-Kadai-speaking population but are not counted in China's Zhuang census
+   figure today. **The two numbers are not double-counted; they answer different questions** (one nation's
+   current headcount vs. a language family's present-day total across borders), and headline 3's "the Zhuang
+   are the origin population" should be read as ancestral-population shorthand, not as a claim that 19.6
+   million people today are literally part of the 93 million.
+3. **⚠️ One real nuance, flagged rather than resolved.** East Asia's own material (§3.3) records that the
+   unified "Zhuang" ethnonym is **substantially a product of the 1950s PRC ethnic-identification project** —
+   mid-century fieldwork found Guangxi's "local people" describing themselves as "Han who speak the Zhuang
+   language," with the group's self-conscious nationhood rated the thinnest of any large group in that survey.
+   That sits in tension with this file's headline framing of "the Zhuang" as a clean, continuous origin
+   population for a migration dated to the 8th–10th centuries — the *language* lineage is well attested, but
+   "Zhuang" as a bounded ethnic category is centuries younger than the migration it is being used to label.
+   **This is a framing precision issue, not a contradicted fact**, and it is left flagged rather than
+   resolved because tightening the language (e.g. "Tai-Kadai-speaking population of ancient Guangxi" instead
+   of "the Zhuang") is an editorial call for the author, not a citation fix.
+
+**Sourcing for the migration date itself (Yangtze homeland, 8th–10th century migration out of Guangxi) was not
+independently re-verified in this check** — it comes from this file's own single source (*Tai peoples*,
+Wikipedia) and the East Asia survey does not address migration timing at all, so there was nothing to check it
+against. That absence of a second source remains this file's own limitation, not a cross-file conflict.
+
+### 2.4 Myanmar's Zomia scope, revisited — evidence pass, 2026-09-26
+
+The map-data package built from this survey (`nations/mainland-southeast-asia-map-data/spheres.csv`) kept
+Myanmar's Zomia domain to Shan State only, on the grounds that §2.1 above names only "the Shan Hills" and does
+not itself extend to Kachin, Chin, Kayah or Kayin, even though Scott's broader thesis (§2.1–2.2) would support
+doing so. **A targeted check of Scott's own stated scope weakens the case for the Shan-only reading.** *The
+Art of Not Being Governed* describes Zomia's reach as running "from the Central Highlands of Vietnam to
+northeastern India, traversing five Southeast Asian nations (Vietnam, Cambodia, Laos, Thailand, and
+Burma)" — Scott names Burma generally, not Shan State specifically, as one of the five. Combined with the
+population/terrain facts already in this survey (§3.1) — Kachin State (2,153,483, the Kachin Hills), Chin
+State (373,023, entirely hill country and among the most mountainous states in the country), Kayah/Karenni
+(296,901, the Karenni highlands) and Kayin/Karen (1,502,774, the Karen Hills) — there is now a real, citable
+basis for treating all four ethnic States, not just Shan, as part of Myanmar's Zomia domain. **This is
+recorded as strengthened evidence, not a decision**: whether the map-data sphere layer should actually extend
+to all four states, or stay Shan-only for legibility (per the same "tier 2 has more resolution than the
+nations layer can carry" caution used elsewhere in this project), is left for the author. `spheres.csv`'s own
+S3 row has been updated to reflect this evidence without pre-deciding the scope.
 
 ---
 
@@ -186,31 +239,122 @@ Shan 4.51%, Mon 2.19%, Chin 2.09%, Kachin 1.50%, Karenni 0.39%.
 (5,546,415), Bago (4,453,687), Magway (4,077,653), Tanintharyi (1,399,965). Plus **Nay Pyi Taw Union
 Territory** (1,129,322).
 
-**And a further layer worth noting:** a **Wa Self-Administered Division** inside Shan State, plus five
-Self-Administered Zones — **Danu, Kokang, Naga, Pa Laung, Pa-O.** ⚠️ The Wa in particular function as a de
-facto state; that was not verified here and should be.
+**And a further layer worth noting:** a **Wa Self-Administered Division** inside Shan State, plus four further
+Self-Administered Zones inside Shan State — **Danu, Kokang, Pa Laung, Pa-O** — and a fifth, **Naga**, inside
+**Sagaing Region** instead (corrected 2026-09-26; previously mislisted as a Shan State zone). **✅ CONFIRMED — the Wa function as a de
+facto state, with a specific asterisk.** The United Wa State Army (20,000–30,000 troops, plus a 10,000-strong
+auxiliary) governs the six-township Wa Self-Administered Division and a second bloc of territory near the Thai
+border (granted in 1989 during anti-narcotics operations), running its own administration, schools, hospitals,
+courts and trading companies, and has called itself the **"Wa State Government Special Administrative Region"**
+since 1 January 2009. China arms and protects it directly. **But it is not a separatist project** — uniquely
+among Myanmar's major ethnic armed organizations, Wa State **officially recognizes Myanmar's sovereignty over
+its own territory** and has not sought formal independence. So: de facto self-governing, China-protected,
+buffer-state in practice — but not seeking, and not styled as, secession. That distinction is worth keeping
+rather than flattening to "independent."
 
 **Myanmar is riven by one of the world's longest-running civil wars**, with a 2021 coup, ongoing conflict,
-**over 1.3 million refugees and 3.5 million internally displaced.** ⚠️ Which groups hold what territory was
-not established and is the single most important gap in this file.
+**over 1.3 million refugees and 3.5 million internally displaced.**
+
+**⚠️ Territorial control, as of mid-2026 — a snapshot, not a stable fact.** Nationally, resistance forces and
+ethnic armies hold roughly **42% of Myanmar's territory** against the junta's **21–33%**, with the remainder
+contested; one tracker put resistance-held ground at 38% a year earlier, so the trend is upward but slow.
+State-by-state:
+
+| State/Region | Who holds it, 2026 |
+|---|---|
+| **Rakhine** | **Arakan Army dominant** — ~14 of 17 townships; the junta is reduced to a few urban enclaves (Sittwe, the Kyaukphyu deep-sea port, Manaung island) |
+| **Chin** | **Resistance-held** (Chin National Army, Chin Brotherhood) — took Falam and the last junta base in the state in 2025 |
+| **Shan (northern)** | **Fragmented and contested** — the Three Brotherhood Alliance's 2024 gains were partly reversed under Chinese pressure (Lashio returned to the junta in 2025); by March 2026 the MNDAA had captured Kutkai from a fellow resistance group (the TNLA), signaling splits within the resistance itself |
+| **Sagaing** | **Resistance heartland** — People's Defence Forces administer most of the countryside under continued junta airstrikes |
+| **Karenni / Kayin** | **Resistance-besieged** — Karen National Liberation Army active against military infrastructure |
+| **Mandalay** | **Partially contested** — resistance fighters have taken towns such as Thabeikkyin, but this is the Bamar heartland and junta-favored ground |
+
+**The junta retains the cities, the center and air superiority; resistance forces and ethnic armies hold most
+of the map by area.** Myanmar in 2026 reads as neither a junta state nor a liberated one but a fractured
+patchwork — "stalemate measured not in front lines but in townships." **This is a live civil war, not a
+settled outcome; the table above is dated and will be stale within a year.** ⚠️ Sub-township-level control and
+a full accounting of every smaller EAO (beyond Rakhine, Chin, Shan, Sagaing, Karenni/Kayin) were not retrieved
+and remain a gap if finer resolution is ever needed.
 
 ### 3.2 Thailand — and the Isan problem
 
 The Isan figures above are the substance. **Two further observations:**
 
-- **Thailand was never colonized**, alone in the region. ⚠️ Stated from general knowledge, not verified here —
-  but if it holds, it means Thailand's borders are *negotiated* rather than *imposed*, unlike every neighbor's,
-  and that is a real difference in how they would survive a collapse.
+- **✅ CONFIRMED, with the nuance kept — Thailand was never colonized, but its borders are negotiated *and*
+  coerced, not simply negotiated.** Siam sat as a buffer between British Burma and French Indochina, and the
+  Anglo-French Declaration of 1896 formalized both powers' interest in keeping it independent as a neutral
+  zone. But independence was bought with **territorial cessions under pressure, not free diplomacy**: France
+  took Laos in 1893 and western Cambodia in 1907; Britain took the four Malay sultanates of Kedah, Perlis,
+  Kelantan and Terengganu in 1909. King Chulalongkorn's centralizing reforms and personal diplomacy (European
+  tours in 1897 and 1907) mattered, but the mechanism was **give ground to avoid losing the core**, not an
+  absence of coercion. So the headline claim holds — Thailand alone was never formally colonized — but "Thailand's
+  borders are negotiated rather than imposed" needs a qualifier: negotiated *under duress*, at the cost of
+  Laos, Cambodia and the northern Malay states, several of which this survey's own map already treats as
+  belonging to other nations. The difference from a colonized neighbor is real (a continuous native monarchy,
+  no colonial administrative layer to strip out at collapse) but it is a difference of degree, not of kind.
 - **Isan's identity is suppressed rather than absent.** People "call themselves Thai Isan or simply Lao," with
   the Lao label carrying stigma in Thai society; the language is a variety of Lao now written in Thai script
   rather than the historical **Tai Noi**. **A century of Thaification did not erase the identity — it renamed
   it**, which is precisely Woodard's claim about how nations persist.
 
+**⚠️ Added 2026-09-26, author-requested research: the "Deep South" (Pattani, Yala, Narathiwat) is a second,
+distinct discontinuity inside Thailand, on top of Isan.** Where Isan is Thailand's largest ethnolinguistic
+seam (the Lao-identity population above), the Deep South is a smaller, sharper one: **77% Muslim**, ethnically
+Malay, the historical **Sultanate of Patani** (15th–18th century) rather than a Tai polity at all — genuinely
+closer to a tier-1 discontinuity (Malay/Austronesian vs. Thailand's Tai-Buddhist core) than Isan's tier-2
+suppressed-identity case. This is the same 1909 Anglo-Siamese settlement already noted above — Britain took
+"the four Malay sultanates of Kedah, Perlis, Kelantan and Terengganu" that year, but Pattani, Yala and
+Narathiwat were **not** among them and stayed with Siam, splitting one Malay-Muslim cultural zone (Patani's
+own sultanate reach) across what became the Thailand/British-Malaya, later Thailand/Malaysia, border. That
+split is still live: a real, active insurgency (**BRN**, since the 1960s, current phase since 2004) has cost
+**over 7,000 lives**, the provinces have been under martial law since 2005, and a 2024 peace roadmap is
+"deteriorating again" as of 2026.
+
+**The author initially proposed the Deep South simply joins Malaysia — checked, and not well-supported**, the
+same way a parallel West Papua/Papua New Guinea proposal was checked on the Maritime map. BRN's own stated
+goal is **independence**, not annexation by Malaysia; recent peace talks show it's newly open to **real
+autonomy within Thailand** instead (Yawi language recognition, local control over education/culture/economic
+development), but union with Malaysia has never been the movement's own aim. Malaysia's government explicitly
+rules out any territorial claim, maintaining "the territory is an integral part of Thailand," and has instead
+positioned itself as a peace-talk mediator since 2013, driven by border-security concerns rather than
+territorial ambition. **Settled the same way as West Papua/PNG**: the Deep South separates from Thailand
+after the 2083 war, with a later union with Malaysia left open as an undecided possible development, not
+asserted as the outcome.
+
+**✅ SETTLED, 2026-09-26: independence, not autonomy** — the independence-vs-autonomy sub-question, researched
+to the same depth as Aceh's equivalent one, and the finding runs opposite to Aceh's. Aceh had a real,
+already-functioning 20-year autonomy track record (the 2005 Helsinki Agreement) to draw on; **Thailand has
+never granted an ethnic minority region real autonomy anywhere in its modern history** — its only two special
+administrative regions (Bangkok 1972, Pattaya 1978) are geographic, not ethnic, neither with real fiscal
+autonomy. Precolonial Siam left Patani's rulers largely alone, but that ended with Chulalongkorn's
+centralizing "Thaification" reforms. The real-world peace process remains fragile and unproven: a Feb 2024
+roadmap missed its own end-of-2024 deadline, talks were suspended a full year, and only resumed 8 December
+2025 — the first time since 2013 BRN has publicly stated a political objective at all (now "self-government,"
+a real shift from independence, but still an unmet demand). **A structural obstacle Aceh's case didn't have**:
+Deep South security has been under direct military martial-law control since 2005, not the civilian
+government's, giving the military an institutional stake in not devolving control — unlike Indonesia's
+civilian-led 2005 breakthrough. Zero successful precedent plus a military veto in the way — independence is
+the better-supported outcome here.
+
+**The cross-border connection that is real and well-grounded**: not Kedah/Perlis (also Malay-Muslim and part
+of the same 1909 cession, but historically a separate lineage — the Kedah Sultanate, not Patani's), but
+specifically **Kelantan and Terengganu**, whose Malay dialect — "Kelantan-Pattani Malay," a real named
+linguistic classification — is spoken continuously across the modern border into Pattani, Yala and
+Narathiwat; native speakers on both sides reportedly "often cannot differentiate" each other's speech. See
+`mainland-southeast-asia-map-data/spheres.csv` S5, "The Patani Malay World" — the first sphere in this
+project connecting the Mainland and Maritime Southeast Asia maps to each other.
+
 ### 3.3 Vietnam — Sinic in an Indic neighborhood
 
 **96.2 million (2019 census), 85.32% Kinh**, 14.68% minorities. ⚠️ Individual minority figures were not
-retrieved. ⚠️ **Vietnam reorganized its provinces in 2025** and the current first-order count is uncertain —
-**confirm before drawing anything.**
+retrieved. **✅ CONFIRMED — Vietnam's first-order count after the 2025 reorganization is 34 provincial-level
+units: 28 provinces and 6 centrally-run cities.** National Assembly Resolution 202/2025/QH15, adopted 12 June
+2025, took effect 1 July 2025. Nineteen provinces and 4 cities were formed by merging previous units; 11
+provinces and cities were left untouched (Cao Bằng, Điện Biên, Hà Tĩnh, Lai Châu, Lạng Sơn, Nghệ An, Quảng
+Ninh, Thanh Hóa, Sơn La, plus Hà Nội and Huế as cities). The same reform also abolished the entire
+district level nationwide, moving the country to a two-tier province/commune structure — **first-order
+subdivisions are now the only administrative tier between the commune and the nation**, which simplifies this
+atlas's job rather than complicating it. **Map data can be drawn against these 34 units.**
 
 See headline 6. The cultural placement is the load-bearing fact: **Vietnam belongs to the East Asia survey's
 world, not this one**, and any map treating mainland Southeast Asia as a unit is making a claim that the
@@ -234,9 +378,15 @@ figure, this produces something genuinely strange and worth building on:
 ethnic composition is the massif's composition. Every other mainland state is a lowland core with highlands at
 its edges; Laos is highlands with a river down one side.
 
-**Lan Xang**, 13th–18th centuries, was the mandala — a hub for overland trade. It **split into three kingdoms
-in 1707** and fell to French rule in 1893. ⚠️ The three-way split is worth following up: it suggests Laos has
-a precedent for fragmenting along internal lines, which no other mainland state in this survey does.
+**Lan Xang**, 13th–18th centuries, was the mandala — a hub for overland trade, capital at Luang Prabang
+(1353–1560) then Vientiane (1560–1707). **✅ CONFIRMED — the three-way 1707 split.** A succession dispute after
+the death of King Sourigna Vongsa split it into **Luang Prabang, Vientiane and Champasak** — Vientiane's
+founding king, Sai Ong Hue, backed by the Vietnamese court at Huế against a rival backed by the Tai Lü kingdom
+of Sipsong Panna. The three kingdoms stayed loosely confederated by culture and history but rivalrous in
+practice until Vientiane was annihilated in 1828; the whole territory fell to French rule in 1893. **The
+precedent holds as stated**: Laos has fragmented along internal lines before, unprompted by any outside power,
+and the fracture ran along the same three centers — Luang Prabang, Vientiane, Champasak — that a post-collapse
+map would have to consider on its own terms.
 
 **✅ CONFIRMED — Laos classifies its own peoples by elevation.** The traditional geographical scheme is
 **Lao Loum (lowland), Lao Theung (midland), Lao Sung (highland)**, and it is in use.
@@ -251,8 +401,15 @@ filing category.
 **Austro-Asiatic** (Khmu 389,694), **Hmong-Mien** (Hmong Njua 245,600, Hmong Daw 200,000), **Tibeto-Burman**
 (Akha ~58,000) and a handful of **Austronesian** Cham.
 
-⚠️ **No population share was retrieved for the three elevation tiers**, and that is the figure worth having —
-it would say directly how much of Laos is massif.
+**✅ CONFIRMED — population shares for the three elevation tiers**, though the figures are ranges rather than a
+census-precise split: **Lao Loum (lowland) 50–60%, Lao Theung (midland) 20–30%, Lao Sung (highland) 10–20%.**
+Lao Loum live in the Mekong valley on wet-rice and Theravada Buddhism; Lao Theung sit at 300–1,200 m; Lao Sung
+sit above roughly 1,000 m and are predominantly Hmong and Mien, most of whom migrated into Laos from China
+around 200 years ago to escape oppression there. **So on the low end of the ranges, nearly half of Laos — and
+on the high end, closer to the stated 46.8% (Khmu 11% + Hmong 9.2% + Phu Thai 3.4% + Tai 3.1% + the rest of
+the non-Lao 46.8% tail from §3.4's ethnic breakdown) — sits in the Theung/Sung tiers.** That is the figure the
+survey wanted: **the massif is not a minority presence in Laos, it is closer to half the country**, consistent
+with the "Laos *is* Zomia" framing above.
 
 ⚠️ **Lao authorities do not use the term "indigenous peoples."** Noted because it is a deliberate choice with
 consequences, and because it differs from how Latin America's frameworks treat the same question.
@@ -377,3 +534,20 @@ All retrieved 2026-09-23. **A small set, and that is this file's main limitation
 **Named but not read:** Wolters on the mandala; Scott, *The Art of Not Being Governed* (2009); van Schendel
 (2002); Lieberman and Brass on the Zomia critique; Tambiah on galactic polities; Anthony Reid on the age of
 commerce. **Benedict Anderson** is the obvious further source and was not consulted at all.
+
+**Added 2026-09-24, gap-filling pass (Vietnam province count, Myanmar conflict map and Wa status, Thailand
+colonization, Lan Xang, Laos elevation-tier population):**
+
+- [2025 Vietnamese administrative reform](https://en.wikipedia.org/wiki/2025_Vietnamese_administrative_reform)
+- [Resolution 202/2025/QH15](https://english.luatvietnam.vn/co-cau-to-chuc/resolution-202-2025-qh15-reorganization-of-provincial-level-administrative-divisions-402728-d1.html)
+- [Myanmar civil war (2021–present)](https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present))
+- [Mapped: Myanmar's Conflict Zones in 2026 — Mappr](https://www.mappr.co/myanmar-conflict-zones-control/)
+- [United Wa State Army](https://en.wikipedia.org/wiki/United_Wa_State_Army)
+- [Protected by China, Wa Is Now a de Facto Independent State — The Irrawaddy](https://www.irrawaddy.com/opinion/guest-column/protected-by-china-wa-is-now-a-de-facto-independent-state.html)
+- [China's Enduring Influence over Wa State in Myanmar — Geopolitical Monitor](https://www.geopoliticalmonitor.com/chinas-enduring-influence-over-wa-state-in-myanmar/)
+- [Why Thailand was never colonized — Works in Progress](https://www.worksinprogress.news/p/why-thailand-was-never-colonized)
+- [History of Thailand](https://en.wikipedia.org/wiki/History_of_Thailand)
+- [Lan Xang](https://en.wikipedia.org/wiki/Lan_Xang)
+- [Kingdom of Vientiane](https://en.wikipedia.org/wiki/Kingdom_of_Vientiane)
+- [Kingdom of Champasak](https://en.wikipedia.org/wiki/Kingdom_of_Champasak)
+- [Lao Theung](https://en.wikipedia.org/wiki/Lao_Theung) / [Lao Sung](https://en.wikipedia.org/wiki/Lao_Sung) / [Lao people](https://en.wikipedia.org/wiki/Lao_people)

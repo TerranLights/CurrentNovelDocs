@@ -28,8 +28,12 @@ complete because the research supports it; the cultural layer is thin because it
 - **Common/colloquial name:** Cascadia
 - **Government type/political system:** **TBD** — though the later name implies a transformation worth
   designing deliberately rather than inheriting from the label.
-- **Capital or primary city:** **TBD, and genuinely open.** Candidates span Vancouver, Seattle, Portland, San
-  Francisco and Los Angeles — which optimize for very different countries.
+- **Capital or primary city:** **TBD, narrowed 2026-09-26.** Vancouver and Seattle are ruled out — the author
+  wants the capital in California or Oregon. Remaining candidates: **San Francisco, Los Angeles, or Portland.**
+  This is the priority open item for Cascadia: *Streetside Harmonies*, the author's first novel planned for
+  publication, is set in Santa Rosa, inside Cascadia (see [[project-streetside-harmonies]]). The national
+  government is confirmed as background texture for that story, not a felt presence, so the pick can be made
+  on other grounds (economic weight, symbolism, distance from Santa Rosa) rather than story necessity.
 - **Assembly of Nations member?** **Yes**
 
 ---
@@ -206,7 +210,8 @@ a functioning government.**
 
 ## Open Questions / TBD
 
-1. **The capital** — entirely open, and the candidates imply very different countries.
+1. **The capital** — narrowed to San Francisco, Los Angeles, or Portland (2026-09-26); still open, and each
+   implies a different country.
 2. **When and why the Republic became the People's Democratic Republic.** A named transformation with no
    history behind it yet.
 3. **Government type, and all five cultural axes.**

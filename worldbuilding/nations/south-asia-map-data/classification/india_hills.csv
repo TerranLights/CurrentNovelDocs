@@ -1,0 +1,39 @@
+unit_id,unit,region_id,region_tier,sphere_1,sphere_2,lang_primary,lang_secondary,religion_primary,religion_secondary,breaks_first_order_rule,confidence,evidence
+IN-043,Lunglei,R42,core,S04,,Mizo,Jumma,Christian,Buddhist-Theravada,N,3,"Survey 3.3: Mizo 66.5%, Chakma 24.9%; Christian 74.39%, Buddhist 20.70%; pop 161,428 (pre-Hnahthial)"
+IN-044,Kolasib,R42,core,S04,,Mizo,,Christian,,N,3,"Survey 3.3: Mizo 75.9%, Hmar 7.56%, Bengali 5.30%, Tripuri 4.63%; Christian 89.58%"
+IN-045,Lawngtlai,R42,domain,S04,,Jumma,Mizo,Christian,Buddhist-Theravada,N,3,"Survey 3.3: Chakma 39.3%, Mizo 23.2%, Pawi/Lai 21.0%; Christian 54.19%, Buddhist 43.72%; Chakma and Lai ADCs; Chakma plurality makes this a minority-majority domain of R42"
+IN-046,Saiha,R42,domain,S04,,Kuki-Chin,,Christian,,N,3,"Survey 3.3: Mara 72.1%, Mizo 16.8%; Christian 97.18%; Mara ADC; Zo-kin but not Mizo-majority so domain (Mara mapped to Kuki-Chin as nearest scheme id)"
+IN-047,Champhai,R42,core,S04,,Mizo,,Christian,,N,3,"Survey 3.3: Mizo; Christian 98.17%; pop 125,745 (pre-Khawzawl/Saitual)"
+IN-048,Serchhip,R42,core,S04,,Mizo,,Christian,,N,3,Survey 3.3: Mizo 97.75%; Christian 97.70%
+IN-049,Aizawl,R42,core,S04,,Mizo,,Christian,,N,3,"Survey 3.3: Mizo; Christian 94.71%; capital; pop 400,309 (pre-Saitual)"
+IN-050,Mamit,R42,core,S04,,Mizo,,Christian,,N,3,"Survey 3.3: Mizo 62.6%, Tripuri 17.6%, Chakma 15.2%; Christian 80.01%, Buddhist 14.27%; Bru area"
+IN-051,Chandel,R41,domain,S04,S05,Kuki-Chin,Naga-Tangkhul-Zeliangrong,Christian,,Y,1,"Mixed district (survey 13): pre-split Thadou 37.7%, Anal 17.9%, Maring 15.3%; Anal/Moyon/Monsang/Lamkang/Maring are Old Kuki/Naga, claimed by both sides; Christian 93.20%; assigned to Kuki-Zo plurality (survey 13 option 1); post-split roll-up 85,072; Naga secondary language is inferred"
+IN-052,Tamenglong,R40,core,S05,,Naga-Tangkhul-Zeliangrong,,Christian,,Y,3,Survey 3.2/13: Rongmei majority with Liangmai and Zeme (Zeliangrong heartland); Christian 95.81%; clean Naga district; pop figures unreconciled
+IN-053,Ukhrul,R40,core,S05,,Naga-Tangkhul-Zeliangrong,,Christian,,Y,3,"Survey 3.2: Tangkhul 87.2%, Kuki-Zo 5.1% (pre-Kamjong); Christian 94.09%"
+IN-054,Bishnupur,R12,core,,,Meitei,,Hindu,,Y,3,"Survey 3.2: Manipuri 97.87%; Hindu 73.76%, Sanamahi 16.20%, Muslim 7.87%; clean valley district"
+IN-055,Churachandpur,R41,core,S04,,Kuki-Chin,,Christian,,Y,3,"Survey 3.2: Kuki tribes 87%, ST 92.9%; Christian 93%; Paite Thadou Zou Hmar Simte Vaiphei Gangte"
+IN-056,Thoubal,R12,core,,,Meitei,,Hindu,Sunni,Y,3,"Survey 3.2: Manipuri 99.35%; Hindu 63.27%, Muslim (Pangal) 25.42%, Sanamahi 10.03%"
+IN-057,Imphal East,R12,core,,,Meitei,,Hindu,,Y,3,"Survey 3.2: Manipuri 91%; Hindu 61.5%, Sanamahi 16.8%, Muslim 15.8%"
+IN-058,Kangpokpi,R41,domain,S04,S05,Kuki-Chin,,Christian,,Y,2,"Mixed district (survey 13): Thadou 52.9%, Nepali 16.0%, ST 79.76%; Christian 79.90%, Hindu 17.68%; Vaiphei and Tangkhul minorities and Zeliangrong claim put it inside the Nagalim claim map; Nepali share is a possible S01 overlay"
+IN-059,Imphal West,R12,core,,,Meitei,,Hindu,,Y,3,"Survey 3.2: Manipuri 90.9%; Hindu 74.81%, Sanamahi 14.87%, Muslim 4.69%, Christian 4.51%; 62% urban"
+IN-060,Mon,R40,domain,S05,,Naga-Ao-Konyak,,Christian,,N,3,"Survey 3.1: Konyak; Christian 94.5%; Eastern Nagaland (Frontier Nagaland claim) so domain of R40; pop 250,260"
+IN-061,Tuensang,R40,domain,S05,,Naga-Ao-Konyak,,Christian,,N,3,"Survey 3.1: Chang, Sangtam, Yimkhiung, Khiamniungan (Phom minority); Christian 97.0%; Eastern Nagaland domain; geoBoundaries unit folds Noklak and Shamator"
+IN-062,Mokokchung,R40,core,S05,,Naga-Ao-Konyak,,Christian,,N,3,"Survey 3.1: Ao; Christian 93.4%; pop 194,622"
+IN-063,Longleng,R40,domain,S05,,Naga-Ao-Konyak,,Christian,,N,3,Survey 3.1: Phom 93.68%; Christian 96.76%; Eastern Nagaland domain
+IN-064,Phek,R40,core,S05,,Naga-Angami-Sumi,,Christian,,N,3,Survey 3.1: Chakhesang and Pochury; Christian 96.8%; folds Meluri; Pochury mapped to Angami-Sumi group as nearest scheme id
+IN-065,Kohima,R40,core,S05,,Naga-Angami-Sumi,,Christian,,N,3,"Survey 3.1: Angami (Tenyimia); Christian 85.1%, Hindu 11.8%; folds Tseminyu (Rengma)"
+IN-066,Wokha,R40,core,S05,,Naga-Angami-Sumi,,Christian,,N,3,Survey 3.1: Lotha 90.48% by language; Christian 95.13%
+IN-067,Zunheboto,R40,core,S05,,Naga-Angami-Sumi,,Christian,,N,3,Survey 3.1: Sumi; Christian 97.3%; no Sumi tribe figure retrieved but district is Sumi heartland
+IN-068,Kiphire,R40,domain,S05,,Naga-Ao-Konyak,,Christian,,N,3,"Survey 3.1: Sangtam 63.7%, Yimkhiung 27.45%; Christian 97.0%; Eastern Nagaland domain"
+IN-069,Dimapur,R40,domain,S05,,Naga-Angami-Sumi,Bengali,Christian,Hindu,N,1,"Survey 3.1: plural city district (Christian 61.8%, Hindu 28.8%, Muslim 8.24%); largest non-tribal population (Bengali Marwari Nepali Punjabi) plus Sumi/Angami/Lotha and Kachari claim; no language shares retrieved so languages are inferred; folds Chumoukedima and Niuland"
+IN-070,Peren,R40,core,S05,,Naga-Tangkhul-Zeliangrong,,Christian,,N,3,"Survey 3.1: Zeme 57.2%, Rongmei 11.4%, Liangmai 10.2% (Zeliangrong about 79%); Kuki 3.95%; Christian 90.47%"
+IN-107,Pherzawl,R41,core,S04,,Kuki-Chin,,Christian,,Y,2,"Survey 3.2/13: Hmar official language, with Paite Zou Vaiphei; clean Kuki-Zo but religion and shares not retrieved (Christian inferred from neighbors); pop 40,390-47,259"
+IN-108,Noney,R40,domain,S05,S04,Naga-Tangkhul-Zeliangrong,,Christian,,Y,2,"Mixed district (survey 13): Rongmei Naga majority with Inpui minority and Thadou, Gangte, Chiru speakers; religion not retrieved (Christian inferred); assigned to Naga plurality"
+IN-109,Tengnoupal,R41,domain,S04,S05,Kuki-Chin,Naga-Tangkhul-Zeliangrong,Christian,,Y,1,"Mixed district (survey 13): Maring 34.0% vs Thadou 33.6% is a statistical tie, Manipuri 8.03%; Christian 84.18%; Maring is Old Kuki/Naga; assigned to Kuki-Zo per survey option 1 but could equally be Naga; Naga secondary language inferred from Maring"
+IN-110,Kamjong,R40,core,S05,,Naga-Tangkhul-Zeliangrong,,Christian,,Y,3,"Survey 3.2: Tangkhul 89.1%, Thadou 6.61%; Christian 96.25%"
+IN-111,Senapati,R40,core,S05,,Naga-Tangkhul-Zeliangrong,,Christian,,Y,3,"Survey 3.2: Poumai 54.2%, Mao 25.8%, Maram 9.21% (about 89% Naga); Christian 95.31%; pop 285,404 post-Kangpokpi"
+IN-112,Kakching,R12,core,,,Meitei,,Hindu,Sunni,Y,2,Survey 3.2: Meitei/Pangal valley district split from Thoubal (Thoubal is 25.42% Muslim); own religion figures not retrieved so Hindu primary and Sunni secondary are inferred
+IN-113,Jiribam,R07,domain,,,Bengali,Meitei,Hindu,Sunni,Y,2,"Mixed district (survey 3.2/13): Bengali 50.8%, Manipuri 30.5%, Hmar 8.04%; Hindu 48.64%, Muslim 34.07%, Christian 13.34%; Barak valley on the Cachar border, so Bengali plurality maps to R07 not R12; R12 is the alternative"
+IN-121,Hnahthial,R42,core,S04,,Mizo,,Christian,,N,2,Carved from Lunglei in 2019 with no separate 2011 shares; inherits Mizo/Christian majority from parent (survey 3.3); Chakma share probably lower in the east
+IN-122,Saitual,R42,core,S04,,Mizo,,Christian,,N,2,Carved from Aizawl and Champhai in 2019; no separate 2011 shares; inherits Mizo/Christian majority from parents (survey 3.3)
+IN-123,Khawzawl,R42,core,S04,,Mizo,,Christian,,N,2,Carved from Champhai in 2019; no separate 2011 shares; inherits Mizo/Christian majority from parent (survey 3.3)

@@ -1,0 +1,127 @@
+unit_id,unit,region_id,region_tier,sphere_1,sphere_2,lang_primary,lang_secondary,religion_primary,religion_secondary,breaks_first_order_rule,confidence,evidence
+PA-000,Khuzdar,R21,core,,,Brahui,,Sunni,,N,3,[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Khuzdar 78.9% Brahui (2023 census)
+PA-001,Khairpur,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-002,Shigar,R23,core,,,Balti,,Shia,,N,2,"Survey 5: Skardu and Ghanche Shia-majority; Baltistan Balti speech, no percentages"
+PA-003,Azad Kashmir,R24,core,,,Pahari-Pothwari,,Sunni,,N,3,"Survey 4.5: Pahari-Pothwari 68%, Gojri 19% (no Gojri id in scheme), Kashmiri 5%"
+PA-004,Mansehra,R24,core,S13,,Hindko,,Sunni,,Y,2,"Survey 4.4: Hazara Division 55.99% Hindko, Pashto 20.69% (division figure; about 71% Hindko once Kohistan is excluded, derived)"
+PA-005,Sheikhpura,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-006,Islamabad Capital Territory,R24,domain,S11,,Punjabi,,Sunni,,N,1,"OPEN DECISION (survey 12): enclave on the Potohar fringe so R24 domain; Pashto about 13-25% (0.3-0.6M of 2.36M, survey 4.4)"
+PA-007,Chagai,R21,domain,,,Balochi,,Sunni,,N,1,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Baloch-Brahui west with a Pashtun fringe; survey has no Chagai number, inferred from region"
+PA-008,Nushki,R21,domain,,,Brahui,Balochi,Sunni,,N,1,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Mixed Brahui-Baloch-Pashtun seam south of Quetta; no survey number, inferred"
+PA-009,Qilla Abdullah,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Chaman 99.4% Pashto (folded in)
+PA-010,Quetta,R21,domain,,,Pashto,,Sunni,,N,3,"[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Quetta 60.0% Pashto, Brahui 15.5%; Hazara Shia about 19% (500k); mixed capital so domain"
+PA-011,Pishin,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Pishin 99.1% Pashto
+PA-012,Kharan,R21,core,,,Balochi,,Sunni,,N,2,[inside Baluchistan; drawn in Balochistan per the West Asia package] Rakhshan Baloch desert district; no district number in survey
+PA-013,Mastung,R21,core,,,Brahui,,Sunni,,N,3,[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Mastung 89% Brahui
+PA-014,Ziarat,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Ziarat 98.9% Pashto
+PA-015,Qilla Saifullah,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Killa Saifullah 99.5% Pashto
+PA-016,Gwadar,R21,core,,,Balochi,,Sunni,,N,2,[inside Baluchistan; drawn in Balochistan per the West Asia package] Makran coast in the Baloch core (survey 7.1 and ME survey 9); no district number in survey
+PA-017,Kech,R21,core,,,Balochi,,Sunni,,N,3,[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Kech 99.7% Balochi
+PA-018,Panjgur,R21,core,,,Balochi,,Sunni,,N,3,[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Panjgur 99.6% Balochi
+PA-019,Zhob,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Zhob 97.6% Pashto (Sherani 99.9% folded in)
+PA-020,Musakhel,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Musakhel 85.8% Pashto
+PA-021,Loralai,R21,domain,,,Pashto,,Sunni,,N,3,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.4: Loralai 96.2% Pashto (Duki 93.3% folded in)
+PA-022,Sibi,R21,domain,,,Balochi,Pashto,Sunni,,N,1,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Not on survey's Pashto list (Harnai 89.3% folded in); mixed Baloch-Pashtun-Saraiki, inferred"
+PA-023,Barkhan,R21,domain,,,Balochi,,Sunni,,N,1,[inside Baluchistan; drawn in Balochistan per the West Asia package] Not on survey's Pashto-majority list; Khetran Baloch fringe next to Musakhel; inferred
+PA-024,Kohlu,R21,core,,,Balochi,,Sunni,,N,3,[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Kohlu 95.6% Balochi
+PA-025,Dera Bugti,R21,core,,,Balochi,,Sunni,,N,3,[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Dera Bugti 98.9% Balochi
+PA-026,Kalat,R21,core,,,Brahui,,Sunni,,N,3,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Kalat listed Brahui-majority (Surab folded in, 96.8%)"
+PA-027,Jafarabad,R21,domain,,,Balochi,,Sunni,,N,3,Survey 4.5: Jafarabad 51.9% Balochi; Sindh-border fringe
+PA-028,Nasirabad,R21,domain,,,Balochi,Sindhi,Sunni,,N,2,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Survey 4.5: Nasirabad 43.2% Balochi (plurality); second language Sindhi inferred, not in survey"
+PA-029,Jhal Magsi,R21,domain,,,Balochi,Sindhi,Sunni,,N,1,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Kachhi plain on the Sindh border; no survey number, Sindhi secondary inferred from province 3.81% Sindhi"
+PA-030,Kachhi,R21,domain,,,Balochi,,Sunni,,N,1,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Bolan-Kachhi Baloch-Brahui plain; no survey number, inferred"
+PA-031,Awaran,R21,core,,,Balochi,,Sunni,,N,2,[inside Baluchistan; drawn in Balochistan per the West Asia package] Makran-Jhalawan Baloch plateau; no district number in survey (province Balochi 39.91%)
+PA-032,Lasbela,R21,domain,,,Balochi,Sindhi,Sunni,,N,1,"[inside Baluchistan; drawn in Balochistan per the West Asia package] Lasi Sindhi and Balochi mix on the Karachi seam; no survey number, inferred"
+PA-033,Karachi,R04,core,S11,S12,Urdu,,Sunni,,Y,3,"Survey 4.3: Karachi Division 50.67% Urdu, Pashto 13.51%, Sindhi 11.12%, Balochi 3.97%; 808k Balochi speakers"
+PA-034,Thatta,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-035,Tharparkar,R03,core,,,Sindhi,,Sunni,Hindu,N,2,Survey 4.3: Hindu share 'high' in Tharparkar; no exact figure; Sindhi (incl. Dhatki) speech
+PA-036,Umerkot,R03,core,,,Sindhi,,Hindu,Sunni,N,3,Survey 4.3: Pakistan's only Hindu-majority district; Sindh 60.1% Sindhi
+PA-037,Jamshoro,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-038,Dadu,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-039,Tando Muhammad Khan,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-040,Hyderabad,R04,domain,,,Urdu,Sindhi,Sunni,,Y,1,"1951 migrants were 65% of Hyderabad (survey 1.2); no 2023 district numbers, language split inferred"
+PA-041,Tando Allahyar,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-042,Badin,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-043,Mirpurkhas,R03,core,,,Sindhi,,Sunni,Hindu,N,2,Survey 4.3: Hindu share 'high' in Mirpur Khas; no exact figure; Sindh 60.1% Sindhi
+PA-044,Matiari,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-045,Nawabshah,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-046,Sanghar,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-047,Naushehro Feroze,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-048,Qambar Shahdadkot,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-049,Jacobabad,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-050,Shikarpur,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-051,Ghotki,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-052,Sukkur,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi, rural Sindhi belt; 1951 migrants were 55% of Sukkur (survey 1.2) so Urdu-speaking city pocket; no district number"
+PA-053,Kashmore,R03,core,,,Sindhi,,Sunni,,N,2,"Sindh 60.1% Sindhi; Karachi holds only 7% of Sindhi but 83% of Urdu and 93% of Pashto (survey 4.3), so rural district is Sindhi; no district number"
+PA-054,Rajanpur,R02,core,S12,,Saraiki,,Sunni,,Y,2,"DG Khan Division Saraiki belt (survey 4.2); Baloch tribal fringe inferred from DG Khan 12.7%, no Rajanpur number"
+PA-055,Dera Ghazi Khan,R02,core,S12,,Saraiki,Balochi,Sunni,,Y,3,"Survey 4.2: DG Khan 82.9% Saraiki, Balochi 12.7%"
+PA-056,Rahim Yar Khan,R02,core,,,Saraiki,Punjabi,Sunni,,Y,2,"Bahawalpur Division 49.1% Saraiki, 42.6% Punjabi (survey 4.2); district split not given"
+PA-057,Bahawalpur,R02,core,,,Saraiki,Punjabi,Sunni,,Y,2,"Bahawalpur Division 49.1% Saraiki, 42.6% Punjabi (survey 4.2); district split not given, canal-colony settlers"
+PA-058,Bahawalnagar,R01,domain,,,Punjabi,Saraiki,Sunni,,N,1,"Bahawalpur Division only 49.1% Saraiki (survey 4.2), settler-heavy east end so likely Punjabi plurality; no district number"
+PA-059,Muzaffargarh,R02,core,,,Saraiki,,Sunni,,Y,2,Survey 4.2: DG Khan Division Saraiki belt; no district number
+PA-060,Multan,R02,core,,,Saraiki,,Sunni,,Y,3,"Survey 4.2: Multan 63.9% Saraiki, Urdu 17.7%, Punjabi 16.0%"
+PA-061,Lodhran,R02,core,,,Saraiki,,Sunni,,Y,2,Multan Division Saraiki heartland (survey 4.2); no district number
+PA-062,Vihari,R02,domain,,,Saraiki,Punjabi,Sunni,,Y,1,Multan Division Saraiki share not given (survey 4.2); canal-colony Punjabi settlers make it mixed; inferred
+PA-063,Pakpattan,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-064,Khanewal,R02,domain,,,Saraiki,Punjabi,Sunni,,Y,1,Multan Division Saraiki share not given (survey 4.2); canal-colony Punjabi settlers make it mixed; inferred
+PA-065,Layyah,R02,core,,,Saraiki,,Sunni,,Y,2,Survey 4.2/7.4: Layyah in DG Khan Division Saraiki belt; no district number
+PA-066,Bhakkar,R02,core,,,Saraiki,,Sunni,,Y,2,Survey 4.2 names Bhakkar in the Saraiki-speaking Punjab set; no district number
+PA-067,Mianwali,R02,core,,,Saraiki,,Sunni,,Y,3,"Survey 4.2: Mianwali 76.0% Saraiki, Pashto 11.3%"
+PA-068,Attock,R24,domain,,,Pahari-Pothwari,,Sunni,,Y,1,"Survey 4.5 places Hindko in Attock; Pothwari-Hindko-Pashto seam, no district number"
+PA-069,Rawalpindi,R24,domain,,,Pahari-Pothwari,,Sunni,,Y,1,Region scope: Murree-Rawalpindi Pothwari fringe; census files Pothwari under Punjabi so no district number
+PA-070,Chakwal,R24,domain,,,Pahari-Pothwari,,Sunni,,Y,1,"Potohar Pothwari-speaking fringe (region scope); census folds it into Punjabi, no district number"
+PA-071,Jhelum,R24,domain,,,Pahari-Pothwari,Punjabi,Sunni,,Y,1,"Potohar fringe with Punjabi mix (region scope); census folds Pothwari into Punjabi, no district number"
+PA-072,Khushab,R01,core,,,Punjabi,,Sunni,,N,2,Punjab 67.0% Punjabi (survey 4.2); Thal district outside the survey's Saraiki list; no district number
+PA-073,Jhang,R01,domain,,,Punjabi,Saraiki,Sunni,,N,1,Not on the survey's Saraiki list but sits on the Saraiki seam (Jhangochi speech); no district number
+PA-074,Sargodha,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-075,Mandi Bahauddin,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-076,Gujrat,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-077,Sialkot,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-078,Toba Tek Singh,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-079,Sahiwal,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-080,Kasur,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-081,Faisalabad,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-082,Lahore,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-083,Hafizabad,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-084,Dera Ismail Khan,R02,domain,,,Saraiki,Pashto,Sunni,,Y,2,"Survey 4.2: DI Khan Division 40.1% Saraiki, 58.0% Pashto incl. Tank and South Waziristan, so the district is Saraiki plurality; PPP counts it in Saraikistan"
+PA-085,Mohmand,R20,core,,,Pashto,,Sunni,,N,2,Survey 3: ex-FATA 98.4% Pashto-speaking (2017 census)
+PA-086,South Waziristan,R21,domain,,,Pashto,,Sunni,,N,2,[Pashto-majority district inside Baluchistan; drawn in Balochistan per the West Asia package] Ex-FATA 98.4% Pashto (survey 3); unit file lists it under Baluchistan but it is in KP
+PA-087,North Waziristan,R20,core,,,Pashto,,Sunni,,N,2,Survey 3: ex-FATA 98.4% Pashto-speaking (2017 census)
+PA-088,Kurram,R20,core,,,Pashto,,Sunni,Shia,N,3,"Survey 4.4: Kurram 99.19% Pashto, about half Shia (survey 5)"
+PA-089,Orakzai,R20,core,,,Pashto,,Sunni,,N,2,Survey 3: ex-FATA 98.4% Pashto-speaking (2017 census)
+PA-090,Khyber,R20,core,,,Pashto,,Sunni,,N,2,Survey 3: ex-FATA 98.4% Pashto-speaking (2017 census)
+PA-091,Bajaur,R20,core,,,Pashto,,Sunni,,N,2,Survey 3: ex-FATA 98.4% Pashto-speaking (2017 census)
+PA-092,Tank,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Pashto district in DI Khan Division (survey 4.2); PPP would count it in Saraikistan; no district number
+PA-093,Bannu,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Bannu Division Pashto belt; no district number
+PA-094,Lakki Marwat,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Bannu Division Pashto belt; no district number
+PA-095,Hangu,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Kohat Division Pashto belt; no district number
+PA-096,Karak,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Kohat Division Pashto belt; no district number
+PA-097,Kohat,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Kohat Division Pashto; Hindko in Kohat city (survey 4.5); no district number
+PA-098,Peshawar,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Peshawar Division; Pashto core with Hindko city pockets (survey 4.5); no district number
+PA-099,Charsadda,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Peshawar Division Pashto belt; no district number
+PA-100,Nowshera,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Peshawar Division Pashto belt; no district number
+PA-101,Chitral,R23,core,,,Khowar,,Sunni,,Y,2,"Survey 4.5: Khowar main language of Chitral (7,466 Kalasha speakers); no Chitral percentage"
+PA-102,Upper Dir,R20,core,,,Pashto,,Sunni,,N,2,"Survey 4.4: Malakand Division 90.98% Pashto (division figure, includes Chitral)"
+PA-103,Lower Dir,R20,core,,,Pashto,,Sunni,,N,2,"Survey 4.4: Malakand Division 90.98% Pashto (division figure, includes Chitral)"
+PA-104,Malakand,R20,core,,,Pashto,,Sunni,,N,2,"Survey 4.4: Malakand Division 90.98% Pashto (division figure, includes Chitral)"
+PA-105,Swat,R20,core,,,Pashto,,Sunni,,N,2,"Survey 4.4: Malakand Division 90.98% Pashto (division figure, includes Chitral)"
+PA-106,Kohistan,R23,core,,,Kohistani,,Sunni,,Y,2,"Survey 4.5: Kohistan districts sit in Hazara Division, Kohistani speech; no percentages"
+PA-107,Mardan,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Mardan Division Pashto belt; no district number
+PA-108,Swabi,R20,core,,,Pashto,,Sunni,,N,2,Survey 4.4: KP about 83-84% Pashto (derived); Mardan Division Pashto belt; no district number
+PA-109,Buner,R20,core,,,Pashto,,Sunni,,N,2,"Survey 4.4: Malakand Division 90.98% Pashto (division figure, includes Chitral)"
+PA-110,Haripur,R24,domain,S13,,Hindko,,Sunni,,Y,2,"Survey 4.4: Hazara Division 55.99% Hindko, Pashto 20.69% (division figure); Pashtun pocket inferred"
+PA-111,Abbottabad,R24,core,S13,,Hindko,,Sunni,,Y,2,"Survey 4.4: Hazara Division 55.99% Hindko, Pashto 20.69% (division figure; about 71% Hindko once Kohistan is excluded, derived)"
+PA-112,Battagram,R24,domain,,,Pashto,,Sunni,,Y,1,Hazara Division unit but Allai Pashtun; survey gives only division numbers (Pashto 20.69%); inferred
+PA-113,Shangla,R20,core,,,Pashto,,Sunni,,N,2,"Survey 4.4: Malakand Division 90.98% Pashto (division figure, includes Chitral)"
+PA-114,Diamer,R23,core,,,Shina,,Sunni,,N,3,"Survey 5: Diamer 100% Sunni; Shina speech (survey 4.5 lists Shina for GB, no percentages)"
+PA-115,Ghizer,R23,core,,,Khowar,Shina,Other,Sunni,N,1,"Survey 5: Ghizer Ismaili-majority (coded Other); Khowar-Shina-Burushaski mix, no percentages"
+PA-116,Hunza,R23,core,,,Burushaski,Wakhi,Other,,N,2,"Survey 5: Hunza 100% Ismaili (coded Other); Burushaski core with Wakhi in Gojal, no percentages"
+PA-117,Gilgit,R23,core,,,Shina,,Shia,Sunni,N,2,"Survey 5: Gilgit city 60% Shia; Shina-Burushaski mix, no percentages"
+PA-118,Nagar,R23,core,,,Burushaski,,Shia,,N,3,Survey 5: Nagar 100% Shia; Burushaski speech
+PA-119,Astore,R23,core,,,Shina,,Sunni,,N,1,Shina valley; sect not in survey (Sunni inferred); GB language figures not retrieved
+PA-120,Kharmang,R23,core,,,Balti,,Shia,,N,2,"Survey 5: Skardu and Ghanche Shia-majority; Baltistan Balti speech, no percentages"
+PA-121,Skardu,R23,core,,,Balti,,Shia,,N,2,"Survey 5: Skardu and Ghanche Shia-majority; Baltistan Balti speech, no percentages"
+PA-122,Ghanche,R23,core,,,Balti,,Shia,Other,N,2,"Survey 5: Ghanche Shia-majority with Noorbakhshis (coded Other); Balti speech, no percentages"
+PA-123,Okara,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-124,Narowal,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"
+PA-125,Gujranwala,R01,core,,,Punjabi,,Sunni,,N,2,"Punjab 67.0% Punjabi, Saraiki 20.6% confined to south and west (survey 4.2); no district number"

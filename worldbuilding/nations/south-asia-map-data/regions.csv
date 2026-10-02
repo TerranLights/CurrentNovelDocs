@@ -1,0 +1,40 @@
+region_id,region_name,structural_tier,scope_note
+R01,Punjabi Plain,Plain,Punjabi-speaking irrigated core of the Indus plain (Lahore-Faisalabad-Sialkot-Gujranwala-Sargodha; Pothwari fringe goes to R24)
+R02,Saraiki Belt,Plain,South Punjab Saraiki-speaking belt plus Dera Ismail Khan (Multan-Bahawalpur-DG Khan-Layyah-Rajanpur-DI Khan)
+R03,Sindh Indus Delta,Plain,Sindhi-speaking lower Indus valley and delta outside Karachi-Hyderabad
+R04,Karachi-Hyderabad Muhajir Coast,Plain,Urdu-speaking 1947 settler cities Karachi and Hyderabad (whole-district approximation; Karachi is also Pashtun/Baloch/Sindhi mixed)
+R05,Madhesh Terai,Plain,Maithili-Bhojpuri-Awadhi-speaking Terai plain of southern Nepal (Tharu belt of the west Terai is a sphere overlay S08 on this or the hills)
+R06,Bengal Delta,Plain,Bengali-speaking deltaic core of Bangladesh (Dhaka Barisal Khulna Rajshahi Mymensingh Chattogram-coast Bengali districts)
+R07,Sylhet-Barak Valley,Plain,Sylheti-Bengali haor and valley country: Sylhet Division plus Assam's Barak Valley (Cachar Karimganj Hailakandi)
+R08,North Bengal Rajbanshi Plain,Plain,Rajbanshi/Koch and Bengali plains of Rangpur Division plus Cooch Behar Jalpaiguri Alipurduar and western Assam (Dhubri Goalpara Kokrajhar fringe)
+R09,Brahmaputra Assamese Valley,Plain,Assamese-speaking Brahmaputra Valley from Upper Assam (Ahom heartland) to Lower Assam
+R10,Bodoland,Plain,Bodo plains of the Bodoland Territorial Region and its fringe (Kokrajhar Chirang Baksa Udalguri)
+R11,Tripura Bengali Plain,Plain,Bengali-majority plains of West Tripura and the lowland districts (post-1947 demographic layer)
+R12,Meitei Valley,Plain,Imphal Valley: Meitei-majority valley districts of Manipur
+R20,Pashtun Rim,Rim,Pashto-speaking highland and frontier belt: Khyber Pakhtunkhwa and the ex-FATA districts (northern Baluchistan Pashto districts sit inside R21 per the West Asia package)
+R21,Balochistan (West Asia package),Rim,ALREADY MAPPED: Pakistan's whole Baluchistan province as settled 2026-09-29 in the Middle East package (with Iran's Sistan and Baluchestan and Afghanistan's Nimruz); not re-cut here. Its Pashto-majority north is kept as domain in the classification
+R22,Chittagong Hill Tracts,Rim,Jumma (Chakma Marma Tripura) hill country of Rangamati Bandarban Khagrachhari
+R23,Karakoram-Hindu Kush Roof,Roof,Dardic Balti Burusho Wakhi Khowar high valleys: Gilgit-Baltistan Chitral Kohistan (Diamer)
+R24,Pahari-Kashmiri Foothills,Roof,Pahari-Pothwari-Hindko-Kashmiri foothills: Azad Kashmir Hazara Division Murree-Rawalpindi fringe
+R30,Nepal Khas Hills,Highland State Belt,Nepali/Khas-Arya-speaking hills of west and central Nepal (the conquest-state core)
+R31,Kathmandu Valley Newar Core,Highland State Belt,Newar cities of the Kathmandu Valley
+R32,Magar-Gurung-Tamang Middle Hills,Highland State Belt,Central middle hills of Janajati peoples (Magar Gurung Tamang and neighbors)
+R33,Kirat East,Highland State Belt,Rai and Limbu (Kiranti) hills of eastern Nepal
+R34,Bhotiya High Himalaya,Highland State Belt,Sherpa Bhotiya and Tibetan-culture high north of Nepal (Mustang Manang Solukhumbu Dolpa etc)
+R35,Drukpa Bhutan,Highland State Belt,Ngalop (west and center) Sharchop and Kurtoep (east) Bhutan; the Nepali-speaking south is the sphere S01
+R36,Sikkim Himalaya,Highland State Belt,Sikkim: Bhutia-Lepcha kingdom heritage with a Nepali-origin majority
+R37,Gorkha Hills,Highland State Belt,Darjeeling-Kalimpong Nepali/Gorkha hill core (the Darjeeling unit also holds Bengali-plurality Siliguri: mark as domain)
+R40,Naga Hills,Hill Frontier,Naga country: Nagaland plus the Naga-inhabited districts of Manipur and Arunachal (Nagalim claim is sphere S05)
+R41,Kuki-Zo Hills of Manipur,Hill Frontier,Southern and horseshoe hill districts of Manipur held by Kuki-Zo peoples
+R42,Mizo Hills,Hill Frontier,Mizoram: Lushai/Mizo hill country
+R43,Meghalaya Plateau,Hill Frontier,Khasi-Jaintia (central and east) and Garo (west) hill plateau; Garo/Khasi split shown on the language map
+R44,Karbi-Dimasa Hills,Hill Frontier,Karbi Anglong and Dima Hasao hill districts of Assam
+R45,Tipraland,Hill Frontier,Tripuri/Reang hills covered by the Tripura tribal council (TTAADC) - Dhalai North Tripura and tribal-majority hill districts
+R46,Monpa West Arunachal,Hill Frontier,Buddhist Monpa-Sherdukpen west: Tawang West Kameng
+R47,Tani Heartland,Hill Frontier,Tani-speaking Nyishi Adi Galo Apatani Tagin center of Arunachal
+R48,Mishmi-Tai East Arunachal,Hill Frontier,Mishmi Tai-Khamti Singpho east of Arunachal (Dibang Lohit Anjaw Namsai Changlang-Lohit side)
+R50,Sinhala Low Country,Island,Coastal Sinhala southwest and south: Colombo Gampaha Kalutara Galle Matara Hambantota
+R51,Kandyan Highlands,Island,Kandyan Sinhala hill heart: Kandy Matale Kegalle Ratnapura Badulla Nuwara Eliya (Up-country Tamils are sphere S06)
+R52,Sinhala Dry-Zone Belt,Island,Sinhalese dry-zone north-center and northwest: Anuradhapura Polonnaruwa Kurunegala Puttalam Monaragala
+R53,Tamil North,Island,Sri Lankan Tamil north: Jaffna Kilinochchi Mullaitivu Mannar Vavuniya
+R54,Eastern Three-Way,Island,Plural east (Tamil Moor Sinhalese): Batticaloa Ampara Trincomalee

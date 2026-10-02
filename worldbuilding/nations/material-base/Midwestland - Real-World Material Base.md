@@ -1241,3 +1241,60 @@ Flagged honestly, as requested.
 - Doe Run Company — https://en.wikipedia.org/wiki/Doe_Run_Company
 - Bakken Formation — https://en.wikipedia.org/wiki/Bakken_Formation
 - Hugoton Gas Field — https://en.wikipedia.org/wiki/Hugoton_Gas_Field
+
+---
+
+## 13. Capital Candidate Assessment: Omaha (added 2026-09-26)
+
+The author is leaning toward **Omaha** for Midwestland's capital and asked for research before settling it.
+This weighs Omaha against the territory's other three major nodes already identified in §9 — Minneapolis–St.
+Paul, Kansas City, and St. Louis — rather than re-researching the territory from scratch.
+
+**The case for Omaha:**
+
+- **Rail founding mythology.** Omaha is **Union Pacific's headquarters** and was **the original eastern
+  terminus of the first transcontinental railroad**, already established in §8.1. For a nation whose material
+  base is built on rail and river geography (§8.2's "every major settlement sits where rail and river cross"),
+  a capital that is literally the historic origin point of the continental rail system is a strong founding
+  story, not just an economic pick.
+- **Geographic centrality.** Of the territory's four major nodes, Omaha sits closest to the true geographic
+  center of the seven-state footprint (ND/SD/NE/KS/MN/IA/MO). Minneapolis–St. Paul is in the far northeast
+  corner, and Kansas City and St. Louis both sit near the southeastern edge, close to the border with
+  Appalachia. Real-world Omaha is also commonly cited as sitting within a 500-mile radius of roughly a third
+  of North America's population — a legacy of the same 19th-century "Gate City of the West" transport
+  centrality that made it the rail terminus in the first place ([Where Is Omaha? — St. Augustine's
+  University](https://explore.st-aug.edu/exp/where-is-omaha-unlocking-the-strategic-heart-of-the-american-midwest);
+  [Wikipedia, Omaha, Nebraska](https://en.wikipedia.org/wiki/Omaha,_Nebraska)).
+- **On navigable water.** Omaha/Council Bluffs sits on the Missouri, consistent with §8.2's finding that
+  water access is the most consequential fact about the territory's urban network.
+- **A real-world military/institutional anchor.** Offutt Air Force Base, just south of the city, was the
+  historic home of Strategic Air Command and remains a major military and institutional presence — roughly
+  10,000 personnel/civilians/contractors directly, and over 44,000 including dependents and retirees, with an
+  estimated $2.7–2.9 billion annual economic impact ([Wikipedia, Omaha,
+  Nebraska](https://en.wikipedia.org/wiki/Omaha,_Nebraska); [Offutt Advisory
+  Council/Chamber figures, as cited there]). A nation's capital sitting beside its own historic military nerve
+  center is a usable piece of symbolism, independent of whether Offutt itself survives into the story's era.
+
+**The trade-off, stated plainly:** Omaha is the **smallest** of the territory's four major nodes by a wide
+margin. Per §9's 2024 metro estimates: Minneapolis–St. Paul 3,757,952; St. Louis 2,811,927; Kansas City
+2,253,579; Omaha 1,001,010. Omaha's metro GDP was $92.357 billion in 2023 ([Wikipedia, Omaha,
+Nebraska](https://en.wikipedia.org/wiki/Omaha,_Nebraska)) — smaller than Minneapolis–St. Paul's $350.7 billion
+(2023) or Kansas City's, though a current Kansas City MSA GDP figure wasn't found in this session's searches.
+Kansas City, not Omaha, holds the stronger rail-hub bragging rights in the doc's own text (the "second-busiest
+US rail hub after Chicago" claim, itself flagged unverified in §11) — Omaha's rail claim is about historical
+origin and corporate headquarters, not present-day traffic volume.
+
+**Framing, not a verdict:** this makes Omaha the same kind of pick as Portland for Cascadia or Albany for New
+England elsewhere in this capital-selection round — a deliberately non-dominant capital, chosen for
+centrality, founding symbolism, and institutional weight rather than raw economic mass. That is a legitimate
+and coherent choice, not a weaker one, but it is a real trade-off against Minneapolis–St. Paul's much larger
+economy or Kansas City's rail-hub status, and worth deciding with that trade-off in view rather than by
+default.
+
+**Sources used for this section beyond what §12 already lists:**
+- Wikipedia, *Omaha, Nebraska* — https://en.wikipedia.org/wiki/Omaha,_Nebraska
+- St. Augustine's University, *Where Is Omaha? Unlocking the Strategic Heart of the American Midwest* —
+  https://explore.st-aug.edu/exp/where-is-omaha-unlocking-the-strategic-heart-of-the-american-midwest
+- Statista, Kansas City and Minneapolis–St. Paul 2025 metro population figures (via search summary; original
+  Statista pages are paywalled, so treat the exact figures as **unverified against a primary source** — see
+  §11's pattern for unverified claims).

@@ -140,6 +140,32 @@ Flagged for the author rather than resolved here.
 
 ---
 
+## National Capitals
+
+Author-specified, added as they're settled.
+
+**Cascadia is the priority nation here** (2026-09-26): *Streetside Harmonies* — the first of the author's
+novels planned for publication — is set in Santa Rosa, California, inside the Cascadia Republic. See
+[[project-streetside-harmonies]] and `Cascadia - National Character Profile.md`. The national government is
+background texture for that story, not a felt presence, but the capital's location is still worth settling
+properly since it's the flagship setting nation.
+
+| Nation | Capital |
+|---|---|
+| Alaska | Whitehorse (settled 2026-09-22, see `Alaska Republic - National Character Profile.md`) |
+| Cascadia | Narrowed to California or Oregon (2026-09-26; ruled out Vancouver and Seattle); specific city (San Francisco / Los Angeles / Portland) still open. Top priority nation for capital-setting — see below. |
+| Colorado | *open* |
+| Sonora | Tucson, AZ (settled 2026-09-26) |
+| The Prairie Federation | *open* |
+| The Midwest Republic | Leaning Omaha, NE — research added 2026-09-26 (see `material-base/Midwestland - Real-World Material Base.md` §13); not yet settled |
+| **Appalachia** | **Cincinnati** (2026-09-26) |
+| New England | *open* |
+| The CSA | Narrowed to Texas (2026-09-26); specific city still open |
+| Quebec | Quebec City, QC (settled 2026-09-26) |
+| Greenland | Nuuk (settled 2026-09-26) |
+
+---
+
 ## Ambiguities at This Resolution
 
 - The **Maryland/Delaware/DC** area reads as Appalachian but sits near a three-way boundary; worth a closer

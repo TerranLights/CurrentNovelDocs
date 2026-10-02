@@ -1,0 +1,87 @@
+unit_id,country,adm1,unit,area_km2
+IN-000,India (breakaway slice),Arunachal Pradesh,Lohit,2866.0
+IN-001,India (breakaway slice),Arunachal Pradesh,West Siang,2284.0
+IN-002,India (breakaway slice),Arunachal Pradesh,Upper Subansiri,6299.0
+IN-003,India (breakaway slice),Arunachal Pradesh,Changlang,4951.0
+IN-004,India (breakaway slice),Arunachal Pradesh,Longding,864.0
+IN-005,India (breakaway slice),Arunachal Pradesh,Lower Subansiri,1373.0
+IN-006,India (breakaway slice),Arunachal Pradesh,East Kameng,4496.0
+IN-007,India (breakaway slice),Arunachal Pradesh,Upper Siang,7040.0
+IN-008,India (breakaway slice),Arunachal Pradesh,Anjaw,6152.0
+IN-009,India (breakaway slice),Arunachal Pradesh,Siang,1347.0
+IN-010,India (breakaway slice),Arunachal Pradesh,Dibang Valley,9688.0
+IN-011,India (breakaway slice),Arunachal Pradesh,Kurung Kumey,4609.0
+IN-012,India (breakaway slice),Arunachal Pradesh,West Kameng,5116.0
+IN-013,India (breakaway slice),Arunachal Pradesh,Lower Dibang Valley,3646.0
+IN-014,India (breakaway slice),Arunachal Pradesh,Tawang,2324.0
+IN-015,India (breakaway slice),Arunachal Pradesh,Papum Pare,3454.0
+IN-016,India (breakaway slice),Assam,Goalpara,1974.0
+IN-017,India (breakaway slice),Assam,Nalbari,1060.0
+IN-018,India (breakaway slice),Assam,Dhubri,1785.0
+IN-019,India (breakaway slice),Assam,Sivasagar,1551.0
+IN-020,India (breakaway slice),Assam,Karimganj,1860.0
+IN-021,India (breakaway slice),Assam,Tinsukia,3967.0
+IN-022,India (breakaway slice),Assam,Hailakandi,1298.0
+IN-023,India (breakaway slice),Assam,Chirang,1591.0
+IN-024,India (breakaway slice),Assam,Dhemaji,2676.0
+IN-025,India (breakaway slice),Assam,Morigaon,1514.0
+IN-026,India (breakaway slice),Assam,Karbi Anglong East,7361.0
+IN-027,India (breakaway slice),Assam,Lakhimpur,2899.0
+IN-028,India (breakaway slice),Assam,Bongaigaon,1103.0
+IN-029,India (breakaway slice),Assam,Baksa,2397.0
+IN-030,India (breakaway slice),Assam,Nagaon,2526.0
+IN-031,India (breakaway slice),Assam,Cachar,3830.0
+IN-032,India (breakaway slice),Assam,Darrang,1652.0
+IN-033,India (breakaway slice),Assam,Kamrup,2951.0
+IN-034,India (breakaway slice),Assam,Dibrugarh,3385.0
+IN-035,India (breakaway slice),Assam,Barpeta,2355.0
+IN-036,India (breakaway slice),Assam,Sonitpur,3504.0
+IN-037,India (breakaway slice),Assam,Udalguri,2060.0
+IN-038,India (breakaway slice),Assam,Golaghat,3220.0
+IN-039,India (breakaway slice),Assam,Kamrup Metropolitan,1133.0
+IN-040,India (breakaway slice),Assam,Dima Hasao,4954.0
+IN-041,India (breakaway slice),Assam,Kokrajhar,3099.0
+IN-042,India (breakaway slice),Assam,Jorhat,1923.0
+IN-071,India (breakaway slice),Tripura,Khowai,1051.0
+IN-072,India (breakaway slice),Tripura,Sipahijula,1073.0
+IN-073,India (breakaway slice),Tripura,West Tripura,943.0
+IN-074,India (breakaway slice),Tripura,Dhalai,2176.0
+IN-075,India (breakaway slice),Tripura,Unokoti,657.0
+IN-076,India (breakaway slice),Tripura,North Tripura,1359.0
+IN-077,India (breakaway slice),Tripura,Gomati,1618.0
+IN-078,India (breakaway slice),Tripura,South Tripura,1474.0
+IN-079,India (breakaway slice),Meghalaya,South Garo Hills,1951.0
+IN-080,India (breakaway slice),Meghalaya,Ribhoi,2463.0
+IN-081,India (breakaway slice),Meghalaya,East Khasi Hills,2768.0
+IN-082,India (breakaway slice),Meghalaya,West Khasi Hills,3843.0
+IN-083,India (breakaway slice),Meghalaya,South West Khasi Hills,1343.0
+IN-084,India (breakaway slice),Meghalaya,West Garo Hills,2881.0
+IN-085,India (breakaway slice),Meghalaya,South West Garo Hills,588.0
+IN-086,India (breakaway slice),Meghalaya,East Jaintia Hills,2082.0
+IN-087,India (breakaway slice),Meghalaya,West Jaintia Hills,1736.0
+IN-088,India (breakaway slice),Meghalaya,East Garo Hills,1770.0
+IN-089,India (breakaway slice),Meghalaya,North Garo Hills,1049.0
+IN-090,India (breakaway slice),Sikkim,North District,4268.0
+IN-091,India (breakaway slice),Sikkim,South District,697.0
+IN-092,India (breakaway slice),Sikkim,West District,1232.0
+IN-093,India (breakaway slice),Sikkim,East District,946.0
+IN-094,India (breakaway slice),West Bengal,Darjiling,2077.0
+IN-095,India (breakaway slice),West Bengal,Jalpaiguri,3403.0
+IN-096,India (breakaway slice),West Bengal,Koch Bihar,3284.0
+IN-097,India (breakaway slice),Arunachal Pradesh,Tirap,1222.0
+IN-098,India (breakaway slice),Arunachal Pradesh,Namsai,1301.0
+IN-099,India (breakaway slice),Arunachal Pradesh,East Siang,2425.0
+IN-100,India (breakaway slice),Arunachal Pradesh,Kra Daadi,2014.0
+IN-101,India (breakaway slice),Assam,Charaideo,1060.0
+IN-102,India (breakaway slice),Assam,Majuli,1258.0
+IN-103,India (breakaway slice),Assam,Biswanath,1808.0
+IN-104,India (breakaway slice),Assam,Hojai,1467.0
+IN-105,India (breakaway slice),Assam,Karbi Anglong West,3122.0
+IN-106,India (breakaway slice),Assam,South Salmara-Mankachar,720.0
+IN-114,India (breakaway slice),West Bengal,Alipurduar,2799.0
+IN-115,India (breakaway slice),West Bengal,Kalimpong,1109.0
+IN-116,India (breakaway slice),Arunachal Pradesh,Pakke Kessang,2134.0
+IN-117,India (breakaway slice),Arunachal Pradesh,Kamle,1447.0
+IN-118,India (breakaway slice),Arunachal Pradesh,Shi Yomi,3563.0
+IN-119,India (breakaway slice),Arunachal Pradesh,Leparada,835.0
+IN-120,India (breakaway slice),Arunachal Pradesh,Lower Siang,1429.0
