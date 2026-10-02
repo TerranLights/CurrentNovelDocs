@@ -31,7 +31,7 @@ z-archive\ \(Benson\ Trio\ backup\,\ pre-Streetside-Harmonies\)/text/
 # Final draft text for the other novels in this repo -- same principle as
 # Streetside Harmonies/text/ above, applied proactively before any of these
 # have real content, so it's never an issue as they get written.
-Alaska\ Rescue\ \(title\ TBD\)/text/
+Starlit\ Engines\ \(Alaska\ Rescue\ novel\)/text/
 Colorado\ Ethics\ \(title\ TBD\)/text/
 The\ Four-Realm\ Musician\ \(title\ TBD\)/text/
 The\ Four-Realm\ Musician\ \(title\ TBD\)/Book\ -\ Warrior/text/
@@ -102,6 +102,10 @@ reference/story-structure-source-videos/
 reference/*.png
 reference/*.jpg
 reference/*.jpeg
+
+# Python bytecode -- regenerated automatically, never worth tracking.
+__pycache__/
+*.pyc
 
 *.swp
 .DS_Store
