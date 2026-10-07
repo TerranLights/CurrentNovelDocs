@@ -1,6 +1,6 @@
 Cascadia uses fiat money; specifically Cascadian dollars.
 
-This story happens in 2149. The "Tales from the New Southwest, Vol. 1" collection happened in 2131. Therefore, it's internally consistent in the in-lore world to make a reference to "those Sonoran hippies in the desert"
+This story happens in 2149. The "Tales from the New Southwest, Vol. 1" collection happened in 2131. Therefore, it's internally consistent in the in-lore world to make a reference to "those hippies in the desert"
 
 The Jazz cats are old guys who run a vintage record shop.
 
