@@ -1,4 +1,5 @@
 ## Chapters 14 & 15 (combined) — "At the graveyard; camping out / paying respects"
+## Confirmed Proofread
 
 *Source: 4 photos, filenames indicate the chapter split falls somewhere within this run of pages — `Chp-14 Pg-1 shw 14_only`, `Chp-14 Pg-2 shw 14_15`, `Chp-14 Pg-3 shw 15a`, `Chp-14 Pg-4 shw 15b`. I couldn't confidently pin down the exact stanza where Chapter 14 ends and Chapter 15 begins (the header notation and stanza renumbering in the source are ambiguous — several rows have circled/crossed-out numbers suggesting revision), so I've transcribed everything in physical reading order across all 4 pages rather than force a split. A note at the bottom of page 4 reads "on papers = (13)" (circled), which may be the final intended stanza count for Chapter 15 alone — worth checking against this transcription. Please let me know where you'd like the chapter break, and I'll split this into two proper files.*
 
@@ -24,36 +25,36 @@
 |---|---|---|---|---|
 | 9 | Cemetery still closed; have breakfast & play for the morning | They eat + coffee; after eating, they set up (take instr. to vista) | They tune up & play for the morning | As they're playing, there's chatter from sparse crowds nearby |
 | 10 | Approach the cemetery; groundskeeper surprised at V; → confused | They begin putting their things away and go | As they approach the cemetery, the groundskeeper is near the front entrance; gives V a surprised look | As they enter, V asks what they're doing here |
-| 11 | Walk through cemetery (V wonders why?); wasn't always this big | They walk through the cemetery; [scene/setting description] | V comments on how some areas of the greenspace look different than others | C mentions that the cemetery wasn't always this big; they continue |
-| 12 | Arrive at the grave; V reads text carved → puts 2+2 together | M takes the whiskey & unscrews the glass from his jacket as V looks at the gravestone, confused | V reads the text carved on the gravestone → "here lies..." → "husband, father, tireless builder..." | V: "he lies?" → puts 2+2 together and realizes |
+| 11 | Walk through cemetery (V wonders why?); wasn't always this big | They walk through the cemetery; [scene/setting description] | V comments on how some areas of the greenspace look different than others | C mentions that the cemetery wasn't always this big; they continue and reach the grave |
+| 12 | Arrive at the grave; V reads text carved → puts 2+2 together, freaks out | M takes the whiskey & measuring glass from his jacket as V looks at the gravestone, confused | V reads the text carved on the gravestone → "here lies..." → "husband, father, tireless rebuilder..." | V: "here lies?" → puts 2+2 together and realizes |
 | — | *** red square-dash divider *** | | | |
 | 13 | M first becomes angry; forgives; opens whiskey | V figures out & panics; tries to rationalize | M initially becomes angry (though doesn't yell or scold); rather becomes detached | M regains full composure & forgives; opens bottle of whiskey |
 | — | *** cut (crossed out) *** | | | |
 | — | *** ACTUAL BREAK *** | *This is the* | *actual break between* | *Chp.s 14 & 15* |
 | — | *** red square-dash divider (heavier) *** | | | |
-| 15→1 | M pays respects; C calms V | M says a few words | M pours a glass of whiskey on his grave | C holds V's back, calming her, saying Alan would've loved to meet her |
-| 16→2 | They confirm/remember her being there; M lets them know it's fine | M confirms, saying "he'd appreciate you being here" | M lays his hand on the stone | M takes a deep breath and lets C&V know he needs some time here; says he's off to find [something] |
+| 15→1 | M pays respects; C calms V | M says a few words | M pours a glass of whiskey on his grave | C rubs V's back, calming her, saying Alan would've loved to meet her |
+| 16→2 | They reassure her; M lets them be alone | M confirms, saying "he'd appreciate you being here" | M lays his hand on the stone with a deep breath | M takes leave and lets C&V alone there; says he's off to find a bar |
 
 ### Page 3 (labeled "shw 15a")
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
-| 17→3 | C pays his respects | C rubs V's shoulder and tells her it's okay | C takes his candle-lamp and lighter from his bag {{DIY}} | He lights the candle-lamp and sits it down; sits with V a bit |
-| 18→4 | V asks about A[lan]; hears on ask, they hold hands | V asks if somebody shut him down; C says he shut himself down | V asks, "did his battery burn out?" C says, "it did" | They hold hands |
-| 19→5 | M is sitting at the bar talking to bartender; look over at C&V | M is sitting at the bar talking to Paul the bartender; Paul asks if he had an insurance code | M spent his share on a motorcycle and keeping the house up to [govt.] code | Paul asks, "isn't your little brother spending it wisely? They look over at C&V |
-| 6 | The scene itself | Holding hands, V lays her hand on C's shoulder | Clouds shimmer in the sky, and C lays his hand on hers | They sit among the trees and sky |
-| 7 | C goes to complete; V leaves her present for Alan | C kisses V and says he's headed to complete a[?] task; come find him | V takes her instrument/present for Alan out of her bag & lays it at Alan's grave | V gets up & leaves; she sets the item as a set of metal chimes[?] |
-| 8 | They set up & play for water & evening | V joins C at [the] campsite; they look in each other's [faces]; M joins later, saw they were gone | They get their instruments & take their place near the water | They begin to play for the water for the evening |
-| 9 | C runs the extension cable; raises tent & sleep | C fetches the extension cable, gets up, & runs the cable | C comes back; they remove the plant cover & raise the tent | C plays V in to charge; they all go to sleep |
+| 17→3 | C pays his respects | C rubs V's shoulder and tells her it's okay | C takes his candle-lamp and lighter from his bag {{DIY}} | He lights the candle-lamp and sets it down; sits with V a bit |
+| 18→4 | V asks about A[lan] ["battery"]; they lean on each other and hold hands | V asks if somebody shut him down; C says he shut himself down | V asks, "did his battery burn out?" C says, "it did" | They hold hands |
+| 19→5 | M talking to bartender; look over at C&V | M is sitting at the bar talking to Paul the bartender; Paul asks if he had an inheritance {{{{***MARK FOR BETTER INTERJECTION***}}}} | M spent his share on a vintage motorcycle and keeping the house up to govt. code | Paul asks what little brother spent it on; They look over at C&V |
+| 6 | The scene itself | Holding hands, V lays her head on C's shoulder | Clouds shimmer in the sky, and C lays his head on hers | They sit among the trees and sky, and C hugs her with one arm |
+| 7 | C goes to camp; V leaves her present for Alan | C kisses V and says he's headed to camp; come find him when she wants | V takes her metal-wire present for Alan out of her bag & lays it at Alan's grave {{DIY}} | V gets up & leaves; we see the item as a set of metal statues :: A tallest-male and two other males, one holding hand-in-hand with a female |
+| 8 | They set up & play for water & evening | V joins C at [the] camp[site]; they bask in each other's presence; M joins later, → saw they were gone | They get their instruments & take their place near the water |They begin to play for the water for the evening |
+| 9 | C runs the extension cable; raises tent & sleep | C fetches the extension cable, gets up, & runs the cable | C comes back; they remove the plant cover & raise the tent {{DIY}} | C plugs V in to charge; they all go to sleep |
 | — | *** scene break (hash line) *** | | | |
-| 10 | All wake up | The inside of the tent is brightened as M wakes | M wakes C; V lies inert, eyes flickering | C unplugs V, she is now awake; V: "time to go?"; C nods |
+| 10 | All wake up | The inside of the tent is brightened as M wakes | M wakes C; V lies inert, eyes flickering | C unplugs V, who is now awake; V: "time to go?"; C nods |
 
 ### Page 4 (labeled "shw 15b")
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
-| 11 | They tear down & head out | In a bright, sunlit [land], they open the door & pack their things | They tear down the tent; C fetches & coils up the extension cable | They fold up the tent, secure their things, & head out |
-| 12 | Head to the hitch spot & wait; ride comes | While walking, V takes hold of C's hand & [latches] onto him; C puts [his] arm around & squeezes | They approach the hitch spot and make ready while waiting, a ride comes | They accept & take off; the journey back would be a similar task of land & water |
+| 11 | They tear down & head out | In a bright, sunlit land, they open the door & pack their things | They tear down the tent; C fetches & coils up the extension cable | They fold up the tent, secure their things, & head out |
+| 12 | Head to the hitch spot & wait; ride comes | While walking, V takes hold of C's hand & clutches onto him; C puts [his] arm around & squeezes | They approach the hitch spot and make ready; while waiting, a ride comes | They accept & take off; the journey back would be a similar trek of land & water |
 
 **Cut:** final stanza on page 4 (crossed out).
 
