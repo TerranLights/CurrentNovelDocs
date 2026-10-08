@@ -14,7 +14,7 @@ Possible locations for the abandoned building:
 > Finley Community Center: Santa Rosa --> on College Ave. or Stony Point Rd. // <-- this one
 > 
 
-Possible names for the book
+EXTRA NOTES
 > 
 > 
 > 
