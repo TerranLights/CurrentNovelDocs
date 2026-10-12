@@ -160,7 +160,7 @@ properly since it's the flagship setting nation.
 | The Midwest Republic | Leaning Omaha, NE — research added 2026-09-26 (see `material-base/Midwestland - Real-World Material Base.md` §13); not yet settled |
 | **Appalachia** | **Cincinnati** (2026-09-26) |
 | New England | *open* |
-| The CSA | Narrowed to Texas (2026-09-26); specific city still open |
+| The CSA | **Houston, TX** (author, 2026-10-12; the Texas state capital stays Austin; see `CSA - National Capital (author statements, 2026-10-12).md`) |
 | Quebec | Quebec City, QC (settled 2026-09-26) |
 | Greenland | Nuuk (settled 2026-09-26) |
 
