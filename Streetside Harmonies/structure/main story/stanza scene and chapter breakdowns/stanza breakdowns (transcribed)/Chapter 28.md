@@ -14,3 +14,9 @@
 | 8 | More time passes; Ric now has enough parts to fix V | Time passes; some delivery person brings "those parts you ordered"; Ric thanks them; time passes | Using parts, he fixes a fair amount of V; we see a stack of robot parts, more time passes | S[ome]b[ody] who's obv. a friend and/or associate of Ric's shows up saying he scored a new supply of siligel |
 | 9 | V now makes some sense; asks when the show is | V finally begins stringing coherent sentences together, though not yet responsive | V sounds as though she's responsive to C but not coherently; asks "when's our show" | C is initially confused; about to say they don't have a concert |
 | 10 | C gets an idea; the show is soon | C reassures V that their show is coming up soon | Ric is making finishing fixes, asks about the concert | C, comforting V, says not yet, but they will |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

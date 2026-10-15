@@ -48,3 +48,9 @@
 - *"Between A&B, C&V have some goal they [try] to accomplish (and fail at)"*
 
 *This looks like an unwritten scene meant to slot between stanzas 7 and 8 of this chapter — flagging for you rather than inventing content.*
+
+Appended additional notes:
+- 
+- 
+- 
+- 

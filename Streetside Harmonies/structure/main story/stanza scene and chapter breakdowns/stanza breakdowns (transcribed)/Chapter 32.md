@@ -11,3 +11,9 @@
 | 5 | The contract will be ready tomorrow; M delivers news | Mr. Morrow will have the official contract prepared to sign tomorrow; they both rise | Mr. Morrow: "guessing you have prep"; M delivers news; shake hands goodbye; Mr. Morrow wishes luck | Mr. Morrow turns & heads upstairs; M exits, boards his bike to head home |
 
 **Cut:** stanzas 6–7 (crossed out).
+
+Appended additional notes:
+- 
+- 
+- 
+- 

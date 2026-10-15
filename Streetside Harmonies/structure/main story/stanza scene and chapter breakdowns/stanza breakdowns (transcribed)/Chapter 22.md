@@ -14,3 +14,9 @@
 **Blank:** stanzas 6–16 (rows exist, no content; stanzas 9–16 are on page 2).
 
 **Note (bottom of page 2):** "(stz.#17 [scribbled-out word]: → on text page, append) →" — stanza 17 is to be appended on the manuscript's text page rather than laid out in this outline table.
+
+Appended additional notes:
+- 
+- 
+- 
+- 

@@ -22,3 +22,9 @@
 | 15 | C&M turn, see V lying inert; rush over and grab her | C&M both turn around thr[ough] the crowd, see V lying inert on the ground | C&M both rush running to V, jumping & smashing into people in the crowd | C&M reach V; both grab onto her (chest & legs) |
 | 16 | They rush her to a taxi out front | They bring her over & lay her on a floor dolly | The crowds part to make way as they push her towards the gate | They reach the front gateway at the street level passing by the ticket/token booths |
 | 17 | Upon reaching the taxi, they demand to rush to Ric's | They pass thr[ough] the gate, leaving the Fairgrounds & make their way to the street carrying V | There's a row of taxis; M leads towards one of them and R opens the doors | M&C prop V in the back; they all get in; M urges the driver to step on it, he'll guide |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

@@ -16,3 +16,9 @@
 **Note (large red text at bottom of page):** "MERGE INIT CHP 25(A)"
 
 **Note (markings):** Red circled numbers 1–7 mark a staggered path through the cells (1 at the start of stz. 1's second column, 2 at stz. 2's third column, 3 at stz. 3's third column, 4 at stz. 4's fourth column, 5 at stz. 6's second column, 6 and 7 at the labels of the last two rows, whose stanza numbers are struck out and illegible). A hash line runs under the last row, above the "MERGE" note.
+
+Appended additional notes:
+- 
+- 
+- 
+- 

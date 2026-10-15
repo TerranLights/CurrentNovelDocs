@@ -30,3 +30,9 @@
 | 36.7 | *(cut — crossed out in full)* | *(cut)* | *(cut)* | *(cut)* |
 
 **Cut:** Ch.36 stanza 7 (crossed out).
+
+Appended additional notes:
+- 
+- 
+- 
+- 

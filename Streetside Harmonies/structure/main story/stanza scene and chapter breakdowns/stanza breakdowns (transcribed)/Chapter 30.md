@@ -15,3 +15,9 @@
 | 8 | V suggests they start their own record label | *(blank)* | C→V: "we can start our own record label" | Marcus: who would pay?; M touches his pocket & leaves |
 | 9 | Marcus departs; V is happy | Marcus closes that they can count on him; shakes M's hand first, then C, then V who hugs him | M[arcus]: "see you at the show" → leaves; claps his hands; V jumps & hugs C | M: so it's happening; C: time to get the place clean |
 | 10 | Find out; buy the land & set up electricity | As they head to the larger bldg. → V: get electricity → C: gotta buy the land 1st → charge at Ric's | V: not for charging → C: can [we have a] concert w/ candlelight | V: not for lighting → C: hold on a sec → then why? |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

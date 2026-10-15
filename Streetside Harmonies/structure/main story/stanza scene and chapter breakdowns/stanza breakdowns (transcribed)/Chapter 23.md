@@ -20,3 +20,9 @@
 | 14 | V, once energized, frantically organizes, cleans, and "perfectionizes" | V springs to life and becomes animated; jumps up out of bed | Runs and knocks C&M over and immediately starts fixing things | Organizes, sorts, & arranges things to set them right |
 
 **Note on the third photo for this chapter (`Chp-23 Pg-3 shw 23_plus_n`):** this page is titled "planning chp. [2(3)+1 struck through]: Adjusting to homelessness / squatting," with "23-B" written below the struck-through number in red — i.e., a "Chapter 23 part B" label. The page itself is entirely blank/unwritten: the page has three columns and eight stanza rows; rows 1–3 contain only the stanza number, and rows 4–8 have a "?" in each column — no actual content. Since a separately-photographed Chapter 24 exists with real content, this page may be a placeholder for a later part B. Flagging for you to clarify rather than guessing.
+
+Appended additional notes:
+- 
+- 
+- 
+- 

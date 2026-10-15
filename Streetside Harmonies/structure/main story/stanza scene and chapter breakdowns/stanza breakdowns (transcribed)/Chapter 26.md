@@ -17,3 +17,9 @@
 | 10 | [desc.] scene at night; C w/o V | Ice forms within the cracks along the window; later turns to steam; bits of steam in the house | C, while sleeping, reaches his arm over and misses | Emptiness next to him; the room/night is still |
 
 **Note (bottom of page 1):** "on text pages" — likely a page-continuation marker (equivalent to "cont'd" used elsewhere in the manuscript).
+
+Appended additional notes:
+- 
+- 
+- 
+- 

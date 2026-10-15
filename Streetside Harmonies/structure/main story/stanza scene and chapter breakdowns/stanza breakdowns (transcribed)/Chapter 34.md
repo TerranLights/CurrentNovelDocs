@@ -20,3 +20,9 @@
 | 14 | The song ends; the show is over; they take a bow | They finish the song → the crowd cheers; V jumps up & hugs C; C hugs her back | R turns the lights back on; now it's bright; the band all come together & take a bow | The backup musicians join them, and all full compl.; band take a bow |
 | 15 | Confirmation of investment between M & Mr. Morrow | Some of the crowd stays & some leaves; passes V as girl touches her hair & guy pokes her arm; M smiles & shakes hand | M reaches the group; Ric congrats; Mr. Morrow congrats & reaches hand out to M | M & Mr. Morrow shake hands over a prosperous new business partnership |
 | 16 | Mr. Whitley reconciles w/ V | Over as the people are amazed at V, Mr. Whitley approaches her; C joins, begins to speak | Mr. W: "this is why you never introduced" → to V → "very begrudgingly" invites her for family dinner | V is happy and hugs Mr. W → he recoils, not quite ready to fully accept a robot just yet |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

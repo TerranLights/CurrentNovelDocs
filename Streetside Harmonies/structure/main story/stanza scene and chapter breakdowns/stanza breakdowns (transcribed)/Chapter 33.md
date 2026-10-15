@@ -14,3 +14,9 @@
 | 8 | [desc.]: music: {band & ctr.; → acc.[?] {surrounded[?] | The music of the violin, H-G, & Hang at the center of it all | The accompaniment of the upright bass, keys/electric, & drum set surrounds | The Tesla Coils standing high, [their] voltage sparking |
 | 9 | (↑ cont'd): [desc.]: the music; crowd loves one song aft[er] another | The Tesla arcs reflect off the drum rims, Hang | The overload lights begin flickering in time w/ the Tesla Coils | Tesla player on his MIDI keyboard goes into a solo, begins w/ an arpeggio set |
 | 10 | Current song accent → Tesla Coils soloing → blows a circuit; elec. goes out | The Tesla-ist moves further into the solo w/ more arpeggios; the Tesla Coils flash & strike | W/ surrounding accompanying, the Tesla-ist emotionally plays for the audience and plays upwards | Reaches a keyboard crescendo; the Tesla Coils short-circuit; the elec. goes out (V's eyes) and the room is dark |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

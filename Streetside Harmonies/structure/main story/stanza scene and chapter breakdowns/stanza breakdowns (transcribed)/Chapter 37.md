@@ -12,3 +12,9 @@
 | 6 | Bids her return if she ever needs anything | Lets go again; if she ever needs anything, just ask | V jumps up, hugs him, kisses his cheek; Ric: "you make a grizzled viejo proud" | V hugs him again; turns to go: → "byeee!"; leaves |
 | 7 | [Scene desc.]: t/statue; Ric responds | Ric picks up t/gift again; we see it's shaped metal | It's a statue of a "Father" and his "daughter" holding hands; "Father" holding a wrench, "daughter" a violin | A tear rolls down Ric's cheek (eyes shine); he puts it down temporarily and turns to his tools |
 | 8 | Ric perches t/statue over t/front door | Ric fetches some flat plastic & thin metal from his scrap; nails them together | he then nails t/new ledge to t/wall over his door | Ric perches t/statue over his door; looks at it proudly |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

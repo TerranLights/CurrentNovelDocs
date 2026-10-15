@@ -16,3 +16,9 @@
 | 10 | M tunes up as C takes in t/scene [?] situation | M brings his H-G & C brings his Hang → sets it down on t/table | M puts his H-G on his lap & begins tuning, listening to V's violin for reference | C taps a note in harmony so M can get a more accurate pitch/tone |
 | 11 | instr. ready, they go outside next to V | M checks a bit more, stops; C nods? M nods; they get up; C takes his Hang | They go outside & take their seats on either side of V | V continues playing; C follows t/rhythm w/ beats; M joins in |
 | 12 | [Scene desc.]: they succeeded, playing for t/rain & rising sun | Three musicians play together as it rains from t/black sky | Moonlight reflects off all their instr.; flashes of reflected light | t/rain continues falling as they play into t/black morning |
+
+Appended additional notes:
+- 
+- 
+- 
+- 

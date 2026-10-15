@@ -14,3 +14,9 @@
 | 7 | M shows her the bldg.; Denise confirms she'll help | M explains (V's finding more help); Denise asks to see the inside | M takes Denise & shows her the place — it's dirty & unorganized, but huge | Denise — will need some cleaning, but def. possible — "yep, I'll help" |
 
 **Cut:** stanza 8 (crossed out).
+
+Appended additional notes:
+- 
+- 
+- 
+- 

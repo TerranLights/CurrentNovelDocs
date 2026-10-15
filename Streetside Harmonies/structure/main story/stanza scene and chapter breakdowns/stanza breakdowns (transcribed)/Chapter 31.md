@@ -17,3 +17,9 @@
 | 10 | C continues guiding V to go rest | C catches her as she falls, nearly buckles under her weight as she's heavy | V leans on C; they continue between bldgs.; C: "just a little farther — you got this" | They reach the door; V holds onto the door frame w/ her free hand; they enter |
 | 11 | Electrician finishes up and leaves the bldg. | Back in the larger bldg., El is finishing up on the wiring system; he's measuring w/ a meter | El takes a step back, turns on the lights; they work fine; he nods; he packs his tools | El exits; as he walks out, he greets an unknown voice who greets him back |
 | 12 | Denise gives the news that she called in favors | Inside the small bldg., C lays V down, kisses her, & plugs her in to charge | V's eyes flicker as usual and she's dreaming; Denise peeks[?] in thr[ough] the door | Denise called in some favors — don't let her down |
+
+Appended additional notes:
+- 
+- 
+- 
+- 
