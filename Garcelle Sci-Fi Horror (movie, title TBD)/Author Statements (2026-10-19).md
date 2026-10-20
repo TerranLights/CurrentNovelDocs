@@ -24,6 +24,23 @@ Staging file: one place for what the author has said about this film, so later f
 - **The scavengers:** **all human.**
 - **The horror mode:** a **combination of sub-genres: Psychological, Liminal, Metaphysical and somewhat Paranormal horror**, with **no Body Horror, or at most minimal.** "Paranormal" **does not mean ghosts**: **due to a previous accident, something has torn a rip in the space-time continuum, forcing the fabric of space-time to bend in on itself; the rip is inside the station, so she can hunt her humans from multiple angles.** The author notes this **will require research into theoretical mathematics and theoretical physics** to work out how such a phenomenon could be possible. (First pass: `Physics Research - A Tear in Space-Time Aboard a Wheel (staging, 2026-10-19).md`.)
 
+## Revision to the opening, and what the tear's flashes show (AUTHOR, 2026-10-20; tentative; the opening above stays as originally written)
+Prompted by the suggestion (from the horror-craft synthesis) of not putting the eye-gouging first, the author proposes:
+- **Move the bloody eye-gouging scene later in the film.**
+- **New beginning:** we see **Garcelle walking through her ship**, past **remnants of previous gore and death from past struggles with humans who tried to scavenge her ship**, and **metal bones from the metal skeletons of her robot friends.** The author says this **could hint at part of the reason she has the motivations she does.**
+- **The tear's flashes:** items **appearing, disappearing and reappearing via the tear in the fabric of space-time** are used so that **scavengers see flashes or appearances of past occurrences**: **times when humans tried to steal from Garcelle and committed violence against her and her robot friends.**
+
+- **Who her friends were (AUTHOR, 2026-10-20):** her **friends and family** (to the extent that robots can have "family") were **the other robots deported with her**, **as well as the robot friends and family who were killed on Earth.** So she has **two layers of loss: those killed on Earth, and the deportees who were with her on the station.**
+
+## Implications of this revision (PROPOSED; the author decides)
+- **It settles a question the earlier notes left open: the tear touches time, not only place.** The flashes are earlier states of the station showing through (the "time offset" option in the physics file, section 3), and they are the film's "paranormal without ghosts": past events leaking, with no spirits.
+- **It gives Garcelle's revenge a concrete, near wound.** Her file has the Garrison (the eyes) as her wound. This adds a second, closer one: **humans came aboard and killed her robot friends.** That answers the earlier problem that her victims are strangers: they are the latest of a series, and the scavengers see what their kind did. **(AUTHOR, 2026-10-20: confirmed. The victims are strangers, and they are the latest of a series.)**
+- **It delivers her "survival half" onscreen** (the synthesis's problem 1): the remnants, and the flashes the scavengers witness, show the audience why she hates humans, through the crew's eyes and with no flashback.
+- **It is the "aftermath only" technique** (synthesis section 5): old remains as dread, with no act shown. It fits the minimal body horror decision and the delayed-threat advice, and makes the opening quiet and liminal. It loses the original hook of seeing the kill; the first appearance of Garcelle, and of her eyes, becomes the question of when to reveal them.
+- **Her canon supports it:** her file says she was forced onto a transport "along with other robots" before the mass-driver launch, so the **robot friends could be fellow deportees** (**confirmed by the author, 2026-10-20**); it also says humans occasionally come to "salvage" her ship and she puts them through "near-literal Hell" (older Timeline note). The author decides whether the friends are those deportees.
+- **It sits well with the vice-driven deaths:** items that flicker in places they cannot reach lure the avaricious; and each scavenger's vice could echo what an earlier raider did (history repeating). Not required.
+- **Limit to decide:** if the flashes are only seen, not crossed, there is no paradox; if people can step through into the past, the physics file's chronology-protection point applies (a time loop makes the tear unstable).
+
 ## Reference suggested by the author for liminal horror (AUTHOR, 2026-10-19)
 - **"Graymatter"**, a short film by Corridor Crew (Corridor Digital), which the author thinks is a good reference for liminal horror. There is a **behind-the-scenes video on the production process**: *"Something Scary Happens When You Break The Laws of Geometry"* (https://www.youtube.com/watch?v=GaGcLhhhbDs).
 - **What I could verify (search, 2026-10-19):** *Graymatter* (2024, about 4 minutes, released June 8, 2024) was directed, written and edited by Niko Pueringer. It is an **SCP-inspired "high-concept mini-movie experiment"**: a **SWAT team finds itself trapped in a time-space paradox.** The behind-the-scenes video covers **"the non-euclidean geometry that inspired this short, and the tech we used to visualize it."** The short itself is at https://youtu.be/sibCmyoTkss.
@@ -58,6 +75,7 @@ What they establish:
 - **The wheel suits liminal horror.** A Von Braun wheel is a closed loop: you can walk the rim and come back to where you started, and the floor curves up ahead of you in both directions. Both are naturally uncanny, and a tear that connects two points on the loop is a tidy way to break the geometry.
 
 ## OPEN (for the author; the first-round questions that are now answered are listed above)
+*The consolidated, numbered list, including the questions raised on 2026-10-20, is in `Yet To Be Determined (open questions, 2026-10-20).md`.*
 1. **The station:** what it was, why it is derelict, whose it was; the wheel's size and rotation.
 2. **The location**: see the physics file for the option that satisfies both "a Lagrange point" and "passing across the Moon".
 3. **The accident:** what it was, who caused it, and whether anyone survived it (Garcelle was not there: she arrived by mass driver, so she found the station already torn).
