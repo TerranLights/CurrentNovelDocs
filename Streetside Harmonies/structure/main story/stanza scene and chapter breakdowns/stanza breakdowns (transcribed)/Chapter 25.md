@@ -6,15 +6,15 @@
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
-| 1 | Wakes up in the morning; cold last night | They woke up in the morning; it's still raining from last night | C kisses V; they get up & exit the room | All 3 reconvene; M: "freezing last night" |
+| 1 | Wakes up in the morning; cold last night | They woke up in the morning; it's still raining from last night | C kisses V; they get up & exit the room | All 3 reconvene; M: freezing last night |
 | 2 | C: DIY fireplace; V moving laboredly; M: "Fuck!" | C recommends building a DIY fireplace; M steps away to the main area | C looks back to see V moving slowly & laboredly | In a moment of stillness, M: "Fuck." from the main area |
-| 3 | H-G is broken; V tries to explain | C&V rush in to find M leaning w/ both hands on the table; rain leaking through the roof | Rain from the roof falling onto the H-G, further damaging it; M: "what happened" | M: "what happened?"; V: "it was on the ground → didn't want it getting dirty" |
+| 3 | H-G is broken; V tries to explain | C&V rush in to find M leaning w/ both hands on the table; rain leaking through the roof | Rain from the roof falling onto the H-G, further damaging it; M: what happened | M: "what happened?"; V: "it was on the ground → didn't want it getting dirty" |
 | 4 | M understands; forgives V; still devastated & upset | M pinches between his eyes; his grip on the table loosens | M: "appreciate you trying to help, really do"; M now looks detached and semi-defeated | M picks up and takes the H-G & puts it next to the front door |
-| 5 | V (E-1, perfectionist), find a better one; M: hard to find | V (E-1: perfectionistic) → will replace it w/ a better one! | M: "any replacement will take months, better or not" | M: not sure V realizes just how hard H-Gs are to actually get |
-| 6 | V: ??; M: few makers; no one left in Cascadia | V doesn't understand; M explains there are very few manufacturers | 2 → Colorado, 1 → Prairie F[ederation]; used to be 1 in Cascadia | V: "..."; M: "he moved to Midwest land w/ his wife"; (C: "Michael's gone?") no one left |
-| 7 | V has idea?; gulps down siligel → "I'll be back!" | V becomes excited, jumps up: "I have an idea!" → M: "?" | V gulps down a handful of siligel, takes her bag & pockets money | C: "there you go..."; V merrily skips out the door → "don't wait up!" |
+| 5 | V {E-1} perfectionist, find a better one; M: hard to find | V: {E-1: perfectionistic} → will replace it w/ a better one! | M: any replacement will take months, better or not | M: not sure V realizes just how hard H-Gs are to actually get |
+| 6 | V: ??; M: few makers; no one left in Cascadia | V doesn't understand; M explains there are very few manufacturers | 2 → Colorado, 1 → Prairie F[ederation]; used to be 1 in Cascadia | V: "..." → M: he moved to Midwest land w/ his wife (C: "Michael's gone?") no one left |
+| 7 | V has idea?; gulps down siligel → "I'll be back!" | V becomes excited, jumps up: "I have an idea!" → M: ? | V gulps down a handful of siligel, takes her bag & pockets money; M: "{{{illegible}}} back!" | C: "there you go-ge{{{illegible}}}"; V merrily skips out the door → "don't wait up!" |
 | — | *** red divider: "MERGE UP TO 24" *** | | | |
-| 8 | V tries the art supply store; manager girl is a bitch | V rushes & enters the art supply store | A mother & her kids enter behind V & walk past her as she looks around | V spots manager girl; waves; manager girl looks (cold) but doesn't respond |
+| 8 | V tries the art supply store; manager girl is a bitch | V rushes & enters the art supply store | A mother & her kid enters behind V & walks past her as she looks around | V spots manager girl; waves; manager girl looks (cold) but doesn't respond |
 
 ### Page 2
 
