@@ -1,0 +1,144 @@
+				// -- // SEPARATION // -- //
+
+		OPENING IMAGE [this is where we see her problem]:
+
+
+
+		SETUP [this is where we see weakness + goal]:
+
+
+
+		CARE PACKAGE [this is where we meet her allies]:
+
+
+
+		THEME STATED:
+
+
+
+		CALL TO ADVENTURE / CATALYST / DISTURBANCE:
+
+
+
+		REFUSAL OF CALL / DEBATE / ARG. AGST. TRANSFORMATION:
+
+
+
+		OPPOSITION:
+
+
+
+		FAKE ALLY:
+
+
+
+		SUPERNATURAL AID:
+
+
+
+		CROSSING THE FIRST THRESHOLD / DOORWAY TO ACT #2:
+
+
+
+				// -- // INITIATION // -- //
+
+		PLAN:
+
+
+
+		B-STORY:
+
+
+
+		BATTLE / KICK IN THE SHINS:
+
+
+
+		BELLY OF THE WHALE:
+
+
+
+		ROAD OF TRIALS:
+
+
+
+		OPPOSITION'S MAIN COUNTER-ATTACK:
+
+
+
+		FAKE-ALLY ATTACK:
+
+
+
+		MEETING WITH THE GOD{DESS}:
+
+
+
+		PET THE DOG:
+
+
+
+		TEMPTATION [but/therefore]:
+
+
+
+		ATONEMENT WITH THE FATHER [midpoint]:
+
+
+
+		APOSTASIS:
+
+
+
+		BAD GUYS CLOSE IN:
+
+
+
+		ALL IS LOST:
+
+
+
+		DARK NIGHT OF THE SOUL:
+
+
+
+		THE ULTIMATE BOON / Q-FACTOR:
+
+
+
+		REFUSAL OF RETURN:
+
+
+
+		MORAL DECISION:
+
+
+
+				// -- // RETURN // -- //
+
+		MAGIC FLIGHT:
+
+
+
+		RESCUE FROM WITHOUT:
+
+
+
+		CROSSING THE RETURN THRESHOLD / DOORWAY TO ACT #3:
+
+
+
+		FINAL BATTLE:
+
+
+
+		MASTER OF TWO WORLDS / NEW EQUILIBRIUM:
+
+
+
+		SIGN OF TRANSFORMATION:
+
+
+
+		FREEDOM TO LIVE / CLOSING IMAGE:
+

@@ -41,6 +41,22 @@ The\ Four-Realm\ Musician\ \(title\ TBD\)/Book\ -\ Lover/text/
 The\ Saga\ of\ Maggie\ Aarden/text/
 The\ Saga\ of\ Maggie\ Aarden/Book\ 1/text/
 The\ Saga\ of\ Maggie\ Aarden/Book\ 2/text/
+Gilgamesh\ Sci-Fi\ movie/text/
+
+# Downloaded reference videos for the Gilgamesh film (one is about 1.9 GB;
+# GitHub refuses files over 100 MB). Kept local only.
+Gilgamesh\ Sci-Fi\ movie/youtube\ videos/
+
+# Full text of copyrighted translations, extracted locally so research agents
+# can resume after a cutoff. Never committed.
+Gilgamesh\ Sci-Fi\ movie/research/*/_source_text*/
+
+# Third-party copyrighted reference material (this repo is public): a SparkNotes
+# page, a YouTube video's auto-captions, and a manufacturer's product photos.
+# Kept local only.
+Gilgamesh\ Sci-Fi\ movie/Character\ List\ _\ SparkNotes.pdf
+Gilgamesh\ Sci-Fi\ movie/summary.txt
+Gilgamesh\ Sci-Fi\ movie/Enkidu/*.jpg
 
 # InnerTepeniaGDD reference content (flattened directly into reference/, no
 # longer a git submodule) -- kept untracked since it's actively evolving in

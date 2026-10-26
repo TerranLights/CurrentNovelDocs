@@ -1,0 +1,25 @@
+Gilgamesh:
+	Old:
+		King of Uruk
+	New:
+		CEO of [[x-corp]]
+
+Gilgamesh's mother
+	Old:
+		literal mother
+	New:
+		motherly figure
+
+Enkidu:
+	Old:
+		Wildman created by the gods to be Gilgamesh's best friend
+	New:
+		Friend-robot; self-checker
+
+Temple Prostitute:
+	Old:
+		a prostitute
+	New:
+		
+
+
