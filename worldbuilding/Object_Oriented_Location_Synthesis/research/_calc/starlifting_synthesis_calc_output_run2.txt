@@ -1,0 +1,138 @@
+
+====================================================================================================
+1. SUN AS A MATERIALS SOURCE
+====================================================================================================
+escape energy GM/R = 1.9076e+11 J/kg
+ideal lift energy per t Fe = 841.0 t x 1000 kg x 1.908e+11 = 1.60e+17 J
+=> continuous ideal power for 1 t Fe per YEAR = 1.60e+17 J / 3.1558e+07 s = 5.08 GW (100% efficiency, separation excluded)
+structural-metal mix: 513.0 t lifted per t -> 9.79e+16 J per t = 3.10 GW per (t/yr)
+Mercury, 70 % metal material: 1.29e+10 J per t Fe -> 409 W per (t/yr); ratio Sun/Mercury = 1.24e+07
+compare Earth surface -> 400 km orbit 33.1 MJ/kg [TR D5]: Sun lift / that = 5,763x
+compare raising 1 kg from a 0.1 AU circular orbit to 1 AU, 3,992 MJ/kg [TR D5]: Sun lift / that = 47.8x
+1 t Fe/yr from the photosphere (5.1 GW) = 0.21 % of ALL world solar capacity at end-2025 (2397 GW) [RM]
+
+====================================================================================================
+1b. SOLAR-WIND COLLECTION: area for iron
+====================================================================================================
+r=1.0    AU:    10,255 km2 per t wind/yr;     8,624,493 km2 per t Fe/yr (no FIP credit);  0.116 g Fe per km2 per yr
+r=0.3    AU:       923 km2 per t wind/yr;       776,204 km2 per t Fe/yr (no FIP credit);  1.288 g Fe per km2 per yr
+r=0.1    AU:       103 km2 per t wind/yr;        86,245 km2 per t Fe/yr (no FIP credit);  11.595 g Fe per km2 per yr
+r=0.0465 AU:        22 km2 per t wind/yr;        18,648 km2 per t Fe/yr (no FIP credit);  53.624 g Fe per km2 per yr
+with the FIP enrichment fFIP = 1.6-2.3 [SL 3E] the iron areas above shrink by that factor, if it applies to Fe/H (not confirmed: Open thread)
+Genesis [SL D4]: 0.46 mg H in 853 d on 1.67 m2 -> 0.20 mg/yr
+
+====================================================================================================
+2. RAMP ARITHMETIC: multiples and analog times
+====================================================================================================
+world payload to orbit 2019->2025: x8.00 in 6 yr -> doubling time 2.00 yr [RM D9]
+
+A: 10 -> 1,000 t/yr: multiple 100.0x = 6.64 doublings
+   solar-PV analog (log-interpolated 10x/8, 100x/13, 1000x/23 yr): 13.0 yr
+   railroad analog (10x/16, 100x/46.5 yr):                          46.5 yr
+   world launched-mass analog (doubling 2.0 yr):                    13.3 yr
+   CP-2255 simple exponential: 6.6 working yr = 13.3 calendar yr (Table 5.2 conversion)
+   Metzger generations (1 doubling per 2 yr):                         13.3 yr
+
+B: 1,000 -> 54,000 t/yr (SP-413 refinery, 54 kt/yr [PR 5]): multiple 54.0x = 5.75 doublings
+   solar-PV analog (log-interpolated 10x/8, 100x/13, 1000x/23 yr): 11.7 yr
+   railroad analog (10x/16, 100x/46.5 yr):                          38.3 yr
+   world launched-mass analog (doubling 2.0 yr):                    11.5 yr
+   CP-2255 simple exponential: 5.8 working yr = 11.5 calendar yr (Table 5.2 conversion)
+   Metzger generations (1 doubling per 2 yr):                         11.5 yr
+
+C: 54,000 t/yr -> 1.2 Mt/yr (SP-413 shield rate [RM F3]): multiple 22.2x = 4.47 doublings
+   solar-PV analog (log-interpolated 10x/8, 100x/13, 1000x/23 yr): 9.7 yr
+   railroad analog (10x/16, 100x/46.5 yr):                          26.6 yr
+   world launched-mass analog (doubling 2.0 yr):                    8.9 yr
+   CP-2255 simple exponential: 4.5 working yr = 8.9 calendar yr (Table 5.2 conversion)
+   Metzger generations (1 doubling per 2 yr):                         8.9 yr
+
+====================================================================================================
+3. COMMITMENT TO FIRST OPERATING HARDWARE (development lead times)
+====================================================================================================
+Apollo 8.2 yr; Shuttle 9.3 yr; SP-413 R&D+dev 8-10 yr; SP-428 4-5 yr (study; assumed a 60-flight/yr Shuttle that did not exist)
+reference-class slip factor 1.45: Apollo -> 11.8 yr; Shuttle -> 13.5 yr
+=> commitment-to-first-hardware range used: 8.2 (Apollo, no slip) to 13.5 (Shuttle x slip) yr
+
+====================================================================================================
+4. HABITAT SCALE
+====================================================================================================
+torus / ISS mass = 24,040x = 14.6 doublings;  cylinder / ISS = 191,077x = 17.5 doublings
+ISS observed assembly rate: 420 t / 12.5 yr = 34 t per yr
+torus structure 150 kt at refinery output 54 kt/yr = 2.8 yr [PR D14];  torus shield 9.9 Mt at 1.2 Mt/yr = 8.25 yr
+1 Mt/yr vs 2025 world launched mass 3,194 t = 313x [TR]; vs cataloged mass in orbit 16,185 t = 62x
+
+====================================================================================================
+5. CHAIN TOTALS (lowest of the analogs per stage, highest of the analogs per stage)
+====================================================================================================
+commitment -> first hardware: 8.2 - 13.5
+A: 10 -> 1,000 t/yr: 6.6 - 13.3
+B: 1,000 -> 54,000 t/yr (SP-413 refinery, 54 kt/yr [PR 5]): 5.8 - 11.7
+C: 54,000 t/yr -> 1.2 Mt/yr (SP-413 shield rate [RM F3]): 4.5 - 9.7
+deliver the 9.9 Mt shield at 1.2 Mt/yr: 8.2 yr (both ends; rate fixed by the study)
+SEQUENTIAL SUM to a first ~10 Mt torus: 33 - 56 yr (stages treated one after another: an upper bound)
+SP-413's own overlapped schedule: 22 yr (study; never tested). With slip factor 1.45: 32 yr
+
+====================================================================================================
+6. MOVING A LARGE HABITAT BY ELECTRIC PROPULSION ([CY] 5.5 method)
+====================================================================================================
+T/P = 2*eta/(g0*Isp) = 24.5 mN per kW at eta 0.6, Isp 5000 s (ve 49.0 km/s)
+                   1e6 t |    1 GW | thrust     24 kN | a 2.5e-06 g | dv 1.0 km/s: propellant      0.02 Mt (2.0 %), burn     1.28 yr
+                   1e6 t |    1 GW | thrust     24 kN | a 2.5e-06 g | dv 3.5 km/s: propellant      0.07 Mt (6.9 %), burn     4.37 yr
+                   1e6 t |    1 GW | thrust     24 kN | a 2.5e-06 g | dv 5.8 km/s: propellant      0.11 Mt (11.2 %), burn     7.08 yr
+                   1e6 t |    1 GW | thrust     24 kN | a 2.5e-06 g | dv 6.4 km/s: propellant      0.12 Mt (12.2 %), burn     7.77 yr
+                   1e6 t |   10 GW | thrust    245 kN | a 2.5e-05 g | dv 1.0 km/s: propellant      0.02 Mt (2.0 %), burn     0.13 yr
+                   1e6 t |   10 GW | thrust    245 kN | a 2.5e-05 g | dv 3.5 km/s: propellant      0.07 Mt (6.9 %), burn     0.44 yr
+                   1e6 t |   10 GW | thrust    245 kN | a 2.5e-05 g | dv 5.8 km/s: propellant      0.11 Mt (11.2 %), burn     0.71 yr
+                   1e6 t |   10 GW | thrust    245 kN | a 2.5e-05 g | dv 6.4 km/s: propellant      0.12 Mt (12.2 %), burn     0.78 yr
+   SP-413 torus 10.09 Mt |    1 GW | thrust     24 kN | a 2.5e-07 g | dv 1.0 km/s: propellant      0.20 Mt (2.0 %), burn    12.93 yr
+   SP-413 torus 10.09 Mt |    1 GW | thrust     24 kN | a 2.5e-07 g | dv 3.5 km/s: propellant      0.70 Mt (6.9 %), burn    44.13 yr
+   SP-413 torus 10.09 Mt |    1 GW | thrust     24 kN | a 2.5e-07 g | dv 5.8 km/s: propellant      1.13 Mt (11.2 %), burn    71.46 yr
+   SP-413 torus 10.09 Mt |    1 GW | thrust     24 kN | a 2.5e-07 g | dv 6.4 km/s: propellant      1.23 Mt (12.2 %), burn    78.39 yr
+   SP-413 torus 10.09 Mt |   10 GW | thrust    245 kN | a 2.5e-06 g | dv 1.0 km/s: propellant      0.20 Mt (2.0 %), burn     1.29 yr
+   SP-413 torus 10.09 Mt |   10 GW | thrust    245 kN | a 2.5e-06 g | dv 3.5 km/s: propellant      0.70 Mt (6.9 %), burn     4.41 yr
+   SP-413 torus 10.09 Mt |   10 GW | thrust    245 kN | a 2.5e-06 g | dv 5.8 km/s: propellant      1.13 Mt (11.2 %), burn     7.15 yr
+   SP-413 torus 10.09 Mt |   10 GW | thrust    245 kN | a 2.5e-06 g | dv 6.4 km/s: propellant      1.23 Mt (12.2 %), burn     7.84 yr
+ SP-413 cylinder 80.2 Mt |    1 GW | thrust     24 kN | a 3.1e-08 g | dv 1.0 km/s: propellant      1.62 Mt (2.0 %), burn   102.79 yr
+ SP-413 cylinder 80.2 Mt |    1 GW | thrust     24 kN | a 3.1e-08 g | dv 3.5 km/s: propellant      5.53 Mt (6.9 %), burn   350.78 yr
+ SP-413 cylinder 80.2 Mt |    1 GW | thrust     24 kN | a 3.1e-08 g | dv 5.8 km/s: propellant      8.95 Mt (11.2 %), burn   568.04 yr
+ SP-413 cylinder 80.2 Mt |    1 GW | thrust     24 kN | a 3.1e-08 g | dv 6.4 km/s: propellant      9.81 Mt (12.2 %), burn   623.05 yr
+ SP-413 cylinder 80.2 Mt |   10 GW | thrust    245 kN | a 3.1e-07 g | dv 1.0 km/s: propellant      1.62 Mt (2.0 %), burn    10.28 yr
+ SP-413 cylinder 80.2 Mt |   10 GW | thrust    245 kN | a 3.1e-07 g | dv 3.5 km/s: propellant      5.53 Mt (6.9 %), burn    35.08 yr
+ SP-413 cylinder 80.2 Mt |   10 GW | thrust    245 kN | a 3.1e-07 g | dv 5.8 km/s: propellant      8.95 Mt (11.2 %), burn    56.80 yr
+ SP-413 cylinder 80.2 Mt |   10 GW | thrust    245 kN | a 3.1e-07 g | dv 6.4 km/s: propellant      9.81 Mt (12.2 %), burn    62.31 yr
+world xenon ~65 t/yr [TR F3]: 1.2 Mt of propellant = 18,462 years of world xenon output
+power plant at 4-8 kg/kWe [CY]: 10 GW = 40,000 - 80,000 t  (= 0.40-0.79 % of the torus mass)
+
+====================================================================================================
+7. MARS PRESENCE
+====================================================================================================
+Mars semimajor axis 1.524 AU: sunlight 43 % of Earth's (586 W/m2)
+Earth-Mars synodic period 2.135 yr [TR F1]
+Musk claim: 20-50 rendezvous x 2.135 = 42.7 - 106.8 yr
+DRA 5.0 [RM F3]: three missions on consecutive opportunities: first-to-third = 2 x 2.14 = 4.3 yr; cargo pre-deployed 'just over 2 years' ahead of the first crew
+DRA 5.0 IMLEO 3 missions: 2,546 t (NTR) - 3,755 t (chemical) = 0.80 - 1.18 x the 2025 world launched mass of 3,194 t
+110 people (Salotti minimum) at 12 per window (one Astrotel-class cycler, Landau/Nock): 10 windows = 21.4 yr
+110 people (Salotti minimum) at 100 per window (one 100-person ship per window, Musk claim): 2 windows = 4.3 yr
+Phobos-radius spaceport 3 h; Aldrin cycler Mars V-inf 7-12 km/s, Earth ~6 km/s [CY]; Earth-Mars Hohmann LEO->LMO 5.66 km/s, 259 d [TR D1]
+Main belt -> Mars all-propulsive 3.76-6.10 km/s vs belt -> Earth 8.54-10.39 km/s [TR D1]: ratio 0.44-0.59
+
+====================================================================================================
+8. HARDWARE PRODUCTION ANALOG AND ROBOT VITAMINS
+====================================================================================================
+Starlink production ~3640/yr x ~800 kg (mass is trade-press, low-medium) = 2,912 t/yr of satellites
+143 SEP tugs x 9.75 t = 1,394 t = 0.48 yr of Starlink-mass production [TR F3]
+  1,000 robots: magnet rare earths 1.07-1.61 Mt of CI-type material; battery lithium 94-152 kt
+100,000 robots: magnet rare earths 107.30-161.00 Mt of CI-type material; battery lithium 9,450-15,200 kt
+1,000 robots' magnets at 54 kt/yr whole-plant throughput = 20-30 yr of that entire output
+imported instead: 2-3 kg NdFeB per robot x 1,000 = 2-3 t; at $1,500/kg to LEO (Falcon Heavy, 2021 USD [TR F5]) = $3,000-$4,500 per robot
+Metzger electronics closure: Gens 3.0/4.0/5.0/6.0 = 90/95/99/100 %, generations 2 yr apart [RM F4, PR 3]; Gen 1.0 set 7.7 t makes 24.5 t/yr of parts
+Metzger bootstrapping, 41 t launched -> up to 40,000 t with up to 100,000 robots in ~20 yr: 9.9 doublings -> 2.0 yr per doubling (matches the 2-yr generations)
+Metzger bootstrapping, 12 t landed -> 156 t end state (60 robots) in ~20 yr: 3.7 doublings -> 5.4 yr per doubling (a smaller end state, not a slower rate)
+
+====================================================================================================
+9. SLOW BOUND: the railroad analog in place of the 2-yr doubling (a network built across land; not a central case)
+====================================================================================================
+railroad analog, stages A+B+C = 111.4 yr; plus first hardware 8.2-13.5 and shield delivery 8.2 -> 128 - 133 yr
+Ono 2025 (undergraduate thesis, low weight): power and processing bottlenecks gave LINEAR growth; tripled mass in 5 yr from 8,925 kg [RM F4]
+   x3 in 5 yr = 1.58 doublings -> 3.2 yr per 'doubling' if read as exponential; as linear, each added 8,925 kg-equivalent takes a constant 2.5 yr

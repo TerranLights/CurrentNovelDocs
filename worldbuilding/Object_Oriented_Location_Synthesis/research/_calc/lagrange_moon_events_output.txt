@@ -1,0 +1,26 @@
+Distance at which the Moon's angular radius equals the Sun's: R_M x D / R_S = 1737.4 x 1.49598e+08 / 695700.0 = 373,597 km
+Fraction of time the real Earth-Moon distance is below that: 0.302 (min 356,421, max 406,707 km)
+
+L4: 27 Moon-transit events in 38.0 yr (10-minute samples)
+   peak obscuration 0.000-0.500:  10 events, Earth-Moon distance at peak 366,228-390,593 km
+   peak obscuration 0.500-0.800:  10 events, Earth-Moon distance at peak 366,681-404,920 km
+   peak obscuration 0.800-0.950:   6 events, Earth-Moon distance at peak 366,483-397,398 km
+   peak obscuration 0.950-0.999:   1 events, Earth-Moon distance at peak 368,571-368,571 km
+   peak obscuration 0.999-1.000:   0 events
+   deepest: peak 0.9891, distance 368,571 km, duration 110 min
+   deepest: peak 0.9304, distance 368,998 km, duration 120 min
+   deepest: peak 0.9014, distance 397,398 km, duration 130 min
+   deepest: peak 0.8574, distance 366,483 km, duration 110 min
+   deepest: peak 0.8539, distance 392,988 km, duration 120 min
+
+L5: 29 Moon-transit events in 38.0 yr (10-minute samples)
+   peak obscuration 0.000-0.500:  16 events, Earth-Moon distance at peak 369,292-405,112 km
+   peak obscuration 0.500-0.800:  10 events, Earth-Moon distance at peak 366,274-401,098 km
+   peak obscuration 0.800-0.950:   3 events, Earth-Moon distance at peak 366,478-400,476 km
+   peak obscuration 0.950-0.999:   0 events
+   peak obscuration 0.999-1.000:   0 events
+   deepest: peak 0.9021, distance 366,660 km, duration 120 min
+   deepest: peak 0.8114, distance 400,476 km, duration 130 min
+   deepest: peak 0.8070, distance 366,478 km, duration 120 min
+   deepest: peak 0.7895, distance 367,718 km, duration 120 min
+   deepest: peak 0.7391, distance 401,098 km, duration 140 min

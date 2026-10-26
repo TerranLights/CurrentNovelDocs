@@ -1,0 +1,48 @@
+NIST CODATA 2022 G = 6.67430e-11 m3 kg-1 s-2
+  Earth    R=  6,378.1 km  GM=     398,600.0 km3/s2  rotation 23.9345 h  obliquity 23.44 deg  year 365.256 d
+  Moon     R=  1,737.4 km  GM=       4,902.9 km3/s2  rotation 655.72 h  obliquity 1.54 deg  year 346.62 d
+  Mars     R=  3,396.2 km  GM=      42,828.0 km3/s2  rotation 24.6229 h  obliquity 25.19 deg  year 686.98 d
+  Jupiter  R= 71,492.0 km  GM= 126,686,890.6 km3/s2  rotation 9.925 h  obliquity 3.13 deg  year 4332.589 d
+  Saturn   R= 60,268.0 km  GM=  37,931,381.8 km3/s2  rotation 10.656 h  obliquity 26.73 deg  year 10755.699 d
+
+== Validation: Earth geostationary orbit against the NOAA GOES statements (up to 72 min a day; eclipse seasons ~45 days either side of each equinox)
+  GEO (synchronous)          r=     42,164 km ( 6.61 R)  T=  23.934 h  beta*=  8.7 deg  max dark    69.4 min ( 4.8 % of orbit)  year-mean dark  0.94 %  eclipse season  24.8 % of year  dark periods/yr         91  kWh/kW  1.157  Li-ion cell     6.4 kg/kW  ice    12.5  PCM     85.1
+  synchronous radius = (GM (T/2pi)^2)^(1/3) = 42,164 km; model max dark above vs NOAA 72 min (difference: the Sun's finite size)
+
+== Circular equatorial orbits (dark fraction, season, storage per kW through the longest dark interval)
+
+Moon:
+  low lunar orbit, 100 km    r=      1,837 km ( 1.06 R)  T=   1.963 h  beta*= 71.0 deg  max dark    46.5 min (39.4 % of orbit)  year-mean dark 39.45 %  eclipse season 100.0 % of year  dark periods/yr      4,238  kWh/kW  0.774  Li-ion cell     4.3 kg/kW  ice     8.4  PCM     56.9
+  1,000 km altitude          r=      2,737 km ( 1.58 R)  T=   3.570 h  beta*= 39.4 deg  max dark    46.9 min (21.9 % of orbit)  year-mean dark 21.88 %  eclipse season 100.0 % of year  dark periods/yr      2,330  kWh/kW  0.781  Li-ion cell     4.3 kg/kW  ice     8.4  PCM     57.5
+  2 R                        r=      3,475 km ( 2.00 R)  T=   5.106 h  beta*= 30.0 deg  max dark    51.1 min (16.7 % of orbit)  year-mean dark 16.66 %  eclipse season 100.0 % of year  dark periods/yr      1,629  kWh/kW  0.851  Li-ion cell     4.7 kg/kW  ice     9.2  PCM     62.6
+  4 R                        r=      6,950 km ( 4.00 R)  T=  14.441 h  beta*= 14.5 deg  max dark    69.7 min ( 8.0 % of orbit)  year-mean dark  8.02 %  eclipse season 100.0 % of year  dark periods/yr        576  kWh/kW  1.161  Li-ion cell     6.4 kg/kW  ice    12.5  PCM     85.4
+  10 R                       r=     17,374 km (10.00 R)  T=  57.082 h  beta*=  5.7 deg  max dark   109.2 min ( 3.2 % of orbit)  year-mean dark  3.13 %  eclipse season 100.0 % of year  dark periods/yr        146  kWh/kW  1.820  Li-ion cell    10.0 kg/kW  ice    19.7  PCM    133.8
+
+Mars:
+  low Mars orbit, 400 km     r=      3,796 km ( 1.12 R)  T=   1.973 h  beta*= 63.5 deg  max dark    41.7 min (35.3 % of orbit)  year-mean dark 34.44 %  eclipse season 100.0 % of year  dark periods/yr      8,358  kWh/kW  0.695  Li-ion cell     3.8 kg/kW  ice     7.5  PCM     51.1
+  2 R                        r=      6,792 km ( 2.00 R)  T=   4.721 h  beta*= 30.0 deg  max dark    47.2 min (16.7 % of orbit)  year-mean dark 13.39 %  eclipse season 100.0 % of year  dark periods/yr      3,492  kWh/kW  0.787  Li-ion cell     4.3 kg/kW  ice     8.5  PCM     57.9
+  4 R                        r=     13,585 km ( 4.00 R)  T=  13.353 h  beta*= 14.5 deg  max dark    64.4 min ( 8.0 % of orbit)  year-mean dark  2.49 %  eclipse season  40.0 % of year  dark periods/yr        493  kWh/kW  1.074  Li-ion cell     5.9 kg/kW  ice    11.6  PCM     79.0
+  areostationary             r=     20,428 km ( 6.01 R)  T=  24.623 h  beta*=  9.6 deg  max dark    78.5 min ( 5.3 % of orbit)  year-mean dark  1.06 %  eclipse season  25.5 % of year  dark periods/yr        171  kWh/kW  1.309  Li-ion cell     7.2 kg/kW  ice    14.1  PCM     96.3
+  10 R                       r=     33,962 km (10.00 R)  T=  52.784 h  beta*=  5.7 deg  max dark   101.0 min ( 3.2 % of orbit)  year-mean dark  0.38 %  eclipse season  15.1 % of year  dark periods/yr         47  kWh/kW  1.683  Li-ion cell     9.2 kg/kW  ice    18.2  PCM    123.7
+
+Jupiter:
+  2 R                        r=    142,984 km ( 2.00 R)  T=   8.384 h  beta*= 30.0 deg  max dark    83.8 min (16.7 % of orbit)  year-mean dark 16.63 %  eclipse season 100.0 % of year  dark periods/yr     12,403  kWh/kW  1.397  Li-ion cell     7.7 kg/kW  ice    15.1  PCM    102.7
+  3 R                        r=    214,476 km ( 3.00 R)  T=  15.402 h  beta*= 19.5 deg  max dark   100.0 min (10.8 % of orbit)  year-mean dark 10.75 %  eclipse season 100.0 % of year  dark periods/yr      6,751  kWh/kW  1.666  Li-ion cell     9.2 kg/kW  ice    18.0  PCM    122.5
+  5 R                        r=    357,460 km ( 5.00 R)  T=  33.140 h  beta*= 11.5 deg  max dark   127.4 min ( 6.4 % of orbit)  year-mean dark  6.29 %  eclipse season 100.0 % of year  dark periods/yr      3,138  kWh/kW  2.124  Li-ion cell    11.7 kg/kW  ice    22.9  PCM    156.2
+  synchronous                r=    160,010 km ( 2.24 R)  T=   9.925 h  beta*= 26.5 deg  max dark    87.8 min (14.7 % of orbit)  year-mean dark 14.70 %  eclipse season 100.0 % of year  dark periods/yr     10,477  kWh/kW  1.463  Li-ion cell     8.0 kg/kW  ice    15.8  PCM    107.6
+  10 R                       r=    714,920 km (10.00 R)  T=  93.734 h  beta*=  5.7 deg  max dark   179.3 min ( 3.2 % of orbit)  year-mean dark  2.94 %  eclipse season 100.0 % of year  dark periods/yr      1,109  kWh/kW  2.989  Li-ion cell    16.4 kg/kW  ice    32.3  PCM    219.8
+  20 R                       r=  1,429,840 km (20.00 R)  T= 265.120 h  beta*=  2.9 deg  max dark   253.3 min ( 1.6 % of orbit)  year-mean dark  0.85 %  eclipse season  73.7 % of year  dark periods/yr        289  kWh/kW  4.221  Li-ion cell    23.2 kg/kW  ice    45.6  PCM    310.4
+
+Saturn:
+  2 R                        r=    120,536 km ( 2.00 R)  T=  11.859 h  beta*= 30.0 deg  max dark   118.6 min (16.7 % of orbit)  year-mean dark 12.83 %  eclipse season 100.0 % of year  dark periods/yr     21,767  kWh/kW  1.977  Li-ion cell    10.9 kg/kW  ice    21.3  PCM    145.3
+  3 R                        r=    180,804 km ( 3.00 R)  T=  21.787 h  beta*= 19.5 deg  max dark   141.4 min (10.8 % of orbit)  year-mean dark  4.41 %  eclipse season  53.1 % of year  dark periods/yr      6,296  kWh/kW  2.357  Li-ion cell    12.9 kg/kW  ice    25.5  PCM    173.3
+  5 R                        r=    301,340 km ( 5.00 R)  T=  46.877 h  beta*= 11.5 deg  max dark   180.3 min ( 6.4 % of orbit)  year-mean dark  1.47 %  eclipse season  29.3 % of year  dark periods/yr      1,615  kWh/kW  3.005  Li-ion cell    16.5 kg/kW  ice    32.4  PCM    220.9
+  synchronous                r=    112,239 km ( 1.86 R)  T=  10.656 h  beta*= 32.5 deg  max dark   115.4 min (18.0 % of orbit)  year-mean dark 14.72 %  eclipse season 100.0 % of year  dark periods/yr     24,225  kWh/kW  1.923  Li-ion cell    10.6 kg/kW  ice    20.8  PCM    141.4
+  10 R                       r=    602,680 km (10.00 R)  T= 132.589 h  beta*=  5.7 deg  max dark   253.7 min ( 3.2 % of orbit)  year-mean dark  0.36 %  eclipse season  14.3 % of year  dark periods/yr        278  kWh/kW  4.228  Li-ion cell    23.2 kg/kW  ice    45.7  PCM    310.8
+  20 R                       r=  1,205,360 km (20.00 R)  T= 375.019 h  beta*=  2.9 deg  max dark   358.3 min ( 1.6 % of orbit)  year-mean dark  0.09 %  eclipse season   7.1 % of year  dark periods/yr         49  kWh/kW  5.971  Li-ion cell    32.8 kg/kW  ice    64.5  PCM    439.1
+
+== Sunlight at the planets (NASA sheets) and the heliocentric case
+  Mars: 586.2 W/m2 = 43.1 % of the Earth value
+  Jupiter: 50.26 W/m2 = 3.7 % of the Earth value
+  Saturn: 14.82 W/m2 = 1.1 % of the Earth value
+  A circular heliocentric orbit has no planetary shadow at any distance: no dark interval, flux = 1361 W/m2 x (1 AU / r)^2.

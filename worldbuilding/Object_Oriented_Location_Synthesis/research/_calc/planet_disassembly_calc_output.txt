@@ -1,0 +1,42 @@
+
+================================================================================================
+Mercury
+================================================================================================
+mass from GM/G = 3.3012e+23 kg; surface escape 4.25 km/s = 9.0 MJ/kg
+uniform-sphere binding energy 3GM^2/(5R) = 1.789e+30 J; mean 5.4 MJ/kg (the average cost per kg over the whole disassembly if each kg only needs to escape the planet)
+= 4.673e+03 s of the Sun's entire output (1.481e-04 yr)
+   in    31.2 yr: mean power 1.82e+21 W = 4.75e-06 of solar luminosity; mean mass flow 3.35e+14 kg/s (1.06e+19 t/yr)
+   in   100.0 yr: mean power 5.67e+20 W = 1.48e-06 of solar luminosity; mean mass flow 1.05e+14 kg/s (3.30e+18 t/yr)
+   in 1,000.0 yr: mean power 5.67e+19 W = 1.48e-07 of solar luminosity; mean mass flow 1.05e+13 kg/s (3.30e+17 t/yr)
+   in 10,000.0 yr: mean power 5.67e+18 W = 1.48e-08 of solar luminosity; mean mass flow 1.05e+12 kg/s (3.30e+16 t/yr)
+sunlight the planet's own disc intercepts at its orbit: 1.70e+17 W; to supply the 31-yr mean power at 1/3 efficiency and 1/10 to drivers one needs collectors of 6.00e+18 m2
+sphere at the orbit radius (0.38709927 AU): 4.21e+22 m2; collectors needed = 1.4e-04 of that sphere
+if ALL the mass were spread over that sphere: 7.83 kg/m2 (the paper's 3.92 kg/m2 = 0.5 mm of iron at the same conversion = 1.00 mm)
+
+================================================================================================
+Venus
+================================================================================================
+mass from GM/G = 4.8675e+24 kg; surface escape 10.36 km/s = 53.7 MJ/kg
+uniform-sphere binding energy 3GM^2/(5R) = 1.568e+32 J; mean 32.2 MJ/kg (the average cost per kg over the whole disassembly if each kg only needs to escape the planet)
+= 4.095e+05 s of the Sun's entire output (1.298e-02 yr)
+   in    31.2 yr: mean power 1.59e+23 W = 4.16e-04 of solar luminosity; mean mass flow 4.94e+15 kg/s (1.56e+20 t/yr)
+   in   100.0 yr: mean power 4.97e+22 W = 1.30e-04 of solar luminosity; mean mass flow 1.54e+15 kg/s (4.87e+19 t/yr)
+   in 1,000.0 yr: mean power 4.97e+21 W = 1.30e-05 of solar luminosity; mean mass flow 1.54e+14 kg/s (4.87e+18 t/yr)
+   in 10,000.0 yr: mean power 4.97e+20 W = 1.30e-06 of solar luminosity; mean mass flow 1.54e+13 kg/s (4.87e+17 t/yr)
+sunlight the planet's own disc intercepts at its orbit: 2.99e+17 W; to supply the 31-yr mean power at 1/3 efficiency and 1/10 to drivers one needs collectors of 1.84e+21 m2
+sphere at the orbit radius (0.72333566 AU): 1.47e+23 m2; collectors needed = 1.2e-02 of that sphere
+if ALL the mass were spread over that sphere: 33.08 kg/m2 (the paper's 3.92 kg/m2 = 0.5 mm of iron at the same conversion = 4.22 mm)
+
+================================================================================================
+Mercury check against Armstrong and Sandberg
+================================================================================================
+A&S binding energy 1.80e30 J; here 1.789e+30 J
+A&S: swarm at Mercury's orbit of 3.92 kg/m2 over the sphere = 1.65e+23 kg = 50 % of Mercury's mass (they say half the mass usable)
+
+================================================================================================
+Venus extras
+================================================================================================
+Venus / Mercury: mass 14.7x, binding energy 88x, mean MJ/kg 5.9x
+atmosphere: 4.8e+20 kg = 0.0099 % of Venus's mass; removal energy at 50 MJ/kg = 2.40e+28 J (Landis 2011 quoted 2.5e28 J for the whole atmosphere in [VE] 3.10) = 0.02 % of the solid planet's binding energy
+Venus's disc intercepts only 2.99e+17 W; 735 K surface radiates 1.65e+04 W/m2 (sigma T^4), the whole planet 7.62e+18 W
+Armstrong and Sandberg's model was run for Mercury only in the sources read; no Venus solid-body disassembly study was found in any tranche file

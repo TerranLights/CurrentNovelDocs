@@ -1,0 +1,13 @@
+constants: R_E=6378.137 R_S=695700.0 R_M=1737.4 D_ES=149598000.0 A_EM=384400.0 INC=5.145 deg
+rates: N_DRA=0.230895718 N_SID=0.229970511 OMEGA_DOT=-0.000925207 rad/d -> node regression period 6791.11 d = 18.593 yr; simulated years 111.56; dt 120.0 s
+derived: synodic month 29.53064 d (NASA 29.530589); eclipse year 346.614 d
+VALIDATE {"seed": 0, "k": 1.0, "years": 111.56, "penumbral_or_deeper_per_century": 230.4, "umbral_per_century": 147.0}
+VALIDATE {"seed": 1, "k": 1.0, "years": 111.56, "penumbral_or_deeper_per_century": 229.5, "umbral_per_century": 147.0}
+VALIDATE {"seed": 2, "k": 1.0, "years": 111.56, "penumbral_or_deeper_per_century": 230.4, "umbral_per_century": 147.0}
+VALIDATE {"seed": 0, "k": 1.01, "years": 111.56, "penumbral_or_deeper_per_century": 231.3, "umbral_per_century": 147.0}
+VALIDATE {"seed": 1, "k": 1.01, "years": 111.56, "penumbral_or_deeper_per_century": 230.4, "umbral_per_century": 147.9}
+VALIDATE {"seed": 2, "k": 1.01, "years": 111.56, "penumbral_or_deeper_per_century": 233.1, "umbral_per_century": 147.9}
+VALIDATE {"seed": 0, "k": 1.02, "years": 111.56, "penumbral_or_deeper_per_century": 233.1, "umbral_per_century": 148.8}
+VALIDATE {"seed": 1, "k": 1.02, "years": 111.56, "penumbral_or_deeper_per_century": 232.2, "umbral_per_century": 149.7}
+VALIDATE {"seed": 2, "k": 1.02, "years": 111.56, "penumbral_or_deeper_per_century": 234.0, "umbral_per_century": 148.8}
+JSON {"validation": [{"seed": 0, "k": 1.0, "years": 111.56, "penumbral_or_deeper_per_century": 230.4, "umbral_per_century": 147.0}, {"seed": 1, "k": 1.0, "years": 111.56, "penumbral_or_deeper_per_century": 229.5, "umbral_per_century": 147.0}, {"seed": 2, "k": 1.0, "years": 111.56, "penumbral_or_deeper_per_century": 230.4, "umbral_per_century": 147.0}, {"seed": 0, "k": 1.01, "years": 111.56, "penumbral_or_deeper_per_century": 231.3, "umbral_per_century": 147.0}, {"seed": 1, "k": 1.01, "years": 111.56, "penumbral_or_deeper_per_century": 230.4, "umbral_per_century": 147.9}, {"seed": 2, "k": 1.01, "years": 111.56, "penumbral_or_deeper_per_century": 233.1, "umbral_per_century": 147.9}, {"seed": 0, "k": 1.02, "years": 111.56, "penumbral_or_deeper_per_century": 233.1, "umbral_per_century": 148.8}, {"seed": 1, "k": 1.02, "years": 111.56, "penumbral_or_deeper_per_century": 232.2, "umbral_per_century": 149.7}, {"seed": 2, "k": 1.02, "years": 111.56, "penumbral_or_deeper_per_century": 234.0, "umbral_per_century": 148.8}]}

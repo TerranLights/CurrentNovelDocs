@@ -1,0 +1,70 @@
+
+====================================================================================================
+1. MASS TO HOUSE THE CANON ORBITAL POPULATION (K-18) AT SOURCED MASS-PER-PERSON FIGURES
+====================================================================================================
+canon OMB low-shield LEO 'debris-built' (10-20 t/person)                     10.0-    20.0 t/person ->        101-       202 Mt  (0.10-0.20 Gt)   [K-8 / OMB s6: 'as low as ~10-20 tonnes/person']
+SP-413 O'Neill-type cylinder (80.2 Mt / 820,000 people)                      97.8-    97.8 t/person ->        988-       988 Mt  (0.99-0.99 Gt)   [[PR] 6 (SP-413 Table 4-1), L5-type site]
+canon OMB working estimate (1-10 Mt for 10,000-20,000 residents)             50.0- 1,000.0 t/person ->        505-    10,105 Mt  (0.51-10.10 Gt)   [K-7 / OMB s2]
+SP-413 torus (10.09 Mt / 10,000 people)                                   1,009.0- 1,009.0 t/person ->     10,196-    10,196 Mt  (10.20-10.20 Gt)   [[PR] 6]
+Kalpana One (7 Mt / 3,000 people)                                         2,333.3- 2,333.3 t/person ->     23,578-    23,578 Mt  (23.58-23.58 Gt)   [K-7 / OMB s2]
+canon debris ceiling for comparison: 16,200 t (K-8) = 1.60e-04 of the lowest figure above
+(real mass in orbit end-2025: 16,185 t [TR F3, McDowell]; matches the ESA figure canon uses)
+
+====================================================================================================
+2. HOW LONG TO SUPPLY THAT MASS, FROM CANON'S DATES
+====================================================================================================
+staging stations ~2340 to the war 2812: 472 yr; Tower completion to the war: 124 yr
+  0.1 Gt over  472 yr (staging to war ): average    0.21 Mt/yr =   6.714 t/s
+  0.1 Gt over  124 yr (Tower era only ): average    0.81 Mt/yr =  25.555 t/s
+  1.0 Gt over  472 yr (staging to war ): average    2.12 Mt/yr =  67.136 t/s
+  1.0 Gt over  124 yr (Tower era only ): average    8.06 Mt/yr = 255.549 t/s
+ 10.0 Gt over  472 yr (staging to war ): average   21.19 Mt/yr = 671.358 t/s
+ 10.0 Gt over  124 yr (Tower era only ): average   80.65 Mt/yr = 2555.491 t/s
+ 24.0 Gt over  472 yr (staging to war ): average   50.85 Mt/yr = 1611.259 t/s
+ 24.0 Gt over  124 yr (Tower era only ): average  193.55 Mt/yr = 6133.178 t/s
+physics anchors: world launched mass 3,194 t/yr (2025) [TR F3]; one lunar launcher design 0.65 Mt/yr (SP-428); stage-C shield flow 1.2 Mt/yr (SP-413) [SYN 5]
+
+====================================================================================================
+3. EXPONENTIAL REACH FROM 1.2 Mt/yr (SYN stage C) AT ONE DOUBLING PER 2 YEARS (the fast reading; a handwave if it persists: C-65)
+====================================================================================================
+cumulative   0.1 Gt:   9.8 yr after the 1.2 Mt/yr stage; flow then =     35.9 Mt/yr
+cumulative   1.0 Gt:  16.4 yr after the 1.2 Mt/yr stage; flow then =    347.8 Mt/yr
+cumulative  10.0 Gt:  23.0 yr after the 1.2 Mt/yr stage; flow then =   3466.9 Mt/yr
+cumulative  24.0 Gt:  25.5 yr after the 1.2 Mt/yr stage; flow then =   8319.0 Mt/yr
+stage-C reach from commitment (fast reading) = 8.2-13.5 + 6.6-13.3 + 5.8-11.7 + 4.5-9.7 = 25.1 - 48.2 yr [SYN calc 5]
+
+====================================================================================================
+4. WHERE THE FAST AND SLOW READINGS PLACE THE MILESTONES IF 'COMMITMENT' IS HANA JINN'S RECRUITMENT (K-2: after 2318, early-to-mid 2300s)
+====================================================================================================
+commitment 2318: first hardware 2326-2332; Mt/yr-class industry 2343-2366; first ~10 Mt torus (fast, sequential) 2351-2374; (slow bound) 2446-2451
+commitment 2330: first hardware 2338-2344; Mt/yr-class industry 2355-2378; first ~10 Mt torus (fast, sequential) 2363-2386; (slow bound) 2458-2463
+commitment 2340: first hardware 2348-2354; Mt/yr-class industry 2365-2388; first ~10 Mt torus (fast, sequential) 2373-2396; (slow bound) 2468-2473
+canon: Mallory Dufay 'oversaw the actual first orbital launches ... mid-2300s' (K-3): gap Hana->Mallory must be >= 8.2-13.5 yr for the physics-based first-hardware lead
+
+====================================================================================================
+5. THE TOWER AS A BULK EXPORT CHANNEL (K-12, K-14)
+====================================================================================================
+payload    1.0 Mt/yr =   31.69 kg/s ... ideal lift energy    1.05 GW =   0.3 % of the Tower's 324 GW net draw; 0.012 % of the 270 t/s pellet loop by mass
+payload    8.0 Mt/yr =  253.50 kg/s ... ideal lift energy    8.39 GW =   2.6 % of the Tower's 324 GW net draw; 0.094 % of the 270 t/s pellet loop by mass
+payload   82.0 Mt/yr = 2598.42 kg/s ... ideal lift energy   86.01 GW =  26.5 % of the Tower's 324 GW net draw; 0.962 % of the 270 t/s pellet loop by mass
+payload  190.0 Mt/yr = 6020.74 kg/s ... ideal lift energy  199.29 GW =  61.5 % of the Tower's 324 GW net draw; 2.230 % of the 270 t/s pellet loop by mass
+final-stage rocket for 7.82 km/s at Isp 452.3 s: mass ratio 5.83, propellant 82.8 % of departing mass, 4.83 t propellant per t of (payload + dry mass) [rocket equation]
+Tower draw vs world solar capacity end-2025 (2,397 GW [RM F1]): 13.5 %
+South Pole site: no rotational speed boost; every Tower launch starts toward a polar orbit (standard geometry; not researched in the tranches: open thread)
+
+====================================================================================================
+6. POPULATION MOVED BY THE TOWER (K-16): CANON ARITHMETIC CHECK
+====================================================================================================
+10,104,964 people over 124 yr = 9.30 per hour (canon: 9.30/h for 124 yr, 6.48/h for 178 yr)
+10,104,964 people over 178 yr = 6.48 per hour (canon: 9.30/h for 124 yr, 6.48/h for 178 yr)
+12,000,000 people over 124 yr = 11.04 per hour (canon: 9.30/h for 124 yr, 6.48/h for 178 yr)
+design capacity 194/h x 8766 h x 124 yr = 211 million (canon: ~204 million over 120 yr: 204 million)
+
+====================================================================================================
+7. MARS AND VENUS DATES FROM PHYSICS (earliest, if commitment is not earlier than the Second Interwar start 2564)
+====================================================================================================
+commitment 2564: first Mars landing 2572-2578; ~110 people at the survival minimum 2581-2603; M5 million people (claim) 2607-2671
+commitment 2600: first Mars landing 2608-2614; ~110 people at the survival minimum 2617-2639; M5 million people (claim) 2643-2707
+commitment 2688: first Mars landing 2696-2702; ~110 people at the survival minimum 2705-2727; M5 million people (claim) 2731-2795
+Helix opening 3012-3112 minus game present 2822-2827 = 185 to 290 yr
+Venus cloud-deck habitat: 0.9 g, ~1 bar at 50-55 km [IMS 3.2 / BVE]; bulk export 180-670 kt lifted per kt delivered [IMS 4]

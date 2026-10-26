@@ -1,0 +1,19 @@
+mu = M_M/(M_E+M_M) = 0.0121509; mS = 328,897.1; aS = 389.173; w_S = -0.925198; synodic period = 6.79118 units = 29.5306 d
+
+L4: guess = the unperturbed equilateral point (0.487849, 0.866025)
+  Newton shooting: ier=1, residual 1.07e-14, initial state (theta0 = 0): x=0.474320 y=0.874336 vx=0.011936 vy=0.010090
+  distance from the equilateral point: max 0.0174 = 6,690 km; min 0.0036 = 1,388 km; mean 3,836 km
+  distance from Earth: 379,678 to 386,933 km; from Moon: 377,989 to 389,815 km
+  x range 181,441 to 193,308 km, y range 327,488 to 336,782 km (from the barycenter)
+  monodromy eigenvalues (|lambda|): [1.0, 1.0, 1.097321, 0.91131]   det 1.000000  -> UNSTABLE (some |lambda| > 1)
+  12-period integration: max distance from the equilateral point 6,690 km (periodic orbit is exact to the residual above; growth shows instability)
+  60 periods (about 5 yr) from a start displaced by 1,000 km: max distance from the point 236,197 km; max separation from the periodic orbit 231,693 km
+
+L5: guess = the unperturbed equilateral point (0.487849, -0.866025)
+  Newton shooting: ier=1, residual 1.19e-14, initial state (theta0 = 0): x=0.474320 y=-0.874336 vx=-0.011936 vy=0.010090
+  distance from the equilateral point: max 0.0174 = 6,690 km; min 0.0036 = 1,388 km; mean 3,836 km
+  distance from Earth: 379,678 to 386,933 km; from Moon: 377,989 to 389,815 km
+  x range 181,441 to 193,308 km, y range -336,782 to -327,488 km (from the barycenter)
+  monodromy eigenvalues (|lambda|): [1.0, 1.0, 0.91131, 1.097321]   det 1.000000  -> UNSTABLE (some |lambda| > 1)
+  12-period integration: max distance from the equilateral point 6,689 km (periodic orbit is exact to the residual above; growth shows instability)
+  60 periods (about 5 yr) from a start displaced by 1,000 km: max distance from the point 251,341 km; max separation from the periodic orbit 253,426 km

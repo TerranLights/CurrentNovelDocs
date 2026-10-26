@@ -1,0 +1,24 @@
+== A. Earth's shadow cones (geometric, no atmosphere)
+  umbra length = R_E D / (R_S - R_E) = 6378.137 x 1.496e+08 / (695700.0 - 6378.137) = 1,384,196 km
+  at d = 384,400 km: umbra radius = 6378.137 - 384,400 x (695700.0-6378.137)/1.496e+08 = 4,607 km; penumbra radius = 6378.137 + 384,400 x (695700.0+6378.137)/1.496e+08 = 8,182 km
+  orbital speed of the station = 2 pi 384,400 / (27.3217 x 86,400 s) = 1.0232 km/s
+  the shadow axis moves with the Sun at 0.0765 km/s at that distance; relative speed 0.9466 km/s
+  central chord through the umbra: 2 x 4,607 / 0.9466 = 162 min
+  central chord through the penumbra: 2 x 8,182 / 0.9466 = 288 min
+
+== B. Angular sizes seen from an Earth-Moon L4/L5 point (distance to Earth and to Moon both = 384,400 km)
+  Sun angular radius 0.2665 deg; Earth 0.9507 deg; Moon 0.2590 deg
+  Moon/Sun disc-area ratio = (0.2590/0.2665)^2 = 0.945 (best-case annular obscuration, matches the simulation's 0.947)
+  Earth/Sun disc-area ratio = 12.7 (Earth fully covers the Sun when aligned)
+
+== C. Sun-Earth L4/L5 (vertices of an equilateral triangle with the Sun and Earth)
+  As seen from L4/L5 the Sun-to-Earth angular separation is 60 deg (equilateral triangle).
+  Earth angular radius from L4 = asin(6378.137/1.496e+08) = 0.00244 deg; Moon 0.00067 deg; Sun 0.2665 deg
+  Occultation needs separation < 0.2689 deg; the separation is 60 deg, so the Earth or Moon never occults the Sun: margin factor 223.
+  Earth's umbra ends 1,384,196 km behind the Earth, 0.93 % of the Earth-Sun distance; L4/L5 are 149,598,000 km from Earth, off the shadow axis.
+  The corotating Sun-Earth frame turns once per year; a station fixed in it sees the Sun at a fixed direction (60 deg off the Earth direction).
+
+== D. Sun direction in the Earth-Moon rotating frame
+  The Sun's azimuth in the frame rotating with the Moon sweeps 360 deg per synodic month: 12.19 deg/day (retrograde).
+  Its elevation above the lunar orbit plane is within +/-5.145 deg (inclination) plus parallax; simulation max 5.158 deg.
+  Elevation oscillation period = eclipse year; simulation 346.614 d. A one-axis array turning once per 29.530589 d tracks it with cos(5.158 deg) = 0.9960 (loss 0.40 %).

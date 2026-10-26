@@ -1,0 +1,53 @@
+OK      x1 leo_and_orbital_habitats.md | 0\.2-0\.5 mSv per day | ISS dose 0.2-0.5 mSv/day (row 7)
+OK      x1 leo_and_orbital_habitats.md | 30\.9 rem | Aug 1972 30.9 rem (row 4)
+OK      x1 leo_and_orbital_habitats.md | \"Low-tech\" robot-only stations | LEO handwave 8 (row 1)
+OK      x1 leo_and_orbital_habitats.md | A light, mobile wheel | LEO handwave 7 (row 4)
+OK      x1 leo_and_orbital_habitats.md | compression-supported tower | LEO handwave 1 (row 11)
+OK      x3 cyclers_and_large_slow_vehicles.md | 9,254 kg | storm-shelter mass (row 4)
+OK      x3 cyclers_and_large_slow_vehicles.md | 31 m2 | storm-shelter area (row 4)
+OK      x1 cyclers_and_large_slow_vehicles.md | 128 years per km/s|128 yr | 10^9 t immobile (AP-7 context)
+OK      x2 space_trucking_and_transport_infrastructure.md | 16,185 t | cataloged mass end-2025 (row 6)
+OK      x2 space_trucking_and_transport_infrastructure.md | 33\.1 MJ/kg | Earth surface to 400 km (row 10)
+OK      x3 space_trucking_and_transport_infrastructure.md | 452\.3 s | RS-25 Isp (row 10)
+OK      x6 space_trucking_and_transport_infrastructure.md | 2\.52 | Moon to LEO delta-v (row 10)
+OK      x1 industrial_ramp_timelines.md | 2,397 \(2025\) | world solar capacity 2025 (row 11)
+OK      x11 mars_water_budget_and_retention.md | 20 to 40 m | Mars near-surface water (rows 19, 20)
+OK      x1 venus_as_extraction_site.md | About 20 days of autonomous operation in | Venus conjunction blackout (row 22)
+OK      x1 venus_as_extraction_site.md | 737 K, 92 bar | Venus surface (row 23)
+OK      x3 benefits_of_mining_venus.md | 34 times | N in Earth air vs Venus (row 24)
+OK      x3 benefits_of_mining_venus.md | 1,290 g/cm | Venus cloud shielding (row 23)
+OK      x4 inner_system_mining_synthesis.md | 180 to 670 | Venus export (row 24)
+OK      x3 starlifting_synthesis.md | 8\.2 to 13\.5 | stage 0 duration (rows 2, 17)
+OK      x2 starlifting_synthesis.md | 33 to 56 | sequential sum to torus (row 30)
+OK      x2 starlifting_synthesis.md | 128 to 133 | slow bound (row 5)
+OK      x1 starlifting_synthesis.md | 17 to 39|17 to 39 years | 110 people (row 17)
+OK      x2 planetary_harvesting_and_benefits_synthesis.md | 16 to 22 m | Mars polar water (row 20)
+OK      x1 space_processing_and_fabrication.md | 1,073 to 1,610|1,073-1,610|1,073 | magnet material per robot (row 15)
+OK      x6 space_processing_and_fabrication.md | 150 t | lithography tool (row 15)
+OK      x1 space_processing_and_fabrication.md | 10,0?9?0?,?000 people|10,000 people | SP-413 torus population (row 6)
+OK      x8 Amundsen_Tower_Space_Fountain_Design.md | ~324 GW | Tower net draw (rows 10, 11)
+OK      x3 Amundsen_Tower_Space_Fountain_Design.md | ~270 tonnes/s | pellet loop (row 10)
+OK      x4 Amundsen_Tower_Space_Fountain_Design.md | 7\.82 km/s | orbital velocity needed (row 10)
+OK      x2 Amundsen_Tower_Space_Fountain_Design.md | ~194 people/hour | design capacity (row 13)
+OK      x1 Amundsen_Tower_Space_Fountain_Design.md | ~178yr window | old window (row 13)
+OK      x1 Amundsen_Tower_Space_Fountain_Design.md | ~9\.30 people/hour | new window (row 13)
+OK      x1 Amundsen_Tower_Space_Fountain_Design.md | 3\.225 million tonnes | tower material (K-13)
+MISSING x0 Orbital_Infrastructure_Mass_Budget.md | 10-20\s+tonnes/person|~10-20 | canon low-shield mass (row 7)
+OK      x5 Orbital_Infrastructure_Mass_Budget.md | 16,200 | debris budget (row 6)
+OK      x1 Orbital_Infrastructure_Mass_Budget.md | ~7 million tonnes | Kalpana One (row 6)
+OK      x2 Von_Braun_Wheel_Mass_Budget.md | 5\.4x | wheel penalty (row 6)
+OK      x2 README.md | 10,104,964 | orbital pop (K-18)
+OK      x1 README.md | 31\.6% | 31.6 % (K-18)
+OK      x1 README.md | in place well before the war | K-6
+OK      x1 README.md | does not develop orbital society|It does | scope boundary
+OK      x1 README.md | low-Earth orbit | K-2 Hana Jinn
+OK      x1 Timeline.md | closer to the mid-2300s | K-3
+OK      x1 Timeline.md | early-to-mid 2300s | K-2 dating
+OK      x1 World_History_Reference.md | Active plans to colonize Mars itself | K-21
+OK      x1 World_History_Reference.md | Data infrastructure in the space between | K-21
+OK      x2 World_History_Reference.md | ~2688 | K-11
+OK      x1 universe-timeline.md | floating gulags | K-24
+OK      x1 universe-timeline.md | Jupiter colonization happens | K-23
+OK      x1 universe-timeline.md | only Mars, its moons | K-23
+OK      x1 04_Handwave_Register.md | RL-1 | RL-1 ruling (rows 1, 16)
+MISSING/NOFILE total: 1

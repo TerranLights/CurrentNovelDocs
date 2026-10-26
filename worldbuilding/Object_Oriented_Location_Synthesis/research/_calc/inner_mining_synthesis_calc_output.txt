@@ -1,0 +1,59 @@
+
+================================================================================================
+1. IRON PER TONNE OF MATERIAL, BY SOURCE
+================================================================================================
+Mercury surface: 13-19 kg Fe/t  -> 53-77 t of regolith per t of iron
+Lunar mare: 140-170 kg Fe/t (mostly in silicates and ilmenite, not metal): 7.4-13.1 x Mercury's
+CI carbonaceous chondrite: 183 kg Fe/t: 9.6-14.1 x Mercury's
+Sun photosphere: 1.19 kg Fe/t = 11-16 x poorer than Mercury's surface in iron by mass
+(grades are not recoverability: Mercury's iron is partly sulfide; lunar iron is mostly in silicates; CI iron is largely oxide/sulfide; native-metal grades: Moon ~0.5 wt% [SL 3F], average meteorite ~20 % free metal [PR 1b])
+
+================================================================================================
+2. WHAT A 1 Mt/yr OF IRON FROM MERCURY'S SURFACE WOULD MEAN
+================================================================================================
+    1,000 t Fe/yr ->     0.05-    0.08 Mt/yr of regolith processed
+  100,000 t Fe/yr ->     5.26-    7.69 Mt/yr of regolith processed
+1,000,000 t Fe/yr ->    52.63-   76.92 Mt/yr of regolith processed
+    1,000 t Fe/yr: stripping to 4.6 m at an assumed 1660 kg/m3 = 7.6 t/m2 -> 0.00-0.00 km2 per year
+  100,000 t Fe/yr: stripping to 4.6 m at an assumed 1660 kg/m3 = 7.6 t/m2 -> 0.00-0.00 km2 per year
+1,000,000 t Fe/yr: stripping to 4.6 m at an assumed 1660 kg/m3 = 7.6 t/m2 -> 0.01-0.01 km2 per year
+co-products per tonne of regolith [ME] D1: Si 250, Mg 110, Al 67, Ca 40-60, Na 29, S 19-23, C 14 kg
+at 1 Mt Fe/yr: Mg 5.8-8.5 Mt/yr, Si 13.2-19.2 Mt/yr, Al 3.5-5.2 Mt/yr as unavoidable co-products (Mt = 1e6 t)
+escape energy of the iron alone if launched as metal: 1 t Fe = 9.03e9 J; 1 Mt/yr = 286 MW of jet power at 100 % [NW F6(b): 286 MW]
+
+================================================================================================
+3. ENERGY AND DELTA-V TO REACH EARTH ORBIT, BY SOURCE (from low orbit or surface; ideal; [TR] D1, [NW] F2)
+================================================================================================
+Moon surface -> LEO (aerocapture)      depart  2.52  all-propulsive  5.60 km/s     5 d  mass driver 5,200 t per MW-yr (SP-428)
+Main belt 2.2 AU -> Earth              depart  4.21  all-propulsive  8.54 km/s   370 d  SEP tug ~280 t per MW-yr at 3.4 km/s
+Low Mercury orbit -> Earth             depart  7.55  all-propulsive 13.09 km/s   105 d  SEP direct spiral 0.019-0.041 t per kW-yr
+Venus cloud deck -> Earth (ideal)      depart 10.66  all-propulsive 14.12 km/s   146 d  0.15-0.56 % payload fraction, ascent
+SEP productivity: lunar leg 279 t per MW-yr [TR D3] vs Mercury direct spiral 19-41 t per MW-yr [NW F6]: ratio 6.8-14.7 x worse
+Mercury-to-Earth propellant per tonne delivered 2.4 t vs lunar leg 0.18 t [NW F6; TR D4]: 13 x
+
+================================================================================================
+4. FLEETS FOR A STATED FLOW FROM MERCURY ORBIT TO EARTH ([NW] F6, restated for comparison)
+================================================================================================
+flow         SEP direct (power, tugs)        SEP + flybys (stages/yr, xenon/yr)   sails (km2, mass)
+1 kt/yr      24-53 MW, 240-530 tugs          ~130 stages, 63 t Xe                 133-336 km2, 0.78-2.0 kt
+100 kt/yr    2.4-5.3 GW, 24,000-53,000       ~13,000 stages, 6,300 t Xe           13,300-33,600 km2, 78-198 kt
+1 Mt/yr      24-53 GW, 240,000-530,000       ~130,000 stages, 63,000 t Xe         133,000-336,000 km2, 0.78-2.0 Mt
+xenon multiples of world output (65 t/yr): SEP direct 1 kt/yr = 37 x; SEP+flybys 1 kt/yr = 1.0 x, 100 kt/yr = 97 x
+tug dry mass for 1 kt/yr (100 kW tugs, 6.8 t dry): 1.6-3.6 kt of tugs; for 1 Mt/yr: 1.6-3.6 Mt of tugs
+hardware production analog: 2,912 t/yr of Starlink-class satellites [starlifting_synthesis calc 8] -> 1.6-3.6 kt of tugs = 0.5-1.2 yr of that output
+Little's Law cargo in flight at 1 Mt/yr: 0.8-2.1 Mt (sails), 2.3-5.2 Mt (direct tugs), ~9.8 Mt (flyby route) [NW F11]
+
+================================================================================================
+5. VENUS EXPORT
+================================================================================================
+    1,000 t/yr of cargo to orbit -> 179-667 kt/yr of vehicles and propellant lifted from balloon altitude
+1,000,000 t/yr of cargo to orbit -> 178,571-666,667 kt/yr of vehicles and propellant lifted from balloon altitude
+Venus atmosphere inventories [VE] 3.2: C 1.3e20 kg, N 1.1e19 kg, H 7e14 kg; one full-scale SOE plant (3 kg/hr O2) uses ~72 t CO2/yr
+nitrogen alternatives: CI chondrite 0.295 wt% N = 2.95 kg per tonne; lunar regolith 81 ppm = 81 g per tonne; Venus air at 55 km: 21 g N per m3 of air [VE 3.2]
+a tonne of N from CI material needs 339 t of rock at 100 % recovery; from Venus air at 55 km (0.937 kg/m3, 3.5 % N2 by volume): ~47,619 m3 of air = ~45 t of air
+
+================================================================================================
+6. SYNODIC WINDOWS ([NW] F1, restated)
+================================================================================================
+Mercury->Earth every 115.9 d, window ~8-24 d wide at +10 %, ~13 % of time in a window; cheap windows ~once a year; cheapest total v-inf 17.6-22.9 km/s
+Venus->Earth every 583.9 d, ~28-54 d wide; Venus->Mars 333.9 d; belt->Mars every 2.8-4.4 yr [TR F4]; Earth->Mars 779.9 d

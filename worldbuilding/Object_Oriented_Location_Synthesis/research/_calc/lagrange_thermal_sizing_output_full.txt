@@ -1,0 +1,68 @@
+== 1. Solar flux over the year at the Earth's distance (derived from NASA distances)
+  mean       d=149.598 Gm: S = 1361.0 x (149.598/149.598)^2 = 1361.0 W/m2  (+0.0 %)
+  perihelion d=147.095 Gm: S = 1361.0 x (149.598/147.095)^2 = 1407.7 W/m2  (+3.4 %)
+  aphelion   d=152.1 Gm: S = 1361.0 x (149.598/152.1)^2 = 1316.6 W/m2  (-3.3 %)
+
+== 2. Equilibrium temperature of an isothermal body in sunlight at 1 AU (no Earth/Moon load; sink 3 K neglected)
+   plate normal to the Sun, radiating one face: T = (alpha S / (eps sigma))^0.25
+   plate radiating both faces:                  T = (alpha S / (2 eps sigma))^0.25
+   isothermal sphere:                           T = (alpha S / (4 eps sigma))^0.25
+  alpha/eps = 0.10:  one face  221.3 K | both faces  186.1 K | sphere  156.5 K
+  alpha/eps = 0.25:  one face  278.3 K | both faces  234.0 K | sphere  196.8 K
+  alpha/eps = 0.50:  one face  331.0 K | both faces  278.3 K | sphere  234.0 K
+  alpha/eps = 1.00:  one face  393.6 K | both faces  331.0 K | sphere  278.3 K
+
+== 3. Radiator area per kW of heat rejected (one radiating face; sink 3 K neglected: (3/300)^4 = 1e-8)
+   eps = 0.85 (assumed). Flux = eps sigma T^4. A = 1000 W / flux. Edge-on to the Sun (no solar load).
+   Radiator normal along the lunar-orbit normal: Sun incidence cosine <= sin(5.158 deg) = 0.0899 (mean sin(3.274 deg) = 0.0571)
+   Solar load on that face at alpha = 0.25 (assumed): max 30.6 W/m2, mean 19.4 W/m2
+   T(K)  flux(W/m2)  A_edge_on(m2/kW)  A_worst_sun(m2/kW)  load as % of flux
+   250      188.3           5.311             6.342          16.2
+   275      275.7           3.628             4.081          11.1
+   300      390.4           2.561             2.779           7.8
+   320      505.4           1.979             2.106           6.1
+   350      723.3           1.383             1.444           4.2
+   375      953.1           1.049             1.084           3.2
+   400     1233.9           0.810             0.831           2.5
+
+== 4. Heat-pump case: lift a load at T_l to a hotter radiator T_r, cold sink (A) f = fraction of Carnot COP
+   COP = f T_l/(T_r - T_l); heat rejected per kW of load = 1 + 1/COP; compressor work = 1/COP kW per kW of load
+   T_l = 275.0 K; baseline: reject directly at 300.0 K
+   baseline area at 300.0 K: 2.561 m2 per kW
+   T_r=  320 K f=0.38: COP  2.32, Q_rej  1.43 kW, area 2.831 m2 (saved -0.269 m2 vs 300 K), compressor  430.6 W -> array area  1.88 /  1.44 /  1.04 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  320 K f=0.50: COP  3.06, Q_rej  1.33 kW, area 2.626 m2 (saved -0.065 m2 vs 300 K), compressor  327.3 W -> array area  1.43 /  1.09 /  0.79 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  320 K f=0.60: COP  3.67, Q_rej  1.27 kW, area 2.518 m2 (saved +0.043 m2 vs 300 K), compressor  272.7 W -> array area  1.19 /  0.91 /  0.66 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  360 K f=0.38: COP  1.23, Q_rej  1.81 kW, area 2.240 m2 (saved +0.321 m2 vs 300 K), compressor  813.4 W -> array area  3.55 /  2.71 /  1.96 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  360 K f=0.50: COP  1.62, Q_rej  1.62 kW, area 1.999 m2 (saved +0.563 m2 vs 300 K), compressor  618.2 W -> array area  2.70 /  2.06 /  1.49 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  360 K f=0.60: COP  1.94, Q_rej  1.52 kW, area 1.872 m2 (saved +0.690 m2 vs 300 K), compressor  515.2 W -> array area  2.25 /  1.72 /  1.24 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  400 K f=0.38: COP  0.84, Q_rej  2.20 kW, area 1.780 m2 (saved +0.782 m2 vs 300 K), compressor 1196.2 W -> array area  5.22 /  3.99 /  2.88 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  400 K f=0.50: COP  1.10, Q_rej  1.91 kW, area 1.547 m2 (saved +1.014 m2 vs 300 K), compressor  909.1 W -> array area  3.97 /  3.03 /  2.19 m2 at 229.2 / 300 / 416 W/m2
+   T_r=  400 K f=0.60: COP  1.32, Q_rej  1.76 kW, area 1.424 m2 (saved +1.137 m2 vs 300 K), compressor  757.6 W -> array area  3.31 /  2.53 /  1.82 m2 at 229.2 / 300 / 416 W/m2
+
+== 5. Stored energy to carry 1 kW through the longest eclipse events found (lagrange_eclipse.py)
+  longest total (umbral) event, 164 min = 2.733 h -> 2.733 kWh per kW
+     PCM, system level, 48.8 kJ/kg (13.6 Wh/kg) [sibling E1]         13.6 Wh/kg ->   201.6 kg per kW
+     n-hexadecane, 235 kJ/kg before packaging [sibling]              65.3 Wh/kg ->    41.9 kg per kW
+     ice melt, 333.44 kJ/kg before tank [sibling]                    92.6 Wh/kg ->    29.5 kg per kW
+     LiCl absorber concept, 800 kJ/kg [sibling]                     222.2 Wh/kg ->    12.3 kg per kW
+     Li-ion cell, 182 Wh/kg low [sibling robot_body S33]            182.0 Wh/kg ->    15.0 kg per kW
+     Li-ion cell, 264 Wh/kg high [sibling robot_body S33]           264.0 Wh/kg ->    10.4 kg per kW
+  longest any-obscuration event, 288 min = 4.800 h -> 4.800 kWh per kW
+     PCM, system level, 48.8 kJ/kg (13.6 Wh/kg) [sibling E1]         13.6 Wh/kg ->   354.1 kg per kW
+     n-hexadecane, 235 kJ/kg before packaging [sibling]              65.3 Wh/kg ->    73.5 kg per kW
+     ice melt, 333.44 kJ/kg before tank [sibling]                    92.6 Wh/kg ->    51.8 kg per kW
+     LiCl absorber concept, 800 kJ/kg [sibling]                     222.2 Wh/kg ->    21.6 kg per kW
+     Li-ion cell, 182 Wh/kg low [sibling robot_body S33]            182.0 Wh/kg ->    26.4 kg per kW
+     Li-ion cell, 264 Wh/kg high [sibling robot_body S33]           264.0 Wh/kg ->    18.2 kg per kW
+
+== 6. Dark time and cycle count against the ISS orbit
+   ISS (sibling: about 36 min of darkness in about 93 min): dark fraction 38.7 %; 5,655 dark periods per year (365.25 x 1440 / 93)
+   (L4/L5 figures are read from lagrange_eclipse.py output in section 4 of the calculation file.)
+
+== 7. Heat loads from the Earth and the Moon at Earth-Moon L4/L5 (distance 384,400 km to each), against the Sun
+  Earth thermal exitance = sigma x 254.0^4 = 236.0 W/m2; geometric factor (R/d)^2 = (6378.137/384,400)^2 = 2.7531e-04
+  Earth thermal irradiance at the station (surface facing Earth) = 0.0650 W/m2 = 0.0048 % of the Sun
+  Earth reflected sunlight, upper bound = Bond albedo x S x (R/d)^2 = 0.294 x 1361.0 x 2.7531e-04 = 0.1102 W/m2 = 0.0081 % of the Sun
+  Moon reflected sunlight, upper bound = 0.12 x 1361.0 x (1737.4/384,400)^2 = 0.00334 W/m2
+  Moon thermal emission, bound at an ASSUMED 400 K everywhere = sigma x 400^4 x 2.0428e-05 = 0.0297 W/m2
+  Conclusion: Earth and Moon together add well under 0.3 W/m2 against 1,361 W/m2 from the Sun; the sink is deep space plus the Sun.

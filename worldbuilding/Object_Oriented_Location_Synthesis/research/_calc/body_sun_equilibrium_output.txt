@@ -1,0 +1,13 @@
+Solar array area for the same electric power, relative to Earth's distance (same cell efficiency): S_earth / S_body
+  Earth/Moon (1 AU)  S =  1361.00 W/m2  area factor   1.00 x
+  Mars               S =   586.20 W/m2  area factor   2.32 x
+  Jupiter            S =    50.26 W/m2  area factor  27.08 x
+  Saturn             S =    14.82 W/m2  area factor  91.84 x
+
+Equilibrium temperature of an isothermal body (sink 3 K neglected): one face normal to the Sun / sphere, for alpha/eps = 1.0 and 0.25
+  Earth/Moon (1 AU)  alpha/eps 1.00: one face  393.6 K, sphere  278.3 K | alpha/eps 0.25: one face  278.3 K, sphere  196.8 K
+  Mars               alpha/eps 1.00: one face  318.9 K, sphere  225.5 K | alpha/eps 0.25: one face  225.5 K, sphere  159.4 K
+  Jupiter            alpha/eps 1.00: one face  172.5 K, sphere  122.0 K | alpha/eps 0.25: one face  122.0 K, sphere   86.3 K
+  Saturn             alpha/eps 1.00: one face  127.1 K, sphere   89.9 K | alpha/eps 0.25: one face   89.9 K, sphere   63.6 K
+
+Heat a sun-facing surface can collect, per m2 (alpha = 1): equals S. A radiator at 300 K (eps 0.85) radiates 390.4 W/m2, so at Saturn even a perfectly absorbing face collects only 3.8 % of what one radiator face sheds at 300 K.

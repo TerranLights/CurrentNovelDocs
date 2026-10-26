@@ -1,0 +1,6 @@
+unperturbed L4 linear frequencies (units of the Moon's mean motion): short 0.95450, long 0.29821; forcing |w_S| = 0.92520
+
+3 distinct periodic orbits (period = one synodic month, theta0 = 0) found:
+  start ring 0.05: x0=0.47432 y0=0.87434 vx0=0.01194 vy0=0.01009 | max distance from the point     6,690 km (mean     3,838) | Earth   379,678-  386,933 km | Moon   377,989-  389,815 km | max |lambda| 1.097321 -> unstable
+  start ring 0.10: x0=0.11199 y0=0.94515 vx0=-0.04940 vy0=0.16608 | max distance from the point   152,922 km (mean   100,293) | Earth   318,887-  443,680 km | Moon   284,342-  514,988 km | max |lambda| 1.000000 -> STABLE
+  start ring 0.05: x0=0.72318 y0=0.81587 vx0=0.07328 vy0=-0.20645 | max distance from the point   159,193 km (mean   103,893) | Earth   316,642-  445,891 km | Moon   281,459-  520,129 km | max |lambda| 1.000000 -> STABLE
