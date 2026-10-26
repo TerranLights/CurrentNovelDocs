@@ -80,8 +80,10 @@ reasoned interpretation, not asserted as settled.
   (largely Japanese, Filipino and Chinese descent, dating to 19th/20th-century plantation-era labor
   migration), and a substantial military/mainland-transplant population tied to Pearl Harbor. Any of these,
   or some combination, is a legitimate founding population for the post-2083 Republic — not yet decided here.
-- **Timing of founding/re-founding:** Presumably concurrent with or shortly after the 2083 war, matching every
-  other named Assembly-member successor state.
+- **Timing of founding/re-founding:** After the 2083 war, within the lifetime of people who had known Hawaii
+  as part of the United States. **Hawaii did not seek independence: it was made independent, unsolicited,
+  because the United States had fallen** (author, 2026-10-25, from the Gilgamesh film notes: Gil Gamesh lives
+  to see it). The exact year is open.
 - **Route/manner of arrival:** N/A in the founding-migration sense (this is existing population, not a new
   arrival) — but worth asking whether the *research/archival* population (U.R.U.K. staff, Hall of Archives
   personnel) forms a distinct founding-elite layer on top of the general population, given how central both

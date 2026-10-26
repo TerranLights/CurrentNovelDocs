@@ -21,3 +21,13 @@ EXTRA NOTES
 > 
 > 
 > 
+
+
+I would like to take a moment to direct your attention to a folder containing subtitles from a youtube video containing a lot of pointers, ideas, and wisdom that I want to make sure to implement in all of my stories across all my media:
+`/home/kuroskalacs/Documents/Doll-Fi/media/y-files/writing stories for men/source_reference/youtube videos/5 Things Men Want From Entertainment - And Aren't Getting/`
+
+I'll also make sure to download a stash of Men's Self-Improvement & Psychology books (which will eventually be located in):
+`/home/kuroskalacs/Documents/Doll-Fi/media/y-files/writing stories for men/source_reference/books/` (currently empty at the moment)
+since men are my target audience, and therefore, I want to deliver the sorts of stories that men want. Have a look. All the extracted data is located in:
+`/home/kuroskalacs/Documents/Doll-Fi/media/y-files/writing stories for men/data/`
+and not in any specific repo, since it'll apply to all my work

@@ -53,9 +53,9 @@ already partly on the record.
 - **Orbital is a later-era domain, not part of the original pre-war set** — see above. Confirmed to eventually
   exist, but only once orbital access itself exists, which postdates 2083 by decades to centuries.
 - **U.R.U.K. = Underwater Research Union: Kappa.** Off the coast of Hawaii. Pre-war. Where En.Ki.Du, the first
-  sentient robot, was created — **September 26, 2083** (per `TepenianUniverseTimeline/Timeline Eras/1 The
-  First Interwar Period/Timeline.md`; the year alone, 2083, was this project's prior level of precision). Was
-  under United States dominion at the time — predates the Sovereign Republic of Hawaii, which didn't exist yet
+  sentient robot, was created **in the half-year or so leading up to the war** (author, 2026-10-25); the war
+  itself began on September 26, 2083 (per `TepenianUniverseTimeline/Timeline Eras/1 The First Interwar
+  Period/Timeline.md`). Was under United States dominion at the time — predates the Sovereign Republic of Hawaii, which didn't exist yet
   (`nations/World-Nations-Roster.md`, author-corrected 2026-09-18).
   - **En.Ki.Du's own name is itself an acronym**, per `TepenianUniverseTimeline/Reference/World_History_Reference.md`:
     **Entelechian** (Aristotle's concept of entelechy), **Kinetic** (moves under his own power), **Duumvir**
