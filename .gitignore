@@ -58,6 +58,11 @@ Gilgamesh\ Sci-Fi\ movie/Character\ List\ _\ SparkNotes.pdf
 Gilgamesh\ Sci-Fi\ movie/summary.txt
 Gilgamesh\ Sci-Fi\ movie/Enkidu/*.jpg
 
+# Maritza's island adventure: final text (same principle as every novel's text/)
+# and the doll maker's product photos (third-party, this repo is public).
+Maritza's\ island\ adventure\ (title\ TBD)/text/
+Maritza's\ island\ adventure\ (title\ TBD)/doll/*.jpeg
+
 # InnerTepeniaGDD reference content (flattened directly into reference/, no
 # longer a git submodule) -- kept untracked since it's actively evolving in
 # its own separate repo; only reference/story-structure-definitions.md
