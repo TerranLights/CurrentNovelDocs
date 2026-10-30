@@ -131,3 +131,9 @@ __pycache__/
 *.swp
 .DS_Store
 Thumbs.db
+
+# Robot Fundamental Concepts: the books themselves live off-repo, on the
+# Home-Theater drive (Zodiac-dump/). Safety net in case one lands here anyway
+# (copyrighted; this repo is public): only the notes in this folder are tracked.
+worldbuilding/Robot_Fundamental_Concepts/Books\ -\ wishlist\ and\ triage\ log/*
+!worldbuilding/Robot_Fundamental_Concepts/Books\ -\ wishlist\ and\ triage\ log/*.md

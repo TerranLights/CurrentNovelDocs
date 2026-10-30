@@ -28,6 +28,7 @@
 | `01 - The twelve meta-categories/` | One folder per meta-category, each split into a human-understanding layer (research) and a robot-understanding layer (development). |
 | `02 - Concepts/` | Specific concepts the author names (justice, crime, trust, care, honor, duty and more), one file each. A concept can draw on several meta-categories. |
 | `03 - Beyond the twelve/` | Candidate meta-categories that don't fit inside any of the twelve. |
+| `Books - wishlist and triage log/` | The book wishlist (what to look for, and what's already on disk) and, once books arrive, the triage log. The books themselves go in the material dump, `/media/kuroskalacs/Home-Theater/Zodiac-dump/`, off the repo. |
 
 ## How the work runs
 1. **Human understanding first** (research; any hour): what established human sources say about each area.

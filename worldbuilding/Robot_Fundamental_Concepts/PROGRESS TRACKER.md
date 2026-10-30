@@ -60,6 +60,7 @@
     - A low-level topic can be anything: for example hope, joy, faith, fear, anger, justice, duty, honor (author).
     - The raw material for this is each notes file's "Topics in this area" list.
     - Symbol systems already on file: Derivation Mechanisms `Data_Reference/Symbolism/` (`Planetary_Symbols`, `Zodiac`, `Robot-Elementals`). The Platonic solids research is in the GDD's `to-be-integrated/` (`platonic-solids-symbols.md`, `-mathematics.md`, `-chemistry.md`, `-forces-and-occurrence.md`).
+  - **No South Asian works as sources.** The No Subcontinentals law covers research sources too.
   - **Body-part correspondences are out** of this project (which organs a sign rules, and the illnesses tied to them). They can't serve as meta-categories of understanding. The GDD's `Concordia_Body_Symbology.md` was only reference symbolism for telling the districts apart. The body as an area of life or behavior stays.
   - **The Hub (neutral 13th district):** the author is inclined to keep it out. There is a possible argument for tying it to **neutrality** as a phenomenon: not getting involved, not taking sides. That candidate is recorded in `03 - Beyond the twelve/Neutrality (candidate).md`.
 
@@ -72,6 +73,15 @@
 - **The named concepts.** Justice and trust are well covered (Libra, Scorpio, Pisces, Gemini); honor, crime and duty are thin outside Capricorn and Leo.
 - **Neutrality.** Sources outside astrology: the ethics of impartiality, bystander and conflict-avoidance psychology, mediation.
 - **Contradictions inside the GDD files.** Each notes file lists them under Gaps (for example, constellation sizes and some correspondences).
+
+## Books
+- **Two kinds of authority, neither ranked above the other (author, 2026-10-30):**
+  - modern scholarship (experiment, citation, empiricism, observation), which is encouraged;
+  - classic works, fiction and non-fiction, that have withstood the test of time and are worth listening to on their own.
+  - The wishlist's first section lists the classics by era, from the ancient world to the twentieth century; most are free.
+- **The wishlist:** `Books - wishlist and triage log/README.md` (2026-10-30). It covers maps of human concepts, the named concepts, the houses, each meta-category outside astrology, beyond the twelve and neutrality, and symbol dictionaries for later. It also lists what's already on disk.
+- **Material dump (where the books go):** `/media/kuroskalacs/Home-Theater/Zodiac-dump/`, on the Home-Theater drive, off the repo. Triage results go in `Books - wishlist and triage log/TRIAGE LOG.md`.
+- **Already on disk and the first thing to mine:** Clare Martin's *Mapping the Psyche* Vol. 2, on the houses.
 
 ## Suggested starting sources (PROPOSED; any order)
 - **For the astrological meaning of each area:** Clare Martin's *Mapping the Psyche* Vol. 2, on the twelve houses; Mary Ellen Snodgrass's *Signs of the Zodiac*; the GDD's existing zodiac substrate.
