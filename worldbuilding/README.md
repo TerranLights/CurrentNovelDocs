@@ -14,6 +14,7 @@ If it only makes sense in the context of one book, it belongs in that book's own
 | `extractions/` | Our own distilled analysis of source works — currently Colin Woodard's *American Nations*: the regional-culture framework, the map descriptions, and the cross-reference against this universe's own map. | **tracked** |
 | `nations/` | Per-nation reference: the world nations roster, the New North America territory definitions read from the map, the fillable nation profile template, and per-nation material-base research. | **tracked** |
 | `history/` | Events and chronology that span books — the Falkland Treaty material, the world history excerpt. | **tracked** |
+| `Robot_Fundamental_Concepts/` | The fundamental robot concepts of things (justice, crime, trust, care, honor, duty and more), worked out through twelve meta-categories of human understanding taken from the zodiac. Opened 2026-10-30; start with its `PROGRESS TRACKER.md`. | **tracked** |
 | `data/` | Bulk third-party datasets (USGS, FAOSTAT, EIA, Statistics Canada, INEGI, OEC and similar). Large, freely re-downloadable, not ours to redistribute. | *ignored* |
 | `source-books/` | Copyrighted source texts used as reference. | *ignored* |
 
