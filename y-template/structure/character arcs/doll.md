@@ -116,10 +116,6 @@
 
 				// -- // RETURN // -- //
 
-		MAGIC FLIGHT:
-
-
-
 		RESCUE FROM WITHOUT:
 
 
