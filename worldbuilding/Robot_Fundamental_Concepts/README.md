@@ -10,6 +10,10 @@
 - The twelve signs of the zodiac are treated as twelve ready-made **meta-categories of human understanding**: areas of human psychology, behavior and life.
 - For each meta-category, the work asks: **what is the fundamental robot understanding of, and approach to, this area?**
 - This is **not** a robot version of the zodiac, and **not** robot astrology. The signs are only the starting set of categories; their astrological meanings are researched as human understanding, not adopted as belief.
+- **For now, the signs are research classifiers** (author, 2026-10-30). Zodiac names as folder titles are fine at this stage. Inner Tepenia is likely the only work that will use the zodiac as its basis of reference; other works will use other series of symbols and metaphors.
+- **The final categorization comes later.** Once everything is collected:
+  - the lowest-level topics get sorted into general categories. A low-level topic can be anything: for example hope, joy, faith, fear, anger, justice, duty or honor (author, 2026-10-30);
+  - each topic gets tagged with the symbols it can be associated with, one per symbol system. For example, a topic might carry Scorpio (zodiac), Saturn (planetary symbols), Electromagnetism (Robot Elementals) and the Octahedron (Platonic solids).
 - **The twelve may not be the whole list.** The author expects there may be other meta-categories of human understanding, psychology and behavior. Candidates are collected in `03 - Beyond the twelve/`.
 - **Why the zodiac:** Concordia, the centerpiece city of the Inner Tepenia GDD, has twelve districts based on the twelve signs, plus a thirteenth, neutral district (the Hub) that has no sign.
 - **Concordia comes after.** The fundamental concepts are a universal floor, and each district is one population's variation on it. Eventually Concordia's twelve districts will be a microcosm of the robot universals and of what robot culture means. The concepts are worked out here first; Concordia is then designed around the results.

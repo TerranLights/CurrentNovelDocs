@@ -8,4 +8,6 @@ STATUS: CANDIDATE, undecided
 
 **Why it doesn't fit inside the twelve:** not yet examined.
 
+**Material so far:** `Notes - Ophiuchus and the Hub (GDD zodiac documentation).md` in this folder, on Ophiuchus and on what the zodiac documentation says that bears on neutrality.
+
 **Decision:** none yet. The author decides whether neutrality becomes a meta-category, a concept, or neither, and whether the Hub is tied to it.

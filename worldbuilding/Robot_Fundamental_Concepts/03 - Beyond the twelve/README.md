@@ -12,6 +12,9 @@ The author decides whether a candidate becomes a meta-category of its own.
 **Candidates so far:**
 - `Neutrality (candidate).md`: not getting involved, not taking sides. Possibly tied to Concordia's Hub (author, 2026-10-30).
 
+**Notes:**
+- `Notes - Ophiuchus and the Hub (GDD zodiac documentation).md` (2026-10-30): Ophiuchus as the excluded thirteenth sign, and the zodiac documentation's material bearing on neutrality.
+
 **Where to look:**
 - **Brown's *Human Universals*,** which is already on hand (see `../00 - Foundations/README.md`). The GDD's extraction notes sort his universals by topic. Checking those topics against the twelve is the most direct way to find areas they leave out.
 - **Other ways of dividing up human life and motivation** (PROPOSED leads, not yet researched): Maslow's hierarchy of needs, Schwartz's basic human values, Haidt's moral foundations and Fiske's relational models.

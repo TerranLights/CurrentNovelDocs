@@ -17,7 +17,9 @@ One folder per meta-category, in the zodiac's natural order. **The labels are pr
 | 11 | Aquarius | community and ideals | friends, groups, hopes, humanitarian ideals | `07_Aquarius` |
 | 12 | Pisces | the hidden and transcendence | the unconscious, confinement and institutions, sacrifice, compassion, transcendence | `10_Pisces` |
 
-The district folders are in `InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Megasheets/`, where the districts are numbered in their own order. The thirteenth district, the Hub (`13_Hub`), has no sign and stays outside the twelve; its possible tie to neutrality is a candidate in `../03 - Beyond the twelve/`.
+The district folders are in `InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Megasheets/`, where the districts are numbered in their own order. The thirteenth district, the Hub (`13_Hub`), has no sign and stays outside the twelve. The GDD's zodiac study pairs it with Ophiuchus, the excluded thirteenth sign. Its possible tie to neutrality is a candidate in `../03 - Beyond the twelve/`.
+
+**Across all twelve:** `00 - Cross-cutting notes (GDD zodiac documentation).md` covers how the documentation organizes the twelve as a system: elements, modalities, the six axes of opposite signs, clashing and supporting areas, decans, the planets as drives, and Jung's astrological ages.
 
 **Each folder holds:**
 - `README.md`: the meta-category, its status and its starting points;

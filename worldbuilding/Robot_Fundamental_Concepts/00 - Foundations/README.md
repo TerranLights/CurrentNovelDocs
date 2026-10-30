@@ -1,6 +1,6 @@
 # Foundations
 
-STATUS: pointers gathered 2026-10-30; none of the sources below has been read for this project yet.
+STATUS: pointers gathered 2026-10-30. The GDD's zodiac documentation has been read into notes (2026-10-30); the other sources have not been read for this project yet.
 
 The existing material this work builds on. These are **pointers, not copies**: each source stays in its own repo.
 
