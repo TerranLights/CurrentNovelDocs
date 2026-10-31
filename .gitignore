@@ -138,3 +138,7 @@ Thumbs.db
 # (copyrighted; this repo is public): only the notes in this folder are tracked.
 worldbuilding/Robot_Fundamental_Concepts/Books\ -\ wishlist\ and\ triage\ log/*
 !worldbuilding/Robot_Fundamental_Concepts/Books\ -\ wishlist\ and\ triage\ log/*.md
+
+# worldbuilding/images/: flag and logo artwork, with third-party bases, clip art
+# and stock images (this repo is public). Kept local, never committed.
+worldbuilding/images/
