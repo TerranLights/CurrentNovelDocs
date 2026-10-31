@@ -15,14 +15,13 @@ The existing material this work builds on. These are **pointers, not copies**: e
 - **A supplementary extraction:** `Reference/Hybrid-Anthro_Culture/source_reference/Brown_Supplementary_Extraction.md` (2026-10-21). It corrects the page offset the first notes use.
 
 ## Robot universals
-- **The book:** `TepenianUniverseTimeline/Reference/Robot_Universals/` (27 chapters in four parts, about 19,000 words). This is the canonical floor of robot meta-culture across the universe. It borrows Brown's method, not his content.
+- **The book:** `DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` (27 chapters in four parts, about 19,000 words). This is the canonical floor of robot meta-culture across the universe. It borrows Brown's method, not his content. The Timeline keeps a one-page summary at `TepenianUniverseTimeline/Reference/Robot_Universals_Summary.md`.
   - **Part I, ground-level fundamentals:** the Fundamental Laws of Robotics, the gel brain, build, mortality and integrity, personality, language.
   - **Part II, the differentiation method:** the cognitive imperative; reproduction and kinship without genetic relatedness; substrate and age; sexual jealousy.
   - **Part III, robot cultural universals:** kinship, clan and the mentor-mentee institution; cooperation, morality and emergent social convention; the city as the seat of identity; generational identity; religion and belief; consumption and vice; sexuality.
   - **Part IV, applying the universals:** the differentiation engine, weighing the axes, and worked examples.
 - **The Laws themselves:** `TepenianUniverseTimeline/Reference/Laws_of_Robotics.md`.
 - **The working notes behind the book:** `InnerTepeniaGDD/Neo-Races-and-Cultures/_Method/Robot_Culture_Toolkit_Status_Reference.md` and `Robot_Culture_Open_Questions_Tracker.md`.
-- **A copy in Derivation Mechanisms:** `Characters/Robot-specific/from TepenianUniverseTimeline/Robot_Universals/`.
 
 ## The zodiac research already done (for Concordia)
 - **The Zodiac Personality Substrate:** `InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` (22 files, about 145,000 words, built 2026-08-29).
@@ -30,7 +29,7 @@ The existing material this work builds on. These are **pointers, not copies**: e
   - Cross-cutting files on elements, modalities, polarity, aspect geometry, decans, rulerships and correspondences.
   - **Its focus is personality** (archetype, light and shadow, core need, conflict geometry), mined to give the districts temperament. **It is not a study of each sign's areas of life,** which is what this project needs first.
   - It binds itself with the rule that the zodiac is never in-fiction; this project keeps that rule.
-  - A copy is in Derivation Mechanisms: `Data_Reference/Symbolism/Zodiac/from InnerTepeniaGDD/`.
+  - A copy is in Derivation Mechanisms: `Data_Reference/Symbolism/Zodiac/Zodiac_Personality_Substrate/`.
 - **The corpus behind it:** eight astrology books at `InnerTepeniaGDD/to-be-integrated/books/Zodiac/` (git-ignored). Two matter most here:
   - **Clare Martin, *Mapping the Psyche* Vol. 2,** which covers the twelve houses (the areas of life). This is the natural first source for the human layer.
   - **Mary Ellen Snodgrass, *Signs of the Zodiac*** (Greenwood, 1997), a scholarly reference on each sign's history, myth and cultural associations.

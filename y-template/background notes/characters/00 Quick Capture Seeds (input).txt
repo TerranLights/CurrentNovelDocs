@@ -1,0 +1,57 @@
+[[PROJECT TITLE]]: CHARACTER INPUT (QUICK CAPTURE SEEDS)
+
+How to use this file
+- Copy the blank seed below, fill in whatever you have, and paste it into the INBOX at the bottom.
+- Short answers are fine. "TBD" and "you decide" are always valid.
+- The three fields that matter most are Name, Vision and Type. Everything else is optional.
+- When a project already has known characters, add a READY-MADE PARTIAL SEEDS section with their known facts filled in and the rest left TBD.
+- Once a seed is processed into a character file, it is cleared from this file. This is a staging area, not storage.
+
+What happens to a seed
+- It is run through the character methodology in the Derivation Mechanisms repo:
+  Characters/Character_Development_Methodology/Pipeline/
+  (00a Initial Input, 00b Clarification, then stages 01-05).
+- The result is a filled character file in this folder (background notes/characters/) and an arc file in structure/character arcs/.
+- Enneagram design law: the type is the starting point, not the result. Every field gets adapted to the character, her world and her circumstances.
+- Undercurrent (optional): a second, weaker Enneagram profile under the main type.
+  - It can be any of the other eight types, with its own wing and instinctual subtype.
+  - How strongly it shows next to the main type varies from character to character; there is no fixed ratio.
+  - It is never required, and it can be added later. Leave it blank unless one genuinely shows.
+  - Full note: Derivation Mechanisms, Characters/Enneagram/Undercurrents.md.
+- Arc structure, set by Role and Type:
+  - the lead and any foreground robot: the expanded (composite) structure
+  - major elf: the expanded structure
+  - minor elf: basic Save the Cat
+  - human, minor robot or background robot: the Harmon Story Circle
+- Building a character is derivation work, so it happens in the 05:00-14:59 window. A seed can be added any time.
+
+
+====================================================================
+BLANK SEED (copy this)
+====================================================================
+
+Name (or working ID):
+Type: Robot / Human (or the project's other Doll categories: Anthro / Elf / Alien)
+Role: lead / major / minor / background
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD
+Location (if different from origin): TBD
+Timeframe (era/date): TBD
+Language (if not English): TBD
+Relationship to the lead: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+
+====================================================================
+INBOX (paste filled seeds below, one per character, separated by ---)
+====================================================================
+
+---
