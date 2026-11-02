@@ -1,0 +1,375 @@
+STATUS: 7 of 7 surveyed
+
+# The Seven Saints in the Record
+
+This file is fact research on the historical record behind the seven existing Tepenian Saints, a companion to `Historical_Figures_Survey.md`, which holds their biographies. It records only what the sources say, and it makes no assignments of patronages, Saints' days, virtues or iconography. In Tepenia the Saints are revered culturally and historically, not religiously (see `README.md`); the "Faith and outlook" lines are real-world history about the men.
+
+### St. Robert (Robert Falcon Scott)
+- **Their own words:**
+  - "The worst has happened." Journal, January 16, 1912, on sighting Amundsen's black marker flag near the Pole (*Scott's Last Expedition*, 1913).
+  - "Great God! this is an awful place and terrible enough for us to have laboured to it without the reward of priority." Journal, January 17, 1912, at the Pole (same source).
+  - Lawrence Oates's last words, as Scott reported them: "I am just going outside and may be some time." Journal entry headed "Friday, March 16 or Saturday 17" ("Lost track of dates"). Scott's journal is the only record of the words.
+  - "We took risks, we knew we took them; things have come out against us, and therefore we have no cause for complaint." And: "Had we lived, I should have had a tale to tell of the hardihood, endurance, and courage of my companions which would have stirred the heart of every Englishman. These rough notes and our dead bodies must tell the tale." "Message to the Public," written in the tent, March 1912.
+  - "It seems a pity, but I do not think I can write more. R. Scott. For God's sake look after our people." Last journal entry, dated March 29, 1912, in pencil. "Our people" means the dead men's families.
+  - Caution on the printed text: the 1913 edition of the journals was edited before publication, and passages critical of companions were cut. Max Jones's Oxford edition (2005) prints a full list of the changes against the manuscript.
+  - No widely quoted Scott line was found to be a misattribution. One near case: the cairn note for Oates ("Hereabouts died a very gallant gentleman") was written by the 1912 search party, not by Scott.
+- **Faith and outlook:**
+  - Diana Preston's biography (*A First Rate Tragedy*, 1997) calls him "the agnostic Scott," who "suffered grave crises of doubt both about himself and about life in general," in contrast to the devout Edward Wilson.
+  - As naval custom required, he read the Church of England service to all hands every Sunday on the *Terra Nova* voyage, and attendance was compulsory. Journal, January 1911, at Cape Evans: "We all assembled on the beach and I read Divine Service, our first service at the camp and impressive in the open air."
+  - The "Message to the Public" ends its account of bad luck with "but bow to the will of Providence, determined still to do our best to the last."
+  - At the tent on November 12, 1912, the search party read the burial service over the bodies (recorded by Apsley Cherry-Garrard, *The Worst Journey in the World*, 1922). Wilson's well-worn Book of Common Prayer is in the Polar Museum, Cambridge.
+- **Graves, memorials and sites:**
+  - **The grave on the Ross Ice Shelf.** The search party left the bodies of Scott, Wilson and Bowers where they lay, covered them with the tent, built a snow cairn over it and topped it with a cross made of skis (November 12-13, 1912). Edward Atkinson left a note in a metal cylinder that begins: "November 12, 1912, Lat. 79 degrees, 50 mins. South. This cross and cairn are erected over the bodies of Captain Scott, C.V.O., R.N., Doctor E. A. Wilson, M.B. B.C., Cantab., and Lieutenant H. R. Bowers, Royal Indian Marine—a slight token to perpetuate their successful and gallant attempt to reach the Pole." The ice shelf has since carried the grave seaward. R. K. Headland (*Polar Record*, July 2011) put it under about 53 feet of ice, some 37 miles from where it was built, and expected it to reach the ice front in roughly 250 years and leave inside an iceberg.
+  - **Observation Hill cross (Antarctic Historic Site and Monument HSM 20).** A nine-foot cross of Australian jarrah wood, raised on the summit on January 22, 1913, by the expedition's last party before the ship left. It carries the names of the five dead and the last line of Tennyson's "Ulysses": "To strive, to seek, to find, and not to yield." It faces the Ross Ice Shelf, where they died. **The hill stands above Hut Point, inside the footprint of the Tepenian city of Scott.**
+  - **Discovery Hut, Hut Point (HSM 18).** Built in 1902 by his first expedition and used again by later parties. **Within the Tepenian city of Scott; canon calls Hut Point its "most sacred civic location."**
+  - **Vince's Cross, Hut Point (HSM 19).** Raised in 1904 by the *Discovery* expedition for seaman George Vince, who died in March 1902, the expedition's first death.
+  - **Terra Nova Hut, Cape Evans (HSM 16).** Built in January 1911; the base for the polar journey. The nearby cross on Wind Vane Hill (HSM 17, 1916) commemorates three men of Shackleton's Ross Sea party.
+  - **Elsewhere:** a national memorial service at St Paul's Cathedral, London, on February 14, 1913, attended by King George V. Statues of Scott by his widow, the sculptor Kathleen Scott, stand in Waterloo Place, London (1915), Christchurch, New Zealand (1917), and at Portsmouth. More than 30 monuments were raised in Britain alone.
+- **Objects:**
+  - His polar journals, recovered from the tent: British Library, London.
+  - Snowshoes, sledging goggles and his diary bag: National Maritime Museum, Greenwich. The pocket watch found with his body: Museum of Timekeeping, Upton Hall, Nottinghamshire. His sledging flag from the *Discovery* Expedition: Exeter Cathedral.
+  - About 35 pounds of geological specimens, kept on the sledge to the end, were recovered from the tent; they include *Glossopteris* fossil plants that helped show Antarctica was once joined to other southern continents.
+  - The *Discovery* (1901) survives as a museum ship at Dundee, Scotland. The *Terra Nova* sank off Greenland in 1943; her wreck was found in 2012.
+- **Accounts beyond the ordinary:**
+  - Kathleen Scott's diary, kept as letters to her husband, records a sense of foreboding on the evening of February 18, 1912 (Edgar Evans had died on February 17): "I was taken up with you all evening ... I wonder if anything special is happening to you," with a note that "something odd" happened with the household clocks between 9 and 10 p.m. On March 18, 1912, close to Oates's death, she wrote, "I woke up having had a bad dream about you," and that their son Peter, two years old, said "Daddy won't come back." She learned of his death only on February 19, 1913, aboard ship. Source: her diary, as quoted by Jonathan Gornall (*The National*, February 10, 2012).
+- **Key dates:**
+  - June 6, 1868: born at Plymouth.
+  - December 30, 1902: farthest south of about 82°17′S with Wilson and Shackleton.
+  - January 1911: lands at Cape Evans and builds the Terra Nova Hut.
+  - November 1, 1911: sets out for the Pole from Cape Evans.
+  - January 17, 1912: reaches the South Pole, about five weeks after Amundsen.
+  - February 17, 1912: Edgar Evans dies near the foot of the Beardmore Glacier.
+  - About March 16-17, 1912: Oates walks out of the tent.
+  - March 29, 1912: date of Scott's last journal entry.
+  - November 12, 1912: the search party finds the tent.
+  - February 10, 1913: news of the deaths reaches the world from Oamaru, New Zealand.
+- **How they are remembered today:**
+  - The Scott Polar Research Institute, Cambridge (founded 1920), was set up as his memorial. Its 1934 building carries the Latin inscription "Quaesivit arcana poli videt Dei" ("He sought the secrets of the Pole; he sees God's"), suggested by H. A. L. Fisher. SPRI's Polar Museum keeps much of the expedition's material.
+  - Place names include Scott Base (New Zealand, 1957), the Amundsen-Scott South Pole Station (U.S., 1956-57), the Scott Coast, and a lunar crater near the Moon's south pole.
+  - A centenary service was held at St Paul's Cathedral on March 29, 2012, the hundredth anniversary of his last entry.
+  - The New Zealand Antarctic Heritage Trust conserves the Hut Point and Cape Evans huts.
+  - **Reputation:** a national hero in Britain from 1913, made into the film *Scott of the Antarctic* (1948). Roland Huntford's *Scott and Amundsen* (1979) cast him as a "heroic bungler," and that view held for about two decades while Shackleton's reputation rose. Since 2000 the judgment has softened: Susan Solomon (*The Coldest March*, 2001) showed March 1912 was unusually cold; David Crane (2005) stressed his humanity; Karen May (2012) found his October 1911 written orders for dog teams to meet the returning party, which contradicts Huntford's account.
+- **Sources:**
+  - [Robert Falcon Scott (Wikipedia)](https://en.wikipedia.org/wiki/Robert_Falcon_Scott)
+  - [Historic Sites and Monuments in Antarctica (Wikipedia)](https://en.wikipedia.org/wiki/Historic_Sites_and_Monuments_in_Antarctica)
+  - [Observation Hill (McMurdo Station) (Wikipedia)](https://en.wikipedia.org/wiki/Observation_Hill_(McMurdo_Station))
+  - [Scott's Well-Traveled Cairn (Headland's 2011 *Polar Record* findings), Geology Writer](https://geologywriter.com/?p=757)
+  - [Diana Preston, *A First Rate Tragedy*, excerpts, Mystic Seaport Polar Reading](https://polar-reading.mysticseaport.org/?p=1536)
+  - [A century on, Scott of the Antarctic's tragic legacy still intrigues, *The National*](https://www.thenationalnews.com/lifestyle/a-century-on-scott-of-the-antarctic-s-tragic-legacy-still-intrigues-1.439667)
+  - [Scott Remembrance, St Paul's Cathedral, 2012, Scott Polar Research Institute](https://www.spri.cam.ac.uk/events/scottremembrance/)
+  - [The Scott Polar Research Institute (building and inscription), Isobel Williams](https://isobelpwilliams.com/2014/11/09/the-scott-polar-research-institute/)
+
+### St. Ernest (Ernest Henry Shackleton)
+- **Their own words:**
+  - "We have shot our bolt, and the tale is latitude 88° 23′ South." Diary, January 9, 1909, at his farthest south (*The Heart of the Antarctic*, 1909).
+  - "A live donkey is better than a dead lion, isn't it?" His only comment to his wife Emily about turning back short of the Pole, as she recorded it. Often quoted as "Better a live donkey than a dead lion"; the words are hers, from memory, not his own writing.
+  - "We had seen God in His splendours, heard the text that Nature renders. We had reached the naked soul of man." *South* (1919), chapter 10, on the crossing of South Georgia.
+  - "In the darkening twilight I saw a lone star hover, gem-like above the bay." Last diary entry, January 4, 1922, at Grytviken, hours before his death.
+  - His family motto, *Fortitudine vincimus* ("By endurance we conquer"), gave the *Endurance* her name.
+  - **Doubtful: the "Men wanted" advertisement.** "Men wanted for hazardous journey. Small wages, bitter cold, long months of complete darkness, constant danger, safe return doubtful. Honor and recognition in case of success." No original has ever been found in any newspaper, despite long searches. The earliest known printing is in Carl Hopkins Elmore's *Quit You Like Men* (Scribner, 1944), 22 years after Shackleton's death. Julian Watkins's *The 100 Greatest Advertisements* (1949; later editions to 1959) spread it and dated it to London papers of 1900, years before any Shackleton expedition. The press coverage of his 1914 expedition already brought him about 5,000 applicants, so he had no need to advertise. The Smithsonian (January 2025) calls it "probably a myth."
+  - **Secondhand: "Optimism is true moral courage."** Known only from L. D. A. Hussey's memoir *South with Shackleton* (1949), as something Shackleton said. It is not in his own writings.
+  - **Attribution varies: "Scott for scientific method, Amundsen for speed and efficiency, but when disaster strikes and all hope is gone, get down on your knees and pray for Shackleton."** Not his words. Usually credited to Sir Raymond Priestley (1956); popular sources sometimes credit Apsley Cherry-Garrard.
+- **Faith and outlook:**
+  - His father's line descends from the Quaker Shackletons of Ballitore, County Kildare, where Abraham Shackleton opened a school in 1726.
+  - In *South* he wrote: "When I look back at those days I have no doubt that Providence guided us, not only across those snowfields, but across the storm-white sea that separated Elephant Island from our landing-place on South Georgia."
+  - **The Endurance Bible.** Queen Alexandra gave the expedition a Bible inscribed: "For the crew of the Endurance from Alexandra, May 31st, 1914. May the Lord help you to do your duty & guide you through all dangers by land and sea. May you see the Works of the Lord & all His wonders in the Deep." When the ship was abandoned (October 1915) and each man was cut to two pounds of personal gear, Shackleton tore out the flyleaf with her inscription, the 23rd Psalm and a page of Job (38:29-30, "Out of whose womb came the ice?") and left the book on the ice. Seaman Thomas McLeod, from Lewis, picked it up because he believed abandoning a Bible would bring bad luck. The torn-out pages stayed with the Shackleton family.
+  - His favorite poet was Robert Browning, whose line is on his headstone (below).
+- **Graves, memorials and sites:**
+  - **Grave, Grytviken whalers' cemetery, South Georgia.** He died aboard *Quest* in King Edward Cove early on January 5, 1922. His body went as far as Montevideo, where it lay in state; his wife Emily asked that he be buried in South Georgia. The funeral was held on March 5, 1922; about a hundred whalers and sailors carried the coffin, draped in the Union Jack, from the Grytviken church. A Scottish granite headstone was unveiled in 1928 by Governor Sir Arnold Hodson. Front: "Ernest Henry Shackleton / Explorer / Born 15th February 1874 / Entered Life Eternal / 5th January 1922," with the nine-pointed star he used as a personal emblem. Back, from Browning's "The Statue and the Bust": "I hold that a man should strive to the uttermost for his life's set prize" (the South Georgia Museum prints "utmost"; Browning wrote "uttermost"). The grave faces south, toward Antarctica, rather than east (South Georgia Museum). In November 2011 the ashes of Frank Wild were buried at his right side, under a stone that reads "Frank Wild 1873-1939, Shackleton's right-hand man."
+  - **The Hope Cross.** The *Quest* crew built a stone cairn topped by a cross of timber salvaged from the whaling station on Hope Point, the headland at the entrance to King Edward Cove, in 1922, with a signed and dated message sealed in a canister inside the cairn. In 2018 the original cross was taken down for its protection and a replica put in its place. The original was unveiled at Discovery Point, Dundee, Scotland, on October 15, 2024, for the 150th anniversary of his birth.
+  - **Shackleton's Hut, Cape Royds, Ross Island (Antarctic HSM 15).** The *Nimrod* expedition's base, built in 1908, about 20 miles north of Hut Point. **On Ross Island, near the Tepenian city of Scott.**
+  - **Endurance Memorial Site, Point Wild, Elephant Island (HSM 53).** It includes a bust of Luis Pardo, captain of the *Yelcho*, which made the rescue.
+  - **The *Endurance* wreck (HSM 93).** Designated a protected site in 2019, before it was found; located by the Endurance22 expedition on March 5, 2022, at 3,008 meters in the Weddell Sea.
+  - **Elsewhere:** a statue by C. S. Jagger (1932) in a niche on the outside of the Royal Geographical Society, Kensington Gore, London.
+  - **Tepenian note:** no city carries his name; canon gives Signy the strongest claim (see the survey).
+- **Objects:**
+  - The *James Caird*, the lifeboat he sailed from Elephant Island to South Georgia: Dulwich College, London, his old school. Installed in the North Cloister in 1989; shown in the college's science building, The Laboratory, since 2015.
+  - The Endurance Bible, recovered by McLeod: he gave it to a family in Punta Arenas, Chile, with an inscription dated September 13, 1916. In 1971 their daughter passed it to a Commander Burley, who sent it to the Royal Geographical Society, London, where it remains.
+  - The original Hope Cross: Discovery Point, Dundee (since 2024).
+  - The wreck of the *Endurance*: on the Weddell Sea floor, left in place under the Antarctic Treaty.
+- **Accounts beyond the ordinary:**
+  - **The "fourth presence."** In *South* he wrote: "I know that during that long and racking march of thirty-six hours over the unnamed mountains and glaciers of South Georgia it seemed to me often that we were four, not three." He added that he said nothing to the others, but Frank Worsley later told him, "Boss, I had a curious feeling on the march that there was another person with us," and Tom Crean "confessed to the same idea." Worsley wrote in his own book *Endurance* (1931) of "the sub-conscious feeling that there were four of us, instead of three." Crean never wrote about it but told friends the same story. The Royal Scottish Geographical Society notes that Shackleton was moved to tears while dictating the passage and told his agent Leonard Tripp, "this is something I have not told you."
+  - T. S. Eliot's note to *The Waste Land* (1922) says its lines "Who is the third who walks always beside you?" were "stimulated by the account of one of the Antarctic expeditions (I think one of Shackleton's)."
+- **Key dates:**
+  - February 15, 1874: born at Kilkea, County Kildare, Ireland.
+  - December 30, 1902: farthest south with Scott and Wilson (*Discovery* Expedition).
+  - January 9, 1909: reaches 88°23′S, 97 nautical miles from the Pole, and turns back.
+  - October 27, 1915: *Endurance* abandoned in the Weddell Sea pack; she sinks on November 21, 1915.
+  - April 15, 1916: the three boats reach Elephant Island.
+  - April 24, 1916: the *James Caird* sails for South Georgia; lands at King Haakon Bay on May 10.
+  - May 19-20, 1916: crosses South Georgia with Worsley and Crean to Stromness.
+  - August 30, 1916: rescues all 22 men on Elephant Island in the *Yelcho*.
+  - January 5, 1922: dies aboard *Quest* at Grytviken; buried there on March 5, 1922.
+- **How they are remembered today:**
+  - **The toast at the grave.** Expedition-ship crews and visitors (around 10,000 a year) stop at the cemetery first, raise a toast to "The Boss," and pour the last of their whisky on the grave.
+  - The Hope Cross in Dundee; the RGS statue; the *James Caird* at Dulwich; the James Caird Society (founded 1994).
+  - In Ireland, the Shackleton Museum in Athy, County Kildare, near his birthplace, hosts the annual Shackleton Autumn School.
+  - Place names include the Shackleton Range, the Shackleton Ice Shelf and Shackleton Inlet.
+  - **Reputation:** praised at his death, then largely forgotten for decades while Scott's heroic reputation held. He was "rediscovered" late in the 20th century, helped by Caroline Alexander's *The Endurance* (1998), and became a standard model in business and leadership writing for crisis command. In 2002 he ranked eleventh in the BBC's "100 Greatest Britons" poll. The record also keeps his debts: he died owing about £40,000.
+- **Sources:**
+  - [Ernest Shackleton (Wikipedia)](https://en.wikipedia.org/wiki/Ernest_Shackleton)
+  - [Ernest Shackleton (Wikiquote, sourced and disputed quotes)](https://en.wikiquote.org/wiki/Ernest_Shackleton)
+  - [The 1944 printing of the "Men wanted" ad, American Dialect Society list](https://listserv.linguistlist.org/pipermail/ads-l/2014-April/132040.html)
+  - [Ernest Shackleton's famous job ad is probably a myth, Smithsonian Magazine](https://smithsonianmag.com/smart-news/ernest-shackletons-famous-job-ad-men-wanted-for-hazardous-journey-is-probably-a-myth-5552379/)
+  - [Sir Ernest Shackleton and T. S. Eliot's "third man," Royal Scottish Geographical Society](https://www.rsgs.org/blog/sir-ernest-shackleton-and-t-s-eliots-third-man)
+  - [The Endurance Bible, Stornoway Historical Society](https://stornowayhistoricalsociety.org.uk/endbible/)
+  - [Death of Shackleton, South Georgia Museum](https://sgmuseum.gs/chapter/death-of-shackleton/)
+  - [Headstone, Grytviken, Royal Museums Greenwich maritime memorials](https://memorials.rmg.co.uk/m2460/)
+  - [Historic Shackleton memorial cross unveiled at Discovery Point, Dundee Heritage Trust](https://www.dundeeheritagetrust.co.uk/hope-cross-unveiled/)
+  - [The James Caird today, James Caird Society](https://jamescairdsociety.com/the-james-caird-today/)
+  - [UKAHT partners with Historic England on the protection of *Endurance*](https://ukaht.org/latest-news/collaboration-with-historic-england/)
+  - [Shackleton's grave, Oceanwide Expeditions (the toast)](https://oceanwide-expeditions.com/to-do/experiences/shackleton-s-grave)
+
+### St. Roald (Roald Engelbregt Gravning Amundsen)
+- **Their own words:**
+  - "So we arrived, and were able to raise our flag at the geographical South Pole – King Håkon VII's Vidda. Thanks be to God!" Diary, in the Norwegian Polar Institute's English translation. The diary heads the entry "Friday 15 Dec."; it runs one day ahead of the calendar here (December 14, 1911, was a Thursday). The Norwegian Polar Institute matched this entry to December 14 in its centenary edition, and Amundsen's book and the record give the arrival as December 14. (Another common rendering: "God be thanked!")
+  - "So we plant you, dear flag, on the South Pole, and give the plain on which it lies the name King Haakon VII's Plateau." His words as the five men planted the flag together, as given in *The South Pole* (1912).
+  - "Victory awaits him who has everything in order — luck, people call it. Defeat is certain for him who has neglected to take the necessary precautions in time; this is called bad luck." *The South Pole* (1912, English translation by A. G. Chater).
+  - In the same book he wrote that the North Pole had drawn him since childhood, and that he now stood at the South Pole: "Can anything more topsy-turvy be imagined?" (wording varies between translations).
+  - His note left in the tent at the Pole for Scott begins: "Dear Captain Scott — As you probably are the first to reach this area after us, I will ask you to kindly forward this letter to King Haakon VII." It goes on to offer the use of anything left in the tent.
+  - The telegram Scott received in Melbourne in October 1910 is usually quoted as "Beg to inform you Fram proceeding Antarctic. Amundsen."
+  - **Doubtful: "Adventure is just bad planning."** Widely credited to him online, but not found in his books or diaries, and no source is ever given. The idea is close to a line credited to the Arctic explorer Vilhjalmur Stefansson ("An adventure is a sign of incompetence"). It is best treated as a misattribution.
+- **Faith and outlook:**
+  - Very little in the sources checked. His Pole diary entry ends "Thanks be to God!" A characterization attributed to Roland Huntford calls Amundsen "a Nature-worshipper," set against Scott the agnostic who "believed in science"; this was not verified against Huntford's book here.
+  - His outlook in the record is professional: method, preparation and Inuit-learned technique (furs, dogs, skis) over improvisation, as his "Victory awaits" passage states.
+- **Graves, memorials and sites:**
+  - **No grave.** He disappeared on June 18, 1928, with five French and Norwegian crewmen (Leif Dietrichson, René Guilbaud, Albert de Cuverville, Émile Valette, Gilbert Brazy) in the Latham 47 flying boat out of Tromsø. A torn-off float was found off the coast of Troms on August 31, 1928, and a fuel tank later that autumn (Haltenbanken). No bodies were found. A Royal Norwegian Navy search with a HUGIN underwater vehicle in August-September 2009 found nothing.
+  - **Polheim, his tent at the South Pole (Antarctic HSM 80, listed 2005 at Norway's request).** Left on December 17-18, 1911, with the Norwegian flag and the *Fram* pennant, the note for Scott, a letter for King Haakon, and spare gear. Scott's party found it on January 18, 1912. It has not been seen since. A 2011 calculation placed it about 1.8-2.5 km from the Pole, under some 17 meters of snow. It is the only site on the Antarctic heritage list with an unknown location. **It lies at or within the footprint of the Tepenian city of Amundsen Station.**
+  - **Mount Betty cairn, Queen Maud Mountains (HSM 24).** A rock cairn built on January 6, 1912, on the way back from the Pole; he left a letter and a can of paraffin in it. A plaque was mounted in 1987. A second cairn, at Scott Nunatak, was built by Kristian Prestrud's eastern party on December 3, 1911.
+  - **Framheim**, the base hut at the Bay of Whales, has not survived; that part of the Ross Ice Shelf has long since calved away.
+  - **Elsewhere:** a bronze statue by Carl L. Paulsen in Tromsø, unveiled on July 16, 1937 (his 65th birthday) by Helmer Hanssen, who stood at the Pole with him; a bust at Ny-Ålesund, Svalbard, where the *Norge* flight began; a bust at Gjoa Haven, Nunavut, Canada; memorials at his home and birthplace on December 14, 1928, the 17th anniversary of the Pole, when Norway paid national homage to him.
+  - **Tepenian note:** the record ties Amundsen to the Ross Ice Shelf, the Queen Maud Mountains and the Pole. He never visited Dronning Maud Land, where the Troll region lies.
+- **Objects:**
+  - The polar ship *Fram* and the *Gjøa* (Northwest Passage, 1903-06; returned from San Francisco in 1972): Fram Museum, Bygdøy, Oslo.
+  - His South Pole diary: National Library of Norway, Oslo; published in English as *The Roald Amundsen Diaries: The South Pole Expedition 1910-12*.
+  - His note to Scott and the letter to King Haakon were found among the effects in Scott's tent in November 1912. The letter was handed to King Haakon and Queen Maud in May 1913.
+  - Uranienborg, his house at Svartskog on the Oslo Fjord: kept as he left it in 1928; opened to visitors in 1934, formally opened by King Haakon VII on June 20, 1935, run by the Follo Museum (MiA) since 2003, protected since 2018.
+- **Accounts beyond the ordinary:** none found in the sources checked.
+- **Key dates:**
+  - July 16, 1872: born at Borge, near Fredrikstad, Norway.
+  - 1898-99: first mate of the *Belgica*, the first expedition to winter in the Antarctic.
+  - September 9, 1910: at Madeira, tells his crew he is going south, not north.
+  - January 14, 1911: *Fram* reaches the Bay of Whales; Framheim is built.
+  - October 20, 1911: leaves Framheim for the Pole with four companions.
+  - December 14, 1911: reaches the South Pole.
+  - January 25, 1912: all five back at Framheim.
+  - March 7, 1912: announces the Pole by cable from Hobart, Tasmania.
+  - May 12, 1926: flies over the North Pole in the airship *Norge*.
+  - June 18, 1928: lost over the Barents Sea while searching for Umberto Nobile's *Italia* survivors.
+- **How they are remembered today:**
+  - **Centenary at the Pole, December 14, 2011.** Norway's prime minister Jens Stoltenberg went to the Pole and unveiled an ice bust of Amundsen by the Oslo sculptor Håkon Anton Fagerås, expected to last a long time because the temperature there rarely rises above freezing.
+  - Place names include the Amundsen-Scott South Pole Station, the Amundsen Sea, the Amundsen Glacier and Amundsen Gulf (Canada).
+  - The Fram Museum and Uranienborg are the main institutions keeping his memory in Norway.
+  - **Reputation:** a national hero in Norway from 1912. In Britain he was long cast as an unsporting interloper who had hidden his plans from Scott. Roland Huntford's *Scott and Amundsen* (1979) reversed that view, presenting him as the better-prepared professional; the later softening of Huntford's verdict on Scott has not dimmed Amundsen's standing. The record also notes his late-life quarrels, including with Nobile, and his bankruptcy in the mid-1920s.
+- **Sources:**
+  - [Roald Amundsen's diary from the South Pole expedition, Norwegian Polar Institute](https://sorpolen2011.npolar.no/en/diary-amundsen/index.html)
+  - [Traces Roald Amundsen left in Antarctica, Norwegian Polar Institute](https://sorpolen2011.npolar.no/en/did-you-know/2011-11-21-traces-roald-amundsen-left-in-antarctica-can-still-be-seen.html)
+  - [Polheim (Wikipedia)](https://en.wikipedia.org/wiki/Polheim)
+  - [Latham 47 (Wikipedia)](https://en.wikipedia.org/wiki/Latham_47)
+  - [The story of Uranienborg, Follo Museum (MiA)](https://amundsen.mia.no/en/resource/uranienborgs-history/)
+  - [Roald Amundsens plass (Tromsø), Lokalhistoriewiki](https://lokalhistoriewiki.no/wiki/Roald_Amundsens_plass_(Troms%C3%B8))
+  - [Search for Amundsen ends without findings, Kongsberg Maritime (2009)](https://www.kongsberg.com/maritime/news-and-events/news-archive/2009/search-for-amundsen-ends-without-findings)
+  - [Stoltenberg at South Pole for 100th anniversary, The Local Norway](https://www.thelocal.no/20111212/stoltenberg-at-south-pole-for-100th-anniversary)
+  - [Amundsen's "Victory awaits" passage, *The South Pole*, LibriVox edition](https://librivox.org/south-pole-by-roald-amundsen-2)
+
+### St. Douglas (Douglas Mawson)
+- **Their own words:**
+  - "May God help us." Diary, December 14, 1912, after Belgrave Ninnis fell into a crevasse with the best dog team and most of the food.
+  - On hanging in a crevasse from his sledge harness, January 17, 1913, in his own account: "as the sledge stopped without coming down, I thought of Providence again giving me a chance." And: "With the feeling that Providence was helping me I made a great struggle, half getting out, then slipping back again several times, but at last just did it. Then I felt grateful to Providence." In his diary: "Never has anyone so miraculously escaped."
+  - In *The Home of the Blizzard* (1915) he recalls that, as he hung on the rope, a verse of Robert Service's "The Quitter" came to him: "Just have one more try—it's dead easy to die, / It's the keeping-on-living that's hard."
+  - In the same book he called Cape Denison "the windiest place on Earth" and wrote of gusts that "approached two hundred miles per hour" (May 24, 1912). The book's title names the place: the Home of the Blizzard.
+  - No well-known misattributed Mawson quote was found. One line around him is uncertain: when he reached the hut on February 8, 1913, the first man to meet him is said to have asked, "Which one are you?" (popularized by David Roberts, *Alone on the Ice*, 2013). The sources checked do not agree on who said it.
+- **Faith and outlook:**
+  - His own account of the solitary journey leans repeatedly on "Providence" (above), and his diary prays "May God help us" at the moment of Ninnis's loss.
+  - He married Paquita Delprat on March 31, 1914, at Holy Trinity Church of England, Balaclava, Victoria, and was buried from St Jude's Church of England, Brighton, Adelaide. The sources checked say nothing further about his personal belief.
+  - His outlook in the record is that of a scientist first: he turned down a place on Scott's *Terra Nova* expedition in 1910 because Scott showed no interest in his doing scientific research.
+- **Graves, memorials and sites:**
+  - **Grave, St Jude's Cemetery, Brighton, South Australia.** He died at home on October 14, 1958, and received a state funeral at St Jude's Church on October 17. The grave is marked by a granite boulder, with plaques, one of them from the Sprigg family recording that the boulder came from Arkaroola in the Flinders Ranges, country he had studied as a geologist.
+  - **Memorial cross for Ninnis and Mertz, Azimuth Hill, Cape Denison.** Built in November 1913 by Frank Bickerton from the timber of the radio masts, about 11 feet tall. The plaque, carved by A. J. Hodgeman, reads: "Erected to commemorate the supreme sacrifice made by Lieut. B.E.S. Ninnis, R.F. and Dr X. Mertz in the cause of science. A.A.E. 1913." The wind has blown it down many times; it was re-erected in 1931 (BANZARE), 1978 and 1997-98. The original plaque is in the Australian Antarctic Division library, Kingston, Tasmania; a replica is on the cross.
+  - **Mawson's Huts, Cape Denison.** The Main Hut and the smaller huts of the 1911-14 expedition, on the Antarctic list of Historic Sites and Monuments since 1972 and an Antarctic Specially Protected Area since 2004, conserved by the Mawson's Huts Foundation and the Australian Antarctic Division. **The cross and huts stand at the site of the Tepenian city of Denison.**
+  - **BANZARE cairns.** A rock cairn and plaques on Proclamation Island, Enderby Land, where he proclaimed British sovereignty on January 13, 1930 (HSM 3), and a cairn at Cape Bruce, Mac.Robertson Land, February 18, 1931 (HSM 5). Cape Bruce is on the same Mac.Robertson Land coast as **Mawson Station, named for him when it opened on February 13, 1954; its site is the Tepenian city of Mawson.**
+  - **Elsewhere:** the Mawson's Huts Replica Museum, Hobart, Tasmania; memorial plaques for Ninnis and Mertz in Hobart (2021).
+- **Objects:**
+  - The half-sledge he cut down to drag alone after Mertz died: South Australian Museum, Adelaide, with his minerals, field notes, photographs and specimens (the museum's Mawson Collection, shown in its Mawson Gallery).
+  - His expedition diaries and papers: South Australian Museum (Mawson Centre); his 1911-14 letters with Paquita were published as *This Everlasting Silence* (2005).
+  - The huts themselves and their contents, at Cape Denison.
+- **Accounts beyond the ordinary:**
+  - His own sense, during the solitary return, that Providence was helping him (above). Nothing like a "presence" account was found.
+  - Mertz's decline and death on January 8, 1913 (fits, delirium, peeling skin) puzzled the survivors. A later medical theory blames vitamin A poisoning from eating husky liver, which holds toxic levels of the vitamin; this was unknown at the time.
+- **Key dates:**
+  - May 5, 1882: born at Shipley, Yorkshire, England.
+  - March 10, 1908: in the first ascent of Mount Erebus (*Nimrod* Expedition).
+  - January 16, 1909: reaches the area of the South Magnetic Pole with Edgeworth David and Alistair Mackay.
+  - January 8, 1912: the Australasian Antarctic Expedition reaches Commonwealth Bay and sets up the Cape Denison base.
+  - December 14, 1912: Ninnis lost in a crevasse, about 300 miles east of base.
+  - January 8, 1913: Mertz dies; Mawson goes on alone.
+  - January 17, 1913: falls into a crevasse and climbs out by his harness rope.
+  - February 8, 1913: reaches Cape Denison hours after the *Aurora* has sailed; winters a second year.
+  - January 13, 1930: BANZARE claim at Proclamation Island.
+  - October 14, 1958: dies at Brighton, Adelaide.
+- **How they are remembered today:**
+  - Place names and institutions: Mawson Station (1954), the Mawson Coast, Mawson Peak on Heard Island, the Mawson Plateau, the Adelaide suburb of Mawson Lakes, the Mawson Laboratories at the University of Adelaide, and the Mertz and Ninnis Glaciers he named for his companions.
+  - His portrait was on the Australian $100 note from 1984 to 1996; stamps and coins marked the expedition's centenary (2011-14).
+  - The Mawson's Huts Foundation keeps up conservation at Cape Denison and runs the Hobart replica museum.
+  - **Reputation:** a national hero in Australia and a model of the scientist-explorer; his solitary survival is among the best-known stories of the heroic age. David Day's biography *Flaws in the Ice* (2013) drew a darker portrait and claimed an affair with Kathleen Scott in 1916. The historian Tom Griffiths, his great-granddaughter Emma McEwin and the adventurer Tim Jarvis have disputed that claim.
+- **Sources:**
+  - [Douglas Mawson (Wikipedia)](https://en.wikipedia.org/wiki/Douglas_Mawson)
+  - [Hanging by a thread, Mawson's Huts (Australian Antarctic Division)](https://mawsonshuts.antarctica.gov.au/cape-denison/mawsons-fatal-journey/hanging-by-a-thread/)
+  - [Memorial cross and plaque, Mawson's Huts (Australian Antarctic Division)](https://mawsonshuts.antarctica.gov.au/national-heritage/the-physical-remains/memorial-cross-and-plaque/)
+  - [Life and death in the Home of the Blizzard, *Australian Antarctic Magazine* 22 (2012)](https://www.antarctica.gov.au/magazine/issue-22-2012/exploration/life-and-death-in-the-home-of-the-blizzard)
+  - [Mawson, Sir Douglas (1882-1958), Australian Dictionary of Biography](https://adb.anu.edu.au/biography/mawson-sir-douglas-7531)
+  - [Lieutenant Belgrave Ninnis and Dr Xavier Mertz, Monument Australia](https://monumentaustralia.org.au/themes/people/exploration/display/90018-lieutenant-belgrave-ninnis-and-dr-xavier-mertz)
+  - [Historic Sites and Monuments in Antarctica (Wikipedia)](https://en.wikipedia.org/wiki/Historic_Sites_and_Monuments_in_Antarctica)
+
+### St. Richard (Richard Evelyn Byrd)
+- **Their own words:**
+  - "My calculations indicate that we have reached the vicinity of the South Pole. Flying high for survey." His radio message from the aircraft *Floyd Bennett*, November 29, 1929, as commonly reported.
+  - From *Alone* (1938), his account of the 1934 winter at Advance Base:
+    - "Here were the imponderable processes and forces of the cosmos, harmonious and soundless. Harmony, that was it!"
+    - The rhythm of the night sky was "too orderly, too harmonious, too perfect to be a product of blind chance"; "there must be purpose in the whole and that man was part of that whole and not an accidental offshoot."
+    - "For those who seek it, there is inexhaustible evidence of an all-pervading intelligence."
+    - "Half the confusion in the world comes from not knowing how little we need."
+    - "At the end only two things really matter to a man, regardless of who he is; and they are the affection and understanding of his family."
+  - His phrase for Antarctica, "the great white continent of peace," is quoted on his Wellington memorial as "a prelude to the Antarctic Treaty."
+  - **Fabricated: the "secret diary" of a 1947 flight into a hollow Earth.** A diary said to record Byrd flying "beyond the Pole" in February 1947, meeting a hidden civilization and its "Master," is a fake. It builds on claims in F. Amadeo Giannini's *Worlds Beyond the Poles* (1959) and first circulated as a mimeographed pamphlet in the 1970s. Researchers led by Dennis Crenshaw found passages copied word for word from the 1937 film *Lost Horizon*. In February 1947 Byrd was in Antarctica commanding Operation Highjump, and the Byrd Polar and Climate Research Center reports no record supporting any of it in his papers. Lines such as "that land beyond the Pole" circulate with it out of context.
+  - **Disputed claim, not a quote: the North Pole flight of May 9, 1926.** His claim to have reached the North Pole was doubted from the start; his navigation diary, found at Ohio State in 1996, shows erased sextant figures that strengthened the doubts. His South Pole flight is not disputed.
+- **Faith and outlook:**
+  - *Alone* records the closest thing to a religious statement in the sources checked: a conviction, in the darkness at Advance Base, of harmony, purpose and "an all-pervading intelligence" in the universe (above).
+  - He was a Freemason, raised in Federal Lodge No. 1, Washington, D.C. According to the Masonic library of New York, three of the four men on the 1929 South Pole flight were Masons and Masonic flags were dropped over the Pole; the Grand Lodge of New York gave him its Distinguished Achievement Medal in 1947.
+  - His family in Winchester, Virginia, was long associated with Christ Episcopal Church; the sources checked do not record his own practice.
+- **Graves, memorials and sites:**
+  - **Grave, Arlington National Cemetery, Virginia (Section 2).** He died at his Boston home on March 11, 1957, and was buried with full military honors.
+  - **Byrd bust, McMurdo Station (Antarctic HSM 54, listed 1989).** A bronze bust on a pedestal of polished Norwegian black marble, whose sides list his main achievements and the dates of his five Antarctic expeditions. Dedicated on October 25, 1965, his birthday, by Rear Admiral Fred E. Bakutis, commander of the U.S. Navy's Antarctic support force. **McMurdo stands beside Hut Point, inside or next to the Tepenian city of Scott.**
+  - **New Zealand National Memorial, summit of Mount Victoria, Wellington.** Unveiled March 11, 1962, the fifth anniversary of his death, designed by Thomas V. Johnston. Main plaque: "Richard Evelyn Byrd, Rear Admiral, U.S.N. Born 25 October 1888, Died 11 March 1957, Ambassador of goodwill—friend of New Zealand." Another plaque: "Richard Evelyn Byrd dedicated his life to peaceful progress for mankind. Outstanding in aviation and exploration; he was a scientist, a humanitarian, a champion of freedom and a great internationalist."
+  - **Little America I-V, Bay of Whales.** His bases of 1929-30, 1934-35, 1940-41 and 1946-47, and the IGY base of 1956, were all on the Ross Ice Shelf, which has since carried them to sea. The Bay of Whales itself vanished in October 1987, when iceberg B-9 broke away with the Little America V site.
+  - **Advance Base (1934).** His weather hut, buried in the Ross Ice Shelf about 123 miles south of Little America, was left in place; no surviving remains were found in the sources checked.
+  - **Byrd Station, Marie Byrd Land.** Opened by the U.S. Navy in January 1957 for the International Geophysical Year, two months before his death, and named for him; rebuilt nearby as "New Byrd" in 1960-61, closed as a year-round station in 1972, later a summer field camp. He never visited it. **Its site is the Tepenian city of Byrd.**
+  - Marie Byrd Land, the region around the Tepenian city of Byrd, carries the name he gave it in 1929, for his wife.
+- **Objects:**
+  - The Ford Trimotor *Floyd Bennett* (South Pole flight, 1929) and the Fokker *Josephine Ford* (1926 North Pole claim): The Henry Ford museum, Dearborn, Michigan.
+  - His papers, including the 1926 flight diary: Byrd Polar and Climate Research Center Archival Program, Ohio State University, Columbus.
+  - On the 1929 flight he dropped over the Pole a U.S. flag weighted with a stone from the Arlington grave of Floyd Bennett, his pilot on the 1926 Arctic flight, who had died in 1928.
+- **Accounts beyond the ordinary:**
+  - **Advance Base, 1934.** Alone from late March to August 1934, he was slowly poisoned by carbon monoxide from his stove and generator. He hid his condition in his radio messages, and his men at Little America, suspecting trouble from his halting transmissions, reached him on August 10-11, 1934. *Alone* describes both the near-death and the sense of cosmic harmony he felt there.
+  - **Modern legend.** The hollow-Earth stories above are a 20th-century myth built on his name, not a report by Byrd or anyone with him.
+- **Key dates:**
+  - October 25, 1888: born in Winchester, Virginia.
+  - May 9, 1926: claimed flight to the North Pole (disputed).
+  - January 1, 1929: Little America founded at the Bay of Whales.
+  - November 28-29, 1929: first flight over the South Pole, about 19 hours, with Bernt Balchen, Harold June and Ashley McKinley.
+  - March-August 1934: winters alone at Advance Base.
+  - 1946-47: officer in charge of Operation Highjump; flies over the Pole a second time on February 16, 1947.
+  - January 8, 1956: flies over the Pole a third time, during Operation Deep Freeze.
+  - March 11, 1957: dies in Boston.
+- **How they are remembered today:**
+  - Place names: Marie Byrd Land (his naming), Byrd Station and the Byrd Glacier.
+  - Institutions: the Byrd Polar and Climate Research Center at Ohio State University, which holds his papers.
+  - Memorials in Wellington (1962), at McMurdo (1965) and in Dunedin, New Zealand; and the U.S. Navy destroyer USS *Richard E. Byrd* (DDG-23) and supply ship USNS *Richard E. Byrd* were named for him.
+  - **Reputation:** in his lifetime a national hero with three ticker-tape parades, a Medal of Honor and promotion to rear admiral. Since his death the North Pole claim has been widely doubted, especially after 1996, and historians stress that he was as much organizer and publicist as explorer. His Antarctic work, especially the flights, aerial photography and mapping of Marie Byrd Land, is not in dispute.
+- **Sources:**
+  - [Richard E. Byrd, Encyclopaedia Britannica](https://www.britannica.com/biography/Richard-E-Byrd)
+  - [Admiral Byrd and *Alone*, The Art of Manliness (quoting *Alone*)](https://www.artofmanliness.com/character/manly-lessons/admiral-byrd-south-pole/)
+  - [New Zealand Memorial to Admiral Byrd, South Pole Station trivia](https://southpolestation.com/trivia/byrd/wellington.html)
+  - [The Byrd Memorial at McMurdo, South Pole Station trivia](https://southpolestation.com/trivia/byrd/mcm.html)
+  - [Byrd memorial, NZHistory (Ministry for Culture and Heritage)](https://nzhistory.govt.nz/media/photo/byrd-memorial)
+  - [The Masons and the Antarctica Expedition, Chancellor Robert R Livingston Masonic Library](https://nymasoniclibrary.org/the-masons-and-the-antarctica-expedition/)
+  - [Fact or fiction: the secret diary of Admiral Byrd](https://rkcolejr.blogspot.com/2020/02/fact-or-fiction-secret-diary-of-adm.html)
+  - [Little America (exploration base) (Wikipedia)](https://en.wikipedia.org/wiki/Little_America_(exploration_base))
+  - [Iceberg B-9 (Wikipedia)](https://en.wikipedia.org/wiki/Iceberg_B-9)
+  - [Historic Sites and Monuments in Antarctica (Wikipedia)](https://en.wikipedia.org/wiki/Historic_Sites_and_Monuments_in_Antarctica)
+
+### St. Carsten (Carsten Egeberg Borchgrevink)
+- **Their own words:**
+  - To the Sixth International Geographical Congress, London, 1895, after his first landing at Cape Adare, he described the cape as offering "a safe situation for houses, tents and provisions," a place where "the unbound forces of the Antarctic Circle do not display the full severity of their powers." That speech set up his own wintering expedition there.
+  - From *First on the Antarctic Continent* (1901): "We all watched the life of the penguins with the utmost interest, and I believe and hope that some of us learnt something from their habits and characteristics." On the polar winter: "The silence roars in one's ears."
+  - His public claims after the expedition included the phrase "another Klondyke," which critics took as boasting.
+  - On the 1895 landing, as quoted on the Captain Antarctica history site (the original letter was not seen): "Captain Kristensen was the first dry man who put his foot on South Victoria Continent, but a soaking wet man put his foot there before, and that man was myself." He also threatened Kristensen with legal action "if he persists in his insulting writings against me."
+  - On Scott, after the news of 1913: "He was the first in the field with a finely organised expedition and the first who did systematic work on the great south polar continent," and, in a letter of condolence to John Scott Keltie, secretary of the Royal Geographical Society, "He was a man!"
+  - **Disputed claim: "first on the continent."** On January 24, 1895, a boat from Henrik Bull's whaler *Antarctic* landed at Cape Adare. Borchgrevink, Captain Leonard Kristensen and the 17-year-old New Zealand seaman Alexander von Tunzelmann (who said he "leapt out to hold the boat steady") each have a claim to have stepped ashore first; Borchgrevink and Kristensen quarreled about it in print. The Australian Antarctic Division judges that both men "wrongly claimed to have been the first to walk on the Antarctic continent": earlier landings were probably made by sealers, the first likely by the American John Davis of the *Cecilia* at Hughes Bay in 1821. The title of Borchgrevink's book repeats the claim; it holds for the first deliberate wintering on the mainland, not for the first landing.
+- **Faith and outlook:** nothing found in the sources checked. The record shows a self-promoting, determined man who raised private money (Sir George Newnes) when the scientific establishment would not back him.
+- **Graves, memorials and sites:**
+  - **Grave, Vår Frelsers gravlund (Cemetery of Our Saviour), Oslo.** He died in Oslo on April 21, 1934, and is buried there in a family grave. (Edward "Teddy" Evans of Scott's *Terra Nova* expedition is buried in the same cemetery.)
+  - **Borchgrevink's huts, Cape Adare (Antarctic HSM 22).** Two prefabricated Norwegian pine huts, put up in February 1899: a living hut of about 25 square meters, its walls insulated with sealskins, and a store hut, now roofless. They are the first buildings on the Antarctic continent. The site is part of Antarctic Specially Protected Area No. 159 (2002) and is conserved by the New Zealand Antarctic Heritage Trust. **They stand at the site of the Tepenian city of Cape Adare.**
+  - **Nicolai Hanson's grave, Cape Adare (HSM 23).** Hanson, the expedition's zoologist, died on October 14, 1899, apparently of an intestinal disorder, the first person buried on the Antarctic continent. At his own request he was buried on the high ridge above the cape; the men spent four days blasting the grave out of the rock with dynamite. A small iron cross was driven into a boulder with a brass plate wired to it, and the grave was edged with white quartz stones. Members of Scott's Northern Party, who wintered at Cape Adare in 1911, restored it and spelled his name in white quartz pebbles. He left a wife and a daughter born after he sailed. **On the Tepenian city of Cape Adare's ground.**
+- **Objects:**
+  - The huts and their contents at Cape Adare, including small expedition-made items the Antarctic Heritage Trust has conserved, such as a paintbrush of penguin feathers.
+  - Pencil inscriptions written by the men under the bunks in the living hut, translated and studied in *Polar Record*.
+  - Geological specimens from the Antarctic mainland gathered by the expedition: Hunterian Museum, Glasgow.
+  - Hanson's natural history notes and specimens became the subject of a dispute between Borchgrevink and the Natural History Museum, London, over material that went missing.
+- **Accounts beyond the ordinary:** none found in the sources checked.
+- **Key dates:**
+  - December 1, 1864: born in Christiania (Oslo).
+  - January 24, 1895: lands at Cape Adare from the whaler *Antarctic*.
+  - August 1895: addresses the International Geographical Congress in London.
+  - February 17, 1899: the *Southern Cross* reaches Cape Adare; ten men land to winter.
+  - October 14, 1899: Nicolai Hanson dies.
+  - January 28, 1900: the ship returns to Cape Adare.
+  - February 16, 1900: sledges onto the Ross Ice Shelf to a farthest south of 78°50′S, a record at the time.
+  - 1930: receives the Royal Geographical Society's Patron's Medal.
+  - April 21, 1934: dies in Oslo.
+- **How they are remembered today:**
+  - Place names and species: the Borchgrevink Coast and Borchgrevink Glacier in Victoria Land, Borchgrevinkisen in Dronning Maud Land, and the fish *Pagothenia borchgrevinki*.
+  - Honors: Knight of the Order of St. Olav (1901), the Danish Order of the Dannebrog (1906), the Austrian Order of Franz Joseph (1911), a Norwegian state pension (1929) and the RGS Patron's Medal (1930), whose citation admitted that "justice had not been done at the time to the pioneer work of the Southern Cross expedition."
+  - Amundsen's tribute (1912): "Borchgrevink opened the way to the south and threw aside the greatest obstacle to the expeditions that followed."
+  - The Antarctic Heritage Trust calls him "the forgotten explorer" and has made the Cape Adare huts a conservation priority.
+  - **Reputation:** poorly received in Britain in 1900, opposed by Sir Clements Markham's circle, and criticized by his own physicist Louis Bernacchi as "not a good leader." His standing has risen since 1930 as historians credit the expedition with proving that people could winter on the mainland and with opening the Ross Sea route Scott and Shackleton later used.
+- **Sources:**
+  - [Carsten Borchgrevink (Wikipedia)](https://en.wikipedia.org/wiki/Carsten_Borchgrevink)
+  - [Carsten Egeberg Borchgrevink, Australian Antarctic Program](https://www.antarctica.gov.au/about-antarctica/history/people/carsten-egeberg-borchgrevink/)
+  - [The forgotten explorer and his incredible legacy, New Zealand Antarctic Heritage Trust](https://nzaht.org/the-forgotten-explorer-and-his-incredible-legacy/)
+  - [Nicolai Hanson (Wikipedia)](https://en.wikipedia.org/wiki/Nicolai_Hanson)
+  - [Cemetery of Our Saviour (Wikipedia)](https://en.wikipedia.org/wiki/Cemetery_of_Our_Saviour)
+  - [The first footprint on Antarctica, Captain Antarctica (the 1895 landing quarrel; page unreachable when checked)](https://captainantarctica.com.au/the-first-footprint-on-antarctica/)
+  - [Historic Sites and Monuments in Antarctica (Wikipedia)](https://en.wikipedia.org/wiki/Historic_Sites_and_Monuments_in_Antarctica)
+
+### St. Jules (Jules Sébastien César Dumont d'Urville)
+- **Their own words:**
+  - On naming the land, in *Voyage au pôle sud et dans l'Océanie* (vol. 10, pp. 186-87): "cette terre porterait désormais le nom de terre Adélie" ("this land would henceforth bear the name Adélie Land"), the name meant "to perpetuate the memory of my deep and everlasting gratitude to my devoted wife, who has three times found herself able to consent to a long and painful separation" (English translations vary).
+  - His record of the landing gives the time as "21 January 1840 at 9 in the evening" (see the date conflict under Key dates).
+  - From the same landing, in the account of Joseph Dubouzet, second officer of the *Zélée* (not d'Urville's words): after the flag was raised, the men "emptied a bottle of Bordeaux wine."
+  - **Popular story to treat with care: "the man who found the Venus de Milo."** A Greek farmer dug the statue up on Milos in April 1820. The young ensign d'Urville recognized its worth and alerted the French ambassador, which led to its purchase for France; he earned promotion and the Legion of Honor for it, but he did not find it.
+  - **Popular story to treat with care: "the first landing on the Antarctic continent."** His party landed on an offshore islet some 400-600 meters from the ice-covered coast, not on the mainland itself; what the record does credit to the landing is the first rock samples ever taken from the Antarctic continent ("the first ever sampled on the Antarctic continent," *Comptes Rendus Géoscience*, 2017).
+- **Faith and outlook:**
+  - Nothing found on his personal belief in the sources checked. His mother disapproved of the "atheistic teachers" and "revolutionary ideas" of the lay schools of his youth, which points to a traditional family.
+  - His outlook in the record is that of a scientist-navigator: botanist, entomologist, linguist and ethnographer, whose voyages were planned around collection and description.
+  - **A religious memorial does mark his death:** the chapel of Notre-Dame-des-Flammes ("Our Lady of the Flames") was built at Meudon in 1842 at the site of the rail disaster, in memory of the victims who died there, trapped in wooden carriages locked from the outside.
+- **Graves, memorials and sites:**
+  - **Tomb, Montparnasse Cemetery, Paris.** He, his wife Adèle and their son died on May 8, 1842, in the Meudon rail disaster on the Versailles-Paris line, France's first major railway accident (counts of the dead range from about 50 to 200). The burned remains were identified by Pierre-Marie Alexandre Dumoutier, the anatomist and phrenologist who had sailed on the *Astrolabe*. His monument, raised in 1844 to a design by the architect Simon-Claude Constant-Dufeux, is a cylindrical, obelisk-like "speaking tomb" in a mixed Egyptian, Greek, Etruscan and Roman style, once painted in colors, with reliefs of his principal voyages and inscriptions on geography, natural history and his circumnavigations. It was classified as a French historic monument on July 21, 2025. (Whether Adèle lies in the same tomb is unclear; one account suggests a Pépin family grave in Toulon.)
+  - **Débarquement Rock (Rocher du Débarquement), Dumoulin Islands, Adélie Land (Antarctic HSM 81).** The 200-meter islet where his party landed, raised the tricolor and took rock samples; he named it, and named the nearby coast Pointe Géologie. **The French Dumont d'Urville Station, opened in 1956 on Petrel Island (Pointe Géologie Archipelago) about 6 km from the landing point, is the site of the Tepenian city of Dumont d'Urville.** (Two later French sites on Petrel Island are also on the heritage list: Base Marret, HSM 47, and Prudhomme's Cross, HSM 48.)
+  - **Statue, Condé-sur-Noireau, Normandy (his birthplace).** A bronze statue was inaugurated on October 20, 1844; the German occupiers removed it in 1942, and a stone statue by Robert Paul Delandre replaced it in 1948.
+  - **Chapel of Notre-Dame-des-Flammes, Meudon (1842),** above.
+- **Objects:**
+  - The three rock specimens from Débarquement Rock, the first rocks ever sampled on the Antarctic continent (cordierite gneiss and amphibolite), deposited in 1841 at the Muséum national d'Histoire naturelle, Paris.
+  - The *Venus de Milo*: Louvre, Paris.
+  - His natural history collections (the *Coquille* voyage alone brought back some 3,000 plant species, 400 of them new, and 1,100 insect species): mainly the Muséum national d'Histoire naturelle; botanists still cite him by the abbreviation "d'Urv."
+  - Dumoutier's phrenological casts from the 1837-40 voyage: anthropological molds collection, Muséum national d'Histoire naturelle.
+  - *Voyage au pôle sud et dans l'Océanie* (1841-54): 24 volumes of text and seven of plates and maps.
+- **Accounts beyond the ordinary:** none in the sense of the brief. The identification of his burned body by the voyage's phrenologist is the account most often retold.
+- **Key dates:**
+  - May 23, 1790: born at Condé-sur-Noireau, Normandy.
+  - April 1820: on Milos, recognizes the *Venus de Milo* and secures it for France.
+  - 1826-29: commands the *Astrolabe* in the Pacific; finds relics of La Pérouse's lost expedition at Vanikoro (1828).
+  - September 1837: sails from Toulon with the *Astrolabe* and *Zélée*.
+  - January-February 1838: stopped by pack ice in the Weddell Sea; charts the tip of the Antarctic Peninsula (Joinville Island, Louis Philippe Land).
+  - January 1, 1840: sails south from Hobart.
+  - January 19-20, 1840: sights the coast of Adélie Land (sources give both dates).
+  - January 21-22, 1840: lands on Débarquement Rock. **Date conflict:** d'Urville logged "21 January 1840 at 9 in the evening," which many sources repeat (including the 2017 *Comptes Rendus Géoscience* study of the rock samples). By the corrected calendar the date was January 22, because the expedition had not adjusted for crossing the 180th meridian (Wikipedia, "Débarquement Rock"; Louis Le Breton's drawing of the scene is captioned January 22). This bears on canon's St. Jules Day, January 21, which follows d'Urville's own log.
+  - January 29, 1840: meets the U.S. Exploring Expedition's *Porpoise* off the same coast.
+  - November 1840: returns to Toulon; promoted rear admiral that year.
+  - May 8, 1842: dies with his wife and son near Meudon.
+- **How they are remembered today:**
+  - Place names: Adélie Land and the Adélie penguin (both for Adèle), the Dumont d'Urville Sea, d'Urville Island (New Zealand), D'Urville Island (Antarctica, Joinville group), Mount D'Urville (Auckland Islands).
+  - Institutions and ships: Dumont d'Urville Station (France, 1956); the Lycée Dumont d'Urville in Caen; the rue Dumont d'Urville in Paris; French naval vessels named *Dumont d'Urville*, including a 1931 sloop; the current Adélie Land supply ship *L'Astrolabe* carries the name of his ship.
+  - The French Southern and Antarctic Lands honored Adèle with a 1981 stamp; his Montparnasse tomb gained historic-monument status in 2025.
+  - **Reputation:** in his lifetime honored by scientists such as Cuvier and Arago, but often at odds with his superiors and a demanding commander whose crews suffered badly from scurvy on the Antarctic voyage. Modern biography (Edward Duyker, *Dumont d'Urville: Explorer & Polymath*, 2014) presents him as a polymath as much as a navigator. His novel *The New Zealanders* is likely the first novel written about fictional Māori characters.
+- **Sources:**
+  - [Jules Dumont d'Urville (Wikipedia)](https://en.wikipedia.org/wiki/Jules_Dumont_d%27Urville)
+  - [Débarquement Rock (Wikipedia)](https://en.wikipedia.org/wiki/D%C3%A9barquement_Rock)
+  - [First rocks sampled in Antarctica (1840): insights into the landing area and the Terre Adélie craton, *Comptes Rendus Géoscience* (2017)](https://comptes-rendus.academie-sciences.fr/geoscience/articles/en/10.1016/j.crte.2016.12.001/)
+  - [Sept monuments funéraires du cimetière du Montparnasse classés au titre des monuments historiques, French Ministry of Culture](https://www.culture.gouv.fr/fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/sept-monuments-funeraires-du-cimetiere-du-montparnasse-classes-au-titre-des-monuments-historiques)
+  - [Adèle Dumont d'Urville, Linda Hall Library, Scientist of the Day](https://www.lindahall.org/about/news/scientist-of-the-day/adelie-dumont-d-urville/)
+  - [Versailles rail accident (Wikipedia)](https://en.wikipedia.org/wiki/Versailles_rail_accident)
+  - [Chapelle Notre-Dame-des-Flammes, Mérimée heritage record, French Ministry of Culture](https://pop.culture.gouv.fr/notice/merimee/IA00129843)
+  - [Statue Dumont d'Urville, Condé-sur-Noireau, Cirkwi](https://www.cirkwi.com/fr/point-interet/4835448-statue-dumont-d-urville)
+  - [Discovery of Adelie Land (naming passage), State Library of South Australia](https://digital.collections.slsa.sa.gov.au/nodes/view/2218)
+  - [Dumont d'Urville, Jules-Sébastien-César, Dictionary of Falklands Biography](https://www.falklandsbiographies.org/biographies/dumont_durville)
