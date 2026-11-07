@@ -1,4 +1,5 @@
 ## Chapter 25 — "H-G is broken; Valerie scolds manager girl"
+## Confirmed Proofread
 
 *Source: 4 photos — `Chp-25 Pg-1 IMG_20260701_132358.jpg`, `Pg-2 IMG_20260701_132451.jpg`, `Pg-3 IMG_20260701_132722.jpg` (landscape page, labeled "cont'd from planning sheet"), `Pg-4 IMG_20260701_132950.jpg` (labeled "planning chp. 25-B", entirely blank/placeholder). This chapter pays off both the manager-girl thread from Chapter 16 and the H-G damage from Chapter 24. A red divider on page 1 reads "MERGE UP TO 24" (twice) — this is the other half of the "MERGE INIT CHP 25(A)" note at the end of Chapter 24, confirming the two chapters share a merge boundary the same way 14/15 and 30/31 do. Heavy red-ink renumbering appears throughout — I've kept the original pencil stanza numbers below rather than guess at the intended final numbering.*
 
@@ -9,24 +10,24 @@
 | 1 | Wakes up in the morning; cold last night | They woke up in the morning; it's still raining from last night | C kisses V; they get up & exit the room | All 3 reconvene; M: freezing last night |
 | 2 | C: DIY fireplace; V moving laboredly; M: "Fuck!" | C recommends building a DIY fireplace; M steps away to the main area | C looks back to see V moving slowly & laboredly | In a moment of stillness, M: "Fuck." from the main area |
 | 3 | H-G is broken; V tries to explain | C&V rush in to find M leaning w/ both hands on the table; rain leaking through the roof | Rain from the roof falling onto the H-G, further damaging it; M: what happened | M: "what happened?"; V: "it was on the ground → didn't want it getting dirty" |
-| 4 | M understands; forgives V; still devastated & upset | M pinches between his eyes; his grip on the table loosens | M: "appreciate you trying to help, really do"; M now looks detached and semi-defeated | M picks up and takes the H-G & puts it next to the front door |
-| 5 | V {E-1} perfectionist, find a better one; M: hard to find | V: {E-1: perfectionistic} → will replace it w/ a better one! | M: any replacement will take months, better or not | M: not sure V realizes just how hard H-Gs are to actually get |
-| 6 | V: ??; M: few makers; no one left in Cascadia | V doesn't understand; M explains there are very few manufacturers | 2 → Colorado, 1 → Prairie F[ederation]; used to be 1 in Cascadia | V: "..." → M: he moved to Midwest land w/ his wife (C: "Michael's gone?") no one left |
-| 7 | V has idea?; gulps down siligel → "I'll be back!" | V becomes excited, jumps up: "I have an idea!" → M: ? | V gulps down a handful of siligel, takes her bag & pockets money; M: "{{{illegible}}} back!" | C: "there you go-ge{{{illegible}}}"; V merrily skips out the door → "don't wait up!" |
+| 4 | M understands; forgives V; still detached & upset | M pinches between his eyes; his grip on the table loosens | M: "appreciate you trying to help, really do"; M now looks detached and semi-defeated | M picks up and takes the H-G & puts it near the front door |
+| 5 | V {(E)-1} perfectionist, find a better one; M: hard to find | V: {-1: perfectionistic} → will replace it w/ a better one! | M: any replacement will take months, better or not | M: not sure V realizes just how hard H-Gs are to actually get |
+| 6 | V: ??; M: few makers; no one left in Cascadia | V doesn't understand; M explains there are very few manufacturers | 2 → Colorado, 1 → Prairie F[ederation]; used to be 1 in Cascadia | V: "!!" → M: he moved to Midwestland w/ his wife (C: "Michael's gone?") no one left |
+| 7 | V has idea; ?; gulps down siligel → "I'll be back!" | V becomes excited, jumps up: "I have an idea!" → M: ? | V gulps down a handful of siligel, takes her bag & pockets more; V: "I'll be back!" | C: "where you goin'?"; V merrily skips out the door → "don't wait up!" |
 | — | *** red divider: "MERGE UP TO 24" *** | | | |
-| 8 | V tries the art supply store; manager girl is a bitch | V rushes & enters the art supply store | A mother & her kid enters behind V & walks past her as she looks around | V spots manager girl; waves; manager girl looks (cold) but doesn't respond |
+| 8 | V tries the art supply store; manager girl is a bitch | V rushes & enters the art supply store | A mother & her kid enter behind V & walks past her as she looks around | V spots manager girl; waves; manager girl looks (cold) but doesn't respond |
 
 ### Page 2
 
 | stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
 |---|---|---|---|---|
-| 9 | V asks manager girl [about] store $$; manager is bitchy; V is confused | V approaches the desk, asking manager girl about store credit | As the kid makes a ruckus, the mother: "you know what, we're going home" | Manager girl — not helping; V: "is something wrong?" |
-| 10 | V: C's arm; puts 2+2 | A mother w/ her children brushes past V; "daddy won't be happy"; V stops and thinks | [Manager girl] extends her arm out, pulls it back, x2 | V puts 2+2: "it was you..." |
-| 11 | V goes for the nuclear option on manager girl | V: "you tried to take him from me" | V goes for the nuclear option (cf. Audrey) | V proceeds to get kicked out |
-| 12 | V searches, passes the art supply store → now a competitor | V leaves the store after being banned; she heads off and looks for an alternative | While searching, she notices that store that'd previously been empty | They appear to now be a competitor of some kind; she enters |
-| 13 | Home & hardware; tools, supplies; V can't make sense — looks for books | It's a home-and-hardware store; these are useful tools and things | Nothing looks right and she can't make sense of any of it | Goes to talk to the cashier; clerk boy is surprised upon noticing she's a robot |
-| 14 | Finds the "Book of Shapes"; goes to talk to somebody | V asks if clerk boy can show her where → he says no; V: "why not?" → [uhh?] → look over here | She goes to look at books; searching through the books, she finds "Book of Shapes" | Rings her up for the book as she lays it; V asks about store credit |
-| 15 | V throws all remaining $$ into store credit; [goes?] back to M | V throws all the rest of her money into store credit under M's name | She collects the proof of membership in the form of a gift | Happy, she leaves; she goes to look at books |
+| 9 | V asks manager girl [about] store $$; manager is bitchy; V is confused | [¶2] V approaches the desk, asking manager girl about store credit | [¶2] As the kid makes a ruckus, the mother: "you know what, we're going home" | [¶2] Manager girl — not helping; V: "is something wrong?" |
+| 10 | V: C's arm; puts 2+2 | [¶2] The mother w/ her children brushes past V; "daddy won't be happy"; V stops and thinks | [¶3] V extends her arm out, pulls it back, x2 | [¶3] V puts 2+2: "it was you..." |
+| 11 | V goes for the nuclear option on manager girl | [¶3] V: "you tried to take him from me" | [¶3] V goes for the nuclear option (cf. Audrey) | [¶3] V proceeds to get kicked out |
+| 12 | V searches, passes : art supply store → now a competitor | V leaves the store after being banned; she heads off and looks for an alternative | While searching, she notices that store that'd previously been empty | They appear to now be a competitor of some kind; she enters |
+| 13 | Home & hardware; tools, supplies; V can't make sense → [looks for] books | It's a home-and-hardware store; these are useful tools and things | Nothing looks right and she can't make sense of any of it | Goes to talk to the cashier; clerk boy is surprised upon noticing she's a robot |
+| 14 | Finds the "Book of Shapes"; goes to talk to somebody | V asks if clerk boy can show her where → he says no; V: "why not?" → uhh? → look over there | She goes to look at books; searching through the books, she finds "Book of Shapes" | Rings her up for the book as she buys it; V asks about store credit |
+| 15 | V throws all remaining $$ into store credit; takes back to M | V throws all the rest of her money into store credit under M's name | She collects the proof of membership in the form of a gift | Happy, she leaves; {{{she goes to look at books}}} |
 | — | *** scene break *** | | | |
 | 16 | Arrives; gives book & mb. card to M as gift | V arrives home, holding items (book & card) in hand | Runs up to M w/ items over her chest | Presents them to him; he is surprised and accepts |
 
@@ -50,7 +51,7 @@
 *This looks like an unwritten scene meant to slot between stanzas 7 and 8 of this chapter — flagging for you rather than inventing content.*
 
 Appended additional notes:
-- 
+- The notation "[¶n]" marks what "adjusted" stanza something will be a part of. This is a way I came up with to "compress" data in the outlines (which, on physical paper, I designated by drawing "bubbles" around the particular relevant stanza-sections)
 - 
 - 
 - 
