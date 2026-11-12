@@ -252,6 +252,14 @@ direction of the idea is therefore reversed: cylinders do not enable early truck
 - Unresolved: whether the solar wind's iron-to-hydrogen ratio is enriched over the photosphere (changes section 2's areas by a factor
   of 1.6 to 2.3 at most); the in-orbit boil-off rate of any cryogen; a Mercury cargo-fleet study (none found).
 
+- ⚠️ Versions differ (video note, 2026-11-12): §7's line that gas-giant mining is studied only at the ice giants and only for fusion
+  fuel records what the sources studied. A popular-science video (Isaac Arthur, "Floating Cities Above Gas Giants") gives a second reason
+  to work Jupiter and Saturn: bulk hydrogen, helium and nitrogen as propellant, shielding, water and plant feedstock, with fusion fuel a
+  late bonus. It also says deuterium is not scarce (oceans hold about 4.6 x 10^13 t), which agrees with GDD `Fusion_F2` §5; tritium
+  stays scarce and fusion stays unproven. Detail, arithmetic and the verdict per earlier statement:
+  `gas_giant_cities_and_deuterium_2026-11-12.md` (Derivation Mechanisms repo, OOLSD `research/`). Export cost out of the giants' wells is
+  not established.
+
 ## 10. Candidate handwaves raised by the synthesis
 
 Flagged for the developer; none is accepted. (The five source files' own candidate handwaves are entered in
@@ -273,4 +281,7 @@ Flagged for the developer; none is accepted. (The five source files' own candida
 - A cycler-versus-direct mass budget on equal assumptions ([CY] 8).
 - Solar-wind Fe/H enrichment (arXiv 2411.18984 surfaced, not read).
 - Human-shaped machine production rate and the bill of materials by mass and element (not found).
+- Gas-giant hydrogen, helium and nitrogen as bulk exports (video claim, unchecked): escape and export velocities from Jupiter and
+  Saturn, what a skyhook, orbital ring or mass driver must do, and the delivered cost against the other hydrogen sources in
+  `oxygen_and_hydrogen_supply_for_mars_water.md`. See `gas_giant_cities_and_deuterium_2026-11-12.md`.
 - **Next step, not yet taken:** compare this with the existing interplanetary timeline and propose adjustments to the developer.
