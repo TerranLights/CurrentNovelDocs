@@ -29,19 +29,19 @@
 | 11 | Aquarius: community and ideals | GDD zodiac notes done | not started |
 | 12 | Pisces: the hidden and transcendence | GDD zodiac notes done | not started |
 
-| Concept | Status |
-|---|---|
-| justice | not started |
-| crime | not started |
-| trust | not started |
-| care | not started |
-| honor | not started |
-| duty | not started |
-| hope | not started |
-| joy | not started |
-| faith | not started |
-| fear | not started |
-| anger | not started |
+| Concept | Home sign (2026-11-02) | Status |
+|---|---|---|
+| justice | Libra | not started |
+| crime | Pisces | not started |
+| trust | Scorpio | not started |
+| care | Cancer | not started |
+| honor | Leo | not started |
+| duty | Capricorn | not started |
+| hope | Aquarius | not started |
+| joy | Leo | not started |
+| faith | Sagittarius | not started |
+| fear | Pisces | not started |
+| anger | Aries | not started |
 
 **Beyond the twelve:** one candidate, neutrality (from the author), undecided. Notes on Ophiuchus and the Hub done.
 
@@ -63,6 +63,11 @@
   - **No South Asian works as sources.** The No Subcontinentals law covers research sources too.
   - **Body-part correspondences are out** of this project (which organs a sign rules, and the illnesses tied to them). They can't serve as meta-categories of understanding. The GDD's `Concordia_Body_Symbology.md` was only reference symbolism for telling the districts apart. The body as an area of life or behavior stays.
   - **The Hub (neutral 13th district):** the author is inclined to keep it out. There is a possible argument for tying it to **neutrality** as a phenomenon: not getting involved, not taking sides. That candidate is recorded in `03 - Beyond the twelve/Neutrality (candidate).md`.
+- **2026-11-02:**
+  - **The hierarchy:** the twelve signs are the **top-level categories** (the meta-categories). The concepts are **subcategories** under them: each sign's concept table, with the ten most central listed in the concept index. The named concepts are subcategories like any other, not a tier of their own.
+  - **The named concepts are examples of subcategories to look for,** not assignments to the signs. Each one (justice, crime, trust, care, honor, duty, hope, joy, faith, fear, anger, and any later ones) **goes under the single sign it most naturally associates with.**
+  - **The placements** (proposed from the notes, accepted by the author): justice → Libra; duty → Capricorn; care → Cancer; trust → Scorpio; honor and joy → Leo; anger → Aries; faith → Sagittarius; hope → Aquarius; fear and crime → Pisces. Fear and crime were close calls (the notes are thin); the runners-up were Scorpio or Cancer for fear, and Scorpio for crime.
+  - **What "goes there" means:** the home sign is where the concept is worked out, and its concept file is created in that sign's folder. The other signs keep their entries for the concept in their tables, as supporting research (for example, how Scorpio's material treats justice).
 
 ## Open questions for the author
 1. **The other correspondences.** The notes still list each sign's colors, stones, metals, plants, tarot card and chakra. By the same test as the body parts, they probably can't serve as meta-categories either. Keep or remove?

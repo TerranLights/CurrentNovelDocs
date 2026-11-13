@@ -26,7 +26,7 @@
 | `PROGRESS TRACKER.md` | Status of every meta-category and concept, decisions made, and open questions for the author. **Read first when resuming.** |
 | `00 - Foundations/` | The existing material this work builds on: Brown's *Human Universals*, the Robot Universals, the zodiac research already done for Concordia, and related canon. Pointers, not copies. |
 | `01 - The twelve meta-categories/` | One folder per meta-category, each split into a human-understanding layer (research) and a robot-understanding layer (development). |
-| `02 - Concepts/` | Specific concepts the author names (justice, crime, trust, care, honor, duty and more), one file each. A concept can draw on several meta-categories. |
+| `02 - Concepts/` | The cross-sign concept index and the list of concepts the author names (justice, crime, trust, care, honor, duty and more). Each concept has one home sign, and its file goes in that sign's folder. |
 | `03 - Beyond the twelve/` | Candidate meta-categories that don't fit inside any of the twelve. |
 | `Books - wishlist and triage log/` | The book wishlist (what to look for, and what's already on disk) and, once books arrive, the triage log. The books themselves go in the material dump, `/media/kuroskalacs/Home-Theater/Zodiac-dump/`, off the repo. |
 

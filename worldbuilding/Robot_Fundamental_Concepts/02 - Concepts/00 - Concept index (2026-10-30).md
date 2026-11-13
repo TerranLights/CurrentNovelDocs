@@ -11,22 +11,42 @@ STATUS: built 2026-10-30 by merging the twelve per-sign concept tables. Research
 - **Per sign:** Aries 170; Taurus 148; Gemini 183; Cancer 153; Leo 166; Virgo 195; Libra 200; Scorpio 234; Sagittarius 175; Capricorn 198; Aquarius 186; Pisces 190.
 - **How widely they spread:** 527 under 1 sign; 218 under 2 signs; 94 under 3 signs; 72 under 4 signs; 43 under 5 signs; 22 under 6 signs; 17 under 7 signs; 6 under 8 signs; 7 under 9 signs; 3 under 10 signs; 2 under 11 signs; 3 under 12 signs.
 
+## The ten most central concepts per sign
+The research agents' pick, reported 2026-10-30, of the ten concepts most central to each sign's area.
+
+| # | Sign (meta-category) | Most central concepts |
+|---|---|---|
+| 1 | Aries (self and identity) | self-assertion, identity, autonomy, initiative, beginning, courage, independence, anger, competition, recklessness |
+| 2 | Taurus (possessions and value) | possession, ownership, self-worth, values, security, stability, wealth, possessiveness, stubbornness, sensuality |
+| 3 | Gemini (communication and learning) | communication, information, learning, curiosity, connection, duality, siblings, mediation, gossip, travel |
+| 4 | Cancer (home and family) | home, family, belonging, nurture, protection, shelter, care, security, abandonment, motherhood |
+| 5 | Leo (creativity and self-expression) | creativity, self-expression, pride, recognition, being seen, dignity, humiliation, generosity, leadership, play |
+| 6 | Virgo (work and service) | work, service, usefulness, analysis, discernment, perfectionism, criticism, order, health, improvement |
+| 7 | Libra (partnership and justice) | justice, fairness, partnership, balance, impartiality, diplomacy, reciprocity, indecision, peace at any price, projection |
+| 8 | Scorpio (death and transformation) | death, rebirth, purging, betrayal, control, trust, revenge, secrecy, power, crisis |
+| 9 | Sagittarius (belief and philosophy) | faith, meaning, freedom, truth, belief, conviction, travel, honesty, education, fundamentalism |
+| 10 | Capricorn (authority and duty) | authority, duty, responsibility, discipline, ambition, hierarchy, recognition, merit, law, order |
+| 11 | Aquarius (community and ideals) | community, group, equality, freedom, reform, idealism, friendship, belonging, nonconformity, detachment |
+| 12 | Pisces (the hidden and transcendence) | compassion, empathy, self-sacrifice, dissolution, boundary, secrecy, escapism, spirituality, surrender, intuition |
+
 ## The author's named concepts
+The author named these as examples of subcategories to look for. **Each has one home sign** (author, 2026-11-02): the sign it most naturally associates with, where it is worked out. The other signs listed keep their entries as supporting research.
+
 Every notes file had a section on justice, crime, trust, care, honor and duty, so those six were looked for under every sign; their glosses say where the material is thin. Hope, joy, faith, fear and anger were not looked for specifically.
 
-| Concept | Signs |
-|---|---|
-| justice | 12: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
-| crime | 8: Aries, Taurus, Gemini, Libra, Scorpio, Sagittarius, Capricorn, Pisces |
-| trust | 12: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
-| care | 11: Aries, Taurus, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
-| honor | 11: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Pisces |
-| duty | 12: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
-| hope | 3: Taurus, Capricorn, Aquarius |
-| joy | 4: Taurus, Leo, Virgo, Pisces |
-| faith | 7: Aries, Taurus, Leo, Virgo, Sagittarius, Capricorn, Pisces |
-| fear | 7: Aries, Gemini, Cancer, Libra, Scorpio, Capricorn, Pisces |
-| anger | 9: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Aquarius |
+| Concept | Home sign | Appears under |
+|---|---|---|
+| justice | Libra | 12: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
+| crime | Pisces | 8: Aries, Taurus, Gemini, Libra, Scorpio, Sagittarius, Capricorn, Pisces |
+| trust | Scorpio | 12: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
+| care | Cancer | 11: Aries, Taurus, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
+| honor | Leo | 11: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Pisces |
+| duty | Capricorn | 12: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces |
+| hope | Aquarius | 3: Taurus, Capricorn, Aquarius |
+| joy | Leo | 4: Taurus, Leo, Virgo, Pisces |
+| faith | Sagittarius | 7: Aries, Taurus, Leo, Virgo, Sagittarius, Capricorn, Pisces |
+| fear | Pisces | 7: Aries, Gemini, Cancer, Libra, Scorpio, Capricorn, Pisces |
+| anger | Aries | 9: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Aquarius |
 
 ## Concepts under six or more signs
 duty (12), justice (12), trust (12), care (11), honor (11), honesty (10), isolation (10), loyalty (10), anger (9), courage (9), freedom (9), friendship (9), generosity (9), grudge (9), truth (9), commitment (8), crime (8), discipline (8), impatience (8), learning (8), withdrawal (8), authority (7), childhood (7), crisis (7), criticism (7), endurance (7), faith (7), fear (7), forgiveness (7), humor (7), integrity (7), jealousy (7), privacy (7), reliability (7), routine (7), security (7), solitude (7), stagnation (7), ambition (6), art (6), belonging (6), blame (6), boredom (6), caution (6), change (6), contempt (6), exploitation (6), follow-through (6), independence (6), intuition (6), leadership (6), love (6), manipulation (6), mediation (6), patience (6), pride (6), procrastination (6), self-sacrifice (6), self-worth (6), work (6).

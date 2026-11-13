@@ -15,6 +15,7 @@ If it only makes sense in the context of one book, it belongs in that book's own
 | `nations/` | Per-nation reference: the world nations roster, the New North America territory definitions read from the map, the fillable nation profile template, and per-nation material-base research. | **tracked** |
 | `history/` | Events and chronology that span books — the Falkland Treaty material, the world history excerpt. | **tracked** |
 | `Robot_Fundamental_Concepts/` | The fundamental robot concepts of things (justice, crime, trust, care, honor, duty and more), worked out through twelve meta-categories of human understanding taken from the zodiac. Opened 2026-10-30; start with its `PROGRESS TRACKER.md`. | **tracked** |
+| `Deep_Culture_Investigation/` | Results of the Deep Culture Investigation (DCI): how each culture represented in the Tepenian Federation understands each concept, with the zodiac signs as research categories. The method is in Derivation Mechanisms; the results move there once the method is settled. Opened 2026-11-02; start with its `MASTER TRACKER.md`. | **tracked** |
 | `data/` | Bulk third-party datasets (USGS, FAOSTAT, EIA, Statistics Canada, INEGI, OEC and similar). Large, freely re-downloadable, not ours to redistribute. | *ignored* |
 | `source-books/` | Copyrighted source texts used as reference. | *ignored* |
 
