@@ -1,0 +1,92 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Indonesia,North Sumatra,Province,15785800,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,West Sumatra,Province,5914300,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Riau,Province,6811200,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Jambi,Province,3768500,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,South Sumatra,Province,8928500,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Bengkulu,Province,2138000,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Lampung,Province,9522900,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Bangka Belitung Islands,Province,1550800,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26). Southern anchor of the Southeast Asian tin belt (Bangka-Belitung tin), per the material survey; connects to the mainland package's own tin-belt note."
+Indonesia,Riau Islands,Province,2213500,#C9A227,"Former 'Sumatra' bloc, now part of the unified Indonesia core (2026-09-26). Sits astride the Strait of Malacca approach; see the Maritime Mandala sphere (S1) and Overseas Chinese sphere (S2)."
+Aceh,Aceh,Province,5626000,#1F9E89,"⚠️ AUTHOR DECISION 2026-09-26, updated same day: an Autonomous Zone, not a fully independent nation — but drawn as its own hard-bordered nation on this map (own color, own border, plus a light diagonal hatch overlay marking the Autonomous Zone designation), the same visual tier as the Latin America map's Araucanía-Patagonia Autonomous Zone, rather than a sub-country treatment like Sarawak's. Author-confirmed 2026-09-26 that this hard-border/AZ combination is intentional, not an inconsistency to resolve — Aceh's autonomy is a sovereignty-adjacent status born of a real war and peace treaty (GAM insurgency 1976-2005, formal Islamic-law recognition since 1959/2005 Helsinki accord), closer to a state-in-waiting than Sarawak's fiscal/administrative devolution within Malaysia. Case rests on tier-2/religious-political grounds, NOT on tier-1 ethnic distinctness — Acehnese are ~70% of the province's population and are Austronesian like their neighbors (frameworks survey §3.1.2, §3.1.5 addendum). Carved out of the former Sumatra bloc, now part of the unified Indonesia core in every other respect."
+Indonesia,Special Capital Region of Jakarta,Province,10678000,#C9A227,"Former 'Java' bloc, now part of the unified Indonesia core (2026-09-26). ⚠️ CORRECTED 2026-09-26: no longer the national capital — Nusantara (East Kalimantan) holds that role as of the map's setting — but keeps Indonesia's economic dominance regardless (see the material survey's §9 Java-trajectory discussion). Sits inside the Java bloc's former footprint, which per the frameworks survey holds ~56% of Indonesia's population on ~7% of its land (headline 4 / §2.1) — the region's own internal Hu Line."
+Indonesia,West Java,Province,50759000,#C9A227,"Former 'Java' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Central Java,Province,38233900,#C9A227,"Former 'Java' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Special Region of Yogyakarta,Province,3781500,#C9A227,"Former 'Java' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,East Java,Province,42089300,#C9A227,"Former 'Java' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Banten,Province,12537400,#C9A227,"Former 'Java' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,West Kalimantan,Province,5766000,#C9A227,"Former 'Kalimantan' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Central Kalimantan,Province,2845000,#C9A227,"Former 'Kalimantan' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,South Kalimantan,Province,4323300,#C9A227,"Former 'Kalimantan' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,East Kalimantan,Province,4267600,#C9A227,"Former 'Kalimantan' bloc, now part of the unified Indonesia core (2026-09-26). Site of Nusantara — ⚠️ CORRECTED 2026-09-26: Indonesia's ACTUAL national capital as of this map's post-2083 setting, not merely 'planned.' The real-world transition (2022 groundbreaking, a rocky 2028 downgrade to 'political capital only,' 85% funding cut) completes well within the 60-odd years to 2083 — see the material survey's §9 for the full Nusantara/Java-trajectory detail."
+Indonesia,North Kalimantan,Province,749400,#C9A227,"Former 'Kalimantan' bloc, now part of the unified Indonesia core (2026-09-26). ⚠️ Borneo land border with Malaysia (Sabah/Sarawak) is explicitly not fully demarcated (frameworks survey §1.5) — differing colonial-era-document interpretations persist unresolved today."
+Indonesia,North Sulawesi,Province,2721400,#C9A227,"Former 'Sulawesi' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Central Sulawesi,Province,3156100,#C9A227,"Former 'Sulawesi' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,South Sulawesi,Province,9563100,#C9A227,"Former 'Sulawesi' bloc, now part of the unified Indonesia core (2026-09-26). Bugis and Makassarese homeland — historic maritime traders; the Bugis pinisi inter-island sailing/freight tradition is a still-operating commercial fleet per the material survey, not a heritage relic."
+Indonesia,Southeast Sulawesi,Province,2836700,#C9A227,"Former 'Sulawesi' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Gorontalo,Province,1242200,#C9A227,"Former 'Sulawesi' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,West Sulawesi,Province,1525300,#C9A227,"Former 'Sulawesi' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,Maluku,Province,1970600,#C9A227,"Former 'Maluku' bloc, now part of the unified Indonesia core (2026-09-26). Historic Spice Islands core (Ambon, the Lease Islands); Christian-Ambonese population from Dutch-era conversion sits alongside the Muslim sultanates' legacy — the RMS secession (1950) and the 1999-2002 sectarian conflict (~5,000 dead) both centered here (frameworks survey §3.1.4). Falls partly within Linguistic Wallacea (S3)."
+Indonesia,North Maluku,Province,1373800,#C9A227,"Former 'Maluku' bloc, now part of the unified Indonesia core (2026-09-26). Historic seat of the rival Ternate and Tidore sultanates, the two clove/nutmeg-trade hubs that carried Melaka's Islamic diaspora eastward (frameworks survey §1.3). Falls partly within Linguistic Wallacea (S3)."
+Indonesia,Bali,Province,4461300,#C9A227,"Former 'Nusa Tenggara & Bali' bloc, now part of the unified Indonesia core (2026-09-26). ~86.5% Hindu — the region's one majority-Hindu province, a real exception to the Islam/Christianity pattern elsewhere in the bloc."
+Indonesia,West Nusa Tenggara,Province,5731100,#C9A227,"Former 'Nusa Tenggara & Bali' bloc, now part of the unified Indonesia core (2026-09-26)."
+Indonesia,East Nusa Tenggara,Province,5742600,#C9A227,"Former 'Nusa Tenggara & Bali' bloc, now part of the unified Indonesia core (2026-09-26). Contains Flores, Sumba, and Indonesian (West) Timor — the core of Linguistic Wallacea's island footprint (S3): 'Minor Sundic Islands east of Lombok' per the frameworks survey's resolved 2026-09-26 finding."
+West Papua,Papua,Province,1073600,#4A6FA5,"⚠️ AUTHOR DECISION 2026-09-26: this whole bloc (all 6 current Papua-region provinces) is 'West Papua' as the frameworks survey itself uses the term — a political/civilizational label for Indonesia's entire Melanesian-populated Papua-island territory, not the single administrative province formally named 'Papua Barat' (West Papua) below. There is no separate 'Papua bloc minus West Papua' remainder; see this file's own README and the map-data package's build notes."
+West Papua,West Papua,Province,587600,#4A6FA5,"The specific administrative province formally named 'Papua Barat' — one of six provinces making up the whole West Papua bloc, not the bloc's full extent (see the Papua row above)."
+West Papua,Central Papua,Province,1492300,#4A6FA5,"Home to the Grasberg mine (~$1.94B projected revenue, 2022) — the material stake sharpening the tension between the territory's cultural case for separateness and Indonesia's material stake in keeping it (frameworks survey §3.1.3, material survey)."
+West Papua,Highland Papua,Province,1484900,#4A6FA5,"Highlands remain overwhelmingly Papuan/Melanesian even as coastal cities approach demographic parity with Indonesian-migrant-descended settlers (~50/50 territory-wide, frameworks survey §3.1.5 addendum)."
+West Papua,South Papua,Province,549700,#4A6FA5,
+West Papua,Southwest Papua,Province,636400,#4A6FA5,"Created in a second, 2022 split (from the former Papua Barat/West Papua province), alongside Central/Highland/South Papua's split from the former Papua province — together the 2022-23 reorganization that took the historic two-province Papua region to six. The frameworks survey's own §3.1.5 undercounts this as 'four provinces plus West Papua province' (five); the real current total is six, corrected here."
+Philippines,National Capital Region (NCR),Region,14001751,#E08E45,
+Philippines,Cordillera Administrative Region (CAR),Region,1808985,#E08E45,
+Philippines,Ilocos Region (I),Region,5342453,#E08E45,
+Philippines,Cagayan Valley (II),Region,3777608,#E08E45,
+Philippines,Central Luzon (III),Region,12989074,#E08E45,
+Philippines,Calabarzon (IV-A),Region,16933234,#E08E45,
+Philippines,Mimaropa,Region,3245446,#E08E45,
+Philippines,Bicol Region (V),Region,6064426,#E08E45,
+Philippines,Western Visayas (VI),Region,4861911,#E08E45,
+Philippines,Negros Island Region (NIR),Region,4904944,#E08E45,"Re-established June 2024, splitting Negros Occidental/Oriental and Siquijor out of Western and Central Visayas — a small, recent, real precedent for regional-boundary revision by the state (frameworks survey §3.2)."
+Philippines,Central Visayas (VII),Region,6640875,#E08E45,
+Philippines,Eastern Visayas (VIII),Region,4625929,#E08E45,
+Philippines,Zamboanga Peninsula (IX),Region,5089934,#E08E45,"Contains Sulu, whose historic 17th-century cession from the Sultan of Brunei (in return for Sulu's military help in a Brunei civil war) is the root of the modern Philippine claim to Sabah (frameworks survey §3.2-3.3; direction corrected 2026-09-26 — Brunei ceded to Sulu, not the reverse) — a live dispute, not resolved here. Population reconciled 2026-09-26: Executive Order No. 91 (30 July 2025) confirms Sulu's formal transfer to this region, including all municipalities/barangays; the ~1.1M difference between this region's and BARMM's population figures is accounted for by that transfer, not a data error."
+Philippines,Northern Mindanao (X),Region,5178326,#E08E45,
+Philippines,Davao Region (XI),Region,5389422,#E08E45,
+Philippines,Soccsksargen (XII),Region,4462776,#E08E45,
+Philippines,Caraga (XIII),Region,2865196,#E08E45,
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),Region,4545486,#E08E45,"AUTONOMOUS REGION, not a separate hard-bordered nation nor a sphere overlay — treated the same tier as Myanmar's ethnic states on the mainland map, and author-confirmed 2026-09-26 to stay that way (a first-order-subdivision-respecting unit that's already drawn, per frameworks survey headline 7). Composition: Basilan, Lanao del Sur, Maguindanao del Norte, Maguindanao del Sur, Tawi-Tawi, plus the independent city of Cotabato — Sulu is explicitly EXCLUDED (final Philippine Supreme Court ruling, Nov 2024; formally executed by Executive Order No. 91, 30 July 2025) and stays part of Zamboanga Peninsula above. Over 89% Muslim (2024 census) — the country's most religiously distinct region by a wide margin. Population reconciled 2026-09-26: the frameworks survey's original 5.69 million (2024) figure was the pre-exclusion (with-Sulu) count; this row's 4,545,486 is the post-exclusion figure, and the ~1.1M gap is accounted for by Sulu's population moving to the Zamboanga Peninsula row above, confirmed via EO 91."
+Malaysia,Johor,State,4186300,#2F6F8F,
+Malaysia,Kedah,State,2217500,#2F6F8F,
+Malaysia,Kelantan,State,1888500,#2F6F8F,
+Malaysia,Malacca,State,1047100,#2F6F8F,
+Malaysia,Negeri Sembilan,State,1240100,#2F6F8F,
+Malaysia,Pahang,State,1668200,#2F6F8F,
+Malaysia,Penang,State,1800400,#2F6F8F,
+Malaysia,Perak,State,2569600,#2F6F8F,
+Malaysia,Perlis,State,296800,#2F6F8F,
+Malaysia,Selangor,State,7363400,#2F6F8F,
+Malaysia,Terengganu,State,1232100,#2F6F8F,
+Malaysia,Sabah,State,3742200,#2F6F8F,"✅ SETTLED 2026-09-26: stays an ordinary Malaysian state, not promoted to Autonomous Zone status like Sarawak — its own secession-adjacent movement (e.g. STAR/Aspirasi) is real but less organized/documented than Sarawak's, and no party campaigned on secession in the 2025 Sabah state election. East Malaysia, joined the 1963 federation as a separate polity (former British North Borneo) under the Malaysia Agreement 1963 (MA63), which promised broader autonomy and revenue share than delivered — both Sabah and Sarawak receive a 5% oil royalty (corrected 2026-09-26: an earlier note here said Sarawak received 20%; that figure is what both states have been demanding, not receiving — Sarawak's separate, genuine win was a 5% state sales tax on petroleum products), a live, current grievance (frameworks survey headline 8, §3.3), not merely historical. Also the object of a historic, unresolved Philippine claim rooted in the Sultanate of Brunei's 17th-century cession of the territory to Sulu (see the Zamboanga Peninsula row; direction corrected 2026-09-26)."
+Malaysia,Sarawak,Autonomous Zone,2518100,#2F6F8F,"⚠️ AUTHOR DECISION 2026-09-26: Sarawak gains Autonomous Zone status within Malaysia (the same designation as Aceh within the Indonesian core) — Malaysia itself stays intact as one sovereign country, this is a sub-country tier, not a new top-level bloc. Reasoning: Sarawak has the more organized, documented secession-adjacent movement of the two East Malaysian states (Parti Bumi Kenyalang campaigns explicitly for independence via referendum; the Sarawak For Sarawakians petition collected 270,000 signatures, over 10% of the state's population), though the secession-minded position is an explicit minority even within that movement, and no war forced this issue the way it did for Aceh — it's played out through elections and petitions. Former independent kingdom under the Brooke dynasty; joined 1963 under MA63 on the same disputed terms as Sabah. Both states receive a 5% oil royalty; Sarawak's separate win was a 5% state sales tax on petroleum products, not a higher royalty rate (corrected 2026-09-26; see the Sabah row and frameworks survey headline 8, §3.3)."
+Malaysia,Kuala Lumpur,Federal Territory,2067500,#2F6F8F,National capital.
+Malaysia,Labuan,Federal Territory,100800,#2F6F8F,Offshore financial center.
+Malaysia,Putrajaya,Federal Territory,120300,#2F6F8F,Administrative capital.
+Brunei,Brunei-Muara,District,,#A87C2E,"Home to the capital and over 72% of Brunei's ~455,500 total population (frameworks survey §3.4); per-district population not individually sourced this pass."
+Brunei,Belait,District,,#A87C2E,Population not individually sourced this pass.
+Brunei,Temburong,District,,#A87C2E,"Population not individually sourced this pass. Geographically separated from the rest of Brunei by Malaysian (Sarawak) territory — an exclave-like arrangement worth flagging alongside Timor-Leste's Oecusse case, though not identical (Temburong connects to the rest of Brunei by water/the Sultan Haji Omar 'Ali Saifuddien Bridge, opened 2020, rather than being a true landlocked exclave)."
+Brunei,Tutong,District,,#A87C2E,Population not individually sourced this pass.
+Singapore,Singapore,City-state,4200000,#B23A48,"~3.66 million citizens + ~540,000 permanent residents = ~4.2 million residents (frameworks survey §3.5); this figure excludes non-resident foreign workers, who are commonly included in a separate, larger 'total population' figure elsewhere. No internal first-order subdivision — the whole country is one unit on this map, the only polity in this set with that status (comparable in kind, not scale, to a single federal-territory-tier unit elsewhere in this project, not to a whole nation)."
+Timor-Leste,Aileu,Municipality,,#6B4C7A,Population not sourced at municipality level this pass; national total is approximately 1.3-1.4 million.
+Timor-Leste,Ainaro,Municipality,,#6B4C7A,
+Timor-Leste,Atauro,Municipality,,#6B4C7A,⚠️ ADDED 2026-09-26: split out of Dili municipality in 2022 as its own unit; an earlier pass of this file undercounted Timor-Leste at 13 municipalities instead of 14. Atauro is an island in the strait north of Dili.
+Timor-Leste,Baucau,Municipality,,#6B4C7A,
+Timor-Leste,Bobonaro,Municipality,,#6B4C7A,
+Timor-Leste,Covalima,Municipality,,#6B4C7A,
+Timor-Leste,Dili,Municipality,,#6B4C7A,National capital.
+Timor-Leste,Ermera,Municipality,,#6B4C7A,
+Timor-Leste,Lautém,Municipality,,#6B4C7A,
+Timor-Leste,Liquiçá,Municipality,,#6B4C7A,
+Timor-Leste,Manatuto,Municipality,,#6B4C7A,
+Timor-Leste,Manufahi,Municipality,,#6B4C7A,
+Timor-Leste,Oecusse-Ambeno,Special Administrative Region,,#6B4C7A,"⚠️ EXCLAVE — sits inside Indonesian West Timor territory (East Nusa Tenggara bloc, above), separated from the rest of Timor-Leste by a strip of Indonesian land (frameworks survey §3.6). Must be drawn as a detached, non-contiguous piece of Timor-Leste, not merged with or mistaken for Indonesian territory. Indonesia's 1975 invasion began through Oecussi itself, a week before the main invasion. Type corrected 2026-09-26: formally a Special Administrative Region (RAEOA), not an ordinary Municipality, though still drawn as this project's usual first-order-subdivision unit."
+Timor-Leste,Viqueque,Municipality,,#6B4C7A,

@@ -1,0 +1,168 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Australia,Australian Capital Territory,State/Territory,,#C0532E,
+Australia,Jervis Bay Territory,State/Territory,,#C0532E,
+Australia,Lord Howe Island,State/Territory,,#C0532E,
+Australia,Macquarie Island,State/Territory,,#C0532E,
+Australia,New South Wales,State/Territory,,#C0532E,
+Australia,Northern Territory,State/Territory,,#C0532E,
+Australia,Queensland,State/Territory,,#C0532E,
+Australia,South Australia,State/Territory,,#C0532E,
+Australia,Tasmania,State/Territory,,#C0532E,
+Australia,Victoria,State/Territory,,#C0532E,
+Australia,Western Australia,State/Territory,,#C0532E,
+New Zealand,Antipodes Islands,Region,,#2E6F8E,
+New Zealand,Auckland,Region,,#2E6F8E,
+New Zealand,Auckland Islands,Region,,#2E6F8E,
+New Zealand,Bay of Plenty,Region,,#2E6F8E,
+New Zealand,Campbell Islands,Region,,#2E6F8E,
+New Zealand,Canterbury,Region,,#2E6F8E,
+New Zealand,Chatham Islands Territory,Region,,#2E6F8E,
+New Zealand,Gisborne District,Region,,#2E6F8E,
+New Zealand,Hawke's Bay,Region,,#2E6F8E,
+New Zealand,Kermadec Islands,Region,,#2E6F8E,
+New Zealand,Manawatu-Wanganui,Region,,#2E6F8E,
+New Zealand,Marlborough District,Region,,#2E6F8E,
+New Zealand,Nelson City,Region,,#2E6F8E,
+New Zealand,Northland,Region,,#2E6F8E,
+New Zealand,Otago,Region,,#2E6F8E,
+New Zealand,Southland,Region,,#2E6F8E,
+New Zealand,Taranaki,Region,,#2E6F8E,
+New Zealand,Tasman District,Region,,#2E6F8E,
+New Zealand,The Snares,Region,,#2E6F8E,
+New Zealand,Three Kings Islands,Region,,#2E6F8E,
+New Zealand,Tokelau,Region,,#2E6F8E,
+New Zealand,Waikato,Region,,#2E6F8E,
+New Zealand,Wellington,Region,,#2E6F8E,
+New Zealand,West Coast,Region,,#2E6F8E,
+Fiji,Central,Division,,#4E7D3A,
+Fiji,Eastern,Division,,#4E7D3A,
+Fiji,Northern,Division,,#4E7D3A,
+Fiji,Rotuma,Division,,#4E7D3A,
+Fiji,Western,Division,,#4E7D3A,
+Papua New Guinea,Central,Province,,#5C8A3F,
+Papua New Guinea,Chimbu,Province,,#5C8A3F,
+Papua New Guinea,East New Britain,Province,,#5C8A3F,
+Papua New Guinea,East Sepik,Province,,#5C8A3F,
+Papua New Guinea,Eastern Highlands,Province,,#5C8A3F,
+Papua New Guinea,Enga,Province,,#5C8A3F,
+Papua New Guinea,Gulf,Province,,#5C8A3F,
+Papua New Guinea,Madang,Province,,#5C8A3F,
+Papua New Guinea,Manus,Province,,#5C8A3F,
+Papua New Guinea,Milne Bay,Province,,#5C8A3F,
+Papua New Guinea,Morobe,Province,,#5C8A3F,
+Papua New Guinea,National Capital District,Province,,#5C8A3F,
+Papua New Guinea,New Ireland,Province,,#5C8A3F,
+Papua New Guinea,North Solomons,Province,,#5C8A3F,
+Papua New Guinea,Northern,Province,,#5C8A3F,
+Papua New Guinea,Sandaun,Province,,#5C8A3F,
+Papua New Guinea,Southern Highlands,Province,,#5C8A3F,
+Papua New Guinea,West New Britain,Province,,#5C8A3F,
+Papua New Guinea,Western,Province,,#5C8A3F,
+Papua New Guinea,Western Highlands,Province,,#5C8A3F,
+Solomon Islands,Capital Territory (Honiara),Province,,#6B9B4A,
+Solomon Islands,Central,Province,,#6B9B4A,
+Solomon Islands,Choiseul,Province,,#6B9B4A,
+Solomon Islands,Guadalcanal,Province,,#6B9B4A,
+Solomon Islands,Isabel,Province,,#6B9B4A,
+Solomon Islands,Makira,Province,,#6B9B4A,
+Solomon Islands,Malaita,Province,,#6B9B4A,
+Solomon Islands,Rennell and Bellona,Province,,#6B9B4A,
+Solomon Islands,Temotu,Province,,#6B9B4A,
+Solomon Islands,Western,Province,,#6B9B4A,
+Vanuatu,Malampa,Province,,#3F7D5C,
+Vanuatu,Penama,Province,,#3F7D5C,
+Vanuatu,Sanma,Province,,#3F7D5C,
+Vanuatu,Shefa,Province,,#3F7D5C,
+Vanuatu,Tafea,Province,,#3F7D5C,
+Vanuatu,Torba,Province,,#3F7D5C,
+New Caledonia,Nord,Province,,#3A8F6E,"⚠️ AUTHOR DECISION NEEDED: French external territory pre-war; France/Europe not yet built in this project. Defaulted to independent post-2083 (metropole fragmented/unreachable) — same pattern as every other remote colonial holding on this map. Flagged for author review, not asserted as final."
+New Caledonia,Sud,Province,,#3A8F6E,"⚠️ AUTHOR DECISION NEEDED: French external territory pre-war; France/Europe not yet built in this project. Defaulted to independent post-2083 (metropole fragmented/unreachable) — same pattern as every other remote colonial holding on this map. Flagged for author review, not asserted as final."
+New Caledonia,Îles Loyauté,Province,,#3A8F6E,"⚠️ AUTHOR DECISION NEEDED: French external territory pre-war; France/Europe not yet built in this project. Defaulted to independent post-2083 (metropole fragmented/unreachable) — same pattern as every other remote colonial holding on this map. Flagged for author review, not asserted as final."
+Micronesia,Chuuk,State,,#2F6F8F,
+Micronesia,Kosrae,State,,#2F6F8F,
+Micronesia,Pohnpei,State,,#2F6F8F,
+Micronesia,Yap,State,,#2F6F8F,
+Marshall Islands,Railik Chain,Chain,,#3A7FA0,
+Marshall Islands,Ratak Chain,Chain,,#3A7FA0,
+Palau,Aimeliik,State,,#4A8FAF,
+Palau,Airai,State,,#4A8FAF,
+Palau,Angaur,State,,#4A8FAF,
+Palau,Hatobohei,State,,#4A8FAF,
+Palau,Kayangel,State,,#4A8FAF,
+Palau,Koror,State,,#4A8FAF,
+Palau,Melekeok,State,,#4A8FAF,
+Palau,Ngaraard,State,,#4A8FAF,
+Palau,Ngarchelong,State,,#4A8FAF,
+Palau,Ngardmau,State,,#4A8FAF,
+Palau,Ngatpang,State,,#4A8FAF,
+Palau,Ngchesar,State,,#4A8FAF,
+Palau,Ngeremlengui,State,,#4A8FAF,
+Palau,Ngiwal,State,,#4A8FAF,
+Palau,Peleliu,State,,#4A8FAF,
+Palau,Sonsorol,State,,#4A8FAF,
+Nauru,Aiwo,District,,#5A9FBF,
+Nauru,Anabar,District,,#5A9FBF,
+Nauru,Anetan,District,,#5A9FBF,
+Nauru,Anibare,District,,#5A9FBF,
+Nauru,Baiti,District,,#5A9FBF,
+Nauru,Boe,District,,#5A9FBF,
+Nauru,Buada,District,,#5A9FBF,
+Nauru,Denigomodu,District,,#5A9FBF,
+Nauru,Ewa,District,,#5A9FBF,
+Nauru,Ijuw,District,,#5A9FBF,
+Nauru,Meneng,District,,#5A9FBF,
+Nauru,Nibok,District,,#5A9FBF,
+Nauru,Uaboe,District,,#5A9FBF,
+Nauru,Yaren,District,,#5A9FBF,
+Kiribati,Kiribati,Island Group,,#6AAFCF,
+Guam,Guam,n/a (whole country),,#7FB8C9,"⚠️ AUTHOR DECISION NEEDED, HIGHEST PRIORITY OF THE COLONIAL-TERRITORY FLAGS: pre-war US territory, major Pacific military hub (Andersen AFB, Naval Base Guam). No North American successor state has an established claim here. Defaulted to independent post-2083, but Guam's real strategic significance makes this the single most consequential of these flagged defaults — worth a dedicated author pass before treating as settled."
+Northern Mariana Islands,Northern Islands,Island Group,,#8FC2CC,"⚠️ AUTHOR DECISION NEEDED: pre-war US commonwealth territory. No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row."
+Northern Mariana Islands,Rota,Island Group,,#8FC2CC,"⚠️ AUTHOR DECISION NEEDED: pre-war US commonwealth territory. No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row."
+Northern Mariana Islands,Saipan,Island Group,,#8FC2CC,"⚠️ AUTHOR DECISION NEEDED: pre-war US commonwealth territory. No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row."
+Northern Mariana Islands,Tinian,Island Group,,#8FC2CC,"⚠️ AUTHOR DECISION NEEDED: pre-war US commonwealth territory. No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row."
+Samoa,A'ana,District,,#8B5A8F,
+Samoa,Aiga-i-le-Tai,District,,#8B5A8F,
+Samoa,Atua,District,,#8B5A8F,
+Samoa,Fa'asaleleaga,District,,#8B5A8F,
+Samoa,Gaga'emauga,District,,#8B5A8F,
+Samoa,Gaga'ifomauga,District,,#8B5A8F,
+Samoa,Palauli,District,,#8B5A8F,
+Samoa,Satupa'itea,District,,#8B5A8F,
+Samoa,Tuamasaga,District,,#8B5A8F,
+Samoa,Va'a-o-Fonoti,District,,#8B5A8F,
+Samoa,Vaisigano,District,,#8B5A8F,
+Tonga,Eua,Division,,#9B6A9F,
+Tonga,Ha'apai,Division,,#9B6A9F,
+Tonga,Niuas,Division,,#9B6A9F,
+Tonga,Tongatapu,Division,,#9B6A9F,
+Tonga,Vava'u,Division,,#9B6A9F,
+Tuvalu,Tuvalu,n/a (whole country),,#AB7AAF,
+Cook Islands,Aitutaki,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Atiu,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Mangaia,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Manihiki,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Mauke,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Mitiaro,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Palmerston,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Penrhyn,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Pukapuka,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Rakahanga,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Cook Islands,Rarotonga,Island,,#BB8ABF,"⚠️ AUTHOR DECISION NEEDED: real-world self-governing state in free association with New Zealand (not fully sovereign pre-war). Defaulted to continuing as its own nation, distinct from New Zealand, on this map — reasonable given it was already self-governing, but the author may prefer folding it into New Zealand instead. Flagged, not asserted as final."
+Niue,Niue,n/a (whole country),,#CB9ACF,⚠️ AUTHOR DECISION NEEDED: same free-association status and same flag as Cook Islands — see that row.
+French Polynesia,Austral Islands,Island Group,,#7A4F7F,"⚠️ AUTHOR DECISION NEEDED: pre-war French territory; France/Europe not yet built in this project. Defaulted to independent post-2083, same reasoning as New Caledonia — see that row."
+French Polynesia,Leeward Islands,Island Group,,#7A4F7F,"⚠️ AUTHOR DECISION NEEDED: pre-war French territory; France/Europe not yet built in this project. Defaulted to independent post-2083, same reasoning as New Caledonia — see that row."
+French Polynesia,Marquesas Islands,Island Group,,#7A4F7F,"⚠️ AUTHOR DECISION NEEDED: pre-war French territory; France/Europe not yet built in this project. Defaulted to independent post-2083, same reasoning as New Caledonia — see that row."
+French Polynesia,Tuamotu-Gambier,Island Group,,#7A4F7F,"⚠️ AUTHOR DECISION NEEDED: pre-war French territory; France/Europe not yet built in this project. Defaulted to independent post-2083, same reasoning as New Caledonia — see that row."
+French Polynesia,Windward Islands,Island Group,,#7A4F7F,"⚠️ AUTHOR DECISION NEEDED: pre-war French territory; France/Europe not yet built in this project. Defaulted to independent post-2083, same reasoning as New Caledonia — see that row."
+Wallis and Futuna,Alo,Island,,#6A3F6F,⚠️ AUTHOR DECISION NEEDED: pre-war French territory. Same flag as French Polynesia/New Caledonia — see those rows.
+Wallis and Futuna,Sigave,Island,,#6A3F6F,⚠️ AUTHOR DECISION NEEDED: pre-war French territory. Same flag as French Polynesia/New Caledonia — see those rows.
+Wallis and Futuna,`Uvea,Island,,#6A3F6F,⚠️ AUTHOR DECISION NEEDED: pre-war French territory. Same flag as French Polynesia/New Caledonia — see those rows.
+Pitcairn Islands,Pitcairn Islands,n/a (whole country),,#5A2F5F,"⚠️ AUTHOR DECISION NEEDED: pre-war UK overseas territory, extremely small population (~54 pre-war). UK/Europe not yet built in this project. Defaulted to independent post-2083; given its tiny size and real-world logistical dependence on New Zealand already, the author may prefer tying it to New Zealand instead. Flagged, not asserted as final."
+Australia,Ashmore and Cartier Islands,External Territory,,#C0532E,Ashmore and Cartier Islands — uninhabited pre-war Australian external territory (pop. 0). Folded into Australia; no reason found to treat separately.
+Australia,Coral Sea Islands,External Territory,,#C0532E,Coral Sea Islands — near-uninhabited pre-war Australian external territory (pop. ~4). Folded into Australia; no reason found to treat separately.
+Australia,Norfolk Island,External Territory,,#C0532E,"Norfolk Island — pre-war Australian external territory (pop. ~2,169). Folded into Australia; no strong separatist case found. Flagged as lower-confidence than the Ashmore/Cartier and Coral Sea folds, given it has an actual resident population — worth a second look if the author wants more granularity."
+American Samoa,Eastern,District,,#9B6A9F,"⚠️ AUTHOR DECISION NEEDED: pre-war US territory, culturally/geographically part of the Samoan islands (distinct from independent Samoa). No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row. The author may also want to consider whether American Samoa and independent Samoa reunify, given their shared cultural identity split only by 19th-century colonial partition — not asserted here, just flagged as a real possibility."
+American Samoa,Manu's,District,,#9B6A9F,"⚠️ AUTHOR DECISION NEEDED: pre-war US territory, culturally/geographically part of the Samoan islands (distinct from independent Samoa). No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row. The author may also want to consider whether American Samoa and independent Samoa reunify, given their shared cultural identity split only by 19th-century colonial partition — not asserted here, just flagged as a real possibility."
+American Samoa,Rose Atoll,District,,#9B6A9F,"⚠️ AUTHOR DECISION NEEDED: pre-war US territory, culturally/geographically part of the Samoan islands (distinct from independent Samoa). No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row. The author may also want to consider whether American Samoa and independent Samoa reunify, given their shared cultural identity split only by 19th-century colonial partition — not asserted here, just flagged as a real possibility."
+American Samoa,Swain's Island,District,,#9B6A9F,"⚠️ AUTHOR DECISION NEEDED: pre-war US territory, culturally/geographically part of the Samoan islands (distinct from independent Samoa). No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row. The author may also want to consider whether American Samoa and independent Samoa reunify, given their shared cultural identity split only by 19th-century colonial partition — not asserted here, just flagged as a real possibility."
+American Samoa,Western,District,,#9B6A9F,"⚠️ AUTHOR DECISION NEEDED: pre-war US territory, culturally/geographically part of the Samoan islands (distinct from independent Samoa). No North American successor state has an established claim here. Defaulted to independent post-2083, same reasoning as Guam — see that row. The author may also want to consider whether American Samoa and independent Samoa reunify, given their shared cultural identity split only by 19th-century colonial partition — not asserted here, just flagged as a real possibility."

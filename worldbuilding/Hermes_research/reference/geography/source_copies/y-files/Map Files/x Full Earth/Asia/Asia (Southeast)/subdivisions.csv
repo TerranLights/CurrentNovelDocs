@@ -1,0 +1,170 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Myanmar,Shan,State,6412501,#C0533E,"Home to the Wa Self-Administered Division (6 townships, UWSA-governed) plus a second UWSA bloc near the Thai border, and four further Self-Administered Zones (Danu, Kokang, Pa Laung, Pa-O) within Shan State — corrected 2026-09-26: the Naga Self-Administered Zone is NOT here, it sits in Sagaing Region instead (see that row). These are SECOND-order subdivisions under the whole-first-order-subdivision rule and must NOT be drawn as separate hard borders. Show as a labeled, non-bordered zone within Shan State instead (see README, 'The Wa' section). Also the Shan Hills is the frameworks survey's named Myanmar anchor for the Zomia/Massif sphere (see spheres.csv)."
+Myanmar,Rakhine,State,2526792,#C0533E,"⚠️ Dated snapshot (mid-2026, frameworks survey §3.1): Arakan Army holds roughly 14 of 17 townships; junta reduced to Sittwe, Kyaukphyu deep-sea port, Manaung island. Do not draw as a border change — present-day sovereign Myanmar territory regardless of de facto control. Optional: a control-status overlay could show this, see README."
+Myanmar,Kachin,State,2153483,#C0533E,"⚠️ Dated snapshot: KIA (Kachin Independence Army) seized Chipwi and Pangwa (Oct 2024), sitting on one of the world's most valuable heavy-rare-earth concentrations (material survey §2 Myanmar). De facto authority, not a border change."
+Myanmar,Mon,State,2054393,#C0533E,
+Myanmar,Kayin,State,1502774,#C0533E,"⚠️ Dated snapshot: 'resistance-besieged' per frameworks survey §3.1, Karen National Liberation Army active."
+Myanmar,Chin,State,373023,#C0533E,"⚠️ Dated snapshot: 'resistance-held' per frameworks survey §3.1 (Chin National Army/Chin Brotherhood)."
+Myanmar,Kayah,State,296901,#C0533E,
+Myanmar,Yangon,Region,7369989,#C0533E,
+Myanmar,Mandalay,Region,6323554,#C0533E,"⚠️ Dated snapshot: 'partially contested' per frameworks survey §3.1 — Bamar heartland, junta-favored ground."
+Myanmar,Sagaing,Region,5977292,#C0533E,"⚠️ Dated snapshot: 'resistance heartland' per frameworks survey §3.1 — People's Defence Forces administer most of the countryside under continued junta airstrikes. Also home to the Naga Self-Administered Zone (Lahe, Layshi, Namyun townships) — corrected 2026-09-26, previously mislisted under Shan State. A SECOND-order subdivision under the whole-first-order-subdivision rule; do not draw as a separate hard border."
+Myanmar,Ayeyarwady,Region,5546415,#C0533E,
+Myanmar,Bago,Region,4453687,#C0533E,
+Myanmar,Magway,Region,4077653,#C0533E,
+Myanmar,Tanintharyi,Region,1399965,#C0533E,
+Myanmar,Nay Pyi Taw,Union Territory,1129322,#C0533E,National capital territory.
+Thailand,Bangkok,Special Administrative Area,,#3E7CB1,National capital. Receives 72.2% of national expenditure against Isan's 5.8% (frameworks survey headline 4).
+Thailand,Amnat Charoen,Province,,#3E7CB1,Isan (see spheres.csv).
+Thailand,Ang Thong,Province,,#3E7CB1,
+Thailand,Bueng Kan,Province,,#3E7CB1,Isan.
+Thailand,Buriram,Province,,#3E7CB1,Isan.
+Thailand,Chachoengsao,Province,,#3E7CB1,
+Thailand,Chai Nat,Province,,#3E7CB1,
+Thailand,Chaiyaphum,Province,,#3E7CB1,Isan.
+Thailand,Chanthaburi,Province,,#3E7CB1,
+Thailand,Chiang Mai,Province,,#3E7CB1,Upper North; Zomia/Massif domain (see spheres.csv).
+Thailand,Chiang Rai,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Thailand,Chonburi,Province,,#3E7CB1,
+Thailand,Chumphon,Province,,#3E7CB1,
+Thailand,Kalasin,Province,,#3E7CB1,Isan.
+Thailand,Kamphaeng Phet,Province,,#3E7CB1,
+Thailand,Kanchanaburi,Province,,#3E7CB1,
+Thailand,Khon Kaen,Province,,#3E7CB1,Isan.
+Thailand,Krabi,Province,,#3E7CB1,
+Thailand,Lampang,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Thailand,Lamphun,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Thailand,Loei,Province,,#3E7CB1,Isan.
+Thailand,Lopburi,Province,,#3E7CB1,
+Thailand,Mae Hong Son,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Thailand,Maha Sarakham,Province,,#3E7CB1,Isan.
+Thailand,Mukdahan,Province,,#3E7CB1,Isan.
+Thailand,Nakhon Nayok,Province,,#3E7CB1,
+Thailand,Nakhon Pathom,Province,,#3E7CB1,
+Thailand,Nakhon Phanom,Province,,#3E7CB1,Isan.
+Thailand,Nakhon Ratchasima,Province,,#3E7CB1,Isan.
+Thailand,Nakhon Sawan,Province,,#3E7CB1,
+Thailand,Nakhon Si Thammarat,Province,,#3E7CB1,
+Thailand,Nan,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Deep South,Narathiwat,Province,,#1F6B5C,"⚠️ AUTHOR DECISION 2026-09-26: separates from Thailand as its own independent nation after the 2083 war — not autonomy, the opposite finding from Aceh's case (Thailand has no precedent for granting ethnic-minority autonomy; Deep South security has been under military, not civilian, control since 2005). ""Deep South"" is a working/placeholder nation name, not yet decided — the real historical name Patani (the precolonial Sultanate of Patani) is an obvious candidate but not asserted here. See frameworks survey §3.2 addendum and spheres.csv S5."
+Thailand,Nong Bua Lamphu,Province,,#3E7CB1,Isan.
+Thailand,Nong Khai,Province,,#3E7CB1,Isan.
+Thailand,Nonthaburi,Province,,#3E7CB1,
+Thailand,Pathum Thani,Province,,#3E7CB1,
+Deep South,Pattani,Province,,#1F6B5C,"Historical seat of the Sultanate of Patani (15th-18th century); see the Narathiwat row above for the full separation note."
+Thailand,Phang Nga,Province,,#3E7CB1,
+Thailand,Phatthalung,Province,,#3E7CB1,
+Thailand,Phayao,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Thailand,Phetchabun,Province,,#3E7CB1,
+Thailand,Phetchaburi,Province,,#3E7CB1,
+Thailand,Phichit,Province,,#3E7CB1,
+Thailand,Phitsanulok,Province,,#3E7CB1,
+Thailand,Phra Nakhon Si Ayutthaya,Province,,#3E7CB1,
+Thailand,Phrae,Province,,#3E7CB1,Upper North; Zomia/Massif domain.
+Thailand,Phuket,Province,,#3E7CB1,
+Thailand,Prachinburi,Province,,#3E7CB1,
+Thailand,Prachuap Khiri Khan,Province,,#3E7CB1,
+Thailand,Ranong,Province,,#3E7CB1,
+Thailand,Ratchaburi,Province,,#3E7CB1,
+Thailand,Rayong,Province,,#3E7CB1,
+Thailand,Roi Et,Province,,#3E7CB1,Isan.
+Thailand,Sa Kaeo,Province,,#3E7CB1,
+Thailand,Sakon Nakhon,Province,,#3E7CB1,Isan.
+Thailand,Samut Prakan,Province,,#3E7CB1,
+Thailand,Samut Sakhon,Province,,#3E7CB1,
+Thailand,Samut Songkhram,Province,,#3E7CB1,
+Thailand,Saraburi,Province,,#3E7CB1,
+Thailand,Satun,Province,,#3E7CB1,
+Thailand,Sing Buri,Province,,#3E7CB1,
+Thailand,Sisaket,Province,,#3E7CB1,Isan.
+Thailand,Songkhla,Province,,#3E7CB1,
+Thailand,Sukhothai,Province,,#3E7CB1,
+Thailand,Suphan Buri,Province,,#3E7CB1,
+Thailand,Surat Thani,Province,,#3E7CB1,
+Thailand,Surin,Province,,#3E7CB1,Isan.
+Thailand,Tak,Province,,#3E7CB1,
+Thailand,Trang,Province,,#3E7CB1,
+Thailand,Trat,Province,,#3E7CB1,
+Thailand,Ubon Ratchathani,Province,,#3E7CB1,Isan.
+Thailand,Udon Thani,Province,,#3E7CB1,Isan.
+Thailand,Uthai Thani,Province,,#3E7CB1,
+Thailand,Uttaradit,Province,,#3E7CB1,
+Deep South,Yala,Province,,#1F6B5C,"See the Narathiwat row above for the full separation note."
+Thailand,Yasothon,Province,,#3E7CB1,Isan.
+Vietnam,Hà Nội,Centrally-run city,,#4E9F5B,National capital.
+Vietnam,Huế,Centrally-run city,,#4E9F5B,Untouched by the 2025 reform.
+Vietnam,Hải Phòng,Centrally-run city,,#4E9F5B,"Location of Haiphong, the primary seaport for northern Vietnam (material survey §2.8)."
+Vietnam,Đà Nẵng,Centrally-run city,,#4E9F5B,Location of the Da Nang port (material survey §2.8).
+Vietnam,Hồ Chí Minh City,Centrally-run city,,#4E9F5B,
+Vietnam,Cần Thơ,Centrally-run city,,#4E9F5B,"2025 merger of former Cần Thơ + Hậu Giang + Sóc Trăng. Absorbs Sóc Trăng's Khmer Krom population — see spheres.csv."
+Vietnam,Lai Châu,Province,,#4E9F5B,"Untouched by the 2025 reform. Northern highlands; Zomia/Massif domain (see spheres.csv, ⚠️ author judgment call, not explicit in survey)."
+Vietnam,Điện Biên,Province,,#4E9F5B,Untouched by the 2025 reform. Northern highlands; Zomia/Massif domain (⚠️ judgment call).
+Vietnam,Sơn La,Province,,#4E9F5B,Untouched by the 2025 reform. Northern highlands; Zomia/Massif domain (⚠️ judgment call).
+Vietnam,Cao Bằng,Province,,#4E9F5B,Untouched by the 2025 reform. Northern highlands; Zomia/Massif domain (⚠️ judgment call).
+Vietnam,Lạng Sơn,Province,,#4E9F5B,Untouched by the 2025 reform. Northern highlands; Zomia/Massif domain (⚠️ judgment call).
+Vietnam,Quảng Ninh,Province,,#4E9F5B,"Untouched by the 2025 reform. Coastal, NOT included in Zomia/Massif domain despite being a northern province — see spheres.csv note."
+Vietnam,Thanh Hóa,Province,,#4E9F5B,Untouched by the 2025 reform. Large province with both lowland coast and upland Lao-border fringe.
+Vietnam,Nghệ An,Province,,#4E9F5B,Untouched by the 2025 reform. Large province with both lowland coast and upland Lao-border fringe.
+Vietnam,Hà Tĩnh,Province,,#4E9F5B,Untouched by the 2025 reform.
+Vietnam,Tuyên Quang,Province,,#4E9F5B,"2025 merger. Northern highlands; Zomia/Massif domain (⚠️ judgment call)."
+Vietnam,Lào Cai,Province,,#4E9F5B,"2025 merger. Northern highlands; Zomia/Massif domain (⚠️ judgment call)."
+Vietnam,Thái Nguyên,Province,,#4E9F5B,2025 merger.
+Vietnam,Phú Thọ,Province,,#4E9F5B,2025 merger.
+Vietnam,Bắc Ninh,Province,,#4E9F5B,2025 merger.
+Vietnam,Hưng Yên,Province,,#4E9F5B,2025 merger.
+Vietnam,Ninh Bình,Province,,#4E9F5B,2025 merger.
+Vietnam,Quảng Trị,Province,,#4E9F5B,2025 merger.
+Vietnam,Quảng Ngãi,Province,,#4E9F5B,2025 merger.
+Vietnam,Gia Lai,Province,,#4E9F5B,2025 merger. Central Highlands.
+Vietnam,Khánh Hòa,Province,,#4E9F5B,2025 merger.
+Vietnam,Lâm Đồng,Province,,#4E9F5B,2025 merger. Central Highlands.
+Vietnam,Đắk Lắk,Province,,#4E9F5B,2025 merger. Central Highlands.
+Vietnam,Đồng Nai,Province,,#4E9F5B,2025 merger.
+Vietnam,Tây Ninh,Province,,#4E9F5B,2025 merger.
+Vietnam,Vĩnh Long,Province,,#4E9F5B,"2025 merger of former Trà Vinh + Bến Tre + Vĩnh Long. Absorbs Trà Vinh's Khmer Krom population — see spheres.csv."
+Vietnam,Đồng Tháp,Province,,#4E9F5B,2025 merger.
+Vietnam,Cà Mau,Province,,#4E9F5B,2025 merger.
+Vietnam,An Giang,Province,,#4E9F5B,"2025 merger of former An Giang + Kiên Giang. Absorbs Kiên Giang's Khmer Krom population — see spheres.csv."
+Laos,Vientiane Prefecture,Prefecture,,#D9A441,National capital.
+Laos,Attapeu,Province,,#D9A441,
+Laos,Bokeo,Province,,#D9A441,
+Laos,Bolikhamxai,Province,,#D9A441,
+Laos,Champasak,Province,,#D9A441,One of the three centers of the 1707 Lan Xang split (frameworks survey §3.4) — the Kingdom of Champasak.
+Laos,Houaphanh,Province,,#D9A441,
+Laos,Khammouane,Province,,#D9A441,
+Laos,Luang Namtha,Province,,#D9A441,
+Laos,Luang Prabang,Province,,#D9A441,One of the three centers of the 1707 Lan Xang split — the original Lan Xang capital (1353–1560) and later the Kingdom of Luang Prabang.
+Laos,Oudomxay,Province,,#D9A441,
+Laos,Phongsaly,Province,,#D9A441,
+Laos,Sainyabuli,Province,,#D9A441,
+Laos,Salavan,Province,,#D9A441,
+Laos,Savannakhet,Province,,#D9A441,
+Laos,Sekong,Province,,#D9A441,
+Laos,Vientiane,Province,,#D9A441,"One of the three centers of the 1707 Lan Xang split — the Kingdom of Vientiane (distinct from Vientiane Prefecture, the capital)."
+Laos,Xaisomboun,Province,,#D9A441,Restored as a province 2013.
+Laos,Xiangkhouang,Province,,#D9A441,
+Cambodia,Phnom Penh,Autonomous Municipality,2352851,#8A5FA8,National capital. Governmentally equivalent to a province.
+Cambodia,Banteay Meanchey,Province,,#8A5FA8,
+Cambodia,Battambang,Province,1132017,#8A5FA8,
+Cambodia,Kampong Cham,Province,1062914,#8A5FA8,
+Cambodia,Kampong Chhnang,Province,,#8A5FA8,
+Cambodia,Kampong Speu,Province,,#8A5FA8,
+Cambodia,Kampong Thom,Province,,#8A5FA8,Named gold deposit province (material survey §2.7).
+Cambodia,Kampot,Province,,#8A5FA8,
+Cambodia,Kandal,Province,1352198,#8A5FA8,Largest Cambodian province by population.
+Cambodia,Kep,Province,,#8A5FA8,Created 2008.
+Cambodia,Koh Kong,Province,,#8A5FA8,
+Cambodia,Kratié,Province,,#8A5FA8,
+Cambodia,Mondulkiri,Province,,#8A5FA8,Named gold deposit province.
+Cambodia,Oddar Meanchey,Province,,#8A5FA8,
+Cambodia,Pailin,Province,,#8A5FA8,"Created 2008. Site of the historical Pailin ruby/sapphire fields (material survey §2.7). Corrected 2026-09-26: the district's own zircon field, Bokeo district, is NOT here — it's a separate location in Ratanakiri province (see that row)."
+Cambodia,Preah Sihanouk,Province,,#8A5FA8,"Location of Sihanoukville, Cambodia's sole deep-water port (material survey §2.8)."
+Cambodia,Preah Vihear,Province,,#8A5FA8,Named gold deposit province.
+Cambodia,Prey Veng,Province,1277867,#8A5FA8,
+Cambodia,Pursat,Province,,#8A5FA8,
+Cambodia,Ratanakiri,Province,,#8A5FA8,"Named gold deposit province. Also home to Bokeo district's large, high-quality zircon crystal field (material survey §2.7) — corrected 2026-09-26, previously misattributed to neighboring Pailin province."
+Cambodia,Siem Reap,Province,1099825,#8A5FA8,Site of Angkor (frameworks survey §3.5–3.6).
+Cambodia,Stung Treng,Province,,#8A5FA8,
+Cambodia,Svay Rieng,Province,,#8A5FA8,
+Cambodia,Takéo,Province,1097243,#8A5FA8,
+Cambodia,Tboung Khmum,Province,,#8A5FA8,Split from Kampong Cham in 2013.

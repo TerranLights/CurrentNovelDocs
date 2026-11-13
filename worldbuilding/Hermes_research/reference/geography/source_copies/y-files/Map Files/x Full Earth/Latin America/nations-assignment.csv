@@ -1,0 +1,395 @@
+nation,nation_name,source_regions,country,subdivision
+AMZ,Amazonia,9 + 15,Bolivia,Pando
+AMZ,Amazonia,9 + 15,Brazil,Acre
+AMZ,Amazonia,9 + 15,Brazil,Amapá
+AMZ,Amazonia,9 + 15,Brazil,Amazonas
+AMZ,Amazonia,9 + 15,Brazil,Mato Grosso
+AMZ,Amazonia,9 + 15,Brazil,Pará
+AMZ,Amazonia,9 + 15,Brazil,Rondônia
+AMZ,Amazonia,9 + 15,Brazil,Roraima
+AMZ,Amazonia,9 + 15,Colombia,Amazonas
+AMZ,Amazonia,9 + 15,Colombia,Guainía
+AMZ,Amazonia,9 + 15,Colombia,Vaupés
+AMZ,Amazonia,9 + 15,Peru,Loreto
+AMZ,Amazonia,9 + 15,Venezuela,Amazonas
+AMZ,Amazonia,9 + 15,Venezuela,Bolívar
+AIA,Anguilla,5,Anguilla,(whole territory)
+ATG,Antigua and Barbuda,5,Antigua and Barbuda,(whole territory)
+ATG,Antigua and Barbuda,5,Montserrat,(whole territory)
+PAT,Araucanía-Patagonia Autonomous Zone,13,Argentina,Chubut
+PAT,Araucanía-Patagonia Autonomous Zone,13,Argentina,Neuquén
+PAT,Araucanía-Patagonia Autonomous Zone,13,Argentina,Río Negro
+PAT,Araucanía-Patagonia Autonomous Zone,13,Argentina,Santa Cruz
+PAT,Araucanía-Patagonia Autonomous Zone,13,Argentina,Tierra del Fuego
+PAT,Araucanía-Patagonia Autonomous Zone,13,Chile,Aisén del General Carlos Ibáñez del Campo
+PAT,Araucanía-Patagonia Autonomous Zone,13,Chile,La Araucanía
+PAT,Araucanía-Patagonia Autonomous Zone,13,Chile,Los Lagos
+PAT,Araucanía-Patagonia Autonomous Zone,13,Chile,Los Ríos
+PAT,Araucanía-Patagonia Autonomous Zone,13,Chile,Magallanes y Antártica Chilena
+ARG,Argentina,8 + 11,Argentina,Buenos Aires
+ARG,Argentina,8 + 11,Argentina,Catamarca
+ARG,Argentina,8 + 11,Argentina,Chaco
+ARG,Argentina,8 + 11,Argentina,Ciudad de Buenos Aires
+ARG,Argentina,8 + 11,Argentina,Corrientes
+ARG,Argentina,8 + 11,Argentina,Córdoba
+ARG,Argentina,8 + 11,Argentina,Entre Ríos
+ARG,Argentina,8 + 11,Argentina,Formosa
+ARG,Argentina,8 + 11,Argentina,Jujuy
+ARG,Argentina,8 + 11,Argentina,La Pampa
+ARG,Argentina,8 + 11,Argentina,La Rioja
+ARG,Argentina,8 + 11,Argentina,Mendoza
+ARG,Argentina,8 + 11,Argentina,Misiones
+ARG,Argentina,8 + 11,Argentina,Salta
+ARG,Argentina,8 + 11,Argentina,San Juan
+ARG,Argentina,8 + 11,Argentina,San Luis
+ARG,Argentina,8 + 11,Argentina,Santa Fe
+ARG,Argentina,8 + 11,Argentina,Santiago del Estero
+ARG,Argentina,8 + 11,Argentina,Tucumán
+ABC,Aruba-Curaçao,5,Aruba,(whole territory)
+ABC,Aruba-Curaçao,5,Curaçao,(whole territory)
+BRB,Barbados,5,Barbados,(whole territory)
+BLZ,Belize,4,Belize,Belize
+BLZ,Belize,4,Belize,Cayo
+BLZ,Belize,4,Belize,Corozal
+BLZ,Belize,4,Belize,Orange Walk
+BLZ,Belize,4,Belize,Stann Creek
+BLZ,Belize,4,Belize,Toledo
+BOL,Bolivia,8,Bolivia,Chuquisaca
+BOL,Bolivia,8,Bolivia,Cochabamba
+BOL,Bolivia,8,Bolivia,El Beni
+BOL,Bolivia,8,Bolivia,La Paz
+BOL,Bolivia,8,Bolivia,Oruro
+BOL,Bolivia,8,Bolivia,Potosí
+BOL,Bolivia,8,Bolivia,Santa Cruz
+BOL,Bolivia,8,Bolivia,Tarija
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Alagoas
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Bahia
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Ceará
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Distrito Federal
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Espírito Santo
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Goiás
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Maranhão
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Mato Grosso do Sul
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Minas Gerais
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Paraná
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Paraíba
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Pernambuco
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Piauí
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Rio Grande do Norte
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Rio Grande do Sul
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Rio de Janeiro
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Santa Catarina
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Sergipe
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,São Paulo
+BRA,Brazil,14 + 16 + 17 + 18,Brazil,Tocantins
+CHL,Chile,8 + 12,Chile,Antofagasta
+CHL,Chile,8 + 12,Chile,Arica y Parinacota
+CHL,Chile,8 + 12,Chile,Atacama
+CHL,Chile,8 + 12,Chile,Bío-Bío
+CHL,Chile,8 + 12,Chile,Coquimbo
+CHL,Chile,8 + 12,Chile,Libertador General Bernardo O'Higgins
+CHL,Chile,8 + 12,Chile,Maule
+CHL,Chile,8 + 12,Chile,Región Metropolitana de Santiago
+CHL,Chile,8 + 12,Chile,Tarapacá
+CHL,Chile,8 + 12,Chile,Valparaíso
+CHL,Chile,8 + 12,Chile,Ñuble
+COL,Colombia,4 + 7 (Nariño),Colombia,Antioquia
+COL,Colombia,4 + 7 (Nariño),Colombia,Arauca
+COL,Colombia,4 + 7 (Nariño),Colombia,Atlántico
+COL,Colombia,4 + 7 (Nariño),Colombia,Bogota
+COL,Colombia,4 + 7 (Nariño),Colombia,Bolívar
+COL,Colombia,4 + 7 (Nariño),Colombia,Boyacá
+COL,Colombia,4 + 7 (Nariño),Colombia,Caldas
+COL,Colombia,4 + 7 (Nariño),Colombia,Caquetá
+COL,Colombia,4 + 7 (Nariño),Colombia,Casanare
+COL,Colombia,4 + 7 (Nariño),Colombia,Cauca
+COL,Colombia,4 + 7 (Nariño),Colombia,Cesar
+COL,Colombia,4 + 7 (Nariño),Colombia,Chocó
+COL,Colombia,4 + 7 (Nariño),Colombia,Cundinamarca
+COL,Colombia,4 + 7 (Nariño),Colombia,Córdoba
+COL,Colombia,4 + 7 (Nariño),Colombia,Guaviare
+COL,Colombia,4 + 7 (Nariño),Colombia,Huila
+COL,Colombia,4 + 7 (Nariño),Colombia,La Guajira
+COL,Colombia,4 + 7 (Nariño),Colombia,Magdalena
+COL,Colombia,4 + 7 (Nariño),Colombia,Meta
+COL,Colombia,4 + 7 (Nariño),Colombia,Nariño
+COL,Colombia,4 + 7 (Nariño),Colombia,Norte de Santander
+COL,Colombia,4 + 7 (Nariño),Colombia,Putumayo
+COL,Colombia,4 + 7 (Nariño),Colombia,Quindío
+COL,Colombia,4 + 7 (Nariño),Colombia,Risaralda
+COL,Colombia,4 + 7 (Nariño),Colombia,San Andrés y Providencia
+COL,Colombia,4 + 7 (Nariño),Colombia,Santander
+COL,Colombia,4 + 7 (Nariño),Colombia,Sucre
+COL,Colombia,4 + 7 (Nariño),Colombia,Tolima
+COL,Colombia,4 + 7 (Nariño),Colombia,Valle del Cauca
+COL,Colombia,4 + 7 (Nariño),Colombia,Vichada
+CRI,Costa Rica,3 + 4,Costa Rica,Alajuela
+CRI,Costa Rica,3 + 4,Costa Rica,Cartago
+CRI,Costa Rica,3 + 4,Costa Rica,Guanacaste
+CRI,Costa Rica,3 + 4,Costa Rica,Heredia
+CRI,Costa Rica,3 + 4,Costa Rica,Limón
+CRI,Costa Rica,3 + 4,Costa Rica,Puntarenas
+CRI,Costa Rica,3 + 4,Costa Rica,San José
+CUB,Cuba,5,Cuba,(whole territory)
+CUB,Cuba,5,US Naval Base Guantanamo Bay,(whole territory)
+DMA,Dominica,5,Dominica,(whole territory)
+DOM,Dominican Republic,5,Dominican Republic,(whole territory)
+DOM,Dominican Republic,5,Haiti,(whole territory)
+ECU,Ecuador,7,Ecuador,Azuay
+ECU,Ecuador,7,Ecuador,Bolivar
+ECU,Ecuador,7,Ecuador,Carchi
+ECU,Ecuador,7,Ecuador,Cañar
+ECU,Ecuador,7,Ecuador,Chimborazo
+ECU,Ecuador,7,Ecuador,Cotopaxi
+ECU,Ecuador,7,Ecuador,El Oro
+ECU,Ecuador,7,Ecuador,Esmeraldas
+ECU,Ecuador,7,Ecuador,Galápagos
+ECU,Ecuador,7,Ecuador,Guayas
+ECU,Ecuador,7,Ecuador,Imbabura
+ECU,Ecuador,7,Ecuador,Loja
+ECU,Ecuador,7,Ecuador,Los Rios
+ECU,Ecuador,7,Ecuador,Manabi
+ECU,Ecuador,7,Ecuador,Morona Santiago
+ECU,Ecuador,7,Ecuador,Napo
+ECU,Ecuador,7,Ecuador,Orellana
+ECU,Ecuador,7,Ecuador,Pastaza
+ECU,Ecuador,7,Ecuador,Pichincha
+ECU,Ecuador,7,Ecuador,Santa Elena
+ECU,Ecuador,7,Ecuador,Santo Domingo de los Tsáchilas
+ECU,Ecuador,7,Ecuador,Sucumbios
+ECU,Ecuador,7,Ecuador,Tungurahua
+ECU,Ecuador,7,Ecuador,Zamora Chinchipe
+ESA,El Salvador,3,El Salvador,Ahuachapán
+ESA,El Salvador,3,El Salvador,Cabañas
+ESA,El Salvador,3,El Salvador,Chalatenango
+ESA,El Salvador,3,El Salvador,Cuscatlán
+ESA,El Salvador,3,El Salvador,La Libertad
+ESA,El Salvador,3,El Salvador,La Paz
+ESA,El Salvador,3,El Salvador,La Unión
+ESA,El Salvador,3,El Salvador,Morazán
+ESA,El Salvador,3,El Salvador,San Miguel
+ESA,El Salvador,3,El Salvador,San Salvador
+ESA,El Salvador,3,El Salvador,San Vicente
+ESA,El Salvador,3,El Salvador,Santa Ana
+ESA,El Salvador,3,El Salvador,Sonsonate
+ESA,El Salvador,3,El Salvador,Usulután
+FAN,French Antilles,5,France,Guadeloupe
+FAN,French Antilles,5,France,Martinique
+FGU,French Guiana,6,France,Guyane française
+GRD,Grenada,5,Grenada,(whole territory)
+GUA,Guatemala,2 + 3,Guatemala,Alta Verapaz
+GUA,Guatemala,2 + 3,Guatemala,Baja Verapaz
+GUA,Guatemala,2 + 3,Guatemala,Chimaltenango
+GUA,Guatemala,2 + 3,Guatemala,Chiquimula
+GUA,Guatemala,2 + 3,Guatemala,El Progreso
+GUA,Guatemala,2 + 3,Guatemala,Escuintla
+GUA,Guatemala,2 + 3,Guatemala,Guatemala
+GUA,Guatemala,2 + 3,Guatemala,Huehuetenango
+GUA,Guatemala,2 + 3,Guatemala,Izabal
+GUA,Guatemala,2 + 3,Guatemala,Jalapa
+GUA,Guatemala,2 + 3,Guatemala,Jutiapa
+GUA,Guatemala,2 + 3,Guatemala,Quezaltenango
+GUA,Guatemala,2 + 3,Guatemala,Quiché
+GUA,Guatemala,2 + 3,Guatemala,Retalhuleu
+GUA,Guatemala,2 + 3,Guatemala,Sacatepéquez
+GUA,Guatemala,2 + 3,Guatemala,San Marcos
+GUA,Guatemala,2 + 3,Guatemala,Santa Rosa
+GUA,Guatemala,2 + 3,Guatemala,Sololá
+GUA,Guatemala,2 + 3,Guatemala,Suchitepéquez
+GUA,Guatemala,2 + 3,Guatemala,Totonicapán
+GUA,Guatemala,2 + 3,Guatemala,Zacapa
+GUY,Guyana,6,Guyana,Barima-Waini
+GUY,Guyana,6,Guyana,Cuyuni-Mazaruni
+GUY,Guyana,6,Guyana,Demerara-Mahaica
+GUY,Guyana,6,Guyana,East Berbice-Corentyne
+GUY,Guyana,6,Guyana,Essequibo Islands-West Demerara
+GUY,Guyana,6,Guyana,Mahaica-Berbice
+GUY,Guyana,6,Guyana,Pomeroon-Supenaam
+GUY,Guyana,6,Guyana,Potaro-Siparuni
+GUY,Guyana,6,Guyana,Upper Demerara-Berbice
+GUY,Guyana,6,Guyana,Upper Takutu-Upper Essequibo
+HON,Honduras,3 + 4,Honduras,Atlántida
+HON,Honduras,3 + 4,Honduras,Choluteca
+HON,Honduras,3 + 4,Honduras,Colón
+HON,Honduras,3 + 4,Honduras,Comayagua
+HON,Honduras,3 + 4,Honduras,Copán
+HON,Honduras,3 + 4,Honduras,Cortés
+HON,Honduras,3 + 4,Honduras,El Paraíso
+HON,Honduras,3 + 4,Honduras,Francisco Morazán
+HON,Honduras,3 + 4,Honduras,Gracias a Dios
+HON,Honduras,3 + 4,Honduras,Intibucá
+HON,Honduras,3 + 4,Honduras,Islas de la Bahía
+HON,Honduras,3 + 4,Honduras,La Paz
+HON,Honduras,3 + 4,Honduras,Lempira
+HON,Honduras,3 + 4,Honduras,Ocotepeque
+HON,Honduras,3 + 4,Honduras,Olancho
+HON,Honduras,3 + 4,Honduras,Santa Bárbara
+HON,Honduras,3 + 4,Honduras,Valle
+HON,Honduras,3 + 4,Honduras,Yoro
+JAM,Jamaica,5,Cayman Islands,(whole territory)
+JAM,Jamaica,5,Jamaica,(whole territory)
+JAM,Jamaica,5,Turks and Caicos Islands,(whole territory)
+YUC,La República de Yucatán,1 + 2 (unclaimed on map-1),Guatemala,Petén
+YUC,La República de Yucatán,1 + 2 (unclaimed on map-1),Mexico,Campeche
+YUC,La República de Yucatán,1 + 2 (unclaimed on map-1),Mexico,Chiapas
+YUC,La República de Yucatán,1 + 2 (unclaimed on map-1),Mexico,Quintana Roo
+YUC,La República de Yucatán,1 + 2 (unclaimed on map-1),Mexico,Tabasco
+YUC,La República de Yucatán,1 + 2 (unclaimed on map-1),Mexico,Yucatán
+MEX,México,1,Mexico,Aguascalientes
+MEX,México,1,Mexico,Coahuila
+MEX,México,1,Mexico,Colima
+MEX,México,1,Mexico,Distrito Federal
+MEX,México,1,Mexico,Durango
+MEX,México,1,Mexico,Guanajuato
+MEX,México,1,Mexico,Guerrero
+MEX,México,1,Mexico,Hidalgo
+MEX,México,1,Mexico,Jalisco
+MEX,México,1,Mexico,Michoacán
+MEX,México,1,Mexico,Morelos
+MEX,México,1,Mexico,México
+MEX,México,1,Mexico,Nayarit
+MEX,México,1,Mexico,Nuevo León
+MEX,México,1,Mexico,Oaxaca
+MEX,México,1,Mexico,Puebla
+MEX,México,1,Mexico,Querétaro
+MEX,México,1,Mexico,San Luis Potosí
+MEX,México,1,Mexico,Sinaloa
+MEX,México,1,Mexico,Tamaulipas
+MEX,México,1,Mexico,Tlaxcala
+MEX,México,1,Mexico,Veracruz
+MEX,México,1,Mexico,Zacatecas
+NIC,Nicaragua,3 + 4,Nicaragua,Atlántico Norte
+NIC,Nicaragua,3 + 4,Nicaragua,Atlántico Sur
+NIC,Nicaragua,3 + 4,Nicaragua,Boaco
+NIC,Nicaragua,3 + 4,Nicaragua,Carazo
+NIC,Nicaragua,3 + 4,Nicaragua,Chinandega
+NIC,Nicaragua,3 + 4,Nicaragua,Chontales
+NIC,Nicaragua,3 + 4,Nicaragua,Estelí
+NIC,Nicaragua,3 + 4,Nicaragua,Granada
+NIC,Nicaragua,3 + 4,Nicaragua,Jinotega
+NIC,Nicaragua,3 + 4,Nicaragua,León
+NIC,Nicaragua,3 + 4,Nicaragua,Madriz
+NIC,Nicaragua,3 + 4,Nicaragua,Managua
+NIC,Nicaragua,3 + 4,Nicaragua,Masaya
+NIC,Nicaragua,3 + 4,Nicaragua,Matagalpa
+NIC,Nicaragua,3 + 4,Nicaragua,Nueva Segovia
+NIC,Nicaragua,3 + 4,Nicaragua,Rio San Juan
+NIC,Nicaragua,3 + 4,Nicaragua,Rivas
+PAN,Panama,4,Panama,Bocas del Toro
+PAN,Panama,4,Panama,Chiriquí
+PAN,Panama,4,Panama,Coclé
+PAN,Panama,4,Panama,Colón
+PAN,Panama,4,Panama,Darién
+PAN,Panama,4,Panama,Emberá
+PAN,Panama,4,Panama,Herrera
+PAN,Panama,4,Panama,Kuna Yala
+PAN,Panama,4,Panama,Los Santos
+PAN,Panama,4,Panama,Ngöbe Buglé
+PAN,Panama,4,Panama,Panama
+PAN,Panama,4,Panama,Veraguas
+PAR,Paraguay,11 (sphere),Paraguay,Alto Paraguay
+PAR,Paraguay,11 (sphere),Paraguay,Alto Paraná
+PAR,Paraguay,11 (sphere),Paraguay,Amambay
+PAR,Paraguay,11 (sphere),Paraguay,Asunción
+PAR,Paraguay,11 (sphere),Paraguay,Boquerón
+PAR,Paraguay,11 (sphere),Paraguay,Caaguazú
+PAR,Paraguay,11 (sphere),Paraguay,Caazapá
+PAR,Paraguay,11 (sphere),Paraguay,Canindeyú
+PAR,Paraguay,11 (sphere),Paraguay,Central
+PAR,Paraguay,11 (sphere),Paraguay,Concepción
+PAR,Paraguay,11 (sphere),Paraguay,Cordillera
+PAR,Paraguay,11 (sphere),Paraguay,Guairá
+PAR,Paraguay,11 (sphere),Paraguay,Itapúa
+PAR,Paraguay,11 (sphere),Paraguay,Misiones
+PAR,Paraguay,11 (sphere),Paraguay,Paraguarí
+PAR,Paraguay,11 (sphere),Paraguay,Presidente Hayes
+PAR,Paraguay,11 (sphere),Paraguay,San Pedro
+PAR,Paraguay,11 (sphere),Paraguay,Ñeembucú
+PER,Peru,7 + 8,Peru,Amazonas
+PER,Peru,7 + 8,Peru,Apurímac
+PER,Peru,7 + 8,Peru,Arequipa
+PER,Peru,7 + 8,Peru,Ayacucho
+PER,Peru,7 + 8,Peru,Cajamarca
+PER,Peru,7 + 8,Peru,Callao
+PER,Peru,7 + 8,Peru,Cusco
+PER,Peru,7 + 8,Peru,Huancavelica
+PER,Peru,7 + 8,Peru,Huánuco
+PER,Peru,7 + 8,Peru,Ica
+PER,Peru,7 + 8,Peru,Junín
+PER,Peru,7 + 8,Peru,La Libertad
+PER,Peru,7 + 8,Peru,Lambayeque
+PER,Peru,7 + 8,Peru,Lima
+PER,Peru,7 + 8,Peru,Lima Province
+PER,Peru,7 + 8,Peru,Madre de Dios
+PER,Peru,7 + 8,Peru,Moquegua
+PER,Peru,7 + 8,Peru,Pasco
+PER,Peru,7 + 8,Peru,Piura
+PER,Peru,7 + 8,Peru,Puno
+PER,Peru,7 + 8,Peru,San Martín
+PER,Peru,7 + 8,Peru,Tacna
+PER,Peru,7 + 8,Peru,Tumbes
+PER,Peru,7 + 8,Peru,Ucayali
+PER,Peru,7 + 8,Peru,Áncash
+PRI,Puerto Rico,5,Puerto Rico,(whole territory)
+KNA,Saint Kitts and Nevis,5,Saint Kitts and Nevis,(whole territory)
+LCA,Saint Lucia,5,Saint Lucia,(whole territory)
+SMT,Saint Martin,5,Saint Barthelemy,(whole territory)
+SMT,Saint Martin,5,Saint Martin,(whole territory)
+SMT,Saint Martin,5,Sint Maarten,(whole territory)
+VCT,Saint Vincent and the Grenadines,5,Saint Vincent and the Grenadines,(whole territory)
+SUR,Suriname,6,Suriname,Brokopondo
+SUR,Suriname,6,Suriname,Commewijne
+SUR,Suriname,6,Suriname,Coronie
+SUR,Suriname,6,Suriname,Marowijne
+SUR,Suriname,6,Suriname,Nickerie
+SUR,Suriname,6,Suriname,Para
+SUR,Suriname,6,Suriname,Paramaribo
+SUR,Suriname,6,Suriname,Saramacca
+SUR,Suriname,6,Suriname,Sipaliwini
+SUR,Suriname,6,Suriname,Wanica
+BHS,The Bahamas,5,The Bahamas,(whole territory)
+TRI,Trinidad and Tobago,5,Trinidad and Tobago,(whole territory)
+URU,Uruguay,11 (sphere),Uruguay,Artigas
+URU,Uruguay,11 (sphere),Uruguay,Canelones
+URU,Uruguay,11 (sphere),Uruguay,Cerro Largo
+URU,Uruguay,11 (sphere),Uruguay,Colonia
+URU,Uruguay,11 (sphere),Uruguay,Durazno
+URU,Uruguay,11 (sphere),Uruguay,Flores
+URU,Uruguay,11 (sphere),Uruguay,Florida
+URU,Uruguay,11 (sphere),Uruguay,Lavalleja
+URU,Uruguay,11 (sphere),Uruguay,Maldonado
+URU,Uruguay,11 (sphere),Uruguay,Montevideo
+URU,Uruguay,11 (sphere),Uruguay,Paysandú
+URU,Uruguay,11 (sphere),Uruguay,Rivera
+URU,Uruguay,11 (sphere),Uruguay,Rocha
+URU,Uruguay,11 (sphere),Uruguay,Río Negro
+URU,Uruguay,11 (sphere),Uruguay,Salto
+URU,Uruguay,11 (sphere),Uruguay,San José
+URU,Uruguay,11 (sphere),Uruguay,Soriano
+URU,Uruguay,11 (sphere),Uruguay,Tacuarembó
+URU,Uruguay,11 (sphere),Uruguay,Treinta y Tres
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Anzoátegui
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Apure
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Aragua
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Barinas
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Carabobo
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Cojedes
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Delta Amacuro
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Dependencias Federales
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Distrito Capital
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Falcón
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Guárico
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Lara
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Miranda
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Monagas
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Mérida
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Nueva Esparta
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Portuguesa
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Sucre
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Trujillo
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Táchira
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Vargas
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Yaracuy
+VEN,Venezuela,4 + 10 (Venezuela core),Venezuela,Zulia
+VGI,Virgin Islands,5,British Virgin Islands,(whole territory)
+VGI,Virgin Islands,5,United States Virgin Islands,(whole territory)

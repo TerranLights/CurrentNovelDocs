@@ -1,0 +1,40 @@
+unit,home_polity,owner_map_a,owner_map_b,owner_map_c,owner_map_d,owner_map_e,owner_map_f
+a1:China:Beijing,NCP,NCP,NCP,NCP,NCP,SIN,SIN
+a1:China:Tianjin,NCP,NCP,NCP,NCP,NCP,SIN,SIN
+a1:China:Hebei,NCP,NCP,NCP,NCP,NCP,SIN,SIN
+a1:China:Shandong,NCP,NCP,NCP,NCP,NCP,SIN,SIN
+a1:China:Henan,NCP,NCP,NCP,NCP,NCP,SIN,SIN
+a1:China:Shaanxi,NW,NW,NW,NW,NW,SIN,SIN
+a1:China:Gansu,NW,NW,NW,NW,NW,SIN,SIN
+a1:China:Ningxia,NW,NW,NW,NW,NW,SIN,SIN
+a1:China:Qinghai,QH,QH,QH,QH,NW,SIN,SIN
+a1:China:Sichuan,BAS,BAS,BAS,BAS,BAS,SIN,SIN
+a1:China:Chongqing,BAS,BAS,BAS,BAS,BAS,SIN,SIN
+a1:China:Hubei,BAS,BAS,BAS,BAS,BAS,SIN,SIN
+a1:China:Yunnan,BAS,BAS,BAS,BAS,BAS,SIN,SIN
+a1:China:Guizhou,BAS,BAS,BAS,BAS,BAS,SIN,SIN
+a1:China:Shanxi,JIN,JIN,JIN,JIN,JIN,SIN,SIN
+a1:China:Shanghai,WU,WU,WU,WU,WU,SIN,SIN
+a1:China:Zhejiang,WU,WU,WU,WU,WU,SIN,SIN
+a1:China:Jiangsu,WU,WU,WU,WU,WU,SIN,SIN
+a1:China:Anhui,WU,WU,WU,WU,WU,SIN,SIN
+a1:China:Jiangxi,GAN,GAN,GAN,GAN,GAN,SIN,SIN
+a1:China:Hunan,XIA,XIA,XIA,XIA,XIA,SIN,SIN
+a1:China:Fujian,MIN,MIN,MIN,MIN,MIN,SIN,SIN
+a1:China:Hainan,MIN,MIN,MIN,MIN,MIN,SIN,SIN
+a1:China:Guangdong,YUE,YUE,YUE,YUE,YUE,SIN,SIN
+a1:China:Guangxi,YUE,YUE,YUE,YUE,YUE,SIN,SIN
+a0:Hong Kong S.A.R.,YUE,YUE,YUE,YUE,YUE,SIN,SIN
+a0:Macao S.A.R,YUE,YUE,YUE,YUE,YUE,SIN,SIN
+a1:China:Liaoning,MAN,MAN,MAN,MAN,MAN,MAN,MAN
+a1:China:Jilin,MAN,MAN,MAN,MAN,MAN,MAN,MAN
+a1:China:Heilongjiang,MAN,MAN,MAN,MAN,MAN,MAN,MAN
+a0:Mongolia,MON,MON,MON,MON,MON,MON,MON
+a1:China:Inner Mongol,IMO,IMO,MON,MON,MON,MON,MON
+a1:China:Xinjiang,ETK,ETK,ETK,ETK,ETK,ETK,ETK
+a1:China:Xizang,TIB,TIB,TIB,TIB,TIB,TIB,TIB
+a0:Taiwan,TWN,TWN,TWN,TWN,TWN,TWN,TWN
+a0:North Korea,NKO,NKO,NKO,KOR,KOR,KOR,KOR
+a0:South Korea MINUS a1:South Korea:Jeju,SKO,SKO,SKO,KOR,KOR,KOR,KOR
+a0:Japan,JPN,JPN,JPN,JPN,JPN,JPN,JPN
+a1:South Korea:Jeju,JEJ,SKO,SKO,KOR,KOR,KOR,JEJ

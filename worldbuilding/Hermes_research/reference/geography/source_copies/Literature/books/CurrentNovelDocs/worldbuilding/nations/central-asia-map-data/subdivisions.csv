@@ -1,0 +1,56 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Kazakhstan,Akmola,Region (oblys),793929,#3E6B96,
+Kazakhstan,Aktobe,Region (oblys),958622,#3E6B96,
+Kazakhstan,Almaty Region,Region (oblys),1614234,#3E6B96,"Distinct from Almaty City below — the region surrounds the city, but the city itself is a separate first-order unit."
+Kazakhstan,Atyrau,Region (oblys),718501,#3E6B96,
+Kazakhstan,East Kazakhstan,Region (oblys),716049,#3E6B96,"Split in 2022 to create Abai Region (capital Semey) from its former territory."
+Kazakhstan,Jambyl,Region (oblys),1211705,#3E6B96,
+Kazakhstan,Karaganda,Region (oblys),1130313,#3E6B96,"Split in 2022 to create Ulytau Region (capital Zhezkazgan) from its former territory."
+Kazakhstan,Kostanay,Region (oblys),819117,#3E6B96,
+Kazakhstan,Kyzylorda,Region (oblys),845467,#3E6B96,
+Kazakhstan,Mangystau,Region (oblys),825778,#3E6B96,"Site of the January 2022 'Bloody January'/Qandy Qantar unrest (frameworks survey §3.1) — began here as fuel-price protests before escalating to Almaty; at least 238 killed nationwide in the crackdown."
+Kazakhstan,North Kazakhstan,Region (oblys),511455,#3E6B96,
+Kazakhstan,Pavlodar,Region (oblys),742752,#3E6B96,
+Kazakhstan,Turkistan,Region (oblys),2144993,#3E6B96,"Kazakhstan's most populous region. Split from the former South Kazakhstan Region when Shymkent became a separate city of republican significance in 2018."
+Kazakhstan,Abai,Region (oblys),591903,#3E6B96,"New region, created 2022 by splitting East Kazakhstan Region; capital Semey."
+Kazakhstan,Jetisu,Region (oblys),683995,#3E6B96,"New region, created 2022 by splitting Almaty Region; capital Taldykorgan. Also transliterated Zhetysu."
+Kazakhstan,Ulytau,Region (oblys),217670,#3E6B96,"New region, created 2022 by splitting Karaganda Region; capital Zhezkazgan. Kazakhstan's least-populous first-order unit."
+Kazakhstan,West Kazakhstan,Region (oblys),694590,#3E6B96,
+Kazakhstan,Astana,City of republican significance,1690605,#3E6B96,"National capital since 1997 (as Akmola/Astana; renamed Nur-Sultan 2019–2022, reverted to Astana). Administratively independent of the surrounding Akmola Region."
+Kazakhstan,Almaty City,City of republican significance,2379793,#3E6B96,"Kazakhstan's largest city and former capital (until 1997). Site of the most severe violence during the January 2022 unrest — government buildings and the airport were stormed (frameworks survey §3.1)."
+Kazakhstan,Shymkent,City of republican significance,1313348,#3E6B96,"Made an independent city of republican significance in 2018, splitting off from what was then South Kazakhstan Region (now Turkistan Region)."
+Kazakhstan,Baikonur,City with special status,,#3E6B96,"⚠️ Population not sourced this pass. Uniquely, Baikonur city and the surrounding Baikonur Cosmodrome are leased to Russia (through 2050 under the current agreement) and administered under Russian law as an enclave inside Kazakh sovereign territory — not a normal first-order subdivision. Flagged for the author's attention at Stage 4: drawing convention undecided (a small hatched leased-enclave, a dot-and-label like the Wa treatment elsewhere in this project, or an ordinary city marker with a footnote)."
+Uzbekistan,Andijan,Region (viloyat),3533900,#C68A3D,"Falls within the Fergana Valley — see spheres.csv S1 and the README's dedicated enclave section."
+Uzbekistan,Bukhara,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass."
+Uzbekistan,Fergana,Region (viloyat),4239400,#C68A3D,"The Fergana Valley's namesake region — see spheres.csv S1 and the README's dedicated enclave section."
+Uzbekistan,Jizzakh,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass."
+Uzbekistan,Namangan,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass. Falls within the Fergana Valley — see spheres.csv S1."
+Uzbekistan,Navoiy,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass. Contains the Muruntau gold mine (material survey §2.3), the world's largest by production volume."
+Uzbekistan,Qashqadaryo,Region (viloyat),3731800,#C68A3D,
+Uzbekistan,Samarkand,Region (viloyat),4396800,#C68A3D,"Uzbekistan's most populous region. Historic Silk Road oasis city with a large ethnic-Tajik urban population (frameworks survey §1, §3.2) despite sitting inside Uzbekistan — a live, sometimes politically sensitive point per the frameworks survey."
+Uzbekistan,Sirdaryo,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass."
+Uzbekistan,Surxondaryo,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass."
+Uzbekistan,Tashkent Region,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass. Distinct from Tashkent City below, an independently administered unit it surrounds."
+Uzbekistan,Khorazm,Region (viloyat),,#C68A3D,"⚠️ Population not sourced this pass."
+Uzbekistan,Karakalpakstan,Autonomous republic,2150000,#C68A3D,"⚠️⚠️ SEE README — this project's own Tuva/BARMM-tier open case (material survey §2.3, §8). Constitutionally distinct, ethnically Karakalpak (a Turkic people closer to Kazakh than Uzbek), and holds a dormant Article 89 secession-by-referendum right that triggered violent 2022 protests in Nukus when Tashkent tried to remove it. Roughly 37% of Uzbekistan's total land area on a fraction of its population. Sits directly on the Aral Sea's Uzbek shore (material survey §0, §2.3) — the stranded former fishing port of Muynak is here. Drawable as one ordinary first-order unit under this project's whole-subdivision rule; the open question is political weight, not border geometry — the same category of author decision as Tuva in the Russia map-data package."
+Uzbekistan,Tashkent City,Independent city,3195900,#C68A3D,"National capital, administratively independent of the surrounding Tashkent Region."
+Turkmenistan,Ahal,Region (welayat),,#4F8B6B,"⚠️ Turkmenistan publishes little disaggregated regional population data; not sourced this pass for any of its five welayat. Surrounds the capital, Ashgabat."
+Turkmenistan,Balkan,Region (welayat),,#4F8B6B,"⚠️ Population not sourced this pass. Caspian coast — contains the port of Turkmenbashi (material survey §4)."
+Turkmenistan,Dashoguz,Region (welayat),,#4F8B6B,"⚠️ Population not sourced this pass."
+Turkmenistan,Lebap,Region (welayat),,#4F8B6B,"⚠️ Population not sourced this pass. Contains the Galkynysh gas field (material survey §2.2), the world's second-largest."
+Turkmenistan,Mary,Region (welayat),,#4F8B6B,"⚠️ Population not sourced this pass."
+Turkmenistan,Ashgabat,Capital city,,#4F8B6B,"⚠️ Population not sourced this pass (commonly cited in the ~1 million range, not independently verified this pass). Administratively independent of the surrounding Ahal Region."
+Kyrgyzstan,Batken,Region (oblast),,#8B5FA3,"⚠️ Population not sourced this pass. Holds nearly all of the Fergana Valley's named Uzbek and Tajik exclaves (Sokh, Shakhimardan, Chon-Gara, Tash-Tepa, Vorukh, Kairagach — frameworks survey §2) — see the README's dedicated enclave section. The enclaves are point-features inside this region's own territory, not separately drawable first-order units."
+Kyrgyzstan,Chuy,Region (oblast),985430,#8B5FA3,"Surrounds the capital, Bishkek, without containing it — Bishkek is a separate independent city."
+Kyrgyzstan,Jalal-Abad,Region (oblast),1381800,#8B5FA3,"Falls within the Fergana Valley — see spheres.csv S1. Site, with Osh, of the 2010 Osh riots (frameworks survey §3.4)."
+Kyrgyzstan,Naryn,Region (oblast),316500,#8B5FA3,
+Kyrgyzstan,Osh Region,Region (oblast),1440200,#8B5FA3,"⚠️ This figure may or may not include Osh City's population — the source did not clearly disaggregate the two (see the README's Osh note, and Osh City's own row below). Falls within the Fergana Valley — see spheres.csv S1. Site of the 2010 Osh riots (frameworks survey §3.4): 420–500+ killed, several thousand injured, 400,000 displaced."
+Kyrgyzstan,Talas,Region (oblast),283100,#8B5FA3,
+Kyrgyzstan,Issyk-Kul,Region (oblast),505901,#8B5FA3,
+Kyrgyzstan,Bishkek,Independent city,1360700,#8B5FA3,"National capital, administratively separate from the surrounding Chuy Region."
+Kyrgyzstan,Osh City,Independent city,,#8B5FA3,"⚠️ Population not separately sourced this pass — see the Osh Region row's note on possible figure overlap. Administratively independent since 2003 despite sharing a name with, and sitting inside, Osh Region (material survey §6). Falls within the Fergana Valley — see spheres.csv S1."
+Tajikistan,Khatlon,Region (viloyat),3700000,#B84C4C,
+Tajikistan,Sughd,Region (viloyat),2920000,#B84C4C,"Falls within the Fergana Valley's southern/Tajik edge — see spheres.csv S1. Its Isfara District sits directly adjacent to the Vorukh exclave (see the README's dedicated enclave section)."
+Tajikistan,Districts of Republican Subordination,Republican-subordination district group,2200000,#B84C4C,"⚠️ Not a conventional province — a group of districts administered directly by the national government rather than grouped into one of the other named units (frameworks survey §3.5). Drawable as one first-order unit under this project's whole-subdivision rule."
+Tajikistan,Gorno-Badakhshan,Autonomous region (GBAO),233600,#B84C4C,"Kuhistoni Badakhshon/Gorno-Badakhshan Autonomous Oblast. Sparsely populated but Tajikistan's largest unit by area; borders both Afghanistan and China's Xinjiang (frameworks survey §3.5, §8.2)."
+Tajikistan,Dushanbe,Capital city,1560000,#B84C4C,

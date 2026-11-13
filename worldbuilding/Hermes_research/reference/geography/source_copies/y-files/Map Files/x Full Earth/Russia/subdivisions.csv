@@ -1,0 +1,91 @@
+nation,subdivision_name,subdivision_type,population,color_hex,notes
+Chechnya,Chechnya,Republic,,#8E3A3A,"96.24% ethnic Chechen. Two fought wars of independence, 1994-2009 — see Stage 1 survey §4. Unchanged in the round-1 reorganization (2026-09-27)."
+Dagestan,Dagestan,Republic,,#6B8E4E,"No single ethnic majority — ~30+ recognized peoples (Avar largest at ~800,000). Kept whole per this project's whole-first-order-subdivision rule. Unchanged in the round-1 reorganization (2026-09-27)."
+Ingushetia,Ingush,Republic,,#A65858,93% ethnic Ingush; mono-ethnic — see Stage 1 survey §4. Unchanged in the round-1 reorganization (2026-09-27).
+Kabardino-Balkaria,Kabardin-Balkar,Republic,,#9B6B4E,"Dual-titular republic (Circassian Kabardins + Turkic Balkars). Round-1 reorganization (2026-09-27): [P] flag removed, author confirmed fully independent."
+Karachay-Cherkessia,Karachay-Cherkess,Republic,,#8C6A8C,"Dual-titular republic (Turkic Karachays + Circassian Cherkess). Round-1 reorganization (2026-09-27): [P] flag removed, author confirmed fully independent (follow-up answer, after initially being left off the round-1 list)."
+North Ossetia-Alania,North Ossetia,Republic,,#B0763F,"Ossetians are Indo-European, not Turkic or North Caucasian by language family, but sit geographically/politically inside the North Caucasus bloc. Round-1 reorganization (2026-09-27): [P] flag removed, author confirmed fully independent."
+Russia,Belgorod,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Bryansk,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,City of St. Petersburg,Federal City,,#3B6EA5,Core Russia — unchanged.
+Russia,Kaluga,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Kursk,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Leningrad,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Lipetsk,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Moskovskaya,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Moskva,Federal City,,#3B6EA5,Core Russia — unchanged.
+Russia,Novgorod,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Orel,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Pskov,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Ryazan',Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Smolensk,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Tambov,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Tula,Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Tver',Region,,#3B6EA5,Core Russia — unchanged.
+Russia,Voronezh,Region,,#3B6EA5,Core Russia — unchanged.
+Künnarantaiga,Sakha (Yakutia),Autonomous Province,,#2E6B8E,"Round-1 reorganization (2026-09-27): merges old Sakha + The Russian Far East + Irkutsk Oblast into one nation. Named Künnarantaiga (""Land of the Sunlit Taiga"") 2026-09-27 — Yakut күн + Buryat наран + taiga. ~98% of Russia's diamonds via ALROSA — see Stage 1 survey §6."
+Künnarantaiga,Amur,Region,,#2E6B8E,Formerly The Russian Far East. Outer Manchuria core — see Stage 1 survey §2.1. Far Eastern Republic (1920-22) precedent.
+Künnarantaiga,Buryat,Republic,,#2E6B8E,Formerly The Russian Far East. This resolves the Stage 1 survey's own open Buryatia question (§2.3) by folding it into this Far Eastern polity — one of the two options the survey left live.
+Künnarantaiga,Chita,Region,,#2E6B8E,Formerly The Russian Far East. Zabaykalsky Krai (Transbaikal) — part of the historical Far Eastern Republic (1920-22) footprint.
+Künnarantaiga,Chukchi Autonomous Okrug,Autonomous Province,,#2E6B8E,Formerly The Russian Far East. Crosses the antimeridian near the Bering Strait — see the east close-up map's antimeridian handling.
+Künnarantaiga,Kamchatka,Region,,#2E6B8E,Formerly The Russian Far East.
+Künnarantaiga,Khabarovsk,Territory,,#2E6B8E,Formerly The Russian Far East. Outer Manchuria core — see Stage 1 survey §2.1.
+Künnarantaiga,Maga Buryatdan,Region,,#2E6B8E,Formerly The Russian Far East. Magadan Oblast.
+Künnarantaiga,Primor'ye,Territory,,#2E6B8E,Formerly The Russian Far East. Outer Manchuria core — see Stage 1 survey §2.1. Primorsky Krai.
+Künnarantaiga,Sakhalin,Region,,#2E6B8E,Formerly The Russian Far East. Includes the Kurils administratively (whole-subdivision rule) — see Stage 1 survey §2.2.
+Künnarantaiga,Yevrey,Autonomous Region,,#2E6B8E,Formerly The Russian Far East. Jewish Autonomous Oblast — a 1934 Soviet settlement project; functions as an ordinary Russian-majority oblast with a legacy name.
+Künnarantaiga,Irkutsk,Region,,#2E6B8E,"Round-1 reorganization (2026-09-27): moved out of the old Eastern Siberia into this nation, per author instruction."
+Siberia,Khakass,Republic,,#4E8B6E,"Formerly Eastern Siberia. Khakas titular republic (Turkic-Siberian tier) — folded in, not separately researched, flagged."
+Siberia,Krasnoyarsk,Territory,,#4E8B6E,Formerly Eastern Siberia.
+Siberia,Altay,Territory,,#4E8B6E,Formerly Western Siberia.
+Siberia,Gorno-Altay,Republic,,#4E8B6E,"Formerly Western Siberia. Altaian titular republic (Turkic-Siberian tier) — folded in, not separately researched, flagged."
+Siberia,Kemerovo,Region,,#4E8B6E,Formerly Western Siberia.
+Siberia,Khanty-Mansiy,Autonomous Province,,#4E8B6E,Formerly Western Siberia.
+Siberia,Novosibirsk,Region,,#4E8B6E,Formerly Western Siberia.
+Siberia,Omsk,Region,,#4E8B6E,Formerly Western Siberia.
+Siberia,Tomsk,Region,,#4E8B6E,Formerly Western Siberia.
+Siberia,Tyumen',Region,,#4E8B6E,Formerly Western Siberia.
+Siberia,Yamal-Nenets,Autonomous Province,,#4E8B6E,Formerly Western Siberia.
+Tuva,Tuva,Republic,,#7A4FA0,"88.7% ethnic Tuvan; real 1993 constitutional secession clause — see Stage 1 survey §2.3. Unchanged territory in the round-1 reorganization (2026-09-27). NEW: author confirmed an economic trade agreement with Mongolia — canon fact, not a border change."
+Idelsk-Uralia,Bashkortostan,Republic,,#8D7B5C,"Round-1 reorganization (2026-09-27): merges the old Urals Republic + Bashkortostan + The Volga Republic (minus Volgograd/Astrakhan) + Tatarstan + The Northern Republic, plus four oblasts moved out of Russia's core, into one nation. By far the largest nation on the map by subdivision count (27). Extremely culturally/ethnically diverse by design — Volga-Ural Turkic, Finno-Ugric, and Slavic-core territory in one polity, per author instruction. Name not yet decided — placeholder ""Idelsk-Uralia""."
+Idelsk-Uralia,Tatarstan,Republic,,#8D7B5C,"Formerly its own nation (the strongest non-Caucasus economic secession case per Stage 1 survey — one of only five real federal-budget donor regions). Round-1 reorganization (2026-09-27) merges it into Idelsk-Uralia — a deliberate call, flagged for a second look, not an oversight."
+Idelsk-Uralia,Ivanovo,Region,,#8D7B5C,Formerly core Russia. Round-1 reorganization (2026-09-27): moved into Idelsk-Uralia per author instruction.
+Idelsk-Uralia,Kostroma,Region,,#8D7B5C,Formerly core Russia. Round-1 reorganization (2026-09-27): moved into Idelsk-Uralia per author instruction.
+Idelsk-Uralia,Vladimir,Region,,#8D7B5C,Formerly core Russia. Round-1 reorganization (2026-09-27): moved into Idelsk-Uralia per author instruction.
+Idelsk-Uralia,Yaroslavl',Region,,#8D7B5C,Formerly core Russia. Round-1 reorganization (2026-09-27): moved into Idelsk-Uralia per author instruction.
+Idelsk-Uralia,Arkhangel'sk,Region,,#8D7B5C,Formerly The Northern Republic.
+Karelia,Karelia,Republic,,#C9A227,"Round-2 reorganization (2026-09-27): split out of Idelsk-Uralia into a new, separate ""semi-stable proto-country"" per author instruction — Stage 1 of a longer-term plan (eventual merge into Finland, plus an ethnic-Russian population transfer, are NOT built yet; Finland doesn't exist as a drawn nation anywhere in this project). Named ""Karelia"" (author-confirmed, no longer a placeholder). See ""Russia - Karelia, Murmansk and Finland (pending future decision).md"" in 01 follow-up/ for full context. Formerly The Northern Republic. Finno-Ugric/Karelian titular republic — folded in, not separately researched, flagged."
+Idelsk-Uralia,Komi,Republic,,#8D7B5C,"Formerly The Northern Republic. Komi titular republic — folded in, not separately researched, flagged."
+Karelia,Murmansk,Region,,#C9A227,"Round-2 reorganization (2026-09-27): split out of Idelsk-Uralia into a new, separate ""semi-stable proto-country"" per author instruction — Stage 1 of a longer-term plan (eventual merge into Finland, plus an ethnic-Russian population transfer, are NOT built yet; Finland doesn't exist as a drawn nation anywhere in this project). Named ""Karelia"" (author-confirmed, no longer a placeholder) — Murmansk itself keeps its own real name as a subdivision, same as every other region here. See ""Russia - Karelia, Murmansk and Finland (pending future decision).md"" in 01 follow-up/ for full context. Formerly The Northern Republic."
+Idelsk-Uralia,Nenets,Autonomous Province,,#8D7B5C,"Formerly The Northern Republic. Nenets indigenous Arctic population — folded in, not separately researched, flagged."
+Idelsk-Uralia,Vologda,Region,,#8D7B5C,Formerly The Northern Republic.
+Idelsk-Uralia,Chelyabinsk,Region,,#8D7B5C,Formerly The Urals Republic.
+Idelsk-Uralia,Kurgan,Region,,#8D7B5C,Formerly The Urals Republic.
+Idelsk-Uralia,Orenburg,Region,,#8D7B5C,Formerly The Urals Republic.
+Idelsk-Uralia,Perm',Territory,,#8D7B5C,Formerly The Urals Republic.
+Idelsk-Uralia,Sverdlovsk,Region,,#8D7B5C,Formerly The Urals Republic.
+Idelsk-Uralia,Udmurt,Republic,,#8D7B5C,"Formerly The Urals Republic. Udmurt titular republic — folded in, not separately researched, flagged."
+Idelsk-Uralia,Chuvash,Republic,,#8D7B5C,"Formerly The Volga Republic. Chuvash titular republic — folded in, not separately researched, flagged."
+Idelsk-Uralia,Kirov,Region,,#8D7B5C,Formerly The Volga Republic.
+Idelsk-Uralia,Mariy-El,Republic,,#8D7B5C,"Formerly The Volga Republic. Mari titular republic — folded in, not separately researched, flagged."
+Idelsk-Uralia,Mordovia,Republic,,#8D7B5C,"Formerly The Volga Republic. Mordvin titular republic — folded in, not separately researched, flagged."
+Idelsk-Uralia,Nizhegorod,Region,,#8D7B5C,Formerly The Volga Republic.
+Idelsk-Uralia,Penza,Region,,#8D7B5C,Formerly The Volga Republic.
+Idelsk-Uralia,Samara,Region,,#8D7B5C,Formerly The Volga Republic.
+Idelsk-Uralia,Saratov,Region,,#8D7B5C,Formerly The Volga Republic.
+Idelsk-Uralia,Ul'yanovsk,Region,,#8D7B5C,Formerly The Volga Republic.
+Donska-Kubania,Krasnodar,Territory,,#C77B3E,"Formerly Southern Russia. Kuban Cossack region — real distinct regional identity, not separately researched this pass."
+Donska-Kubania,Adygey,Republic,,#C77B3E,"Formerly Southern Russia. Circassian titular republic, but only ~25% ethnic Adyghe — folded in, not separately researched."
+Donska-Kubania,Rostov,Region,,#C77B3E,"Formerly Southern Russia. Don Cossack region — real distinct regional identity, not separately researched this pass."
+Donska-Kubania,Stavropol',Territory,,#C77B3E,Formerly Southern Russia.
+Donska-Kubania,Kalmyk,Republic,,#C77B3E,"Formerly its own nation, Kalmykia. Round-1 reorganization (2026-09-27): merges into Donska-Kubania. Europe's only Buddhist-majority republic. Name not yet decided — placeholder ""Donska-Kubania""."
+Donska-Kubania,Astrakhan',Region,,#C77B3E,Formerly The Volga Republic. Round-1 reorganization (2026-09-27): moved into Donska-Kubania per author instruction.
+Donska-Kubania,Volgograd,Region,,#C77B3E,Formerly The Volga Republic. Round-1 reorganization (2026-09-27): moved into Donska-Kubania per author instruction.
+Donska-Kubania,Crimea,Autonomous Zone,,#C77B3E,"Added 2026-09-30 (author, Europe eastern-Ukraine session): Crimea goes to Donska-Kubania as an AUTONOMOUS ZONE — it was an autonomous unit through almost the whole Ukrainian period (Autonomous Republic of Crimea), so the designation continues what it already was; the Kerch Strait joins it to Krasnodar. Natural Earth carries it as a Russian admin-1 unit. Name, capital (Simferopol is the obvious candidate), powers and Crimean Tatar representation not yet decided."
+Donska-Kubania,Sevastopol,Autonomous Zone,,#C77B3E,"Added 2026-09-30: assumed to go with Crimea in the Autonomous Zone (the author spoke of Crimea only) — Sevastopol had a separate special-city status under both Ukraine and Russia, so whether it stays inside the zone or has its own status is OPEN. Natural Earth carries it as a Russian admin-1 unit."
+Russia,Luhans'k,Oblast,,#3B6EA5,"Added 2026-09-30 (author, Europe eastern-Ukraine session): part of eastern Ukraine becomes Russian; the author confirmed the nation: Russia (assumed earlier, confirmed here). Natural Earth carries it as a Ukrainian admin-1 unit. Whole oblast (Luhansk). "
+Russia,Donets'k,Oblast,,#3B6EA5,"Added 2026-09-30 (author, Europe eastern-Ukraine session): part of eastern Ukraine becomes Russian; the author confirmed the nation: Russia (assumed earlier, confirmed here). Natural Earth carries it as a Ukrainian admin-1 unit. Whole oblast (Donetsk). "
+Russia,Kharkiv,Oblast,,#3B6EA5,"Added 2026-09-30 (author, Europe eastern-Ukraine session): part of eastern Ukraine becomes Russian; the author confirmed the nation: Russia (assumed earlier, confirmed here). Natural Earth carries it as a Ukrainian admin-1 unit. Whole oblast. Borders Belgorod. "
+Russia,Dnipropetrovs'k,Oblast,,#3B6EA5,"Added 2026-09-30 (author, Europe eastern-Ukraine session): part of eastern Ukraine becomes Russian; the author confirmed the nation: Russia (assumed earlier, confirmed here). Natural Earth carries it as a Ukrainian admin-1 unit. Whole oblast (author: 100% of Dnipropetrovsk, including the right bank: Dnipro city, Kryvyi Rih, Kamianske, Nikopol). "
+Russia,Zaporizhzhya,Oblast,,#3B6EA5,"Added 2026-09-30 (author, Europe eastern-Ukraine session): part of eastern Ukraine becomes Russian; the author confirmed the nation: Russia (assumed earlier, confirmed here). Natural Earth carries it as a Ukrainian admin-1 unit. Whole oblast (Zaporizhzhia); lies almost entirely on the Dnieper's left bank. "
+Russia,Kherson,Oblast (left bank only),,#3B6EA5,"Added 2026-09-30 (author, Europe eastern-Ukraine session): part of eastern Ukraine becomes Russian; the author confirmed the nation: Russia (assumed earlier, confirmed here). Natural Earth carries it as a Ukrainian admin-1 unit. ONLY the part east of the Dnieper (about 75% of the oblast by area): a DISTRICT-LEVEL EXCEPTION to the whole-first-order-unit rule, drawn from kherson_left_bank.geojson (right bank incl. Kherson city stays Ukrainian, neutral background). It carries the land link to Crimea. Exact district (raion) cut still to be checked. "
