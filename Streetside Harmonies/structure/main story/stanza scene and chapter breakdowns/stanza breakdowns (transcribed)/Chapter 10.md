@@ -23,3 +23,9 @@
 **Blank:** stanzas 13–14 (rows exist, no content). **Cut:** stanza 15 (crossed out).
 
 **Additional note found in red ink below the table (not part of the stanza grid):** "V gets extra siligel & overclocks to produce a faint glow from her optics in the dark. They find some powerful magnets later used for M's 'floating bridge' H-G. On the way home, C&V are literally 'attached at the hip.'"
+
+Appended additional notes:
+- Stanzas 3, 4, and 5 are to be converged into two stanzas; currently unsure how
+- Stanzas 6, 7, 8, and 9 may possibly be converged into two stanzas; currently unsure if they will; open to possibly to-be-discussed
+- 
+- 
