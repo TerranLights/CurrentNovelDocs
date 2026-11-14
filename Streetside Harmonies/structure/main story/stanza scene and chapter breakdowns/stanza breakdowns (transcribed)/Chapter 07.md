@@ -12,9 +12,9 @@
 | — | *** scene break *** | | | |
 | 4 | M is out w/ R buying whiskey for Alan | M&R are in a liquor specialty store; there are many fine products | M picks out a very fine aged whiskey (from Alan's birth-year); M: "this one" (was that when) | They go to the front; M pays; R puts it in her bag; they leave |
 | — | *stz. 5, 6, and 7 to be compressed from three stanzas into two* | | | |
-| 5 | M&R pass a fancy restaurant | [¶n] M has his hands in his pockets, R has her arm linked in his | [¶n] They pass a fancy restaurant; there's jazz music playing, the windows are open | [¶n] M touches his right pocket with his free hand |
-| 6 | M hides his worry about his lack of success | [¶n] R comments on something; M seems distracted/[detached] and doesn't answer | [¶n] R shakes him... M seems alert now | [¶n] M just has a lot on his mind; R looks at him, then at the restaurant |
-| 7 | R hugs M and they go to the market | [¶n] R whisks in front of him and hugs onto him | [¶n] R: "winter hasn't come yet, the S.R. market's probably still open" | [¶n] M nods, smiles just a little; they go |
+| 5 | M&R pass a fancy restaurant | [¶5] M has his hands in his pockets, R has her arm linked in his | [¶5] They pass a fancy restaurant; there's jazz music playing, the windows are open | [¶5] M touches his right pocket with his free hand |
+| 6 | M hides his worry about his lack of success | [¶5] R comments on something; M seems distracted/[detached] and doesn't answer | [¶5] R shakes him → "..babe? ..babe?" // [¶6] // M seems alert now | [¶6] M just has a lot on his mind; R looks at him, then at the restaurant |
+| 7 | R hugs M and they go to the market | [¶6] R whisks in front of him and hugs onto him | [¶6] R: "winter hasn't come yet, the S.R. market's probably still open" | [¶6] M nods, smiles just a little; they go |
 | — | *** scene break *** | | | |
 | 8 | C is doing "Random Rorschach" w/ V | C&V are in the afterglow; C is shuffling cards & throwing dice w/ the lava lamps for V | [Description] the decorations on the walls, glow of the lamps; a home filled w/ light & love; sound of dice {{{Holoputer}}} | Dice hitting the floor is the cue for V; she snaps {ocular-shutters} the lamps, looks at the cards & dice; "salmon holding an umbrella!" |
 | 9 | weird things give V an idea | V thinks of something bizarre {fringe?} → R | V thinks to make a present for R: (?, ?);  V: "remember R:[xyz]?" → C laughs: "I do" | Two saxophones w/ hands; V giggles (tin[ny] metallic) that the saxophones are dancing around |
