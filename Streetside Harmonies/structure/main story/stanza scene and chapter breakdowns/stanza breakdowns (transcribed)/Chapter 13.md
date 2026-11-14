@@ -17,6 +17,6 @@
 
 Appended additional notes:
 - Stanzas 1, 2, and 3 are to be converged into two stanzas; currently unsure how
-- Stanzas 6, 7, 8, and 9 may possibly be converged into two stanzas; currently unsure if they will; open to possibly to-be-discussed
+- 
 - 
 - 
