@@ -14,3 +14,9 @@
 | 7 | C ponders his life until Mtn.View; they say their goodbyes | C becomes a bit uneasy, as if contemplating | Mulls/mouths "gratitude," looking out the window; V squeezes his hand | They get off, wish each other well; Iman asks them to give his regards to Alan |
 
 **Cut:** final stanza (crossed out; visible content underneath reads "They get their bearings & make headway" — up-arrow marks may indicate this was meant to move elsewhere rather than be deleted outright, worth confirming).
+
+Appended additional notes:
+- Stanzas 1, 2, and 3 are to be converged into two stanzas; currently unsure how
+- Stanzas 6, 7, 8, and 9 may possibly be converged into two stanzas; currently unsure if they will; open to possibly to-be-discussed
+- 
+- 
