@@ -15,7 +15,7 @@ Saved before launch, 2026-11-03. Written from the method's `_dispatch/BRIEF_TEMP
 1. `<DM>/RUNBOOK.md`: the Terms (jurisdiction, the jurisdiction library), Stage 1, and the standing rules.
 2. `<DM>/README.md`, section 3 (law: system, orientation and culture).
 3. The template: `<DM>/Templates/T1_Lineage_Profiles.md`, the intro and **01 - Legal**. Follow its fields and its Part B table exactly.
-4. `<RESULTS>/Targets/Cascadia/00 - Scope.md`: section 1 (territory and the tribal groups), section 2 (which units live in these jurisdictions), section 4 (seams), and the author's answers at the end of section 8.
+4. `<RESULTS>/Targets/North America/Cascadia/00 - Scope.md`: section 1 (territory and the tribal groups), section 2 (which units live in these jurisdictions), section 4 (seams), and the author's answers at the end of section 8.
 5. `<DM>/Shared/Sources_and_Datasets.md`, sections C (the legal-system row) and E (legal orientation measures).
 6. `<RESULTS>/Data/Unit_Territories.md` (which counties belong to which unit, for "variation inside the jurisdiction").
 7. Indigenous law is the nations' own: use their published constitutions and codes first (tag official), and don't characterize a nation's law from outside sources alone where its own texts are available.

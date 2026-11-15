@@ -29,7 +29,7 @@ Saved before launch, 2026-11-02. Written from the method's `_dispatch/BRIEF_TEMP
 - `<WB>/extractions/Latin America - Regional Frameworks and Colonial Origins (survey).md` (for the Bajas).
 - Cascadia's weight in Tepenia: the Census I origin table in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` (Cascadia: 403,029). Read only.
 
-**Write to:** `<RESULTS>/Targets/Cascadia/00 - Scope.md`, and nothing else, except a `held_for_review_<name>.md` beside it if needed. Don't edit the trackers, the method files or any other repo. Never write to the TepenianUniverseTimeline or InnerTepeniaGDD repos.
+**Write to:** `<RESULTS>/Targets/North America/Cascadia/00 - Scope.md`, and nothing else, except a `held_for_review_<name>.md` beside it if needed. Don't edit the trackers, the method files or any other repo. Never write to the TepenianUniverseTimeline or InnerTepeniaGDD repos.
 
 **What the scope must cover** (the template's sections):
 1. **Territory:** every pre-war jurisdiction in Cascadia, as the project's territory files define it. The national level counts too (the U.S., Canada and Mexico), and tribal nations with their own courts. There are many tribal jurisdictions (California alone has over a hundred federally recognized tribes; British Columbia has many First Nations, some with self-government treaties). **Don't list every one:** propose a grouping, name representative cases (for example, nations with their own courts or modern treaties), and flag the grouping for the author.

@@ -2,7 +2,7 @@ STATUS: SET UP 2026-11-15, NOT STARTED. Waiting for the author's "go", which dep
 
 # Cascadia Stage 1 run (waves 2–4): start here
 
-**What this run does:** DCI Stage 1, the eleven lineage profiles, for each of Cascadia's eleven units. That is "Session A" of the road to Aries in `../Targets/Cascadia/PROGRESS TRACKER.md`. Claude does the research: Hermes, Qwen and Strata were retired 2026-11-15, and their output is archived and never cited. The briefs were written 2026-11-03 and updated 2026-11-10. They are unchanged except for the overrides below.
+**What this run does:** DCI Stage 1, the eleven lineage profiles, for each of Cascadia's eleven units. That is "Session A" of the road to Aries in `../Targets/North America/Cascadia/PROGRESS TRACKER.md`. Claude does the research: Hermes, Qwen and Strata were retired 2026-11-15, and their output is archived and never cited. The briefs were written 2026-11-03 and updated 2026-11-10. They are unchanged except for the overrides below.
 
 **Budget:**
 - About 45 web searches per unit, about 495 in all.
@@ -62,7 +62,7 @@ Parked, not part of this run: L6 and L7, the legal profiles. Law lives only in L
 
 ## After the run (main session)
 1. Stage 7 verification per unit; mark each `VERIFIED <date>` in the Verified column and in each file's STATUS line.
-2. Update `../Targets/Cascadia/PROGRESS TRACKER.md` (the Units table and the Stage 1 row) and `../MASTER TRACKER.md`.
+2. Update `../Targets/North America/Cascadia/PROGRESS TRACKER.md` (the Units table and the Stage 1 row) and `../MASTER TRACKER.md`.
 3. Bring the agents' questions to the author.
 4. Next: Session B (Stages 2 and 3), then Session C (Aries).
 

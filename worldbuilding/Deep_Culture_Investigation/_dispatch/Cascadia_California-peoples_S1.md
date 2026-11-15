@@ -15,7 +15,7 @@ Saved before launch, 2026-11-03. Written from the method's `_dispatch/BRIEF_TEMP
 1. `<DM>/RUNBOOK.md`: the Terms (unit, the unit library and the lobe rule), Stage 1, and the standing rules.
 2. `<DM>/README.md`, sections 3 (the lineage profiles) and 3b (the map-method principles).
 3. The template: `<DM>/Templates/T1_Lineage_Profiles.md`. Follow its fields for profiles 01-11.
-4. `<RESULTS>/Targets/Cascadia/00 - Scope.md`: this unit's row in section 2 (founders, later layers, framework, tier-2 peoples), sections 3 to 5 (weights, seams, what is left out), section 7 (project material), and the author's answers at the end of section 8.
+4. `<RESULTS>/Targets/North America/Cascadia/00 - Scope.md`: this unit's row in section 2 (founders, later layers, framework, tier-2 peoples), sections 3 to 5 (weights, seams, what is left out), section 7 (project material), and the author's answers at the end of section 8.
 5. `<RESULTS>/Data/Unit_Territories.md` (this unit's territory).
 6. `<DM>/Shared/Sources_and_Datasets.md` (section C, the lineage sources, and B, sub-national data) and `<DM>/Shared/Regional_Frameworks.md`.
 7. Woodard: `<WB>/extractions/American_Nations_Extraction.md`, and the book itself at `<WB>/source-books/` (the PDF) where the extraction is too thin.

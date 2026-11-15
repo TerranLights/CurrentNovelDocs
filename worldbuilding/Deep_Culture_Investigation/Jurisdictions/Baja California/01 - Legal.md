@@ -96,7 +96,7 @@ No South Asian works were used and no South Asian community appeared in the evid
 - **El Imparcial (Tijuana),** March 30, 2026, on the national civil and family code. [practitioner; full citation in the federal profile]
 - **Brostoff, Seth,** Law Library of Congress blog, 2017 (the 1870 code for the Federal District and Baja California). [practitioner; full citation in the federal profile]
 - **Wikipedia (English):** "Baja California" (statehood, the 1989 election, governors, municipalities); "Same-sex marriage in Mexico"; "2025 Mexican judicial elections"; "Prostitution in Mexico". https://en.wikipedia.org/wiki/Baja_California and the pages cited in the federal profile [practitioner]
-- **Project files:** `Targets/Cascadia/00 - Scope.md` (units, seams, the T8 group, populations); `Data/Unit_Territories.md`; `worldbuilding/nations/México (post-war) - Territory and Open Research.md` (canon: Baja California goes to Cascadia). No disagreement with canon was found.
+- **Project files:** `Targets/North America/Cascadia/00 - Scope.md` (units, seams, the T8 group, populations); `Data/Unit_Territories.md`; `worldbuilding/nations/México (post-war) - Territory and Open Research.md` (canon: Baja California goes to Cascadia). No disagreement with canon was found.
 
 ### Read only from search summaries
 - The October 29, 2021 abortion vote (29 to 9): https://www.adn40.mx/politica/2021-10-29/congreso-baja-california-despenalizacion-aborto-erv/; https://zetatijuana.com/2021/10/aprueban-en-codigo-penal-interrumpir-el-embarazo-hasta-la-semana-12-de-gestacion/ [practitioner]

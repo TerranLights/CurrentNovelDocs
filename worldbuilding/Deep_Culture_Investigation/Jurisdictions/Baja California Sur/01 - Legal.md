@@ -75,7 +75,7 @@ No South Asian works were used and no South Asian community appeared in the evid
 - **Brostoff, Seth,** Law Library of Congress blog, 2017. [practitioner; full citation in the federal profile]
 - **Wikipedia (Spanish), "Baja California Sur"** (territorial history, statehood, municipalities, capital). https://es.wikipedia.org/wiki/Baja_California_Sur [practitioner]
 - **Wikipedia (English), "Governor of Baja California Sur";** "Same-sex marriage in Mexico". https://en.wikipedia.org/wiki/Governor_of_Baja_California_Sur; https://en.wikipedia.org/wiki/Same-sex_marriage_in_Mexico [practitioner]
-- **Project files:** `Targets/Cascadia/00 - Scope.md` (the unit, the seam, populations, the peoples who did not survive the mission period); `Data/Unit_Territories.md`; `worldbuilding/nations/México (post-war) - Territory and Open Research.md` (canon: Baja California Sur goes to Cascadia). No disagreement with canon was found.
+- **Project files:** `Targets/North America/Cascadia/00 - Scope.md` (the unit, the seam, populations, the peoples who did not survive the mission period); `Data/Unit_Territories.md`; `worldbuilding/nations/México (post-war) - Territory and Open Research.md` (canon: Baja California Sur goes to Cascadia). No disagreement with canon was found.
 
 ### Read only from search summaries
 - The June 2, 2022 abortion vote (16 to 3; the ninth entity): https://politica.expansion.mx/estados/2022/06/02/baja-california-sur-aprueba-despenalizacion-del-aborto; https://www.excelsior.com.mx/nacional/baja-california-sur-aprueba-la-despenalizacion-del-aborto/1518648; https://www.kjzz.org/2022-06-03/content-1785120-baja-california-sur-now-9th-mexican-state-decriminalize-abortion [practitioner]

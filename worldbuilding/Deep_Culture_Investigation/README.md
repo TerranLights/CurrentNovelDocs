@@ -11,7 +11,7 @@ How the people of each culture represented in the Tepenian Federation understand
 | `MASTER TRACKER.md` | Every target and unit, with its status. **Read first when resuming.** |
 | `Units/<unit>/` | The unit library: each regional culture, ethnic identity or Indigenous people, researched once and reused by every target that contains it (Stages 1-4) |
 | `Jurisdictions/<jurisdiction>/` | Material for the law research of Capricorn and Libra, the only places DCI researches law: each pre-war state, province or country (or tribal nation with its own courts), with its legal profile, written once and reused |
-| `Targets/<target>/` | Each successor nation: its scope, progress tracker, composites and divergence (Stages 0, 5 and 6) |
+| `Targets/<region>/<target>/` | Each successor nation, grouped by region (Africa, Asia, Europe, Latin America, North America, Oceania, Russia; the Asia folder holds the Central Asia, East Asia, Mainland Southeast Asia and Maritime Southeast Asia regions); **all 84 set up 2026-11-15**: `PROGRESS TRACKER.md`, `05 - Composite/` and `06 - Divergence/`, plus `00 - Scope.md` once Stage 0 is done (Stages 0, 5 and 6). The folder is the nation's name; four rows drop their parenthetical note (Argentina, Russia, Demilitarized Zone, Sicilia). |
 | `Data/` | Values extracted from datasets, with citations. Raw datasets stay out of git. |
 | `_dispatch/` | The briefs actually sent to research agents, saved before launch |
 

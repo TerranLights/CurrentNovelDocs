@@ -1,4 +1,4 @@
-STATUS: Cascadia's lobes entered 2026-11-03, from `Targets/Cascadia/00 - Scope.md` section 3 (accepted by the author 2026-11-02)
+STATUS: Cascadia's lobes entered 2026-11-03, from `Targets/North America/Cascadia/00 - Scope.md` section 3 (accepted by the author 2026-11-02)
 
 # Unit territories
 
