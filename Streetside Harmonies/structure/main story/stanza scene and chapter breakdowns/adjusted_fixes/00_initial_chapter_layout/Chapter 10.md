@@ -1,0 +1,27 @@
+## Chapter 10 — "C&V exploring Keysight [Technologies]"
+
+*Layout source: `Chapter 10.md` in `stanza breakdowns (transcribed)/`. Stanza text is unchanged from the source.*
+
+| stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
+|---|---|---|---|---|
+| 1 | C&M packing | C&M are packing; M asks if V is packed. C checks. | C finds V → asks if she's packed. She's getting there. | After checking, C returns to M. Upon finishing, they head out to the patio |
+| 2 | V makes Alan's present & contemplates | V is in the bedroom making Alan's present. She needs to check what Alan looked like. | After leaving the room for a moment, she returns and continues bending & twisting | Upon finishing, she puts it in her bag; sees C&M through the window, & retrieves drinks |
+| — | *stz. 3, 4, and 5 to be compressed from three stanzas into two* | | | |
+| 3 | V joins C&M outside; M leaves | Seeing M has a hand on C's shoulder, V grabs her violin & joins them | V asks about the tape she heard from years ago; "what happened?"; says M sounded like s[ome]o[ne] else, like another person |
+| 4 | *(no summary in source)* *(flagged for relocation later)* | Using some old parts, C makes V a wedding ring | V asks if Alan is her father too now; C is sad | V not wanting to be sad sad, jolts the conversation to more positive [things] |
+| 5 | *(blank in source)* | | | |
+| 6 | Locate Keysight Technologies park | Walking through the park, they reminisce; V stays positive & focuses on good things | They catch a glimpse of a building that looks pre-war | With some effort, they make out the rain-/moss-imprinted name |
+| 7 | Take an interest and explore | They need to be sure to get back in time, but are still curious. Proceed to search | They look for a key, but there's nothing. Find another room; it's open | They see some impressive-looking pre-war tech |
+| 8 | are impressed at the pre-war tech | Happen across some ancient junk that might actually still be functional | One piece is small & light enough to hold and carry [optical drive guts] | V puts it in her pack to later stow *(adjust in paper version)* |
+| 9 | It grows dark outside; time to leave | C tries to read s[ome]th[in]g printed; asks V['s] help | Seeing it's dark, they leave. C resolves to tell M | Takes V home |
+| — | *** scene break *** | | | |
+| 10 | C&V sharing together [innovative house parts] | C&V are in the early stages of a DIY project. It's currently unrecognizable (C is tinkering w/ the old tech) | M arrives home, puts his things down; C calls M and says he found something interesting | C shows → puts the piece of pre-war tech in M's hand[s]; V is excited and asks what it is. They have no idea |
+| 11 | C resolves to check when they can | V takes a guess at what it is. V offers to help {{DIY}} | {{DIY}} V tries connecting wires, dials, etc. to it, but can't get any results | C resolves to take a better, closer look after they return from Monterey |
+| 12 | Bedtime; tomorrow's a big day | M turns in for the night; leaves C&V to their DIY activity | After "wrapping up" DIY, C tells V they have a big day tomorrow | C kisses V, plugs her in; C continues on the DIY project & figuring out what it is |
+
+**Blank:** stanzas 13–14 (rows exist, no content). **Cut:** stanza 15 (crossed out).
+**Additional note found in red ink below the table (not part of the stanza grid):** "V gets extra siligel & overclocks to produce a faint glow from her optics in the dark. They find some powerful magnets later used for M's 'floating bridge' H-G. On the way home, C&V are literally 'attached at the hip.'"
+
+Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
+- Stanzas 3, 4, and 5 are to be converged into two stanzas; currently unsure how
+- Stanzas 6, 7, 8, and 9 may possibly be converged into two stanzas; currently unsure if they will; open to possibly to-be-discussed

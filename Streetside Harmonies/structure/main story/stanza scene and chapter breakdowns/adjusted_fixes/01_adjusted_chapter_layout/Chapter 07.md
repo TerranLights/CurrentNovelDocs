@@ -1,0 +1,27 @@
+## Chapter 7 — "A morning together; R comments on M[artin]'s [stall?]"
+
+*Adjusted from `00_initial_chapter_layout/Chapter 07.md`. Compression regroups cells only: every source cell is kept verbatim, labeled `(stz.cell)` with the source position (cell 1 = [YOU][NEED],[GO], 2 = [SEARCH][FIND][TAKE], 3 = [RETURN][CHANGE]) and joined with `//`. Empty "(blank)" cells are left out of merged sections.*
+
+**Compression applied (author-approved 2026-11-14):** stz 5–7 → 2 following the author's own `[¶5]`/`[¶6]` tags (new 5 and 6). The split into the three circle sections is mine, for the author to check. 13 → 12 stanzas.
+
+### FLAGGED FOR STRUCTURAL/CONCEPTUAL EDITING
+
+| stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
+|---|---|---|---|---|
+| 1 | C&V in the morning | Sunlight, love, & music fill the house; Garmarna "Klev..." playing as music {{DIY}} | Coffee is cooking; C is doing a DIY project... {{DIY}} | {{DIY}} C calls to V if she wants some coolant; V says maybe later, she's fine now |
+| 2 | V is throwing dice; C is worried | V is sitting on the floor in the room throwing dice around, eyes flickering as they land {{{Holoputer}}} | V goes to the kitchen and picks up coolant; sees C worried over his DIY project | V puts the coolant down without drinking; asks if something is wrong |
+| 3 | V is painfully honest w/ C | C stresses that his DIY project won't do [what it's meant to]; some objective [which unto itself is useless] | About a pretty thing that seems nice but ultimately leads nowhere → V: "wouldn't that just be a waste of time?" | C kisses her and they disappear into the bedroom together |
+| — | *** scene break *** | | | |
+| 4 | M is out w/ R buying whiskey for Alan | M&R are in a liquor specialty store; there are many fine products | M picks out a very fine aged whiskey (from Alan's birth-year); M: "this one" (was that when) | They go to the front; M pays; R puts it in her bag; they leave |
+| 5 *(was 5–6, per the author's [¶5])* | (5) M&R pass a fancy restaurant // (6) M hides his worry about his lack of success | (5.1) [¶5] M has his hands in his pockets, R has her arm linked in his // (5.2) [¶5] They pass a fancy restaurant; there's jazz music playing, the windows are open | (5.3) [¶5] M touches his right pocket with his free hand // (6.1) [¶5] R comments on something; M seems distracted/[detached] and doesn't answer | (6.2, part) [¶5] R shakes him → "..babe? ..babe?" |
+| 6 *(was 6–7, per the author's [¶6])* | (6) M hides his worry about his lack of success // (7) R hugs M and they go to the market | (6.2, part) [¶6] // M seems alert now // (6.3) [¶6] M just has a lot on his mind; R looks at him, then at the restaurant | (7.1) [¶6] R whisks in front of him and hugs onto him // (7.2) [¶6] R: "winter hasn't come yet, the S.R. market's probably still open" | (7.3) [¶6] M nods, smiles just a little; they go |
+| — | *** scene break *** | | | |
+| 7 *(was 8)* | C is doing "Random Rorschach" w/ V | C&V are in the afterglow; C is shuffling cards & throwing dice w/ the lava lamps for V | [Description] the decorations on the walls, glow of the lamps; a home filled w/ light & love; sound of dice {{{Holoputer}}} | Dice hitting the floor is the cue for V; she snaps {ocular-shutters} the lamps, looks at the cards & dice; "salmon holding an umbrella!" |
+| 8 *(was 9)* | weird things give V an idea | V thinks of something bizarre {fringe?} → R | V thinks to make a present for R: (?, ?);  V: "remember R:[xyz]?" → C laughs: "I do" | Two saxophones w/ hands; V giggles (tin[ny] metallic) that the saxophones are dancing around |
+| 9 *(was 10)* | V remembers the Jazz cats; low on energy | They joke about the previous one → two saxophones high-fiving | "Saxophones!!" → "somebody you... should... meet"; she starts slowing down | Her movement and speech are now slow and labored; she's low on energy |
+| 10 *(was 11)* | C suggests resting; V is terrified of being shut down | C realizes what's happening; V tries to pick things up, reaches for siligel; C: "you should get some rest" | V grabs C's arm and shakes her head violently | C reassures her; he'll never shut her down; meant to charge her (→ dreaming?) |
+| 11 *(was 12)* | C puts her to charge | V touches C's cheek as he kisses her forehead; C attaches the last charging node | Her arm drops as the nodes begin charging; C presses his forehead against hers | C: "whatever robots dream of [...] good things" → "goodnight for now"; C falls asleep |
+| 12 *(was 13)* | V wakes, remembers the Jazz cats | C is napping, holding V; he wakes, unplugs V; she smiles & tells C "morning" | C: "afternoon" → gives her siligel → "you said there's somebody I should meet?" | V jumps out of bed (naked) → "get ready!!"; she runs to the closet (naked); C begins dressing |
+
+Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
+- The notation "[¶n]" marks what "adjusted" stanza something will be a part of. This is a way I came up with to "compress" data in the outlines (which, on physical paper, I designated by drawing "bubbles" around the particular relevant stanza-sections). In this case, those particular sections will all be part of the same stanza.

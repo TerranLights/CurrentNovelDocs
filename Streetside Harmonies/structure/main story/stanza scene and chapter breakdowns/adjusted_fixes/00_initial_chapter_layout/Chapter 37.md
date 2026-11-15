@@ -1,0 +1,18 @@
+## Chapter 37 — "Valerie's Gift"
+
+*Layout source: `Chapter 37.md` in `stanza breakdowns (transcribed)/`. Stanza text is unchanged from the source.*
+
+| stz | Summary | [YOU][NEED],[GO] | After [SEARCH],[FIND], but [TAKE] | Upon [RETURN],[CHANGE] |
+|---|---|---|---|---|
+| 1 | Ric is at home; V visits | [¶1] In his garage, Ric is tinkering w/ ***{*** *blank* ***}*** | [¶1] There's a knock at t/door; Ric puts his current tools down, wipes his hands, & opens t/door | [¶1] It's V; they're both happy to see each other; V jumps up & hugs Ric |
+| 2 | *(blank summary)* | [¶1] After hug, Ric returns to tinkering → asks V what's bothering her | [¶2] V assures nothing's wrong, holds out her arms, wiggles her fingers → "see?" | [¶2] Spins around; → just wanted to thank him for coming to t/show |
+| 3 | *(blank summary)* | [¶2] Ric waves his hand: "it's nothing, ~~mija~~ really"; turns to wipe his tools & puts onto rack | [¶2] While Ric's attention is turned, V takes t/thing from her bag & puts it on t/shelf | [¶3] V bids leave; → Ric turns and wishes goodbye |
+| 4 | *(blank summary)* | [¶3] Ric reaches out & tussles V's hair & turns as she turns, sees t/thing on t/shelf | [¶3] Ric: "mija, wait" → he hugs her; [scene desc.]: them hugging as t/garage glows in t/light | [¶3] Tears come from Ric's eyes onto V's orangey hair, now shimmering in t/sun |
+| 5 | Ric gifts V his daughter's necklace | Ric lets go of V, squeezes her shoulders, lets go; turns & motions towards t/door | Goes & lifts t/necklace from above t/door & brings it back | Puts it on V; careful to link t/chain; hugs her again |
+| 6 | Bids her return if she ever needs anything | Lets go again; if she ever needs anything, just ask | V jumps up, hugs him, kisses his cheek; Ric: "you make a grizzled viejo proud" | V hugs him again; turns to go: → → "byeee!" *(eyes shine)*; leaves |
+| 7 | [Scene desc.]: t/statue; Ric responds | Ric picks up t/gift again; we see it's shaped metal | It's a statue of a "Father" and his "daughter" holding hands; "Father" holding a wrench; "daughter" violin | A tear rolls down Ric's cheek; he puts it down temporarily and turns to his tools |
+| 8 | Ric perches t/statue over t/front door | Ric fetches some flat plastic & thin metal from his scrap; nails them together | he then nails t/new ledge to t/wall over his door | Ric perches t/statue over his door; looks at it proudly |
+
+Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
+- The notation "[¶n]" marks what "adjusted" stanza something will be a part of. This is a way I came up with to "compress" data in the outlines (which, on physical paper, I designated by drawing "bubbles" around the particular relevant stanza-sections)
+- In Stanza 5 {later-to-be Stanza 4}, under the "[YOU][NEED],[GO]" section, there should be a reference to the actual composition/nature of that necklace somewhere
