@@ -2,6 +2,11 @@
 
 **Read this first when resuming work on this target.** Update it at the end of any session that changes a status.
 
+## Update 2026-11-15: Claude does the research; Stage 1 is set up
+- **Hermes, Qwen and Strata are retired** (the author: worse than useless). Everything they wrote, including the Cascadia "zodiac" files and "cultural frameworks", is archived in `w-other/ArchiveVault/Hermes (local research models, retired 2026-11-15)/` and is **never cited**.
+- **The order stays as below** (author, 2026-11-15): Stage 1 → Stages 2–3 → Aries.
+- **Session A (Stage 1, waves 2–4) is set up** in `../../_dispatch/STAGE1_RUN_PROGRESS.md`: the jobs table, the run-agent prompt, overrides and resume. It's **not started**; the author says "go" when the weekly allotment allows.
+
 ## Start here: the road to Aries (written 2026-11-10)
 **DCI is a full cultural investigation, not an investigation of laws** (author, 2026-11-10, said twice that day: the remarks on law were "an ***EXAMPLE***"). Law never leads a list, a plan or a report; it is two of Stage 1's thirteen profiles, and wave 1 happened to be the legal jobs. The rest of the work is culture: each unit's family system, kinship, religion, subsistence, land, political culture, education, language, stories, song and formative events (Stage 1); values and attitudes data such as the World Values Survey, Hofstede, GLOBE, tightness-looseness and frontier individualism (Stage 2); the five axes (Stage 3); and, at the heart of it, how each culture understands each concept, through its words, values, practice, sayings, exemplars and Fischer's folkways (Stage 4). Report it that way.
 
@@ -97,6 +102,17 @@ The author asked to continue with Aries (2026-11-10), and its concept list is se
   3. Aquarius's "Age of Aquarius" phrase was removed.
   4. Pisces's corporate mindfulness stays, as a present-day secular practice.
   5. Libra's overview keeps both source-type lists, the cultural one and the legal one.
+
+- **2026-11-15 (method-wide; recorded in the DM README §5), subtopics, depth and job shape** (the author's answers to six questions):
+  1. **Consolidate the candidate subtopics:** each idea proposed in more than one sign gets one home. Do it now.
+  2. **How deep a subtopic goes: as deep as the research turns up.** It depends on what data exists.
+     - The default is a **facet of its parent concept**.
+     - Where data is plentiful, it gets the **full treatment**: all the families, as a concept would.
+     - Where data is scarce, it gets a **light treatment**.
+  3. **Settle each remaining sign's concept list before that sign's pass.**
+  4. **The domain sections get the six newer families too.** Always more depth rather than less; data that goes unused is archived in ArchiveVault, not thrown away.
+  5. **Stage 4 job shape: one concept × one unit at a time** (plus one job per unit for the domain and folkways). This keeps agents unconfused and results clean however deep they go. It replaces "one unit × one sign" and the Investigation Sheet's option 1.
+  6. **The *check* marks** in the avenue files are verified sign by sign, as each sign is researched.
 
 ## Open questions for the author
 - **Review the Stage 4 method drafts** (2026-11-10, in the method folder): `Shared/Investigation_Sheet.md` (v0.1: 23 families of angles, rules, job-size options), `Shared/Avenues/01 - Aries.md` to `12 - Pisces.md` (every avenue per concept; each file's header lists its questions), `Shared/Regional_Appendix_North_America.md`, and the sources in `Shared/held_for_review_Sources.md`.
