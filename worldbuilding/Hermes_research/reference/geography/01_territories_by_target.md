@@ -40,7 +40,7 @@ Abbreviations used in each nation's Source line:
 - **MEX** = `worldbuilding/nations/México (post-war) - Territory and Open Research.md` (2026-09-25, "settled").
 - **ROSTER** = `worldbuilding/nations/World-Nations-Roster.md` (as synced 2026-09-28).
 - **HAW** = `worldbuilding/nations/Sovereign Republic of Hawaii - National Character Profile.md` (2026-09-26).
-- **SCOPE** = `worldbuilding/Deep_Culture_Investigation/Targets/Cascadia/00 - Scope.md` (2026-11-02) and `Deep_Culture_Investigation/Data/Unit_Territories.md` (2026-11-03).
+- **SCOPE** = `worldbuilding/Deep_Culture_Investigation/Targets/North America/Cascadia/00 - Scope.md` (2026-11-02) and `Deep_Culture_Investigation/Data/Unit_Territories.md` (2026-11-03).
 - **CENSUS-E** = Inner Tepenia GDD `.../Cities/Official_Population_Census.md`, Section E, "Successor-country names" (2026-11-02). This is the source of the census names and of which old countries "carry" which nations.
 
 Rule applied: later-dated and more specific source wins. NA-CSV (09-26) and LA-CSV (09-28) outrank TD (09-22) and the older Latin America survey files. Disagreements are listed under each nation and again at the end.
