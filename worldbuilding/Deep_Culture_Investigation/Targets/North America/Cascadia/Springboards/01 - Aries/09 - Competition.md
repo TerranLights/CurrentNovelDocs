@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: competition, rivalry, sportsmanship, fair play, winning, losing, envy, admissions, tournament, derby, rivalry game, leaderboard.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | World Values Survey | cross-national survey with a "competition is good or harmful" item | values data by country, possibly by U.S. state and Canadian province in recent waves | open web | *check* |
 | Aspen Institute Project Play | youth sports participation reports | participation and cost-of-play data, some by state | open web | *check* |

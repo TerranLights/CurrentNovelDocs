@@ -21,7 +21,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: wealth, riches, inequality, class, social mobility, conspicuous consumption, philanthropy, gold rush fortunes, tech wealth, housing wealth, tribal gaming revenue, potlatch (as the nations describe it), remittances, lotteries.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | World Values Survey; General Social Survey; ISSP Social Inequality module | attitude surveys | items on luck, effort, inequality and redistribution; split by state or province where the sample allows | open web | *check* |
 | AmericasBarometer (LAPOP); Latinobarómetro | Americas opinion surveys | items on fair income sharing and the state's role; Mexico, U.S., Canada | open web | *check* |

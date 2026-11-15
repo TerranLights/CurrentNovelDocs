@@ -20,7 +20,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: curiosity, nosiness, public interest in science, citizen science, children's questions, true crime, research ethics, Indigenous data sovereignty.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Exploratorium (San Francisco) | Hands-on science museum | Its founding aims, exhibit philosophy, visitor studies | Open web, in person | *check* |
 | California Academy of Sciences; Pacific Science Center; OMSI; Science World | Regional science museums | Missions, programs, attendance | Open web | *check* |

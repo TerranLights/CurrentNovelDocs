@@ -19,7 +19,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: financial security, food security, housing insecurity, precarity, wildfire insurance, earthquake preparedness, fear of crime, gated community; French *sécurité d'emploi* (B.C.).
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Federal Reserve, Survey of Household Economics and Decisionmaking; FINRA National Financial Capability Study | U.S. surveys | emergency savings, by state | open web | *check* |
 | USDA food-security supplement; Census Household Pulse Survey | U.S. surveys | food and housing insecurity by state | open web | *check* |

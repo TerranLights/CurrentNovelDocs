@@ -21,7 +21,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: display rules, emotion regulation, anger expression, outrage, grudge, feud, protest, conflict resolution, restorative justice, healing circle.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Matsumoto display-rule studies | cross-national emotion studies | U.S. and Canadian baselines, little by region | library | *check* |
 | Global Preferences Survey | national preference data | negative reciprocity, country level only | open web | *check* |

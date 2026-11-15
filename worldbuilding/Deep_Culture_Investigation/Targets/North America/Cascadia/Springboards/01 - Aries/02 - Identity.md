@@ -20,7 +20,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: identity, ethnic identity, regional identity, bioregionalism, self-identification, belonging, authenticity, passing, hyphenated, Native identity fraud, heritage, roots tourism.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | U.S. Census ACS race, ancestry and Hispanic-origin items; Statistics Canada census (ethnic origin, Indigenous identity); INEGI Censo 2020 | the three national counts | what categories each state offers, and how they changed | open web | *check* |
 | Environics Institute; Angus Reid Institute; Pew Research Center; Gallup state-pride polling | identity and attachment surveys | primary-identity and regional-identity questions | open web | *check* |

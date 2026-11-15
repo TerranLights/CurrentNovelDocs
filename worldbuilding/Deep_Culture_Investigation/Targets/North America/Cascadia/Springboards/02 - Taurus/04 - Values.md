@@ -24,7 +24,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: values survey, moral foundations, civic ethics, Pacific Northwest values, West Coast values, secularization, "none" religious, polarization, values-based consumption.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | World Values Survey | Cross-national survey with a Mexico, Canada and U.S. wave | National baselines; regional breakdowns where samples allow | Open web | *check* |
 | PRRI American Values Atlas | Large survey of religion and public values, by state and metro | Washington, Oregon and California state levels | Open web | *check* |

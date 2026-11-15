@@ -19,7 +19,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: assertiveness, voice, deference, humility, public comment, complaint, haggling, negotiation, boasting, speaking order.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | GLOBE study (House and others, 2004) | cross-national leadership and culture survey with an assertiveness scale | country-level comparison only (Canada, Mexico, U.S. separately) | library | *check* |
 | Rentfrow and colleagues on U.S. state personality | state-level extraversion data | variation across the three U.S. states | open web | *check* |

@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: community mediation, peer mediation, labor mediation, language brokering, cultural broker, interpreter, fixer, intercession, peacemaking circle, restorative justice, ombudsperson, family mediation, treaty council.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Community Boards (San Francisco) | Community mediation center, school "conflict managers" program | Practice, history, annual reports | open web, archive | *check* |
 | Oregon Office for Community Dispute Resolution; Washington's county dispute resolution centers | Networks of community mediation centers | Caseloads, kinds of disputes, volunteer mediators | open web | *check* |

@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: moral courage, whistleblower, bystander intervention, hero award, firefighter, smokejumper, search and rescue, dangerous occupations, veteran, draft resister, Medal of Bravery.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Carnegie Hero Fund Commission | civilian heroism awards, U.S. and Canada, with case summaries | award cases by state and province; how rescue is described | open web | *check* |
 | Canadian bravery decorations (Cross of Valour, Star of Courage, Medal of Bravery) | Governor General's honors, with citations | BC recipients and citation language | open web | *check* |

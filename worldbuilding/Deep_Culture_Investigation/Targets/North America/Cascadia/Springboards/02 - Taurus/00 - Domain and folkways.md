@@ -19,7 +19,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: First Foods, food sovereignty, potlatch, giveaway, regalia, thrift store, remittances, unbanked, mental accounting, conspicuous consumption, water rights, timber, salmon.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Consumer Expenditure Survey (BLS); Survey of Household Spending (Statistics Canada); ENIGH (INEGI) | national household spending surveys | spending on food, clothing, housing by region, some metros or states | open web | *check* |
 | Survey of Consumer Finances; Survey of Financial Security (Statistics Canada) | wealth surveys | holdings and debt by group | open web | *check* |

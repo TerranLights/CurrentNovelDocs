@@ -17,7 +17,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: self-worth, dignity, honor, face, shame, status anxiety, residential school, deaths of despair, job loss and identity, "participation trophy", "deserving poor".
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Rosenberg Self-Esteem Scale; Schmitt and Allik (2005) | Scale and its cross-national use | Baseline scores by country | library | *check* |
 | Contingencies of Self-Worth Scale (Crocker et al., 2003) | Survey instrument | What worth is said to rest on, by group | library | *check* |

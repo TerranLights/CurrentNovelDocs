@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: learning by observing and pitching in, apprenticeship, concerted cultivation, language revitalization, master-apprentice, homeschooling, ethnic studies, bilingual education, residential schools, vocational training.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | National Survey of Children's Health | U.S. federal survey with state tables | reading to children, learning disability and ADHD diagnoses, by state | open web | *check* |
 | Stanford Education Data Archive; NAEP | district and state achievement data | test results by Cascadian district | open web | *check* |

@@ -17,7 +17,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: autonomy, self-rule, independence, consent, paternalism, family decision-making, young adults living with parents, homeschooling, homeowners' association, tribal self-government.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | World Values Survey | Cross-national values survey with a freedom-of-choice-and-control item | Measured baseline; state or province splits only where samples allow | open web | *check* |
 | U.S. Census Bureau (American Community Survey), Statistics Canada, INEGI | National statistics offices | Young adults living with parents, by state, province, entidad | open web | *check* |

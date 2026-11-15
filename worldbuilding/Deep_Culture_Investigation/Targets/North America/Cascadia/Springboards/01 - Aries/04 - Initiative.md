@@ -20,7 +20,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: entrepreneurship, startup, ballot initiative, petition, volunteering, nonprofit formation, maker, incubator, first mover.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Census Bureau Business Formation Statistics; ACS self-employment | U.S. startup and self-employment counts, by state and county | Rates by unit lobe | open web | *check* |
 | Kauffman Indicators of Entrepreneurship | U.S. entrepreneurship series by state and metro | Comparison of Seattle, Portland, Bay Area, Los Angeles | open web | *check* |

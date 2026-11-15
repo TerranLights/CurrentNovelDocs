@@ -22,7 +22,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: possessions, material culture, extended self, attachment to objects, hoarding, decluttering, minimalism, self-storage, yard sale, swap meet, thrift, heirloom, estate sale, repatriation, gift economy, Buy Nothing, lost property.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | UCLA CELF, *Life at Home in the Twenty-First Century* (2012) | inventory study of Los Angeles households | what families keep, where | library | *check* |
 | Belk 1988, "Possessions and the Extended Self"; Weiner, *Inalienable Possessions* (1992) | standard scholarly frames | vocabulary and comparison | library | *check* |

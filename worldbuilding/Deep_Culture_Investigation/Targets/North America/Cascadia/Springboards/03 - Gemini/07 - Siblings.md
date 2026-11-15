@@ -23,7 +23,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: birth order, sibling rivalry, eldest daughter, siblings in migration, caregiving siblings, sibling bereavement, family business brothers, siblings separated.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | U.S. Census Bureau (American Community Survey); Statistics Canada (Census); INEGI (Censo de Población y Vivienda, ENADID) | national household and demographic data | household makeup, children ever born, by state, province, Baja state | open web | *check* |
 | General Social Survey (SIBS item); National Longitudinal Surveys | U.S. surveys | sibling counts; U.S. West breaks only | open web | *check* |

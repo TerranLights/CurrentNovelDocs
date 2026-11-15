@@ -24,7 +24,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: stubbornness, obstinacy, intransigence, holdout, impasse, standoff, steadfastness, resolve, belief perseverance, refusing to apologize.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Seattle Times and Seattle Post-Intelligencer coverage of the Edith Macefield holdout house in Ballard | Local news and later retrospectives | A case of a refusal to sell and how neighbors and the press framed it | Open web, library | *check* |
 | HistoryLink.org; the Oregon Encyclopedia; the Online Archive of California; the Royal BC Museum and BC Archives | State and provincial histories and archives | Accounts of holdouts, strikes, long protests and feuds | Open web, archive | *check* |

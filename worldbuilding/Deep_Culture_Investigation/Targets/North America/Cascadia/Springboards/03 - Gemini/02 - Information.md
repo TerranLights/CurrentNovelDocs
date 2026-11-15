@@ -19,7 +19,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: news deserts, trust in media, local news, media literacy, digital divide, broadband access, data sovereignty, OCAP, CARE principles, community radio, wildfire alerts, privacy, infodemic.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Reuters Institute Digital News Report | Annual country survey of news use, trust and avoidance | U.S., Canada and Mexico baselines, news by platform | Open web | *check* |
 | Gallup and Pew Research Center | Trust in media; news-platform and misinformation surveys | National figures, some regional cuts | Open web | *check* |

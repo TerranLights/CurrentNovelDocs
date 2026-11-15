@@ -22,7 +22,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: residential mobility, job tenure, place attachment, rootedness, century farm, heritage business, displacement, gentrification, boom and bust, cost of housing, migrant farmwork, seasonal round.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Community Survey (Census Bureau), tables on years in residence and moves in the past year | U.S. survey, state and metro level | Measured staying and moving for WA, OR, CA | open web | *check* |
 | BLS Employee Tenure supplement | U.S. biennial tenure data | Job tenure by state or region where published | open web | *check* |

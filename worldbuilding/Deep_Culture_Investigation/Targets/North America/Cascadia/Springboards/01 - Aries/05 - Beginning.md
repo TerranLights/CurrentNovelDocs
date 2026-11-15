@@ -20,7 +20,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: fresh start effect, starting over, newcomer, transplant, frontier, homesteading, founding story, groundbreaking, rebuilding after fire, resettlement.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Community Survey (U.S. Census Bureau) | annual U.S. survey | moves, birthplace by state | open web | *check* |
 | Statistics Canada census | national census | interprovincial and immigrant arrivals, British Columbia | open web | *check* |

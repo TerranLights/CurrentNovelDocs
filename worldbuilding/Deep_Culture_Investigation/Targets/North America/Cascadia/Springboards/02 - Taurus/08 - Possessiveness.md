@@ -21,7 +21,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: possessiveness, jealousy, territoriality, localism, sharing, hoarding, coercive control, partner surveillance, helicopter parenting, stinginess.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | National Intimate Partner and Sexual Violence Survey (CDC) | U.S. survey, state estimates | Partner control in WA, OR, CA, Alaska | open web | *check* |
 | ENDIREH (INEGI) | Mexican survey, by state | Jealousy and control in the Bajas | open web | *check* |

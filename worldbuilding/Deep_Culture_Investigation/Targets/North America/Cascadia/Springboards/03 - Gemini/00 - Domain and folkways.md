@@ -23,7 +23,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: ethnography of speaking, sociolinguistics, dialect atlas, language shift, heritage language, bilingual education, language socialization, early literacy, siblings, neighboring, commuting, time use.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Community Survey, language spoken at home and journey to work tables | U.S. Census Bureau survey | home languages, English ability, commuting by county and tract | open web | *check* |
 | Statistics Canada census, mother tongue and language at home; commuting | national census tables | British Columbia languages and commutes | open web | *check* |

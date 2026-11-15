@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: reckless driving, wildfire cause fireworks, backcountry rescue, risk-taking youth, gold rush speculation, dot-com bubble, drug toxicity deaths, off-road racing, roadside memorial.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Youth Risk Behavior Survey and the state and provincial youth surveys (Washington Healthy Youth Survey, Oregon Healthy Teens, California Healthy Kids Survey, BC Adolescent Health Survey) | youth behavior surveys | teen risk-taking by place | open web | *check* |
 | Fatality Analysis Reporting System; California SWITRS; state traffic safety commissions | crash and traffic-death data | dangerous driving by county | open web | *check* |

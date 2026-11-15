@@ -19,7 +19,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: food sovereignty, homesteading, preparedness, secession, State of Jefferson, Cascadia independence, welfare stigma, remittances.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Community Survey; Statistics Canada census; INEGI census | living-arrangement tables | young adults at home, multigenerational households | open web | *check* |
 | Bureau of Economic Analysis county personal-income tables | transfer income by county | government income share | open web | *check* |

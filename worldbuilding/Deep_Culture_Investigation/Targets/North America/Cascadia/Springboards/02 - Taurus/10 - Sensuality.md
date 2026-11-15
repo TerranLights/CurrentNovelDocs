@@ -17,7 +17,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: food and wine culture, craft beer, coffee culture, sauna, hot springs, massage, cannabis shops, farm-to-table, sleep, noise complaints, heat dome.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Time Use Survey (eating, sleeping, grooming); BRFSS sleep items | national time-use and health surveys | time given to pleasure and rest, by state | open web | *check* |
 | Consumer Expenditure Survey; Statistics Canada household spending; INEGI's ENIGH | household spending surveys | food away from home, alcohol, personal care | open web | *check* |

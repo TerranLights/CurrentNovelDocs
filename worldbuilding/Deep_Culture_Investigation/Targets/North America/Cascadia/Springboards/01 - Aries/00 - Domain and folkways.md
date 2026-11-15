@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: self-construal, frontier individualism, naming customs, hereditary names, potlatch, body image, tattoo, outdoor dress, anglicized names.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Markus and Kitayama (1991), self-construal | classic paper on independent and interdependent selves | the frame for comparing the units | library | *check* |
 | Varnum and Kitayama (2011), baby names and frontier individualism | study using U.S. names by region | a method for name-rarity by unit | library | *check* |

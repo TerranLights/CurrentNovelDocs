@@ -23,7 +23,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: conversation analysis, turn-taking, politeness, language socialization, language brokering, linguistic landscape, Deaf community, DeafBlind, protactile, interpreting, accent bias.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Community Survey, language spoken at home | Census Bureau tables | languages and English ability by county and tract | open web | *check* |
 | Statistics Canada census; INEGI census 2020 (Indigenous-language speakers) and ENDUTIH | national statistics offices | home language in British Columbia; the Bajas' languages; phone and internet use | open web | *check* |

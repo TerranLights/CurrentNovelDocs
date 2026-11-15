@@ -19,7 +19,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: social connection, social capital, social support, loneliness, isolation, networking, keeping in touch, third places, ritual kinship, hometown association, remittances, Seattle Freeze.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | U.S. Surgeon General's 2023 advisory on loneliness | Federal report | National framing, cited studies | Open web | *check* |
 | American Time Use Survey (BLS) | Time-use survey | Time with friends and alone, by state (pooled) | Open web | *check* |

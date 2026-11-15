@@ -21,7 +21,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: ownership, property, tenure, homeownership, renting, squatter, commons, ejido, trespass, land back, land acknowledgment, racial covenant, redlining, inheritance, stewardship.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | American Community Survey, tenure tables; Statistics Canada census tenure | national surveys | owners and renters by area | open web | *check* |
 | INEGI: Censo de Población y Vivienda, ENVI, Censo Agropecuario 2022 | Mexican statistics office | tenure, title deeds, farm holding in the Bajas | open web | *check* |

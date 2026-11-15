@@ -21,7 +21,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: gossip and scandal; moral panic; urban legend; whisper network; call-out; reputation; relational aggression; cyberbullying; tabloid.
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Gluckman, "Gossip and Scandal" (1963); Merry, "Rethinking Gossip and Scandal" (1984) | Classic anthropology | Frames to test per unit | library | *check* |
 | Allport and Postman, *The Psychology of Rumor* (1947); Shibutani, *Improvised News* (1966) | Standard rumor studies | Rumor-in-crisis models | library | *check* |

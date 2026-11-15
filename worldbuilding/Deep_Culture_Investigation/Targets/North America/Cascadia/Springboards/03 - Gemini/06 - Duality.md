@@ -18,7 +18,7 @@ STATUS: done 2026-11-15, not verified
 English keywords: biculturalism, double consciousness, borderlands, dual loyalty, passing, code-switching, bilingual education, twin cities, masks, Two-Spirit, two-eyed seeing (as communities define them).
 
 ## 2. Where to look first
-| Pointer | What it is | What it would give | Reach | |
+| Pointer | What it is | What it would give | Reach | Check |
 |---|---|---|---|---|
 | Anzaldúa, *Borderlands/La Frontera* (1987) | border and mestiza consciousness | a vocabulary and a native-theory framework for the Bajas and Southern California | library | *check* |
 | Paz, *El laberinto de la soledad* (1950), the "Máscaras mexicanas" chapter | essay on the mask | one author's frame for Mexican two-ness; read critically | library | *check* |
