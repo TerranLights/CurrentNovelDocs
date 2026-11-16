@@ -37,6 +37,7 @@ Parked, not part of this run: L6 and L7, the legal profiles. Law lives only in L
 ## Overrides for every brief
 - **Dates:** where a brief says `done 2026-11-03`, write the date you actually finish.
 - **Never** read, cite or build on anything from Hermes, Qwen or Strata (`worldbuilding/Hermes_research/` findings, now archived). If a source trail leads there, drop it.
+- **Research from the springboard (author, 2026-11-15):** Cascadia's springboard sheets (`../Targets/North America/Cascadia/Springboards/`) are starting points for the research, not its limit. Follow `<DM>/RUNBOOK.md`, "Research from the springboard": know why each pointer is there, check it, go beyond it, follow every relevant branching trail as deep as the data allows, keep a research log and a `leads_parked.md`, and stop only at saturation. Briefs' search budgets are for planning; thoroughness decides.
 - The standing rules in `<DM>/RUNBOOK.md` apply in full:
   - American English.
   - Native, Indigenous or Aboriginal, never "Indian" (and First Nations, Inuit or Métis in Canada).
