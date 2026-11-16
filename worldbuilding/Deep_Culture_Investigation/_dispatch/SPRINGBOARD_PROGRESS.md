@@ -156,3 +156,18 @@ Chosen by the Mirny Subnet's cities (see `Representation by subnet and city (dra
 - **Days 5 and 6: the Sinian Federation, sub-divided by subregion** (regional Chinese cultures vary widely: "what kind of Sinian"). Sub-units = the **nine Han member states**, set up as tracker stubs at `Targets/Asia/East Asia/Sinian Federation/Subregions/<name>/`: Zhongyuan 中原 (Beijing, Tianjin, Hebei, Shandong, Henan), Qin 秦 (Shaanxi, Gansu, Ningxia, Qinghai), Bashu 巴蜀 (Sichuan, Chongqing, Hubei, Yunnan, Guizhou), Jin 晋 (Shanxi), Wu 吴 (Shanghai, Zhejiang, Jiangsu, Anhui), Gan 赣 (Jiangxi), Xiang 湘 (Hunan), Min 闽 (Fujian, Hainan), Yue 粤 (Guangdong, Guangxi, Hong Kong, Macau). Each runs as its own "nation" (NATION = the member state's name; the status and QA scripts find it by its tracker). About 4 to 5 a day. Open: Hakka (about 44 million, non-territorial, no unit) has no sub-unit; the author may want one.
 - **Then:** review where the week stands and schedule the remaining nations. Mirny nations not yet scheduled: New Zealand (8 of 9 cities), then Taiwan, Kazakhstan, Thailand, Vietnam, Patani, Aceh, Indonesia, West Papua, Finland (7 of 9).
 - **Cost note:** about 24 nation-runs over these six days (3 + 12 + 9); at the earlier 1.25 to 1.5% each, about 30 to 36% of the weekly allotment, more if the deeper brief costs a third more. Read the meter before and after the first day and adjust.
+
+## Run window, weekly reset and cost ledger (author, 2026-11-15)
+- **Weekly allotment resets every Saturday at 23:00.** This week's days: Mon 11-16 to Sat 11-21 (6 days); the next week runs Sat 23:00 11-21 to Sat 23:00 11-28. **Unspent allotment is lost at the reset**, so if there is slack by Friday or Saturday, pull nations forward from next week (keep a safety margin).
+- **Run window: 05:00 to 15:00**, the usual hours, the same as the ULM's. **Wrap-up from about 14:00:** launch no new nation after about 14:00 unless it finishes before 15:00; whatever is in flight finishes, and the status script resumes the rest next morning. A nation takes about 66 to 73 minutes, and nations run in parallel (one run agent each), so a day's batch fits in the window; stagger the launches if the number of parallel agents causes trouble.
+- **The meter is unreliable** while the ULM runs in parallel. **Cost is tracked by tokens** instead: each run agent's report gives its sub-agent tokens, and the main session adds the run agent's own tokens. Calibration so far: about 1.1 to 1.35 million tokens per 1% of the weekly allotment (Sonora and Korea, the author's readings). The ULM's share is the meter movement minus the DCI tokens at that rate.
+- **Total still to run:** 88 runs after Korea, because the Sinian Federation counts as nine (its member states): 3 + 12 + 9 this week = 24, then **64** next week (9 to 10 a day if all 7 days are used).
+
+### Cost ledger (tokens, sub-agents plus run agent; run in parallel by nation)
+| Nation | Brief | Sub-agent tokens | Run agent | Total | Approx. % (at 1.2M per 1%) |
+|---|---|---|---|---|---|
+| Cascadia | per concept, cost-minimizing | about 6.0M | about 0.26M | about 6.3M | about 5 |
+| Alaska | one agent per sign, cost-minimizing | 1.46M | about 0.13M | about 1.6M | about 1.3 |
+| Sonora | same | 1.57M | about 0.12M | about 1.7M | about 1.4 |
+| Korea | same | 1.45M | about 0.12M | about 1.6M | about 1.3 |
+| (next rows: Japan, Australia, Mongolia, under the deeper brief) | | | | | |
