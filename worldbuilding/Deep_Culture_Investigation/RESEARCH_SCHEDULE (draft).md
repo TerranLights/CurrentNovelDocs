@@ -82,7 +82,7 @@ Springboard (done or queued) -> Stage 0 scope (author accepts) -> Stage 1 lineag
 - **Springboards for the two nations that have none:** Colorado and Midwest Republic are in the survey's remaining 85 but not yet scheduled; they should be moved up so they are done before their research (the survey's order is by subnet, so they are not early).
 - **Stage 0 scope files** do not exist for Alaska, Sonora, Colorado, Midwest Republic, Japan, Korea, the post-Russia and post-China nations (only Cascadia has one). Stage 0 needs the author's acceptance, so it can be done during Phase 0, one or two nations at a time, to stay ahead of the research.
 - **Where the survey's weaknesses go:** the sheets lean on a few gateway sources and cover internal regions unevenly; research must go beyond them (already a rule), and Phase 0's audit measures it.
-- **The Sinian Federation:** nine sub-units; Hakka (non-territorial, about 44M) has no unit yet (open).
+- **The Sinian Federation:** ten sub-units: the nine member states plus Hakka (non-territorial, about 44M; added by the author 2026-11-17, springboard next week).
 - **Mongolia** sits in the post-China group here, though its survey ran on the Mirny schedule. The sheets exist.
 
 ## Rough timeline (very approximate; the dates come after Phase 0 gives real costs)
@@ -93,7 +93,7 @@ Springboard (done or queued) -> Stage 0 scope (author accepts) -> Stage 1 lineag
 | 1 | Alaska, Sonora, Colorado, Midwest Republic | the Phase 0 gate; Stage 0 scopes; springboards for Colorado and Midwest Republic |
 | 2 | Japan, Korea | the same |
 | 3 | post-Russia (12) | the same |
-| 4 | post-China (Sinian Federation x9, Manchuria, Mongolia, East Turkestan, Tibet) | the same |
+| 4 | post-China (Sinian Federation x10, Manchuria, Mongolia, East Turkestan, Tibet) | the same |
 | 5 | Mirny's 17 nations, then the remaining subnets, stepwise | the same |
 
 ## Open questions for the author
@@ -101,4 +101,4 @@ Springboard (done or queued) -> Stage 0 scope (author accepts) -> Stage 1 lineag
 2. **How many Cascadia signs belong to the calibration?** I proposed Stage 1, Stages 2 and 3, and Aries, with the rest of the signs as ordinary Cascadia research. Say if the calibration should cover more.
 3. **The post-China set:** is it exactly the census's five (Sinian Federation, Manchuria, Mongolia, East Turkestan, Tibet)? Does Taiwan stay in the Mirny group?
 4. **Finland** (a Russia successor in the census table) stays with Mirny, as drafted; confirm.
-5. **Hakka:** a tenth Sinian sub-unit, or covered inside the nine?
+5. ~~**Hakka:** a tenth Sinian sub-unit, or covered inside the nine?~~ Settled 2026-11-17: a tenth sub-unit.

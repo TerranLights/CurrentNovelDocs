@@ -4,7 +4,7 @@
 
 - **Target:** Ukraine (#52 in the master tracker). **Census I exiles:** 86,457.
 - **Region (framework):** Europe. **Pre-war lands carried into the row:** no change recorded.
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`.
+- **Territory:** to be settled by the author in Stage 0 (`00 - Scope.md`).
 - **This folder:** `00 - Scope.md` (Stage 0; not yet written), `05 - Composite/` (Stage 5) and `06 - Divergence/` (Stage 6). Its units live in the shared library, `../../../Units/<unit>/`, and are named at Stage 0.
 - **Note:** Open (checklist, Part E, point 2): the census's successor-country table says "Ukraine → Russia (core state)", yet Ukraine is also a target. Is Ukraine's territory split between the two rows, and where is the line? Settle it at Stage 0, together with Russia.
 

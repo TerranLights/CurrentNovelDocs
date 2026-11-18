@@ -4,7 +4,8 @@
 
 - **Target:** Tuva (#83 in the master tracker). **Census I exiles:** 1,142.
 - **Region (framework):** Russia. **Pre-war lands carried into the row:** Russia.
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`.
+- **Scope ruling (author, 2026-11-18):** the target is **the Republic of Tuva itself** and counts as one nation. Tuvans living elsewhere (Mongolia's Tsengel Tuvans, the Kanas Tuvans in China, the Dukha, and any other diaspora) are not separate targets and not part of Tuva's count: Tuva's findings apply to them. In the sheets, diaspora pointers stay as comparison material only.
+- **Territory:** to be settled by the author in Stage 0 (`00 - Scope.md`).
 - **This folder:** `00 - Scope.md` (Stage 0; not yet written), `05 - Composite/` (Stage 5) and `06 - Divergence/` (Stage 6). Its units live in the shared library, `../../../Units/<unit>/`, and are named at Stage 0.
 
 | Stage | Status | Output | Notes |

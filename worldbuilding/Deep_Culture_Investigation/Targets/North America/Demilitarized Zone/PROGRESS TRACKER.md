@@ -4,7 +4,7 @@
 
 - **Target:** Demilitarized Zone (s. Ontario; not a nation) (#44 in the master tracker). **Census I exiles:** 120,838.
 - **Region (framework):** North America. **Pre-war lands carried into the row:** Canada (southern Ontario).
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`.
+- **Territory:** to be settled by the author in Stage 0 (`00 - Scope.md`).
 - **This folder:** `00 - Scope.md` (Stage 0; not yet written), `05 - Composite/` (Stage 5) and `06 - Divergence/` (Stage 6). Its units live in the shared library, `../../../Units/<unit>/`, and are named at Stage 0.
 - **Note:** Not a nation; its treatment is still open (developer, 2026-11-02). Folder kept so the question has a home.
 

@@ -4,7 +4,7 @@
 
 - **Target:** Araucanía-Patagonia (#61 in the master tracker). **Census I exiles:** 42,450.
 - **Region (framework):** Latin America. **Pre-war lands carried into the row:** Argentina, Chile.
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`.
+- **Territory:** to be settled by the author in Stage 0 (`00 - Scope.md`).
 - **This folder:** `00 - Scope.md` (Stage 0; not yet written), `05 - Composite/` (Stage 5) and `06 - Divergence/` (Stage 6). Its units live in the shared library, `../../../Units/<unit>/`, and are named at Stage 0.
 
 | Stage | Status | Output | Notes |

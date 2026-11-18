@@ -4,7 +4,7 @@
 
 - **Target:** Cascadia (#1 in the master tracker; the pilot). **Census I exiles:** 403,029.
 - **Region (framework):** North America. **Pre-war lands carried into the row:** USA (Washington, Oregon and California whole; the Alaska Panhandle), Canada (British Columbia), Mexico (Baja California and Baja California Sur).
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`; units in `00 - Scope.md`.
+- **Territory:** units in `00 - Scope.md`.
 - **Springboards (scouting, not research):** `Springboards/NN - <Sign>/`; progress in `../../../_dispatch/SPRINGBOARD_PROGRESS.md`.
 
 ## Update 2026-11-15: Claude does the research; Stage 1 is set up

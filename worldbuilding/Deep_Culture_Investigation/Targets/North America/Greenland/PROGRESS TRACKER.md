@@ -4,7 +4,7 @@
 
 - **Target:** Greenland (#84 in the master tracker). **Census I exiles:** none (not a census row).
 - **Region (framework):** North America. **Pre-war lands carried into the row:** Greenland, Canada (the Queen Elizabeth Islands).
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`.
+- **Territory:** to be settled by the author in Stage 0 (`00 - Scope.md`).
 - **This folder:** `00 - Scope.md` (Stage 0; not yet written), `05 - Composite/` (Stage 5) and `06 - Divergence/` (Stage 6). Its units live in the shared library, `../../../Units/<unit>/`, and are named at Stage 0.
 - **Note:** **Added 2026-11-15** at the author's note of 2026-11-12 that every nation of post-war New North America is relevant. It has **no Census I exiles** and is not a census row, so it was missing from the 83. The author may still confirm or drop it. Territory: all of Greenland, plus the Queen Elizabeth Islands (Canada's Nunavut and Northwest Territories islands north of 74.7N).
 

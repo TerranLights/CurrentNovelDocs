@@ -4,7 +4,7 @@
 
 - **Target:** Sicilia (autonomous zone within Meridia) (#68 in the master tracker). **Census I exiles:** 13,154.
 - **Region (framework):** Europe. **Pre-war lands carried into the row:** Italy.
-- **Territory:** the target's entry in `worldbuilding/Hermes_research/reference/geography/01_territories_by_target.md`.
+- **Territory:** to be settled by the author in Stage 0 (`00 - Scope.md`).
 - **This folder:** `00 - Scope.md` (Stage 0; not yet written), `05 - Composite/` (Stage 5) and `06 - Divergence/` (Stage 6). Its units live in the shared library, `../../../Units/<unit>/`, and are named at Stage 0.
 - **Note:** An autonomous zone within Meridia, listed on its own as the atlas lists it. Open: scope it with Meridia?
 
