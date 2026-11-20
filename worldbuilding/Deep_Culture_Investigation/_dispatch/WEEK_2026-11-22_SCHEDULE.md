@@ -1,4 +1,5 @@
 STATUS: OFFICIAL (author, 2026-11-18). No scheduled jobs: the author starts each day by hand, beginning Sunday 11-22. The session that is asked to run a day follows the daily procedure below.
+CHANGE (author, 2026-11-20): this week's ULM experiment finished early and well under the allotment, so a day moves forward to **Saturday 11-21**, started by a one-shot job at 05:02 in the main DCI session (job ba7035f5, session-only; it replaced 4a614a31 and ddee9819). That day runs thirteen nations: wave 1 Zhongyuan, Qin, Bashu, Jin; wave 2 Wu, Gan, Xiang, Min; wave 3 (five at once) Yue, Hakka, Manchuria, Indonesia, New Zealand. **East Turkestan and Tibet move to the end of the schedule** (author, 2026-11-20), after every nation already listed. The Mirny days then move up by one day (author, 2026-11-20), 12 a day in the same order from Sunday 11-22, so Mirny ends with Croatia on Wednesday 11-25. Then (author, 2026-11-20) the rest of the queue follows straight on, as far as the allotment allows: Janbogo, Halley, Greenland, East Turkestan, Tibet (Wednesday's wave 3 to Friday 11-27); whatever does not fit waits until after the Kunlun measurement on Sunday 11-29.
 
 # DCI springboards: the official schedule from Sunday 2026-11-22
 
@@ -8,30 +9,35 @@ STATUS: OFFICIAL (author, 2026-11-18). No scheduled jobs: the author starts each
 
 | Subnet | Day | Wave | Nations |
 |---|---|---|---|
-| **Sinian Federation** (10) | Sun 11-22 | 1 | Zhongyuan, Qin, Bashu, Jin |
-| | Sun 11-22 | 2 | Wu, Gan, Xiang, Min |
-| | Sun 11-22 | 3 | Yue, Hakka |
-| **1. Mirny** (47) | Sun 11-22 | 3 | Indonesia, New Zealand |
-| | Mon 11-23 | 1 | Taiwan, Vietnam, Germany, Philippines |
-| | Mon 11-23 | 2 | Thailand, Kazakhstan, United Kingdom, Malaysia |
-| | Mon 11-23 | 3 | South Africa, West Papua, Aceh, Patani |
-| | Tue 11-24 | 1 | Finland, CSA, Manchuria, East Turkestan |
-| | Tue 11-24 | 2 | Tibet, Austro-Bavaria, France, Belarus |
-| | Tue 11-24 | 3 | Appalachia, New England, Bulgaria, Lithuania |
-| | Wed 11-25 | 1 | Estonia, Latvia, Hungary, Quebec |
-| | Wed 11-25 | 2 | Midwest Republic, Colorado, Romania, Chile |
-| | Wed 11-25 | 3 | Northern Ireland, Hawaii, Ukraine, Demilitarized Zone |
-| | Thu 11-26 | 1 | Prairie Federation, Meridia, Magna Lombardia, Araucanía-Patagonia |
-| | Thu 11-26 | 2 | Argentina, Sweden, Norway, Spain |
-| | Thu 11-26 | 3 | Netherlands, Sicilia, Serbia, Croatia |
-| **2. Janbogo** (11) | week of 11-29, after Kunlun | 1 | Czechia, Poland, México, Slovakia |
-| | | 2 | Slovenia, Catalonia, Yucatán, Basque Country |
-| **3. Halley** (5) | week of 11-29, after Kunlun | 3 | Brazil, Amazonia, Uruguay, Denmark |
-| | | 4 | Iceland (with Greenland) |
+| **Sinian Federation** (10) and Manchuria | Sat 11-21 | 1 | Zhongyuan, Qin, Bashu, Jin |
+| | Sat 11-21 | 2 | Wu, Gan, Xiang, Min |
+| | Sat 11-21 | 3 | Yue, Hakka, Manchuria |
+| **1. Mirny** (47) | Sat 11-21 | 3 | Indonesia, New Zealand (wave 3 has five run agents) |
+| | Sun 11-22 | 1 | Taiwan, Vietnam, Germany, Philippines |
+| | Sun 11-22 | 2 | Thailand, Kazakhstan, United Kingdom, Malaysia |
+| | Sun 11-22 | 3 | South Africa, West Papua, Aceh, Patani |
+| | Mon 11-23 | 1 | Finland, CSA, Austro-Bavaria, France |
+| | Mon 11-23 | 2 | Belarus, Appalachia, New England, Bulgaria |
+| | Mon 11-23 | 3 | Lithuania, Estonia, Latvia, Hungary |
+| | Tue 11-24 | 1 | Quebec, Midwest Republic, Colorado, Romania |
+| | Tue 11-24 | 2 | Chile, Northern Ireland, Hawaii, Ukraine |
+| | Tue 11-24 | 3 | Demilitarized Zone, Prairie Federation, Meridia, Magna Lombardia |
+| | Wed 11-25 | 1 | Araucanía-Patagonia, Argentina, Sweden, Norway |
+| | Wed 11-25 | 2 | Spain, Netherlands, Sicilia, Serbia |
+| | Wed 11-25 | 3 | Croatia |
+| **2. Janbogo** (8 left) | Wed 11-25 | 3 | Czechia, Poland, México |
+| | Thu 11-26 | 1 | Slovakia, Slovenia, Catalonia, Yucatán |
+| | Thu 11-26 | 2 | Basque Country |
+| **3. Halley** (5) | Thu 11-26 | 2 | Brazil, Amazonia, Uruguay |
+| | Thu 11-26 | 3 | Denmark, Iceland |
 | **4. Palmer, 5. Mawson, 6. Byrd** (0) | | | none left: every nation in their cities comes earlier |
-| **No subnet** (1) | week of 11-29, after Kunlun | 4 | Greenland |
+| **No subnet** (1) | Thu 11-26 | 3 | Greenland |
+| **Moved to the end** (2; author, 2026-11-20) | Thu 11-26 / Fri 11-27 | 3 / 1 | East Turkestan (Thu) / Tibet (Fri) |
+| | Sat 11-28 | | spare |
+| | **Sun 11-29** | | **no DCI**: the author's clean ULM measurement on Kunlun, nothing else running |
+| | after Kunlun | | whatever the allotment did not allow before 11-29, in the order above |
 
-**Budget:** about 1.5% of the weekly allotment per nation (author's planning figure), so 18% a day; Sunday to Thursday is 60 runs, about 90%. Janbogo, Halley and Greenland (14 runs, about 21%) go in the week of 11-29 to 12-05, **after** the Kunlun ULM run, which opens that week with nothing else running. The rest of that week goes to tuning the full Cascadia investigation, if allotment remains.
+**Budget (author, 2026-11-20): as far as the allotment allows.** Run the queue above in order, day by day from Sunday 11-22, and stop when the weekly allotment runs out (the 95% rule, step 7); whatever is left waits until the Kunlun measurement on Sun 11-29 is finished, then continues in the same order. The session cannot see the meter: plan at the author's 1.5% per nation (about 2% per nation by the two clean readings of 11-15, Sonora and Korea), and use the author's meter readings whenever given (Saturday 11-21 is the first clean reading of the deeper brief: before 05:02 and after each wave). Each nation costs about 2.39M tokens (2.30 to 2.50M, days 2 to 4). Nothing runs on Sun 11-29 before or during Kunlun. Any allotment left after the queue goes to tuning the full Cascadia investigation.
 
 ## Daily procedure (when the author starts a day)
 
