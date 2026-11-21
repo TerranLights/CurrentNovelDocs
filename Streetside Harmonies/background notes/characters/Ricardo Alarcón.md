@@ -17,6 +17,31 @@
 
 **Notations in the chapters (2026-11-20):** every chapter below with a hand beat now ends with a "**NEW 2026-11-20: Ric's right hand**" note in its `01_adjusted_chapter_layout` file (Ch 1, 16, 18, 20, 29, 34, 35, 37). The stanza text itself is unchanged. The Prologue has no layout file and its verse is finished, so its notation is only here.
 
+## How he works around it (AUTHOR, 2026-11-20)
+
+**The note:** ideally **early on**, and then **throughout the book**, show things Ric would normally do with his right hand alone, or with both hands, that he has to **improvise** some other way because he doesn't have full use of his right hand. Each one has to **fit naturally and realistically in the context of the situation. Nothing forced:** it happens inside an action the scene already has, never a moment staged to display the hand. Nobody needs to comment on it.
+
+**Why it works:** the work-arounds read at first as a mechanic's habits and quirks. Only later does the reader put them together. Years of living with the hand have made them automatic, so he never fumbles for them; he just does them.
+
+**PROPOSED examples, tied to actions already in the layout** (a menu, not a checklist; use only what fits):
+
+| Normally | His work-around | Where it fits naturally |
+|---|---|---|
+| Pinching and holding a small screw or part | **Locking forceps** (hemostats) that clamp shut on their own, or a **magnetic tray** and magnetic driver bits, so nothing has to be pinched | **Early:** Prologue / Ch 1 stz 1-3 (the bench, opening V's arm); Ch 18 stz 5 (closing her head); Ch 29 stz 6 |
+| Gripping a thin tool handle | Handles **built up thick** with tape or rubber tubing, a strap loop on the screwdriver he uses most | **Early:** Ch 1 stz 1 (seen among the "organized chaos"); Ch 37 stz 1-2 (wiping and racking his tools) |
+| Holding a piece steady with one hand while working with the other | A **bench vise or clamp** does the holding; or the right hand serves only as a flat **brace**, a paperweight | Ch 1 stz 3; Ch 37 stz 1 (tinkering) |
+| Fine, fast fingerwork | **Thumb and forefinger** of the right hand only, or the **left hand** for the fine part | Ch 1 stz 2; Ch 29 stz 4-6 |
+| Fine work he can't do at all under time pressure | **Someone else's hands**, talked through it: Craig | Ch 29 stz 2, 6, 10 (the Dark Night) |
+| Carrying a box by its edges | Lifts from **underneath, on the forearms**; slides it across a surface | Ch 1 stz 6; Ch 18 stz 6; Ch 20 stz 1 |
+| Smoothing or pressing with the fingertips | The **heel of the palm** | Ch 1 stz 7 (the ersatz skin) |
+| A handshake | A **clap on the shoulder**, or the left hand | Ch 1 stz 10; Ch 35 stz 12 |
+| Writing | Slow, cramped writing with a **fat pen** wrapped in tape | Ch 29 stz 7 (the parts list) |
+| Holding a nail to hammer it | The nail held in **needle-nose pliers** (or pushed through a scrap of cardboard), hammered with the left hand | Ch 37 stz 7 (the ledge over the door) |
+| A strap or tool he'd hold steady while the other hand works | A **tool strapped to the right hand** | Ch 29 stz 6, only if the moment needs it |
+| Doorknobs, switches | **Knuckles, forearm, elbow**; the left hand | Ch 29 stz 1 (opening the door at night); Ch 37 stz 1 (the knock at the door) |
+
+**Early on, in particular:** the Prologue and Chapter 1 are the natural places to plant the first two or three (the forceps or magnetic tray, the built-up handles, the vise). They're part of the garage the reader is shown, and they pay off in Chapter 29, when the work-arounds aren't enough.
+
 ## Scene by scene (PROPOSED touches)
 
 **Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every stanza listed below. These are only the places where it is logically, realistically *possible* to show it; the text picks the few that serve each scene (the Dark Night of the Soul is the one place where it matters most).
