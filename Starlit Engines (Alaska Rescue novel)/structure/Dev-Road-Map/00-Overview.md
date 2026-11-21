@@ -54,11 +54,11 @@ What is incomplete, in priority order:
 
 The real-world writing order runs: **who are these people, and what is this place? → what do they do? → what does it all mean?** In roadmap terms: **Character (and Setting) creates Plot; Plot creates Theme.**
 
-### The universal north star
+### The Two Pillars
 
 Every novel in this shared universe answers some version of the same two governing questions: **what is the Robot Experience (the counterpart to the Human Experience), and how do the Robot Experience and the Human Experience interact and relate?** This pair is fixed across the whole line.
 
-**This novel's own north star:** *[[—]]* — not yet identified, and per Phase 5, that's expected at this early a stage. Two candidate threads worth watching as the story develops: Jennifer's unresolved built-purpose, and the found-family shape of two robots + two lifelong-friend humans choosing each other over their original circumstances.
+**This novel's own question (from the Two Pillars):** *[[—]]* — not yet identified, and per Phase 5, that's expected at this early a stage. Two candidate threads worth watching as the story develops: Jennifer's unresolved built-purpose, and the found-family shape of two robots + two lifelong-friend humans choosing each other over their original circumstances.
 
 ### Systems before content
 A character arc that references a plot beat that isn't settled is an arc that will need rewriting. Settle the foundations before writing the content that depends on them.

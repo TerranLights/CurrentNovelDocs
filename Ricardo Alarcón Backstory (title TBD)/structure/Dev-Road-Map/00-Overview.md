@@ -56,13 +56,13 @@ The real-world writing order runs: **who are these people, and what is this plac
 
 Nothing in a later phase should be designed before the things it depends on — but "depends on" here means *needs to exist first*, not *needs to be final first*. A character's full arc doesn't need a settled proper name; a plot doesn't need a fully-articulated theme before it can be built.
 
-### The universal north star
+### The Two Pillars
 
 Every novel in this shared universe answers some version of the same two governing questions: **what is the Robot Experience (the counterpart to the Human Experience), and how do the Robot Experience and the Human Experience interact and relate?** This pair is fixed across the whole line — it is not something to redesign per book.
 
-**What changes per book is the specific, concrete question that particular story asks as its own derivation of that pair.** For example, the Benson Trio novel's own north star is *"what does it mean to have a home?"* — a specific instance of the universal question, not a replacement for it.
+**What changes per book is the specific, concrete question that particular story asks as its own derivation of that pair.** For example, the Benson Trio novel's own question is *"what does it mean to have a home?"* — a specific instance of the universal question, not a replacement for it.
 
-**This novel's own north star:** [[—]]
+**This novel's own question (from the Two Pillars):** [[—]]
 
 *(Fill in once it becomes clear — per the Theme section above, this doesn't need to be settled before Phase 2 or Phase 4 begin, though having a rough sense of it early tends to help character work; it just isn't a hard prerequisite.)*
 

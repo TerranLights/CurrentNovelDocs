@@ -43,11 +43,11 @@ What is incomplete, in priority order:
 
 The real-world writing order runs: **who are these people, and what is this place? → what do they do? → what does it all mean?** In roadmap terms: **Character (and Setting) creates Plot; Plot creates Theme.**
 
-### The universal north star
+### The Two Pillars
 
 Every novel in this shared universe answers some version of the same two governing questions: **what is the Robot Experience (the counterpart to the Human Experience), and how do the Robot Experience and the Human Experience interact and relate?** This pair is fixed across the whole line.
 
-**This series' own north star:** *[[—]]* — not yet identified. Given that this series ends at the exact historical hinge point where robots lose the personhood/rights they'll spend centuries trying to regain, a strong candidate thread is something like *"what does it cost to become a symbol instead of a person?"* — Maggie never wanted leadership, and the story's core irony is that her desire to be left alone is precisely what history won't allow. Not locked in — per Phase 5, this should be confirmed once more plot work exists.
+**This series' own question (from the Two Pillars):** *[[—]]* — not yet identified. Given that this series ends at the exact historical hinge point where robots lose the personhood/rights they'll spend centuries trying to regain, a strong candidate thread is something like *"what does it cost to become a symbol instead of a person?"* — Maggie never wanted leadership, and the story's core irony is that her desire to be left alone is precisely what history won't allow. Not locked in — per Phase 5, this should be confirmed once more plot work exists.
 
 ### Consult the shared framework, don't reinvent it
 This series' beat structure and character-arc format come from `reference/story-structure-definitions.md`, shared across all novels in this line. This series also has an unusually direct relationship to the shared-universe timeline itself — treat `reference/story-structure-definitions.md` and the universe-timeline reference as required reading, not optional background.

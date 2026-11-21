@@ -65,7 +65,7 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| This novel's specific north star identified | ❌ | Not a blocking decision — expected to emerge during or after Phase 4, not before it |
+| This novel's own question (from the Two Pillars) identified | ❌ | Not a blocking decision — expected to emerge during or after Phase 4, not before it |
 | Theme Stated moment (event + line) | ❌ | |
 | Recurring symbols/motifs | ❌ | |
 

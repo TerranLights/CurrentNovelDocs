@@ -12,7 +12,7 @@ Not a phase — a standing reference to consult while working on any character a
 
 See `04-Phase-2-Characters.md` for the full standard. Short version: a character is done when a writer who's never met them can write any scene, any reaction, any register of dialogue, and knows what they'd never say — none of which requires the character to have a proper name yet.
 
-## The Universal North Star
+## The Two Pillars
 
 See `00-Overview.md`: every novel in this universe is some derivation of *what is the Robot Experience, and how do the Robot Experience and the Human Experience interact and relate?* This book's own specific derivation belongs in Phase 5 (Theme), not before.
 

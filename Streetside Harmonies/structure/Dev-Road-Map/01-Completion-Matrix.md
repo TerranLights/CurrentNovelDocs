@@ -79,7 +79,7 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| This novel's specific north star identified | ✅ | *What does it mean to have a home?* — see `00-Overview.md` |
+| This novel's own question (from the Two Pillars) identified | ✅ | *What does it mean to have a home?* — see `00-Overview.md` |
 | Theme Stated moment (event + line) | ❌ | Not yet identified against the finished chapter breakdown |
 | Recurring symbols/motifs | 🟡 | Home/homelessness imagery runs throughout (Ch.20 eviction, Finley Ctr. squatting) but hasn't been deliberately catalogued |
 

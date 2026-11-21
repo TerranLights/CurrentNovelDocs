@@ -56,11 +56,11 @@ What is incomplete, in priority order:
 
 The real-world writing order runs: **who are these people, and what is this place? → what do they do? → what does it all mean?** In roadmap terms: **Character (and Setting) creates Plot; Plot creates Theme.**
 
-### The universal north star
+### The Two Pillars
 
 Every novel in this shared universe answers some version of the same two governing questions: **what is the Robot Experience (the counterpart to the Human Experience), and how do the Robot Experience and the Human Experience interact and relate?** This pair is fixed across the whole line.
 
-**This novel's own north star:** *[[—]]* — not yet identified. Given the premise, a strong early candidate is something like *"what do you owe the truth when telling it could cost you everything?"* — but this shouldn't be locked in until Phase 4 plot work exists to actually derive it from, per Phase 5.
+**This novel's own question (from the Two Pillars):** *[[—]]* — not yet identified. Given the premise, a strong early candidate is something like *"what do you owe the truth when telling it could cost you everything?"* — but this shouldn't be locked in until Phase 4 plot work exists to actually derive it from, per Phase 5.
 
 ### Systems before content
 The specific unethical practice needs to exist before character/plot work can proceed with confidence — a company whose wrongdoing is undefined is a premise built on sand.

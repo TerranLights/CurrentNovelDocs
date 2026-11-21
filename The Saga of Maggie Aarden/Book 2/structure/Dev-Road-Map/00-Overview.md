@@ -28,6 +28,6 @@ What is incomplete:
 
 ---
 
-## This Book's North Star
+## This Book's Own Question (from the Two Pillars)
 
-Not yet identified — see the series-level candidate in `../../structure/Dev-Road-Map/00-Overview.md`. Given this book likely contains the actual treaty-signing climax, its own north star may end up being sharper/more specific than the series-wide one — worth revisiting once plot work exists.
+Not yet identified — see the series-level candidate in `../../structure/Dev-Road-Map/00-Overview.md`. Given this book likely contains the actual treaty-signing climax, its own question may end up being sharper/more specific than the series-wide one — worth revisiting once plot work exists.

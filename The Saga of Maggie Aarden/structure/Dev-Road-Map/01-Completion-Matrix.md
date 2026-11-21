@@ -65,7 +65,7 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| This series' specific north star | ❌ | Candidate noted in `00-Overview.md` — not locked in |
+| This series' own question (from the Two Pillars) | ❌ | Candidate noted in `00-Overview.md` — not locked in |
 
 ---
 

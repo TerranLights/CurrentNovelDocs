@@ -38,11 +38,11 @@ What is incomplete, in priority order:
 
 The real-world writing order runs: **who are these people, and what is this place? → what do they do? → what does it all mean?** In roadmap terms: **Character (and Setting) creates Plot; Plot creates Theme.**
 
-### The universal north star
+### The Two Pillars
 
 Every novel in this shared universe answers some version of the same two governing questions: **what is the Robot Experience (the counterpart to the Human Experience), and how do the Robot Experience and the Human Experience interact and relate?** This pair is fixed across the whole line.
 
-**This series' own north star:** *[[—]]* — not yet identified, and given how early-stage this reconstruction is, that's expected. One candidate worth watching: the tension between the Musician's own lived knowledge (from the CD-R dream) that nothing can be carried out of an unreal space into reality, and his entire quest depending on doing exactly that.
+**This series' own question (from the Two Pillars):** *[[—]]* — not yet identified, and given how early-stage this reconstruction is, that's expected. One candidate worth watching: the tension between the Musician's own lived knowledge (from the CD-R dream) that nothing can be carried out of an unreal space into reality, and his entire quest depending on doing exactly that.
 
 ### Consult the shared framework, don't reinvent it
 This series' beat structure and character-arc format come from `reference/story-structure-definitions.md`, shared across all novels in this line.

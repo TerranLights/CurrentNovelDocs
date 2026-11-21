@@ -6,7 +6,7 @@
 
 ---
 
-## 5.1 — This Novel's Specific North Star
+## 5.1 — This Novel's Own Question (from the Two Pillars)
 
 Every novel in this shared universe answers some version of the same two governing questions: *what is the Robot Experience, and how do the Robot Experience and the Human Experience interact and relate?* (See `00-Overview.md`.) That pair is fixed across the whole line.
 
@@ -24,7 +24,7 @@ Any image, object, or motif the story returns to. These are often easier to spot
 
 ## Phase 5 Output Checklist
 
-- [ ] This novel's specific north star identified
+- [ ] This novel's own question (from the Two Pillars) identified
 - [ ] Theme Stated moment identified (event + line)
 - [ ] Recurring symbols/motifs identified, if any
 

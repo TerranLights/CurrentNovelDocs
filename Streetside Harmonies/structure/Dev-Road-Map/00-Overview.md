@@ -61,11 +61,11 @@ The real-world writing order runs: **who are these people, and what is this plac
 3. Plot (Phase 4) — what do these people, with these wants, actually do?
 4. Theme (Phase 5) — what does it all mean? Discovered, not designed upfront.
 
-### The universal north star
+### The Two Pillars
 
 Every novel in this shared universe answers some version of the same two governing questions: **what is the Robot Experience (the counterpart to the Human Experience), and how do the Robot Experience and the Human Experience interact and relate?** This pair is fixed across the whole line.
 
-**This novel's own north star:** *What does it mean to have a home?* — Streetside Harmonies' own concrete derivation of the universal pair, worked out through Valerie (a robot with no legal claim to any home), Craig (a human who's never had a stable one), and Martin (whose drive for professional validation has cost him one).
+**This novel's own question (from the Two Pillars):** *What does it mean to have a home?* — Streetside Harmonies' own concrete derivation of the universal pair, worked out through Valerie (a robot with no legal claim to any home), Craig (a human who's never had a stable one), and Martin (whose drive for professional validation has cost him one).
 
 ### Systems before content
 A character arc that references a plot beat that isn't settled is an arc that will need rewriting. Settle the foundations before writing the content that depends on them.

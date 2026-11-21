@@ -62,7 +62,7 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| This novel's specific north star | ❌ | Candidate noted in `00-Overview.md` — not locked in yet |
+| This novel's own question (from the Two Pillars) | ❌ | Candidate noted in `00-Overview.md` — not locked in yet |
 
 ---
 

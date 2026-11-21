@@ -64,7 +64,7 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| This novel's specific north star | ❌ | Not yet identified — expected at this stage, per Phase 5 |
+| This novel's own question (from the Two Pillars) | ❌ | Not yet identified — expected at this stage, per Phase 5 |
 
 ---
 

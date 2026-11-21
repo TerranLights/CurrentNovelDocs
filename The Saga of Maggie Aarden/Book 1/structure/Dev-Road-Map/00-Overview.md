@@ -26,6 +26,6 @@ What is incomplete:
 
 ---
 
-## This Book's North Star
+## This Book's Own Question (from the Two Pillars)
 
 Not yet identified — see the series-level candidate in `../../structure/Dev-Road-Map/00-Overview.md`. This book's own version, if different from the series' overall theme, should be recorded here once there's plot to derive it from.
