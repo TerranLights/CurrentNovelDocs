@@ -22,3 +22,15 @@
 
 Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
 - Following the previous [27 --> 27/28] split, this chapter will then follow up as becoming Chapter 29
+
+**NEW 2026-11-20: Ric's right hand** *(the author's detail; placements suggested by Claude, for the author to accept, change or drop; stanza text above unchanged)*. Ric's right hand is permanently injured: the far fingers don't bend as they should, his grip is weak, and his fingers don't move independently. *Streetside* never says why. Full notes: `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`.
+**Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every one of these stanzas. They are only the places where it is logically, realistically *possible* to show it; pick the few that serve the scene.
+- **This is where the hand matters most** (the author: the Dark Night of the Soul).
+- **stz 2** [RETURN],[CHANGE], "instructs C to fetch cables & wooden/plastic items": soon Craig isn't only fetching; Ric needs Craig's hands for the fine work and talks him through it (*hold this, there, no, the other one, now turn it*).
+- **stz 4** [YOU][NEED],[GO], "Ric is frantically working fast": the grip slips; he stops, shakes the hand out, starts again, angry at the hand.
+- **stz 5** [YOU][NEED],[GO], "Ric rushes to collect parts & tools together": he fumbles a small part; Craig picks it up.
+- **stz 6** [YOU][NEED],[GO], "removes V's scalp and begins attaching cables": the hardest moment. Small connectors deep in her head; he steadies the right hand with the left, straps a tool to it, or hands the connector to Craig.
+- **stz 7** [RETURN],[CHANGE], "Ric is writing up a list": slow, cramped, hard-to-read writing.
+- **stz 8** [SEARCH],[FIND],[TAKE], "Using parts, he fixes a fair amount of V": between jobs he soaks or rubs the hand; the days take their toll.
+- **stz 10** [SEARCH],[FIND],[TAKE], "Ric making finishing fixes": the last delicate work is the slowest.
+- *Save the Cat* (Dark Night) has a line not yet placed here: "Not to worry, EG7-KV42. We'll bring you back online. I promise you." It fits stz 4 or 6, said while the hand is failing him.

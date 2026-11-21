@@ -18,3 +18,13 @@
 | 12 | They play; a crowd gathers around V | C plays w/ a Hang line; V&M join in | as they play, a crowd gathers, amazed at V | Setting desc.: three musicians playing for the public; police approach |
 
 **Cut:** stanzas 13–16 (crossed out in source; chapter's real content ends at stanza 12).
+
+**NEW 2026-11-20: Ric's right hand** *(the author's detail; placements suggested by Claude, for the author to accept, change or drop; stanza text above unchanged)*. Ric's right hand is permanently injured: the far fingers don't bend as they should, his grip is weak, and his fingers don't move independently. *Streetside* never says why. Full notes: `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`.
+**Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every one of these stanzas. They are only the places where it is logically, realistically *possible* to show it; pick the few that serve the scene.
+- **stz 1** [YOU][NEED],[GO], "Ric knows where everything is": the tools he uses most hang where his left hand reaches them first, part of the organized chaos.
+- **stz 2** [YOU][NEED],[GO], "difficulty reaching the extent of the damage": partly the hand. The far fingers won't curl into the opening, so he works with thumb and forefinger, or braces the right hand with the left. (The reader's first sight of Ric is the Prologue; if the hand isn't shown there, this is its first appearance.)
+- **stz 3** [SEARCH],[FIND],[TAKE], "opens V up": slow, deliberate fine work.
+- **stz 6** [YOU][NEED],[GO], "take the whole thing, mijo": he slides the box across rather than lifting it one-handed.
+- **stz 7** [YOU][NEED],[GO], "applies the ersatz skin back onto her arm": he presses the seam flat with the heel of his palm, not his fingertips.
+- **stz 8** [YOU][NEED],[GO], "V wiggles her fingers, opens & closes her hand": the mirror. Her hand moves finger by finger, as his no longer can; Ric watches a beat too long. Show only.
+- **stz 10** [RETURN],[CHANGE], "M shakes hands": Martin feels the weak grip, or that it's offered stiffly. He says nothing. (Bookended in Ch 35 stz 12.)

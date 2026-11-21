@@ -17,3 +17,12 @@
 Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
 - The notation "[¶n]" marks what "adjusted" stanza something will be a part of. This is a way I came up with to "compress" data in the outlines (which, on physical paper, I designated by drawing "bubbles" around the particular relevant stanza-sections)
 - In Stanza 5 {later-to-be Stanza 4}, under the "[YOU][NEED],[GO]" section, there should be a reference to the actual composition/nature of that necklace somewhere
+
+**NEW 2026-11-20: Ric's right hand** *(the author's detail; placements suggested by Claude, for the author to accept, change or drop; stanza text above unchanged)*. Ric's right hand is permanently injured: the far fingers don't bend as they should, his grip is weak, and his fingers don't move independently. *Streetside* never says why. Full notes: `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`.
+**Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every one of these stanzas. They are only the places where it is logically, realistically *possible* to show it; pick the few that serve the scene.
+- **stz 1** (1.1), "Ric is tinkering": his work-arounds show (the piece clamped in a vise, thumb-and-forefinger work).
+- **stz 2** (3.1), "Ric waves his hand: it's nothing": the wave doesn't open fully.
+- **stz 3** (4.1), "Ric reaches out & tussles V's hair": it ruffles but can't grip, or it's the left hand.
+- **stz 4** [SEARCH],[FIND],[TAKE] and [RETURN],[CHANGE], "lifts t/necklace ... careful to link t/chain": the strongest beat after Ch 29. The tiny clasp is exactly what his fingers can't do; he takes his time and gets it, or Valerie lifts her hair and waits. (The author's note above also asks for the necklace's makeup in this stanza.)
+- **stz 6** [SEARCH],[FIND],[TAKE], the statue: optional. The little metal father grips his wrench firmly, as Ric's hand no longer can. Show only.
+- **stz 7**, "nails t/new ledge to t/wall": holding the nail is the awkward part; he sets it with the left hand and taps carefully.

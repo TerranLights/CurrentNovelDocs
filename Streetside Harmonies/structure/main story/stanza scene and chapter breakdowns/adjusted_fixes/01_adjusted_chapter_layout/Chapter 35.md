@@ -23,3 +23,9 @@
 Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
 - The notation "[¶n]" marks what "adjusted" stanza something will be a part of. This is a way I came up with to "compress" data in the outlines (which, on physical paper, I designated by drawing "bubbles" around the particular relevant stanza-sections)
 - In Stanza 6, under "Upon [RETURN],[CHANGE]", in terms of "louder than visible", I honestly don't remember what it was that I was thinking of referring to. Maybe you can help out with some possibilities.
+
+**NEW 2026-11-20: Ric's right hand** *(the author's detail; placements suggested by Claude, for the author to accept, change or drop; stanza text above unchanged)*. Ric's right hand is permanently injured: the far fingers don't bend as they should, his grip is weak, and his fingers don't move independently. *Streetside* never says why. Full notes: `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`.
+**Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every one of these stanzas. They are only the places where it is logically, realistically *possible* to show it; pick the few that serve the scene.
+- **stz 5-6**, "Ric claps": a flat, stiff right palm against his left, or against his thigh.
+- **stz 7** (8.1), "Ric re-enters": if he's the one who got the power back on, he flexes or shakes out the right hand as he comes in.
+- **stz 12** (15.2), "Ric congrats": bookends Ch 1 stz 10. He claps Martin on the shoulder instead of shaking hands, or shakes left-handed; right after comes Martin and Mr. Morrow's firm handshake (15.3).

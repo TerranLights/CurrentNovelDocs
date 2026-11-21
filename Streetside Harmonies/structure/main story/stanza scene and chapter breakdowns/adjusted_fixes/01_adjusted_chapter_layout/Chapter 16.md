@@ -15,3 +15,7 @@
 | 8 | Manager says C could want the real thing; touches C's arm | Manager girl comments to C that V is a robot; C confirms | Manager girl [implies/prods] he would be happier w/ the real thing; C keeps it business | Manager girl reaches to touch C's arm |
 | 9 | V catches C's arm jerking away; they leave; manager gives V dirty look | V is excited at [something] nearby. She turns to tell C and sees him jerking his arm away | C says: "let's go"; puts his arm around V | Glancing back, V spots manager girl giving her a super dirty look |
 | 10 | V asks what happened; C isn't like his mom | V turns to C and asks what happened | C says "I'm not like her." V asks "the manager?" | C says "her, too"; they walk out the door |
+
+**NEW 2026-11-20: Ric's right hand** *(the author's detail; placements suggested by Claude, for the author to accept, change or drop; stanza text above unchanged)*. Ric's right hand is permanently injured: the far fingers don't bend as they should, his grip is weak, and his fingers don't move independently. *Streetside* never says why. Full notes: `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`.
+**Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every one of these stanzas. They are only the places where it is logically, realistically *possible* to show it; pick the few that serve the scene.
+- **stz 2** [YOU][NEED],[GO], "V hugs Ric": his right hand rests flat on her back without closing.

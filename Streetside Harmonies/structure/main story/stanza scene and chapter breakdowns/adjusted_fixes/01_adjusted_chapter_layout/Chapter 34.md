@@ -17,3 +17,7 @@
 
 Appended additional notes *(copied verbatim from the source file; chapter and stanza numbers inside refer to the source numbering)*:
 - In Stanza 5, Valerie asking about "his girlfriend", etc, this is probably connected to a previous idea I'd had, and probably abandoned, because the original source idea was probably something that wasn't good enough to keep in later versions. However, the idea of Valerie not knowing could possibly still be worth keeping. So, this is something that may possibly be worth working on further.
+
+**NEW 2026-11-20: Ric's right hand** *(the author's detail; placements suggested by Claude, for the author to accept, change or drop; stanza text above unchanged)*. Ric's right hand is permanently injured: the far fingers don't bend as they should, his grip is weak, and his fingers don't move independently. *Streetside* never says why. Full notes: `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`.
+**Not every stanza (author, 2026-11-20):** it is not necessary to describe his hand in every one of these stanzas. They are only the places where it is logically, realistically *possible* to show it; pick the few that serve the scene.
+- **stz 3** [RETURN],[CHANGE], "Ric improvised a webbing Faraday mesh for her": Ric isn't on the page, but his mesh is. It's knotted rather than woven, a little uneven, and it works anyway.
