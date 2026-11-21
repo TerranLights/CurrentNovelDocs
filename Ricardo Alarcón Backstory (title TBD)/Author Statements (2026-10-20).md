@@ -55,6 +55,11 @@
 - How Ric gets in (and what weapon he has), what he pins his hand with, where he hides, and who gives him medical attention later.
 - Whether the right hand is his dominant hand (presumably yes, given how much it limits his work in Streetside).
 
+## To write in this book: the siligel proxy (AUTHOR, 2026-11-20)
+**The author wants to remember to write this into this book.** In *Streetside Harmonies* (Ch 18 stz 5-6), Ric gets his siligel through a **name-proxy**: he can't order under his own name and can't go to HyperHedral himself, because his name must never draw HyperHedral's attention (see "Why Ric uses a proxy" below). **This book should show where that way of hiding comes from.** The proposal (Claude, 2026-11-20): **the robot who builds his false identity** (item 11) is the one who **sets up the proxy**, or **teaches him how to hide that way**: orders placed through someone HyperHedral would see as trivial and never investigate.
+- OPEN: which of the two (she sets it up, or she teaches him), who the first proxy is, and whether that proxy is the one later "blown" in *Streetside* Ch 18.
+- The full list of connections between the two books is in `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`, "Connections with his origin story".
+
 ## Checks against *Streetside Harmonies* and the world (CHECK; for the author to confirm)
 - **The necklace fits Streetside as written.** Ch 37 stz 5 has Ric lift "t/necklace from above t/door" and put it on Valerie, "careful to link t/chain"; the outline calls it "his daughter's necklace", and in his eyes the robot-daughter was his daughter. The Streetside text could describe it (a shell, a small gear), which would let a reader of both books recognize it. Ch 37 also already has Valerie's own gift to him, a figure made from scrap metal bits, which he sets **over the front door, where the necklace hung** (stz 3, 7-8).
 - **His wife is Lucía** (AUTHOR, 2026-10-20): the same Lucia whose birthday Ric keeps in Streetside (Ch 21 stz 10, "it's Lucia's b-day; M: his wife"; the author's appended note: "that Lucia **was** Ricardo's wife"). The Streetside transcription spells it "Lucia" without the accent, as on the handwritten page; the author spells it **Lucía**.

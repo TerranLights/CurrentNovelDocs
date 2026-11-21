@@ -97,6 +97,30 @@ The layout already has the pieces. The hand turns them into stakes:
 
 **Why it works:** it raises the Dark Night's stakes without a word of backstory. The one man who can fix her is working against his own body, and it lets Craig save her too, with Ric's knowledge in Craig's hands.
 
+## Connections with his origin story
+
+**The rule for all of them:** each stays readable only to someone who has read both books. In *Streetside*, nothing reveals his real name or ties a HyperHedral site to his past.
+
+**Established (AUTHOR):**
+1. **The necklace:** a Baja seashell with a small gear and computer parts, made by his daughter for her robot sister. He gives it to Valerie in Ch 37 stz 4.
+2. **His permanently injured right hand** (above).
+3. **He is not on good terms with HyperHedral.**
+
+**Prospective (Claude, 2026-11-20; the author keeps all of them on file and decides later which, if any, go into the novel):**
+
+*Already in the Streetside outline, only not yet named as connections:*
+1. **Lucía.** Ch 21 stz 10 (her birthday) and stz 12 ("Ric comes back to town"). In his own book she is his wife, killed by HyperHedral. The author wants to *show*, not state, that she was his wife (Ch 21 note). One way: where he goes on her birthday. Santa Rosa is about half an hour from the coast (Bodega Bay); a day by the sea ties back to the Baja seashell without a word.
+2. **Valerie as a second robot-daughter.** He calls her "mija"; in Ch 16 stz 2 she hugs him "as a dad"; in Ch 37 her statue (a "Father" with a wrench, a "daughter" with a violin) goes up exactly where the necklace hung. His daughter once made a gift for her robot sister; now a robot daughter makes one for him. To readers of his book, it's a second chance at what HyperHedral took.
+3. **The siligel proxy.** Ch 18 stz 5-6: he can't order under his own name and can't go to HyperHedral himself. More specific than "not on good terms": his name must never draw HyperHedral's attention. In his own book, the robot who builds his false identity could be the one who set up the proxy, or taught him how to hide that way. (Logged in his book's Author Statements as something to write there.)
+4. **Robots are people.** The flight-mode scene in the arc file (`structure/character arcs/Valerie.md`, Setup): robots may not be legal people, but they are people and deserve to know what's going on around them. In his book, that conviction comes from his robot-daughter.
+5. **"Can't have guests" and the angry door.** Ch 16 stz 3 ("the place is small and he can't have guests"); Ch 29 stz 1 (he opens the door at night "initially angry"). A man in hiding, still half expecting someone to come for him.
+6. **Martin's "ever since they took..."** (Ch 29 stz 3, unfinished). His origin story would explain it. (Also OPEN in his book's Author Statements.)
+
+*New:*
+7. **A daughter who couldn't speak.** In Ch 29 stz 5 and 9, Valerie is delirious, her voice distorted, talking gibberish. Ric is the one who reads her anyway, after years of understanding a child who couldn't talk. If his daughter used sign language, a sadder layer: the hand he broke was the one he signed with.
+8. **His capacity for violence, unseen.** The gentle mechanic once killed a man with his bare hands. In *Streetside* that surfaces, if at all, as one moment of unexpected stillness or menace, for example if someone threatens Valerie. Readers of his book know exactly what they're seeing.
+9. **His knowledge of HyperHedral's robots.** A whole career at HyperHedral is why he can fix Valerie when nobody else can. A deeper layer, if ever wanted: Valerie of the same kind of build as his robot-daughter. Handle with care: it pulls toward HyperHedral.
+
 ## OPEN (for the author)
 - Whether Valerie, honest to the point of pain (cast list), **asks him outright** what happened to his hand. If she does, where (Ch 1 or Ch 16 are natural), and how he deflects without hinting at HyperHedral.
 - Whether Craig and Martin already know the hand is bad (long-time friends), so only Valerie and the reader discover it.
