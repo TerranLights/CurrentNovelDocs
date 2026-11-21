@@ -24,11 +24,37 @@
 7. **The gift:** his daughter made her robot sister a gift: **a seashell from the beaches of Baja California, combined with a small metal gear and some computer parts**, put together to **symbolize nature and technology combined**.
 8. **Much later in the book, HyperHedral kills his wife, his daughter and his "robot-daughter"** (his daughter's sister). **He discovers it when he comes home one day.** *The reason HyperHedral does it is not yet decided (OPEN).*
 9. **He takes the necklace** his daughter gave her robot sister, as a memento of his family. **This is the necklace he eventually gives Valerie in *Streetside Harmonies*** (Ch 37).
-10. **He tracks down whoever ordered the hit on his family, confronts him, and kills him.**
+10. **He tracks down whoever ordered the hit on his family, confronts him, and kills him.** Details added 2026-11-20 in "The executive and the broken hand" below.
 11. **With the help of another robot, he acquires a new identity**, so he can pass borders and take transportation without being flagged and tracked down by HyperHedral.
     - **That robot is someone not yet named** (AUTHOR, 2026-10-20). **Ísabel Camila Bóndar is reserved for the CRPG** (InnerTepeniaGDD), so she is not this robot.
     - **What she has to be (AUTHOR, 2026-10-20):** a female robot **with access to government systems and databases**, able to **implant false information about his background** so that "Ricardo Alarcón" looks like **an established person with a real history**, and nobody gets suspicious when his name is pulled up in a **database, a search, or a plain ID scan**.
 12. **The ending:** he makes his way into California. Someone asks his name, and he says **"Ricardo Alarcón."** Earlier in the book, the two names **"Ricardo" and "Alarcón" appear separately, in different places, associated with people and things he really enjoys.**
+
+## The executive and the broken hand (AUTHOR, 2026-11-20)
+**Cause, in this book:**
+1. **One specific person at HyperHedral orders the hit** on Ric's family (his wife, his daughter, and his daughter's robot sister). That person has **a vested interest in something** that leads, somehow, to the order. *What the interest is, and so the reason for the hit, is still OPEN.*
+2. **Where:** in **Act 3** most likely (the author's lean), possibly in **Bad Guys Close In**.
+3. **The one-man quest:** Ric storms through HyperHedral alone to find the exact person who ordered the hit.
+4. **The confrontation:** the executive begs for his life: surely Ric must understand... Before he can finish the sentence, **Ric shoots him through the throat.** He can no longer talk, but he is still alive.
+5. **"She was..."** On the floor, bleeding to death, the executive tries to speak and gurgles **"She was..."**. **Ric punches him in the face, repeatedly and very hard, and kills him. Ric breaks his (right) hand doing it.**
+6. **The escape:** alarms sound and armed security converges on the area. Ric has to **get out of the megacorporate compound undetected** and deal with the broken hand at the same time.
+7. **He bolts the bones of his hand back together himself**, in the compound or on the way out. It is extremely painful.
+8. He gets **out of the compound, off and away from the corporation's premises, to safety**, and only **later to medical attention**.
+
+**Effect, in *Streetside Harmonies*:** the lasting damage to Ric's right hand (see `Streetside Harmonies/background notes/characters/Ricardo Alarcón.md`). The hand is mostly healed but never fully works again: the far fingers don't bend as they should, his grip is weak, and his fingers have trouble moving independently of each other.
+
+**Where this sits in the list above:** after the killing of his family (item 8) and before the new identity (item 11). The broken hand also has to be dealt with before he can pass any checkpoint unnoticed, which may tie the "later medical attention" to the identity robot or to whoever treats him off the books (OPEN).
+
+**CHECK (real-world facts, for later research; not canon):**
+- Punching hard and repeatedly typically breaks the long hand bones behind the **ring and little fingers** (the "boxer's fracture"). Left to heal untreated or badly set, it leaves a dropped knuckle, fingers that **cross or twist when he closes his fist**, stiffness, **a weaker grip**, and ring and little fingers that tend to **move together** (their tendons are partly linked). That matches the Streetside picture closely.
+- Surgeons often fix these fractures by driving **steel wires or pins through the skin** into the bone, so a mechanic pinning his own hand with whatever wire or pins and driver he finds is plausible. Done in a hurry, without imaging, and followed by delayed care, it would heal crooked and risk infection: a natural cause for the lasting impairment.
+
+**OPEN (from this addition):**
+- **What the executive was going to say ("She was...").** Ric kills him before he can finish, so **Ric may never learn the reason.** Whether the reader does, and whether "she" is Lucía, the daughter, the robot-daughter, or someone else, is the author's call.
+- The executive's name, rank and vested interest.
+- How Ric gets in (and what weapon he has), what he pins his hand with, where he hides, and who gives him medical attention later.
+- **The missing pinkie** (Streetside, `structure/character arcs/Valerie.md`). Is it on the same hand, and is it lost in this event (for example amputated later, when the self-repair went wrong), or does it predate it? "How he lost the finger" is already OPEN below.
+- Whether the right hand is his dominant hand (presumably yes, given how much it limits his work in Streetside).
 
 ## Checks against *Streetside Harmonies* and the world (CHECK; for the author to confirm)
 - **The necklace fits Streetside as written.** Ch 37 stz 5 has Ric lift "t/necklace from above t/door" and put it on Valerie, "careful to link t/chain"; the outline calls it "his daughter's necklace", and in his eyes the robot-daughter was his daughter. The Streetside text could describe it (a shell, a small gear), which would let a reader of both books recognize it. Ch 37 also already has Valerie's own gift to him, a figure made from scrap metal bits, which he sets **over the front door, where the necklace hung** (stz 3, 7-8).
@@ -64,10 +90,10 @@
 - **Each book's cast is independent:** no comparing or cross-referencing characters with other novels.
 
 ## OPEN (for when the author is ready)
-- **Why HyperHedral kills his family** (the author has not decided), and who ordered it.
+- **Why HyperHedral kills his family** (the author has not decided). Who ordered it: one HyperHedral executive with a vested interest (AUTHOR, 2026-11-20); his identity and the interest are still OPEN.
 - The working title; his real name; the era (how many years before 2149); the town in southern Baja California; where in northern Baja he works.
 - Names: his daughter, the robot-daughter, the mentor, the robot who helps with the new identity; the people and things the names "Ricardo" and "Alarcón" come from.
 - **The robot at the center of the book** (the author's universal rule). Robots in the story so far: the robot-daughter, and the robot who helps him get his new identity (not yet named).
-- How he lost the finger.
+- How he lost the finger (possibly tied to the broken hand of 2026-11-20; see above).
 - What the "betrayal" is, if it is more than the killing.
 - Whether any of his Streetside lines above are meant as plants for this book (for example Martin's unfinished "ever since they took..." in Ch 28 stz 3, and Valerie's "that his g.f.?" at the concert, Ch 33 stz 5).
