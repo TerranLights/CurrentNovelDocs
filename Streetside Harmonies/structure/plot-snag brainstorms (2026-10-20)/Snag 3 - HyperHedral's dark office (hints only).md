@@ -441,23 +441,18 @@ The siligel was waiting for a truck that never came.
 3. **Ch 22 stz 9-17:**
    - A weathered notice on the inner door reads "LEGAL HOLD — DO NOT REMOVE OR POWER DOWN," with a reference number.
    - Martin hesitates at "do not remove"; Craig doesn't.
-4. **Same scene, the back workshop:**
-   - A bench and a stool; on the bench, a pair of work gloves.
-   - The little finger of the left glove has been cut off and stitched closed. (Ric is missing a pinkie, per the arc file.)
-   - Craig doesn't look twice.
-5. **Ch 26 stz 6:** Craig says where they got the siligel. Ric asks only, "Which park?" When he is told, he turns the radio up.
+4. **Ch 26 stz 6:** Craig says where they got the siligel. Ric asks only, "Which park?" When he is told, he turns the radio up.
 
-**Deduction test.** Ric worked in that building; his leaving froze it; the hold keeps it powered and untouched. **No character acts:** Craig never connects the glove, and Ric never says.
+**Deduction test.** Ric worked in that building; his leaving froze it; the hold keeps it powered and untouched. **No character acts:** Ric never says.
 
 **What it shows / sharpens.** The defector reveal (the cast list says he is "later revealed" as one), done by objects instead of a speech. It sharpens **Ric's backstory, strongly**.
 
 **Cost or risk.**
 - It pulls toward Ric.
-- The glove is a loud clue: good for a careful reader, and still deniable for the characters.
 - A hold "against him" can suggest he is being hunted; keep it about records, not a manhunt.
 - **Focus cost: medium.**
 
-**Cohesion hooks.** Ric's pinkie; Ch 18 stz 5; Ch 37 (the garage he built instead).
+**Cohesion hooks.** Ch 18 stz 5; Ch 37 (the garage he built instead).
 
 ### E11. Waiting on the vote (kept warm for a relaunch)
 

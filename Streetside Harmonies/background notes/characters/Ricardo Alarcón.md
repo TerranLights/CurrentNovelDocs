@@ -15,8 +15,6 @@
 
 **The cause stays in his own book.** In his origin story he breaks the hand killing the HyperHedral executive who ordered the hit on his family, then bolts the bones back together himself while escaping the compound. *Streetside* shows only the effect. If anyone asks, he deflects, and the answer never points to HyperHedral or to his name.
 
-**Also on record:** he is **missing a finger, a pinkie** (`structure/character arcs/Valerie.md`, Setup: "describe the mechanic missing a pinkie"). Which hand, and whether it is tied to the broken hand, is OPEN (his own book's Author Statements).
-
 ## Scene by scene (PROPOSED touches; one small beat each, unless the author wants more)
 
 | Ch, stz | Scene (from the layout) | The hand |
@@ -50,4 +48,3 @@ The layout already has the pieces. The hand turns them into stakes:
 - Whether Valerie, honest to the point of pain (cast list), **asks him outright** what happened to his hand. If she does, where (Ch 1 or Ch 16 are natural), and how he deflects without hinting at HyperHedral.
 - Whether Craig and Martin already know the hand is bad (long-time friends), so only Valerie and the reader discover it.
 - Whether the Ch 29 "Craig becomes his hands" beat fits the author's plans for Craig.
-- The missing pinkie: which hand, and whether it shares the cause.

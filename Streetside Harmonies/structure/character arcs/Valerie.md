@@ -12,7 +12,6 @@ The three of them are playing music on the street. Occasionally, some people sto
 	// Passions: Novelty; exploration
 	// Problem [INITIAL]: Is bursting with so much energy that she can't sit still
 	// this is where we meet her allies, including the HyperHedral mechanic
-	// the HH mechanic is missing a finger (a pinkie)
 	// show that Valerie is capable of flight mode
 		// while Ricardo is repairing her, during a certain portion, he needs her to be in flight mode because of some sort of risk of electrocution or something (similar to powering off a circuit while reparing a box or something), maybe install/replace some sort of a part
 		// upon waking, she comments on something they said. It's Martin who comments on the fact that she can do that, because Craig would be more familiar with this concept, and Ricardo is a roboticist, so he's more familiar than all of them put together
@@ -30,7 +29,7 @@ The three of them are playing music on the street. Occasionally, some people sto
 
 Valerie is a bright, happy, jolly, cheerful soul (to the extent that a robot can have a "soul"). Being a random person with scattered interests, she finds the beauty in everything, but never actually focuses on any one thing, and thus, is only "good enough" at everything, but lacks expertise and mastery in anything.
 
-She starts off at the HH mechanic's garage with Craig and Martin getting her arm repaired (describe the mechanic missing a pinkie). He has her try some finger motions. She plays an arpeggio. Thanks him for the work and pays. They then go to find a place to do busking to make more money. Valerie wants to continue exploring. Craig and Martin want to get groceries and go home. Valerie says she'll meet them there. They part ways for now. She then exchanges some of it for Coloradan dollars and Sonoran pesos. She sees a record shop and goes inside.
+She starts off at the HH mechanic's garage with Craig and Martin getting her arm repaired. He has her try some finger motions. She plays an arpeggio. Thanks him for the work and pays. They then go to find a place to do busking to make more money. Valerie wants to continue exploring. Craig and Martin want to get groceries and go home. Valerie says she'll meet them there. They part ways for now. She then exchanges some of it for Coloradan dollars and Sonoran pesos. She sees a record shop and goes inside.
 
 		CARE PACKAGE:
 	// this is where valerie gets that vintage vinyl copy of Garmarna's "Vittrad" for Craig

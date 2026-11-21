@@ -53,7 +53,6 @@
 - **What the executive was going to say ("She was...").** Ric kills him before he can finish, so **Ric may never learn the reason.** Whether the reader does, and whether "she" is Lucía, the daughter, the robot-daughter, or someone else, is the author's call.
 - The executive's name, rank and vested interest.
 - How Ric gets in (and what weapon he has), what he pins his hand with, where he hides, and who gives him medical attention later.
-- **The missing pinkie** (Streetside, `structure/character arcs/Valerie.md`). Is it on the same hand, and is it lost in this event (for example amputated later, when the self-repair went wrong), or does it predate it? "How he lost the finger" is already OPEN below.
 - Whether the right hand is his dominant hand (presumably yes, given how much it limits his work in Streetside).
 
 ## Checks against *Streetside Harmonies* and the world (CHECK; for the author to confirm)
@@ -70,7 +69,6 @@
 
 ## What *Streetside Harmonies* already shows about him (CHECK; Ch 23-38 transcriptions are not yet proofread by the author)
 - **Role:** mechanic, Valerie's repairer, a trusted friend of Craig; a **pro-robot-rights defector from HyperHedral** (`Streetside Harmonies/background notes/cast of characters.md`; the arc file says this is "later revealed"). Works from his own garage.
-- **Missing a finger (a pinkie)** (`structure/character arcs/Valerie.md`, Setup).
 - **Speaks Spanish:** "ya [estuve/quedo]" (Ch 1 stz 7), "con Dios" / "Go with God" and "mijo" (Ch 18 stz 6), "mija" and "you make a grizzled viejo proud" (Ch 37 stz 4-6).
 - **Siligel supply through a "name-proxy"**, now blown: he can't order under his own name and **can't go himself to HyperHedral** (Ch 18 stz 5-6).
 - **Lucia, his wife** (Ch 21 stz 10; the author's appended note wants to *show* rather than state that Lucia was Ricardo's wife).
@@ -94,6 +92,5 @@
 - The working title; his real name; the era (how many years before 2149); the town in southern Baja California; where in northern Baja he works.
 - Names: his daughter, the robot-daughter, the mentor, the robot who helps with the new identity; the people and things the names "Ricardo" and "Alarcón" come from.
 - **The robot at the center of the book** (the author's universal rule). Robots in the story so far: the robot-daughter, and the robot who helps him get his new identity (not yet named).
-- How he lost the finger (possibly tied to the broken hand of 2026-11-20; see above).
 - What the "betrayal" is, if it is more than the killing.
 - Whether any of his Streetside lines above are meant as plants for this book (for example Martin's unfinished "ever since they took..." in Ch 28 stz 3, and Valerie's "that his g.f.?" at the concert, Ch 33 stz 5).

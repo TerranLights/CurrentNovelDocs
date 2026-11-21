@@ -109,13 +109,13 @@ Category tags: **CUT** = the line goes entirely; **LINE** = a line stays, but th
 
 ### Option 8. Move the promise to Ch 28, where keeping it costs something (LINE moved; Ch 21 goes silent)
 
-**Idea.** Cut the line from Ch 21 (and from Ch 7). The reader learns the promise only when Craig keeps it, out loud, to someone else, while Valerie can't hear. Ch 28 stz 2 already has the setup: "Ric: need to shut her off; C: she's terrified of shutting down; Ric accepts & thinks." Make Craig's half a refusal, not an explanation: "No." Ric looks up. "Ric. No." Ric looks at her and flexes his four-fingered hand, then sends Craig for the "wooden/plastic items" (already on the page), which read as insulation so that he can work on her live. A promise kept at a cost is the strongest proof the book can give.
+**Idea.** Cut the line from Ch 21 (and from Ch 7). The reader learns the promise only when Craig keeps it, out loud, to someone else, while Valerie can't hear. Ch 28 stz 2 already has the setup: "Ric: need to shut her off; C: she's terrified of shutting down; Ric accepts & thinks." Make Craig's half a refusal, not an explanation: "No." Ric looks up. "Ric. No." Ric looks at her and flexes his hand, then sends Craig for the "wooden/plastic items" (already on the page), which read as insulation so that he can work on her live. A promise kept at a cost is the strongest proof the book can give.
 
-> **Row, Ch 28 stz 2:** Ric: shut her off; C: no | M&C lay V on the workdesk; Ric: "need to shut her off" | C: "no"; Ric looks up; C: "Ric. No."; Ric looks at V, flexes his four-fingered hand | Ric: "then get me cables. Wood, plastic, anything that doesn't conduct"; he opens her up live
+> **Row, Ch 28 stz 2:** Ric: shut her off; C: no | M&C lay V on the workdesk; Ric: "need to shut her off" | C: "no"; Ric looks up; C: "Ric. No."; Ric looks at V, flexes his hand | Ric: "then get me cables. Wood, plastic, anything that doesn't conduct"; he opens her up live
 
 - **Where:** Ch 28 stz 2 (not yet proofread). Ch 21 then uses one of Options 1, 2 or 12 so that the scene still resolves.
 - **What it shows:** the promise is older than the book; Craig keeps it when she can't ask; Ric, the pro-robot-rights defector whose ethic in the arc file is that robots deserve to know what's going on around them, agrees and takes on the risk himself; the reader fills in Ch 7 and Ch 21 after the fact.
-- **Cost / risk:** the pinkie gesture has to stay a hint, not a backstory. In Ch 1 stz 2 flight mode is used so that Ric doesn't get electrocuted, so here he gives up that protection, which needs to make sense physically.
+- **Cost / risk:** In Ch 1 stz 2 flight mode is used so that Ric doesn't get electrocuted, so here he gives up that protection, which needs to make sense physically.
 - **Cohesion hooks:** Ch 1 stz 2; Ch 28 stz 4 (C squeezing her hand); Ch 37 (Ric and Valerie as father and daughter).
 
 ### Option 9. The tank, not the hand (REFRAME)
